@@ -1,5 +1,7 @@
 # The Phoenix Flavor - Zediious Sprinkles
 
+## [Discord](https://discord.gg/CvhTeavrcW)
+
 ### 1500+ mod and 1000+ plugin list, patched extensively and provides the following;
 
 - Serio ENB
