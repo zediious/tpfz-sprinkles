@@ -14,6 +14,16 @@ I've also ditched the very odd version schema I chose. Can't explain that one. A
 
 On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain mods, existing saves will have issues. Refrain from updating for now if you do not want to restart your character.
 
+### Added
+
+- Skyrim Extended Cut - Saints and Seducers
+- Undead Snow Elves- Mihail Monsters and Animals
+- Undead Snow Elves - Xtudo optimized textures 2K
+- JK's Windhelm Outskirts
+- JK's Windhelm Outskirts Patch Collection
+- Interesting NPCs (3DNPC) Script Optimisation
+- Hungers - Optimized textures 2K by Xtudo
+
 ### Updated 
 
 - Lawbringer
@@ -28,16 +38,6 @@ On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain m
 - Leveled List Additions (Armors)
 - Leveled List Additions (Weapons)
 - Nemesis Output
-
-### Added
-
-- Skyrim Extended Cut - Saints and Seducers
-- Undead Snow Elves- Mihail Monsters and Animals
-- Undead Snow Elves - Xtudo optimized textures 2K
-- JK's Windhelm Outskirts
-- JK's Windhelm Outskirts Patch Collection
-- Interesting NPCs (3DNPC) Script Optimisation
-- Hungers - Optimized textures 2K by Xtudo
 
 ### Fixes
 
