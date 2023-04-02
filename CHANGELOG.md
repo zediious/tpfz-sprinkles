@@ -2,10 +2,13 @@ Changelogs were not written before compiling to Wabbajack. The modlist had under
 
 ## v0.4006 - **4/1/2023**
 
-### Updated
+### Removed
 
-- Lunar Guard Armor
-
+- Vanilla Body with UNP Textures
+- Pride of Valhalla - UNP Textures
+- High Poly Male Hands
+- Ebony Mage Armor
+- 
 ### Added
 
 - CBBE
@@ -17,12 +20,10 @@ Changelogs were not written before compiling to Wabbajack. The modlist had under
 - CBBE and HIMBO BodySlide Refits for all armors that have them (70 mods total) in new mod category
   - I plan to create CBBE/HIMBO BodySlide patches for all used armor mods that do not have them
 
-### Removed
+### Updated
 
-- Vanilla Body with UNP Textures
-- Pride of Valhalla - UNP Textures
-- High Poly Male Hands
-- Ebony Mage Armor
+- Lunar Guard Armor
+
 
 ## v0.4005 - **3/30/2023** 
 
