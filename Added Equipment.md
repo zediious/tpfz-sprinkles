@@ -314,6 +314,10 @@ Draugr Weapons Standalone
 
 - Reforging - To the Masses Weapons
 
+### Mace
+
+- Orcish Whip
+
 ### Greatsword
 
 - Reforging - To the Masses Weapons
@@ -356,6 +360,7 @@ Draugr Weapons Standalone
 ### Mace
 
 - Reforging - To the Masses Weapons
+- Nordic Whip
 
 ### Greatsword
 
@@ -507,6 +512,10 @@ Draugr Weapons Standalone
 - Stalhrim Katana
 - Stalhrim Wakizashi
 
+### Mace
+
+- Stalhrim Whip
+
 ### Battleaxe
 
 - Stalhrim Pike
@@ -537,6 +546,10 @@ Draugr Weapons Standalone
 ### Waraxe
 
 - Reforging - To the Masses Weapons
+
+### Mace
+
+- Daedric Whip
 
 ### Greatsword
 
@@ -578,6 +591,7 @@ Draugr Weapons Standalone
 ### Mace
 
 - Dragon Bone Mace
+- Dragonbone Whip
 
 ### Greatsword
 
