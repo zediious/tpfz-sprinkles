@@ -8,7 +8,7 @@ Changelogs were not written before compiling to Wabbajack. The modlist had under
 - Pride of Valhalla - UNP Textures
 - High Poly Male Hands
 - Ebony Mage Armor
-- 
+
 ### Added
 
 - CBBE
@@ -23,7 +23,6 @@ Changelogs were not written before compiling to Wabbajack. The modlist had under
 ### Updated
 
 - Lunar Guard Armor
-
 
 ## v0.4005 - **3/30/2023** 
 
