@@ -335,7 +335,7 @@ Draugr Weapons Standalone
 - Orcish Halberd
 
 
-### Nordic Tier
+## Nordic Tier
 
 ### Dagger
 
