@@ -17,7 +17,7 @@ Changelogs were not written before compiling to Wabbajack. The modlist had under
 - CBBE and HIMBO BodySlide Refits for all armors that have them (70 mods total) in new mod category
   - I plan to create CBBE/HIMBO BodySlide patches for all used armor mods that do not have them
 
-## Removed
+### Removed
 
 - Vanilla Body with UNP Textures
 - Pride of Valhalla - UNP Textures
