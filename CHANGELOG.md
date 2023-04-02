@@ -1,6 +1,6 @@
 Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged.
 
-## v0.9 - **4/1/2023**
+## v0.9 - **4/2/2023**
 
 With the new version of Animated Armory, first-person animations for Animated Armory weapons are now available.
 
