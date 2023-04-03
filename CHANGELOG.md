@@ -1,5 +1,11 @@
 Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged.
 
+## v0.9.1.1 - **4/2/2023**
+
+### Fixes
+
+- Actually fixed installation issues.
+
 ## v0.9.1 - **4/2/2023**
 
 ### Fixes
