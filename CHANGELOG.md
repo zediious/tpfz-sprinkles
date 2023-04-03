@@ -1,4 +1,4 @@
-Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged.
+Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged. Retroactive changelogs will be written.
 
 ## v0.9.1.1 - **4/2/2023**
 
