@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://i.imgur.com/A0s6AKM.png"></img>
+<img src="https://raw.githubusercontent.com/zediious/modlists/main/splash_piece_finished.png"></img>
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
