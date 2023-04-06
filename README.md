@@ -1,10 +1,14 @@
-# The Phoenix Flavor - Zediious Sprinkles
+<div align=center>
+
+<img src="https://i.imgur.com/A0s6AKM.png"></img>
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
 ### [Download the mod list .wabbajack files](https://drive.google.com/drive/folders/1T34Kdhm9UC6soylcPfMPODPD-lVpAv7o?usp=sharing)
 
 ### [Read the documentation](https://github.com/zediious/tpfz-sprinkles/wiki)
+
+</div>
 
 ## 1500+ mod and 1000+ plugin list, patched extensively and provides the following;
 
