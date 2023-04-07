@@ -1,5 +1,65 @@
 Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged. Retroactive changelogs will be written.
 
+**If the third number in a version (the 3 in 9.1.3) is changed, then that version is NOT SAFE to update to on an existing save.**
+
+## v0.9.2 - **4/6/2023**
+
+**NOTE:** This version is technically save-unsafe, due to some mod updates, but you may find your save is lightly affected. Play on this with an existing save at your own risk and do so WITH A BACKUP!
+
+### Removed
+
+- Sprint Swimming (has issues with movement mods in the list, will be revisited)
+- Movement Behavior Overhaul (fix https://github.com/zediious/tpfz-sprinkles/issues/11)
+- Rainbows
+
+### Added
+
+- Blank CC Plugins (fix https://github.com/zediious/tpfz-sprinkles/issues/12)
+- Conditional Armor Type Animations
+- Goetia Movement Animations
+- Rainbows Remade
+
+### Updated
+
+- ZedPatch 1 - 0.4007 > 0.9.2
+- ZedPatch 2 - 0.4007 > 0.9.2
+- Nemesis Output - 0.4007 > 0.9.2
+- Overwrite Misc - 0.4007 > 0.9.2
+- Vanargand Movement Animations > CATA Version
+- Leviathan Movement Animations > CATA Version
+- Skyrim Landscape and Water Fixes - 7.6 > 7.7
+- Sprint Sneak Movement Speed Fix - 1.0.2 > 1.1.1
+- Fancy Sleeping Tree Replacer - 1.3 > 1.5
+- Mysticism - A Magic Overhaul - 2.2.2 > 2.2.3
+- Adamant - A Perk Overhaul - 5.7.4 > 5.7.6
+- Riften Docks Overhaul - 2.3 > 2.5.2
+- JK's Windhelm Outskirts - 1.0 > 1.1
+- VIGILANT - 1.7.1 > 1.7.2
+- VIGILANT - English - 1.7.1 > 1.7.2
+- Penitus Oculatus - 0.16.4 > 0.17.0
+- Rain Extinguishes Fires - 4.0 > 4.1.0
+- Use or Take - 1.1 > 1.2.0
+- Read orTake - 1.2 > 1.3.0
+- For Honor Power Attack - 1.2 > 1.4
+- Reanimated NPC Animations - 1.1 > 1.2
+- SPID - 6.4 > 6.5.1
+
+### Fixes
+
+- Using an added Blank CC Plugins mod, all non-default Creation Club content you have will be overriden with a blank plugin. This list is only built around the default 4 creations. (fix https://github.com/zediious/tpfz-sprinkles/issues/12)
+- Patched three floating lanterns in the Tamriel worldspace (fix https://github.com/zediious/tpfz-sprinkles/issues/13)
+- Fixed incorrect Wildcat MCM configuration (fix https://github.com/zediious/tpfz-sprinkles/issues/9)
+- Fix clipping of Alternate Perspective Hunter addon and Pilgrim Magnus Shrine (fix https://github.com/zediious/tpfz-sprinkles/issues/2)
+- Fixed incorrect perk formID in Telekinesis Wood Chopping animations. They will now properly play when you have the second level of the "Philosopher" Alteration perk. (fix part of https://github.com/zediious/tpfz-sprinkles/issues/10)
+- Removed custom movement animation-by armor type condition files, in favor of the actual Conditional Armor Type Animations mod. I honestly did not realize this mod existed, as I was using my own setup for some time. This one works a little bit better and also includes the Goetia movement animations. (fix part of https://github.com/zediious/tpfz-sprinkles/issues/10)
+
+### Tweaks
+
+- Disabled four aggresive Thalmor that spawn near Kilkreath Ruins on the road from Immersive Patrols. (implement https://github.com/zediious/tpfz-sprinkles/issues/14)
+- Disabled base UNDERDOG sprinting animation
+- Modified conditions for athletic UNDERDOG sprint animation to not play for actors with heavy armor equipped. This animation will play if your current stamina is above 150, at a 0.7 randomness value.
+- Removed Actor Value checks from Goetia Animations conditions, so that they will play whenever armor is not worn, without the player or NPC requiring high Magicka and/or Magic skills.
+
 ## v0.9.1.1 - **4/2/2023**
 
 ### Fixes
