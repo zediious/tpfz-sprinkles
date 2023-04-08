@@ -41,6 +41,10 @@ Basic conflict resolution is generally not included here, unless it was done to 
 - Nemesis Output - 0.9.2 > 0.9.3
 - Overwrite Misc - 0.9.2 > 0.9.3
 
+### Tweaks
+
+- Modified Better Third Person Selection MCM to hide the activate key on activation prompts.
+
 ## v0.9.2 - **4/6/2023**
 
 **NOTE:** This version is technically save-unsafe, due to some mod updates, but you may find your save is lightly affected. Play on this with an existing save at your own risk and do so WITH A BACKUP!
