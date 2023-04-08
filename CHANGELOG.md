@@ -1,6 +1,45 @@
 Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged. Retroactive changelogs will be written.
 
+Basic conflict resolution is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thouroughly before a version is released.
+
 **If the third number in a version (the 3 in 9.1.3) is changed, then that version is NOT SAFE to update to on an existing save.**
+
+## v0.9.3 - **4/8/2023**
+
+**NOTE:** This version is technically save-unsafe, due to some mod updates, but you may find your save is lightly affected. Play on this with an existing save at your own risk and do so WITH A BACKUP!
+
+### Added
+
+- Simple Activate SKSE
+- Hand to Hand - An Adamant Addon
+- Lawless - A Bandit Overhaul
+- DLC2TribalWerebearScript Fix
+- Falmer Sounds - the Betrayal Legacy Edition
+- Mihail Monsters and Animals - Vigilants + Xtudo Fixes
+- Mihail Monsters and Animals - Ogrim
+- Mihail Shards of Immersion - Flies around Corpses
+- Markarth Outskirts
+- Ryn's Mehrunes Dagon's Shrine
+- Ryn's Azura's Shrine
+- Ryn's Ustengrav
+- Ryn's Mistwatch Folly
+- Ryn's Snazzy Last Vigil + Ebony Warrior Overhaul
+- Ryn's Anise's Cabin
+- Ryn's Saarthal
+- Ryn's Secunda's Kiss
+- Ryn's Bleakwind Basin
+- Ryn's Goldenglow Estate
+- Ryn's Standing Stones
+- Environs - Riften Warehouse
+
+### Updated
+
+- ZedPatch 1 - 0.9.2 > 0.9.3
+- ZedPatch 2 - 0.9.2 > 0.9.3
+- MonsterPatch - 0.4002 > 0.9.3
+- DynDOLOD Output - 0.4007 > 0.9.3
+- Nemesis Output - 0.9.2 > 0.9.3
+- Overwrite Misc - 0.9.2 > 0.9.3
 
 ## v0.9.2 - **4/6/2023**
 
