@@ -6,7 +6,7 @@ Basic conflict resolution is generally not included here, unless it was done to 
 
 ## v0.9.3 - **4/8/2023**
 
-**NOTE:** This version is technically save-unsafe, due to some mod updates, but you may find your save is lightly affected. Play on this with an existing save at your own risk and do so WITH A BACKUP!
+**NOTE:** This version will have some initial issues in exisiting saves. Some of the modified locations that have changed persistent references in the world will not apply their changes on existing saves. Lawless will only apply some of its changes on cell reset. Play on this with an existing save at your own risk and do so WITH A BACKUP!
 
 ### Added
 
