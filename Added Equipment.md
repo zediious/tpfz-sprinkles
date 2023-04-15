@@ -5,8 +5,11 @@ Many lists and outfits added by content mods have been altered to take OWL level
 Specific leveled list placement can be viewed within OWL lists inside LeveledListAdditionArmor.esp and LeveledListAdditionWeapons.esp
 
 
-# WEAPONS
+# Weapons
 
+Reforging - To the Masses
+- All weapons patched with OWL, distributed through all relevant tiered leveled lists
+- Some that OWL did not add, were added manually. These are listed below.
 
 Proper Crossbow Integration
 - Distributed through all relevant tiered leveled lists
@@ -19,13 +22,11 @@ Draugr Weapons Standalone
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Third Era Iron Tanto
 - Dual Iron Claws
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Torus
 - Iron Rapier
 - Imperial Rapier
@@ -39,22 +40,20 @@ Draugr Weapons Standalone
 - Third Era Iron Sword
 - Steel Katana (some spice)
 - Steel Wakizashi (some spice)
+- Grossmesser
 
 ### Waraxe
 
-- Reforging - To the Masses Weapons
 - Colovian Axe
 
 ### Mace
 
-- Reforing - To the Masses Weapons
 - Iron Whip
 - Third Era Iron Club
 - Third Era Wooden Club
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Torus
 - Iron Pike
 - Ancient Nord Pike
@@ -65,23 +64,17 @@ Draugr Weapons Standalone
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Iron Pike
 - Iron Halberd
 - Third Era Tapered Wooden Battle Staff
 - Third Era Wooden Battle Staff
 - Eikbiter
 
-### Warhammer
-
-- Reforging - To the Masses Weapons
-
 
 ## Steel Tier
 
 ### Dagger
 
-- Reforging = To the Masses Weapons
 - Kindjal Dagger
 - Fetcher's Knife
 - Leaf Dagger
@@ -94,7 +87,6 @@ Draugr Weapons Standalone
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Regent
 - Imperial Captain Sword
 - Argent Brand
@@ -131,19 +123,16 @@ Draugr Weapons Standalone
 
 ### Waraxe
 
-- Reforging - To the Masses Weapons
 - Dane Waraxe
 - Norse Axe
 
 ### Mace
 
-- Reforging - To the Masses Weapons
 - Steel Whip
 - Third Era Steel Club
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Third Era Steel Nodachi
 - Third Era Steel Longsword
 - Knight's Greatsword
@@ -151,7 +140,6 @@ Draugr Weapons Standalone
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Steel Pike
 - Steel Halberd
 - Third Era Steel Battlestaff
@@ -166,13 +154,11 @@ Draugr Weapons Standalone
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Dwarven Tanto
 - Dual Dwarven Claws
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Cataract
 - Crag
 - Leviathan
@@ -195,7 +181,6 @@ Draugr Weapons Standalone
 
 ### Mace
 
-- Reforging - To the Masses Weapons
 - Dwarven Whip
 
 ### Greatsword
@@ -213,21 +198,15 @@ Draugr Weapons Standalone
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Dwarven Pike
 - Dwarven Halberd
 - Dwarven Commander Battleaxe (with variants)
-
-### Warhammer
-
-- Reforging - To the Masses Weapons
 
 
 ## Elven Tier
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Fenrir Dagger
 - Elven Tanto
 - Royal Elven Dagger
@@ -236,7 +215,6 @@ Draugr Weapons Standalone
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Duellist
 - Dunmeri Steel Leaf Sword
 - Fenrir Shortsword
@@ -254,19 +232,13 @@ Draugr Weapons Standalone
 - Blademaster's Katana
 - Royal Elven Sword
 
-### Waraxe
-
-- Reforging - To the Masses Weapons
-
 ### Mace
 
-- Reforging - To the Masses Weapons
 - Dovah Nord Warhammer
 - Elven Whip
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Duellist
 - Viceroy
 - Great Terra
@@ -276,7 +248,6 @@ Draugr Weapons Standalone
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Elven Halberd
 - Winged Spear
 - Masakari Axe
@@ -290,15 +261,14 @@ Draugr Weapons Standalone
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Baltimore Dagger (with variants)
 - Orcish Tanto
 - RTR Orcish Dagger
 - Dual Orcish Claws
+- Traveler Hunting Knife
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Steel Broad Spear
 - Baltimore Falchion
 - Visc
@@ -309,10 +279,7 @@ Draugr Weapons Standalone
 - Orcish Katana
 - Orcish Wakizashi
 - RTR Orcish Sword
-
-### Waraxe
-
-- Reforging - To the Masses Weapons
+- Traveler Sword
 
 ### Mace
 
@@ -320,7 +287,6 @@ Draugr Weapons Standalone
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Baltimore Falchion
 - Claymore
 - Zweihander
@@ -332,9 +298,11 @@ Draugr Weapons Standalone
 - Third Era Orcish Longsword
 - RTR Orcish Greatsword
 - Nordic Wanderer Greatsword
+- Traveler Greatsword
+- War Scythe
 
 ### Battleaxe
-- Reforging - To the Masses Weapons
+
 - Orcish Pike
 - Orcish Halberd
 
@@ -343,34 +311,28 @@ Draugr Weapons Standalone
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Dual Nordic Claws
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Nordic Steel Katana
 - Nordic Steel Wakizashi
 
 ### Waraxe
 
-- Reforging - To the Masses Weapons
 - Atmoran Waraxe
 
 ### Mace
 
-- Reforging - To the Masses Weapons
 - Nordic Whip
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Anduril
 - Nordic Wanderer Greatsword
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Nordic Pike
 - Nordic Halberd
 - Atmoran Battleaxe
@@ -380,13 +342,11 @@ Draugr Weapons Standalone
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Glass Tanto
 - Dual Glass Claws
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Clarion
 - Swordbreaker
 - Voam
@@ -407,13 +367,11 @@ Draugr Weapons Standalone
 
 ### Mace
 
-- Reforging - To the Masses Weapons
 - Marauder
 - Glass Whip
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Voam
 - Mage Glass Sword
 - Atricor
@@ -424,7 +382,6 @@ Draugr Weapons Standalone
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Glass Halberd
 - Third Era Glass Battlestaff
 - Poleaxe
@@ -436,7 +393,6 @@ Draugr Weapons Standalone
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Assassin's Dagger
 - Ebony Tanto
 - Ebony Damascus Dagger
@@ -445,7 +401,6 @@ Draugr Weapons Standalone
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Royal Falchion
 - Mars
 - Niofroeia
@@ -464,18 +419,15 @@ Draugr Weapons Standalone
 
 ### Waraxe
 
-- Reforging - To the Masses Weapons
 - Havsskurk
 - Ebony Damascus Cleaver
 
 ### Mace
 
-- Reforging - To the Masses Weapons
 - Ebony Whip
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Ritevice
 - Royal Falchion
 - Niofroeia
@@ -493,18 +445,16 @@ Draugr Weapons Standalone
 
 ### Battleaxe
 
-- Reforging - To the Masses Weapons
 - Stormcloud
 - Ebony Pike
 - Ebony Halberd
 - Third Era Ebony Battlestaff
 
 
-# Stalhrim Tier
+## Stalhrim Tier
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Dual Stalhrim Claws
 
 ### Sword
@@ -522,11 +472,10 @@ Draugr Weapons Standalone
 - Stalhrim Halberd
 
 
-# Daedric Tier
+## Daedric Tier
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Third Era Daedric Tanto
 - Daedric Tanto
 - Serpent Dagger
@@ -543,10 +492,6 @@ Draugr Weapons Standalone
 - Daedric Wakizashi
 - Daedric Crescent
 
-### Waraxe
-
-- Reforging - To the Masses Weapons
-
 ### Mace
 
 - Daedric Whip
@@ -557,6 +502,7 @@ Draugr Weapons Standalone
 - Third Era Daedric Longsword
 - Daedric Dai-Katana
 - Daedric Claymore
+- War Scythe V2 (Imbued Scythe)
 
 ### Battleaxe
 
@@ -566,11 +512,10 @@ Draugr Weapons Standalone
 - Fire Breathe
 
 
-# Dragonbone Tier
+## Dragonbone Tier
 
 ### Dagger
 
-- Reforging - To the Masses Weapons
 - Dragonbone Tanto
 - Dragon Bone Dagger
 - Dragon Bone Knife Knuckles
@@ -578,7 +523,6 @@ Draugr Weapons Standalone
 
 ### Sword
 
-- Reforging - To the Masses Weapons
 - Dragonbone Katana
 - Dragonbone Wakizashi
 - Dragon Bone Scimitar
@@ -595,7 +539,6 @@ Draugr Weapons Standalone
 
 ### Greatsword
 
-- Reforging - To the Masses Weapons
 - Great Dragonborn Terra
 - Dragonbone Pike
 - Dragon Bone Greatsword
@@ -614,89 +557,193 @@ Draugr Weapons Standalone
 - Dragon Bone Bow
 
 
-# ARMORS
+# Armors
 
-### This is being re-written to a similr style of the weapon section above.
 
-Chakra Armor Pack
+Common Clothes and Armors
+- Default distributions retained and patched
 
-D-Armory
-- Warrior
-- Rogue
-- Spellsword
-- Winter Mage
-- Winter Warrior
-- Nightblade
-- Champion
+Armor Variants Expansion
+- Default distributions retained and patched
 
 Minor Faction Armor
-- All default distributions patched, except for Vigilant of Stendarr and Alik'r changes, which were patched into exisiting changes
+- Default distributions retained and patched
 
-Bosmer Armor Pack
-- Bosmer Armor
-- Bosmer Engraved Armor
+Armors of the Velothi Pt I and II
+- Default Solstheim distribution retained with some additional named NPC placements.
 
-Sforzinda Armor Imitations
-- Avilesi Fauld (Light)
-- Summerguard (Heavy)
+Khajiiti Apex Armory
+- Khajiit caravan members wear and sell
 
-Dark Knight Armor
-- Dark Knight Ebony Armor
 
-Blackened Steel Armor
+# Light Armor
 
-Mihail Daedric Light Armor
-- To daedric leveled lists
 
-Nemesis Armor
-- to elven leveled lists
+## Hide Tier
 
-Orcish Warchief Armor
-- to orcish leveled lists
+- Kyne's Hide Set
+- Nordwar Hide Set
+- Nordwar Aketon Set
 
-Crimson Ranger Armor
 
-Rough Leather Armor
+## Fur Tier
 
-Scout Armor
+- Nordwar Fur Sets
+- Boethia's Fur Kilt
+- Nordic Tribal Set
 
-Hunter Archer Armor
 
-Berserk Judea Armor
- - Scaled leveled lists
+## Studded Tier
 
-Heavy Nordic Armor
+- Kyne's Hide Set
+- Nordwar Studded Set
+- Nordwar Nordic Chainmail Sets
+- Nordwar Padded Set
 
-Nordic Wanderer Armor
 
-Cyrodillic Steel Armor
+## Leather Tier
 
-Cyrodillic Thief Armor
+- Rough Leather Set
+- Rogue Nord Set
+- Nordic Ranger Set
+- Kyne's Leather Set
+- Assassin's Set (Gray Leather)
+- Seasoned Traveller Set (Traveler)
+- Nordwar Nord Leather Set
+- Treasure Hunter Set
 
-Scale Nord Armor
 
-Chainmail Armor
+## Elven Tier
 
-Stendarr Templar
+- Cyrodiilic Thief Set
+- Bosmer Set
+- Royal Elven Set
+- Elven Steel Set
+- Gray Warden Set
+- Nemesis Set
+- Ebony Elven Set
 
-LC Landlord
-- to Steel plate leveled lists
 
-LC Field Guard
+## Scaled Tier
 
-Teasure Hunter's Garb
+- Judea Set
+- Scout Set
+- Field Guard Set
+- Nord Raven Set
+- Mercenary Light Iron Set
+- Skydancer Set
+- Kyne's Legacy Set
+- Kellan Set
+- Colovian Prince Set
+- Crimson Archer Set
+- Platescale Set
+- Countess Set
+- Inquisitor Set
 
-Nord Raven
 
-Forgotten Plate
+## Glass Tier
 
-Kingsguard
+- Bosmer Elder Set
+- Kingsguard Set
+- Silver Elven Set
+- Ebony Scale Set
 
-Eastern Dwemer
-- to dwarven leveled lists
 
-Silver Elven
-- to Glass leveled lists
+## Dragonscale Tier
+
+- Veteran Dragonscale Set
+
+
+# Heavy Armor
+
+
+## Iron Tier
+
+- Nordwar Chainmail Set
+- Mercenary Iron Set
+- "Iron Armor" mod
+- Iron Legion
+- Nordwar Mercenary Set
+- Nordwar Iron Lamellar Set
+- Nordwar Lamellar Chainmail Set
+
+
+## Steel Tier
+
+- Nordwar Steel Scaled Set
+- Nordwar Steel Lamellar Set
+- Infantry Heavy Steel Set
+- Forgotten Plate Set
+- Royal Guard Set
+- Ignoble Steel Set
+- Duskplate Steel Set
+- Infantry Set
+
+
+## Dwarven Tier
+
+- Summerguard Set
+- Eastern Dwemer Set
+- 4thUnknown Dwemer Set
+
+
+## Steel Plate Tier
+
+- Cyrodiilic Plate Set
+- King Prawn Set
+- Knight Armor Set
+- Battlemage Set
+- Kvetchi Mercenary Set
+- Landlord Set
+
+
+## Orcish Tier
+
+- Orcish Chief Set
+- Nordic Wanderer Set
+
+
+## Nordic Tier
+
+- Heavy Nord Set
+- Elite Wolf Set
+
+
+## Ebony Tier
+
+- Dark Knight Set
+- Charred Knight Set
+- Blackened Steel Set
+- Corrupted Thorn Set
+- Silver Ebony Set
+
+
+## Daedric Tier
+
+- Mihail Daedric Light Set
+- Mythic Dawn Set
+- Mihail Dremora Set
+- Mihail Harbinger Set
+- Markynaz Set
+
+
+# Other Lists
+
+## Vampire Boss
+
+- Eldritch Knight
+- Volkihar Knight
+- Vampire Royal Knight
+
+## Vigilant of Stendarr
+
+- Stendarr Templar Set
+
+
+# NPC Outfits
+
+Harbinger Cuirass
+- Kodlak Whiteman outfit
 
 Redoran Exile Armor
 - Lleril Morvayn outfit
@@ -717,124 +764,29 @@ Falconer Heavy Armor and Sword
 Wind Ruler Armor and Sword
 - Bandit Boss (renamed Adelvar Wind-Ruler) of Robber's Gorge outfit
 
-Dremora Armor
-- Daedric leveled lists
+Lord of Coldharbour Set
+- Lord Harkon outfit
 
-Harbinger (dremora) Armor
-- Daedric Leveled lists
+Ebony Samurai Set
+- Interesting NPCs S'vashni outfit
 
-Nimina Skydancer Armor w/ Gray Cowl
-- Scaled leveled lists
 
-Veteran's Dragonscale Armor
-- Dragonscale leveled lists
+# Player Only Sets
 
-Elite Wolf (Elite Knight) Armor
-- Nordic leveled lists
-
-Harbinger Cuirass
-- Kodlak Whiteman outfit
-
-Knight Armor
-- Steel plate leveled lists
-
-Samurai armors
-- Ebony version S'vashni outfit, dragonbone player set
-
-Steel elven Armor
-- Elven leveled lists
-
-Eldritch Knight
-- Vampire boss leveled lists
-
-Volkihar Knight
-- Abysswalker Cuirass w/boots and gauntlets
-- Assassin Cuirass w/boots and gauntlets
-- Both to Vampire Boss leveled lists
-
-Vampire royal Knight
-- Vampire boss leveled lists
-
-"Iron Armor" mod
-- Iron leveled lists
-
-Blood Operative armor
-- Thalmor justiciar lists
-
-Khajiit Apex Armory
-- Khajiit caravan members wear and sell
-
-Battle Mage Armor
-- Steel plate leveled lists
-
-Elven Defender Armor
-- Thalmor soldier leveled lists
-
-Longcoats
-- Player sets
-
-Nordic Ranger Armor
-- Leather leveled lists
-
-Nord Tribal Armor
-- Fur leveled lists, lowered hoods for player crafting
-
-Salt Witch Garbs
-- Boethias Kilt, boots, and scarves (renamed Adorned) to Hide lists
-- Kyne's Hide armor and variants to Hide lists
-- Kyne's Leather armor to Leather lists
-- Kyne's Legacy armor to Scaled lists
-
-Kellan Armor
-- To scaled leveled lists
-
-Countess Armor
-- To scaled leveled lists for level 25+
-
-Ebony Scale Armor
-- non-thalmor glass level 15+
-
-Inquisitor Armor
-- scaled lists level 25+
-
-Viridian Knight Armor
-- Player crafting
-
-Hermit Armor
-- player crafting
-
-Lunar Guard Armor
-- player crafting
-
-Ebony Elven Armor
-- Elven leveled lists level 10+
-
-Assassins Armor Set
-- Renamed "Gray Leather" and put to Leather lists
-
-Mythic Dawn Armor from 4thUnknown
-- Default placement
-
-Moon Monk's Robes
-- Player set from crafting
-
-Colovian Prince Set
-- Scaled leveled lists
-
-Dwemer armor SE from 4thUnknown
-- Dwarven leveled lists
-
-Steel Fashions
-- Steel leveled lists. Berserker and Alikr variants removed
-
-Dremora Markynaz Armor
-- Daedric leveled lists
-
-Kvetchi mercenery
-- Steel plate lists
-
-Silver Armor from 4thUnknown
-- Renamed Silver Ebony, to Ebony lists
-
-Gray Warden armor
-- To elven lists
+- King Crusader Pack
+- Armor of Intrigue
+- Wayfarer's Coat
+- Mythic Dawn Set
+- Wild Witch Outfit
+- Alchemist's Vestaments
+- Shadow Scale Set
+- Ritual Armor of Boethia
+- Daedric Kynval Set
+- Regal Paladin Set
+- Grandmaster Wolven Set
+- Resplendent Set
+- Moon Monk's Robes
+- Lunar Guard Armor
+- Hermit Armor
+- Viridian Knight Armor
+- Longcoats

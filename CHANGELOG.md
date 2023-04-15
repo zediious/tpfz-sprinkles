@@ -1,8 +1,79 @@
-Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged. Retroactive changelogs will be written.
+Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged. Retroactive changelogs will be written over time.
 
 Basic conflict resolution is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thouroughly before a version is released.
 
-**If the third number in a version (the 3 in 9.1.3) is changed, then that version is NOT SAFE to update to on an existing save.**
+**If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is NOT SAFE to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.**
+
+## v0.9.3.1 - **4/15/2023**
+
+This version should be save-safe. None of the added or removed mods should have a *major* effect on the game. A few changes simply won't apply on existing saves at all, or will require a cell reset. Removed armors will disappear from your save. Make a backup of your saves before playing!
+
+A few new armors and weapons have been added to leveled lists, view [Added Equipment.md](https://github.com/zediious/tpfz-sprinkles/blob/main/Added%20Equipment.md) to see exact additions!
+
+### Removed
+
+- D-Armory (fix https://github.com/zediious/tpfz-sprinkles/issues/32)
+- Hunter Archer Armor (fix https://github.com/zediious/tpfz-sprinkles/issues/21)
+- No Follower Attack Collision (fix https://github.com/zediious/tpfz-sprinkles/issues/38)
+- Old MCO-Elden Counter Patch
+- Simple Block Sparks
+
+### Added
+
+- Survival Mode Control Panel (implement https://github.com/zediious/tpfz-sprinkles/issues/31)
+- Ominous ENB as an optional ENB preset (implement https://github.com/zediious/tpfz-sprinkles/issues/19)
+- Mfg Fix (fix https://github.com/zediious/tpfz-sprinkles/issues/26)
+- QuickLoot EE (implement https://github.com/zediious/tpfz-sprinkles/issues/37)
+- Better SkyUI Config (implement https://github.com/zediious/tpfz-sprinkles/issues/37)
+- Skyrim Souls RE, with the following menus remaining paused (fix https://github.com/zediious/tpfz-sprinkles/issues/27)
+  - Console
+  - Pause/Quest Journal
+  - Level up/Skill Menu
+  - Map Menu
+  - MCM
+- Extra Vanilla Male Hair
+- NordwarUA Realistic Armor (Standalone)
+- Infantry Armor + Xtudo Fixes
+- Raven HDT-SMP Armor + No Feathers
+- Armors of the Velothi Pt II + HIMBO Refit
+- Seasoned Traveller Armor + CBBE/HIMBO Refit
+- Iron Legion
+- Nordic Fur Armor
+- Cosmo - War Scythe
+
+### Updated
+
+- ZedPatch 1 - 0.9.3 > 0.9.3.1
+- ZedPatch 2 - 0.9.3 > 0.9.3.1
+- LeveledListAdditionsArmors - 0.4007 > 0.9.3.1
+- LeveledListAdditionsWeapons - 0.4007 > 0.9.3.1
+- Terrain LOD Output - 0.4002 > 0.9.3.1
+- TexGen Output - 0.4002 > 0.9.3.1
+- DynDOLOD Output - 0.9.2 > 0.9.3.1
+- BodySlide Output - 0.4006 > 0.9.3.1
+- Nemesis Output - 0.9.3 > 0.9.3.1
+- Overwrite Misc - 0.9.3 > 0.9.3.1
+
+### Fixes
+
+- Fixed texture path for Poison Rag item from Blowgun mod (fix https://github.com/zediious/tpfz-sprinkles/issues/22)
+- Patched missing cart/canopy and other carriage parts in Dawnstar (fix https://github.com/zediious/tpfz-sprinkles/issues/20)
+- Moved Sugarclaw from inside Mistwatch Tower Wall (fix https://github.com/zediious/tpfz-sprinkles/issues/30)
+- Disabled visible lighting plane objects in Nightgate Inn (fix https://github.com/zediious/tpfz-sprinkles/issues/35)
+- Removed MCM Recorder recording for Shadow of Skyrim. This must be manually enabled and configured. (fix https://github.com/zediious/tpfz-sprinkles/issues/25)
+- Fixed Elden Counter not working at all due to old patch in use.
+- Fixed Valhalla Timed Block not working by correctly setting compatibility option in it's MCM.
+- Fixed True HUD extra meter not working correctly, as both POISE and Valhalla were trying to use it. Now only Valhalla will try to use it, and will work correctly.
+- Enabled Valhalla/POISE compatability that was disabled by mistake (not related to above)
+- Fixed incorrect Scythe animation conditions. All scythe weapons will now use the unique Scythe animations.
+- Fixed LOD world hole near College of Winterhold
+
+### Tweaks
+
+- Changed default option for NPC Names Distributor set to not be Title, due to conflict with QuickLootEE
+- Increased the default LOD render blocks a bit, and increased the Terrain LOD/DynDOLOD output settings slightly. Very small performance hit. These changes can be mostly reversed in the DynDOLOD MCM.
+- Made the Valhalla Combat Timed Block window slightly larger.
+- Increased Dodge stamina cost from 10 to 20
 
 ## v0.9.3 - **4/8/2023**
 
