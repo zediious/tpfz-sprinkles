@@ -25,6 +25,7 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 - Mfg Fix (fix https://github.com/zediious/tpfz-sprinkles/issues/26)
 - QuickLoot EE (implement https://github.com/zediious/tpfz-sprinkles/issues/37)
 - Better SkyUI Config (implement https://github.com/zediious/tpfz-sprinkles/issues/37)
+- - Cyrodiilic Thief Set Female Version + CBBE Refity (fix https://github.com/zediious/tpfz-sprinkles/issues/39)
 - Skyrim Souls RE, with the following menus remaining paused (fix https://github.com/zediious/tpfz-sprinkles/issues/27)
   - Console
   - Pause/Quest Journal
