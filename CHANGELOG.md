@@ -4,6 +4,14 @@ Basic conflict resolution is generally not included here, unless it was done to 
 
 **If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is NOT SAFE to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.**
 
+## v0.9.3.2 - **4/15/2023**
+
+This version has reduced the .wabbajack file size significantly! You will need to download the new version of Base Coat if updating, which is quite large.
+
+### Updated
+
+- Base Coat - 1.0 > 1.1
+
 ## v0.9.3.1 - **4/15/2023**
 
 This version should be save-safe. None of the added or removed mods should have a *major* effect on the game. A few changes simply won't apply on existing saves at all, or will require a cell reset. Removed armors will disappear from your save. Make a backup of your saves before playing!
