@@ -4,6 +4,20 @@ Basic conflict resolution is generally not included here, unless it was done to 
 
 **If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is NOT SAFE to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.**
 
+## v0.9.3.3 - **4/16/2023**
+
+This version fixes a resurgance of the False Save Corruption bug introduces in 0.9.3.1. All previously "corrupted" saves will retroactively fixed.
+
+### Added
+
+- Adjustable Attribute Consumption SKSE (Horses still consume Stamina out of combat) (implement https://github.com/zediious/tpfz-sprinkles/issues/44)
+
+### Fixes
+
+- Fixed False Save Corruption bug resurfacing due to increased file handle since version 0.9.3.1
+- Fixed missing roads on world map since version 0.9.3.1
+- Changed BTPS MCM settings to fix item tooltips in 1st person (fix https://github.com/zediious/tpfz-sprinkles/issues/42)
+
 ## v0.9.3.2 - **4/15/2023**
 
 This version has reduced the .wabbajack file size significantly! You will need to download the new version of Base Coat if updating, which is quite large.
