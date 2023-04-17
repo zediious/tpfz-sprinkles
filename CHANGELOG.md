@@ -6,7 +6,7 @@ Basic conflict resolution is generally not included here, unless it was done to 
 
 ## v0.9.3.3 - **4/16/2023**
 
-This version fixes a resurgance of the False Save Corruption bug introduces in 0.9.3.1. All previously "corrupted" saves will retroactively fixed.
+This version fixes a resurgance of the False Save Corruption bug introduced in 0.9.3.1. All previously "corrupted" saves will be retroactively fixed.
 
 ### Added
 
