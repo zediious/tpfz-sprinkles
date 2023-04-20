@@ -19,4 +19,4 @@
 - Complete Settlement Overhaul with every settlement covered,
 - Custom Armor/Weapon leveled lists utilizing a very large amount of mod-added equipment
 
-This has been made into a Wabbajack list, but is in it's early stages. Documentation is being written!
+Make sure to read the documentation (65% complete) for a full overview of the mod list!
