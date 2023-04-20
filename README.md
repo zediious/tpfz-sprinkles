@@ -4,9 +4,7 @@
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
-### [Download the mod list .wabbajack files](https://drive.google.com/drive/folders/1T34Kdhm9UC6soylcPfMPODPD-lVpAv7o?usp=sharing)
-
-### [Read the documentation](https://github.com/zediious/tpfz-sprinkles/wiki)
+### [Read the documentation and install the mod list](https://github.com/zediious/tpfz-sprinkles/wiki)
 
 </div>
 
