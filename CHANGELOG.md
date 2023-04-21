@@ -4,6 +4,77 @@ Basic conflict resolution is generally not included here, unless it was done to 
 
 **If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is NOT SAFE to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.**
 
+## v0.9.3.4 - **4/20/2023**
+
+This version brings a re-balance of the combat and each difficulty. Using Simply Balanced, I've tweaked base damage values for the player and NPCs to be a *bit* more tanky on Adept. Further, difficulty modifiers have been changed. As you reduce your difficulty, enemies will become very easy to kill, and you will take a little less damage. As you raise your difficulty, enemies will exponentially become more "spongy" and you will take a little more damage. The focus with this is allowing the player to make enemies more spongy, if that is the desired gameplay. The Adept difficulty is what can be considered my "signature difficulty" with this list, and is what I would recommend playing with.
+
+I've also fixed an embarrassingly large amount of borked weapon keywords and DAR conditions for said keywords. A variety of weapons that were not using the correct animations will now do so.
+
+MCM settings for Wildcat have been modified, as well as the newly added Simply Balanced
+
+### Removed
+
+- WO3E - AA Patch
+
+### Added 
+
+- Simply Balanced
+- Immersive Dawnguard Dayspring Pass Bruma Patch
+- Nemesis Creature Behavior Compatiblity Werewolf Addon
+
+### Updated
+
+- Casting Bar - 1.0.1 > 2.0.0
+- Dynamic Impact - Slash Effects - 0.2alpha > 0.5alpha
+- Spellsiphon - 5.26 > 5.27
+- Dealing with Backstories - 2.2 > 2.3
+- Immersive Rejections - 1.0 > 1.1
+- Serana Relationship Revamped - 1.3 > 1.3.1
+- The Wheels of Lull - 5.1.8 > 5.1.9
+- Penitus Oculatus - 0.17 > 0.18.2
+- Dual Wield Parrying SKSE - 1.3 > 1.4
+- Faster HDT-SMP - 1.49.3 > 1.50.7
+- Nemesis Creature Behaviour Compatibility - 1.3 > 1.4
+- Precision Creatures - 2.0 > 2.1
+- Comprehensive First Person Animation Overhaul - 1.0.2 > 1.0.3
+- Improved Table Transition Animations - 1.1 > 1.2
+- Modern Female sitting Animations - 1.3 > 1.4
+- NPC Animation Remix - 1.3 > 1.4
+- Immersive Folded Hands - 1.3 > 1.4
+- Conditional Expressions - 1.26 > 1.27
+- Spell Perk Item Distributor - 6.5.1 > 6.5.2
+- Keyword Item Distributor - 2.2 > 3.0.2
+- ZedPatch 1 - 0.9.3.1 > 0.9.3.4
+- ZedPatch 2 - 0.9.3.1 > 0.9.3.4
+- Nemesis Output - 0.9.3.1 > 0.9.3.4
+- Overwrite Misc - 0.9.3.1 > 0.9.3.4
+
+### Fixes
+
+- Added proper keywords to many missed weapons unique in the game, for them to use proper animations (Rapier, Katana, etc)
+- Actually fixed Scythe animations playing with Scythe weapons
+- Fixed Spear standing power attack not being used
+- Fixed dai-katana animations not playing.
+- Unique Katana animations play only with Katana in right hand and fists or shield in left
+- Fixed dual wield katana animations only using the right hand
+- Fixed floating manhole in front of Palace of the Kings
+- Fixed the need to select your Alternate Perspective start scenario twice
+
+### Tweaks
+
+- Modified Simple Activate configuration to display the action you will do only on items in world. (Eat, Take, etc).
+- Disabled Wildcat Realistic Damage Plugin
+- Via Wildcat MCM
+  - Tweaked the Adept difficulty to be roughly the same as the game is now, with slightly decreased damage dealt all around. Earlier difficulties have been tweaked to decrease damage to the player, and slightly increase damage dealt to enemies. Beyond Adept, Enemies will do more damage to the player, and the player will deal exponentially less damage to enemies, making them what could be considered "damage sponges" as you move closer to Legendary.
+- Via Simply Balanced MCM
+  - On all difficulties, the player takes 30% more base damage and NPCs take 20% more base damage.
+  - Decreased the player damage output of destruction spells by 30%
+  - Decreased the player damage output of bows/crossbows by 20%
+  - Decreased the player damage of unarmed combat by 50%. You can use melee attacks very quickly.
+  - Decreased the damage of daggers by 25%. These weapons can attack very quickly.
+  - Decreased the damage multiplier for power attacks by 10%
+  - Reduces experience gained across the board by 10%
+
 ## v0.9.3.3 - **4/16/2023**
 
 This version fixes a resurgance of the False Save Corruption bug introduced in 0.9.3.1. All previously "corrupted" saves will be retroactively fixed.
