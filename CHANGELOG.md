@@ -4,6 +4,19 @@ Basic conflict resolution is generally not included here, unless it was done to 
 
 **If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is NOT SAFE to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.**
 
+## v0.9.3.5 - **4/24/2023**
+
+This version simply removes a weapon mod from the list that has been placed under moderation review. This weapon was previously in the Glass Battleaxe leveled lists. This is save safe, the weapon will simply disappear from your saves if it existed.
+
+### Removed
+
+- Cosmo - Spear Fantasy
+
+### Updated
+
+- ZedPatch - 0.9.3.4 > 0.9.3.5
+- LeveledListAdditionsWeapons - 0.9.3.1 > 0.9.3.5
+
 ## v0.9.3.4 - **4/20/2023**
 
 This version brings a re-balance of the combat and each difficulty. Using Simply Balanced, I've tweaked base damage values for the player and NPCs to be a *bit* more tanky on Adept. Further, difficulty modifiers have been changed. As you reduce your difficulty, enemies will become very easy to kill, and you will take a little less damage. As you raise your difficulty, enemies will exponentially become more "spongy" and you will take a little more damage. The focus with this is allowing the player to make enemies more spongy, if that is the desired gameplay. The Adept difficulty is what can be considered my "signature difficulty" with this list, and is what I would recommend playing with.

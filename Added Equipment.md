@@ -385,7 +385,6 @@ Draugr Weapons Standalone
 - Glass Halberd
 - Third Era Glass Battlestaff
 - Poleaxe
-- "spear fantasy" (renamed)
 - Reforged Dwarven Commander Battleaxe (with variants)
 
 
