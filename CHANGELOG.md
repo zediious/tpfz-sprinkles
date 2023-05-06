@@ -1,8 +1,135 @@
-Changelogs were not written before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There will be a number of changes that are not logged. Retroactive changelogs will be written over time.
+Changelogs were not written here before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There are be a number of changes that are not logged. Retroactive changelogs will be written here over time. Most times, if I have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can by hovering over the notepad icon on the mod in the left pane of MO.
 
-Basic conflict resolution is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thouroughly before a version is released.
+Basic conflict resolution when adding a mod is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thouroughly.
 
-**If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is NOT SAFE to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.**
+If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
+
+
+
+## v0.9.4 - **5/6/2023**
+
+Uh oh, scary version number change! With this version, I have fixed a number of incorrect quest records and other things, and a good number of those things that will not apply on a new save. As such, I have labeled the version as not save-safe. For the most part, this will just cause broken things to stay broken. As such, I **highly recommend** you play with a new save on this version, but you may find luck with an existing save. Always make a backup of your saves before playing on new versions! Seriously! If you do play on an existing save, make sure that you dismiss all your followers before loading into it after updating!
+
+With this version, we've introduced Dear Diary - Dark Mode as an optional interface replacer. You can disable the Dear Diary - Paper UI mod and it's related mods, and enable the Dark Mode version and it's related mods. Check the wiki/read the Notes for these mods for a guide!
+
+Character Creation has also been fixed up in a few ways. The High Poly Head head parts will now be the default in character creation, and clipping beards have been disabled, so that you can only see the suitable High Poly Head versions. The High Poly Head hair meshes have also been added, they were left out by mistake. I've also added required dependencies for many of the RaceMenu presets in the list that were missed, fixing purple body meshes on these presets.
+
+There are new mods, some from suggestions! The Idle Animations WheelMenu keybind has been set to " ] } ". More mods from suggestions will be added in the next version.
+
+Also included are a very large number of fixes for combat/equipment balance, including changes to damage/crit, armor value, weight, value, keywords, crafting recipes and other miscellaneous things.
+
+A lot of the fixes in this version were from those in the discord server, playing the list/checking my patches and giving feedback. You know who you are, thank you SO much!
+
+### Removed
+
+- Alternate Perspective - LRS Hunter Start (fix https://github.com/zediious/tpfz-sprinkles/issues/51)
+- Alternate Perspective - Miner 
+- s6o6t LORE - Oblivion gates
+- Emeri's High Poly Presets
+- REALORE Preset Series - Bosmer
+- Rika Nyr - Breton Preset
+- Jasahri Nyr - High Poly Preset
+- Fluffy FrostGiant
+- Dragon War Patches (integrated into original mod)
+- DCR - King Crusader Heavy War Regalia
+- Simple Optional Shortcuts
+- Send Off Somewhere
+- Choose Your Own Arch-Mage
+- Improved College Entry
+- Most Plugins from Misc College of Winterhold Tweaks
+- Scrambled Bugs - Soul Gem Too Small
+
+### Added
+
+- Dear Diary Dark Mode (implement https://github.com/zediious/tpfz-sprinkles/issues/41)
+  - Paper Skin for Compass Navigation Overhaul (Dark Mode)
+- Added to fix https://github.com/zediious/tpfz-sprinkles/issues/53
+  - Fair Skin Complexion - Makeup Overhaul
+  - Xara's Makeup and Warpaints
+  - Female Makeup Suite
+  - Freckle Mania
+  - Weathered Nordic Bodypaints
+  - Battle Hardened Warpaints
+  - RaceMenu Overlay Compilation
+  - Dragon Age Dalish Face Tatoos
+  - Community Overlays 1 / 2 / 3
+  - Skin Feature Overlays
+- Hvergelmir Brows for High Poly Head
+- Environs - The Greenwood Shack Alternate Perspective New Beginnings Patch
+- Enhanced WheelMenu Control
+- Idle Animations WheelMenu (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Simple Straw Hats (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Ave's Silver Sapphire Ring for Bruma (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Ave's Jade Sapphire Ring for Bruma (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Ave's Jade Ring for Bruma (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Last Vigil - Ebony Warrior Voice Rework (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Equus - Horse Sounds Redesigned (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Eviscerate - Weapon Sounds Reworked (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Kalilies NPCs - Keep Your Skin
+- Praedy's Staves Patches
+- Hearthfires Extended and Creation Club Fishing Patch
+- GIST - Genuinely Intelligent Soul Trap
+- For Honor in SKYRIM I Aramusha Dual Katana Moveset
+- Synthesis Output
+
+### Updated
+
+- Casting Bar - 2.0 > 2.1.1
+- Snowy Surfaces Sound Collision and Aesthetics 1.6.2 > 1.6.3
+- Better Chests - 1.1.3 > 1.1.4
+- Caught Red Handed - Quest Expansion - 1.01 > 1.02
+- Hand to Hand - 1.4.4 > 1.4.6
+- Immersive Display Overhaul - 1.2 > 1.3
+- At Your Own Pace - College of Winterhold - 2.0 > 2.1
+- Apothecary - 1.3.2 > 1.3.4
+- Thaumaturgy - 1.2.1 > 1.3.2
+- Dragon War - A Dragon Overhaul - 2.1.8 > 3.0.2
+- Infinite Dragon Variants - 1.1.1 > 2.0.1
+- Lawless + Simonrim Addon - 1.1.1 > 1.7
+- Lawless Patches - 1.2 > 1.6
+- Xtudo Dark Knight Set - 4.2 > 5
+- Simply Order Summons - 0.8 > 0.11
+- Swiftly Order Squad - 1.6.6 > 1.7
+- For Honor Power Attack - 1.4 > 1.5
+- Precision Creatures - 2.1 > 2.3
+- Spell Perk Item Distributor - 6.5.2 > 6.6.1
+- LeveledListAdditionArmor - 0.9.3.1 > 0.9.4
+- LeveledListAdditionWeapon - 0.9.3.5 > 0.9.4
+- MonsterPatch - 0.9.3 > 0.9.4
+- ZedPatch 1 - 0.9.3.5 > 0.9.4
+- ZedPatch 2 - 0.9.3.3 > 0.9.4
+- Nemesis Output - 0.9.3.3 > 0.9.4
+- BodySlide Output - 0.9.3.1 > 0.9.4
+- DynDOLOD Output - 0.9.3.1 > 0.9.4
+- Overwrite Misc - 0.9.3.4 > 0.9.4
+
+### Fixes
+
+- Fixed wolf/fox from T-posing and/or being invincible in certain situations (fix https://github.com/zediious/tpfz-sprinkles/issues/4)
+- Fixed many RaceMenu presets from having purple body meshes (fix https://github.com/zediious/tpfz-sprinkles/issues/53)
+- Fixed clipping of beards and hairs by using correct meshes (fix https://github.com/zediious/tpfz-sprinkles/issues/52)
+- Fixed certain bounty quests from being in-completeable (fix https://github.com/zediious/tpfz-sprinkles/issues/56)
+- Removed incorrect/useless command from Autorun configuration
+- Fixed incorrect conflict resolution for House of Horrors Expansion mod, preventing broken dialouge with Vigilant Tyranus.
+- Fixed being unable to talk to Eola in The Taste of Death
+- Fixed being unable to talk to Tolfdir after First Lessons
+- Fixed purple mesh on male Crimson Dark Knight set.
+- Removed custom body texture from Kalilies NPCS/rebuilt facegen to prevent possible nipple exposure and neck seams
+- Removed duplicate map marker at Greenwood Shack
+- Fixed duplicate staff meshes in hand
+- Corrected a great number of conflict resolution issues in ZedPatch, ZedPatch2, and MonsterPatch, fixing quests, dialogue and a few other things that were not working properly.
+
+### Tweaks
+
+- Switched from "Attack - MCO" to "Attack - DXP". This means that all combat animations will follow the exact speed that the animator intended. Attack speeds will no longer be affected by perks, weapon speed, or anything else. Work will be done to change perks that increase weapon speed into something that can be useful.
+- Placed faster unarmed moveset with more combo potential behind the first tier of the "Momentum" perk from the Hand to Hand tree, and raised unarmed damage from -50% to -20%
+- Raised damage of all katana/dai-katana/nodachi by 2
+- Lowered damage of all rapiers/pikes/spears/halberds by 3
+- High Poly Head face part will now be the default face part on character creation. The vanilla face part and select hairs/beards have been disabled. There are still a few hairs from other mods that clip on certain races. (fix https://github.com/zediious/tpfz-sprinkles/issues/52)
+- Modified  One-hand Katana Animations to also work if you have a Spell or torch in your off hand, not just fists or shield.
+- Lots of consistency tweaks for added weapons and armor, to make their damage/crit, weight, value, keywords, and crafting recipes balanced and proper.
+
+
 
 ## v0.9.3.5 - **4/24/2023**
 
@@ -14,8 +141,10 @@ This version simply removes a weapon mod from the list that has been placed unde
 
 ### Updated
 
-- ZedPatch - 0.9.3.4 > 0.9.3.5
+- ZedPatch 1 - 0.9.3.4 > 0.9.3.5
 - LeveledListAdditionsWeapons - 0.9.3.1 > 0.9.3.5
+
+
 
 ## v0.9.3.4 - **4/20/2023**
 
@@ -88,6 +217,8 @@ MCM settings for Wildcat have been modified, as well as the newly added Simply B
   - Decreased the damage multiplier for power attacks by 10%
   - Reduces experience gained across the board by 10%
 
+
+
 ## v0.9.3.3 - **4/16/2023**
 
 This version fixes a resurgance of the False Save Corruption bug introduced in 0.9.3.1. All previously "corrupted" saves will be retroactively fixed.
@@ -102,6 +233,8 @@ This version fixes a resurgance of the False Save Corruption bug introduced in 0
 - Fixed missing roads on world map since version 0.9.3.1
 - Changed BTPS MCM settings to fix item tooltips in 1st person (fix https://github.com/zediious/tpfz-sprinkles/issues/42)
 
+
+
 ## v0.9.3.2 - **4/15/2023**
 
 This version has reduced the .wabbajack file size significantly! You will need to download the new version of Base Coat if updating, which is quite large.
@@ -109,6 +242,8 @@ This version has reduced the .wabbajack file size significantly! You will need t
 ### Updated
 
 - Base Coat - 1.0 > 1.1
+
+
 
 ## v0.9.3.1 - **4/15/2023**
 
@@ -182,6 +317,8 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 - Made the Valhalla Combat Timed Block window slightly larger.
 - Increased Dodge stamina cost from 10 to 20
 
+
+
 ## v0.9.3 - **4/8/2023**
 
 **NOTE:** This version will have some initial issues in exisiting saves. Some of the modified locations that have changed persistent references in the world will not apply their changes on existing saves. Lawless will only apply some of its changes on cell reset. Play on this with an existing save at your own risk and do so WITH A BACKUP!
@@ -222,6 +359,8 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 ### Tweaks
 
 - Modified Better Third Person Selection MCM to hide the activate key on activation prompts.
+
+
 
 ## v0.9.2 - **4/6/2023**
 
@@ -281,17 +420,23 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 - Modified conditions for athletic UNDERDOG sprint animation to not play for actors with heavy armor equipped. This animation will play if your current stamina is above 150, at a 0.7 randomness value.
 - Removed Actor Value checks from Goetia Animations conditions, so that they will play whenever armor is not worn, without the player or NPC requiring high Magicka and/or Magic skills.
 
+
+
 ## v0.9.1.1 - **4/2/2023**
 
 ### Fixes
 
 - Actually fixed installation issues.
 
+
+
 ## v0.9.1 - **4/2/2023**
 
 ### Fixes
 
 - Fixed installation issues regarding Skyrim version. You must now install the list with the latest version of Skyrim installed on Steam.
+
+
 
 ## v0.9 - **4/2/2023**
 
@@ -333,55 +478,3 @@ On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain m
 ### Tweaks
 
 - Added all Animated Armory whips to mace leveled lists (some tiers were missing)
-
-## v0.4006 - **4/1/2023**
-
-### Removed
-
-- Vanilla Body with UNP Textures
-- Pride of Valhalla - UNP Textures
-- High Poly Male Hands
-- Ebony Mage Armor
-
-### Added
-
-- CBBE
-- Pride of Valhalla - CBBE Textures
-- HIMBO
-- BodySlide
-- OBody NG
-- BodySlide Output
-- CBBE and HIMBO BodySlide Refits for all armors that have them (70 mods total) in new mod category
-  - I plan to create CBBE/HIMBO BodySlide patches for all used armor mods that do not have them
-
-### Updated
-
-- Lunar Guard Armor
-
-## v0.4005 - **3/30/2023** 
-
-### Added
-
-- Apothecary - Food and Drink - Survival Mode Patch
-
-### Fixes
-
-- Fixed MCM Recorder preset being stuck on Thieves Guild Requirements. That mod will need to be manually configured.
-- Patched Saints and Seducers CC content and Skyrim Sewers 4, moving Skyrim Sewers manhole.
-- Patched Apothecary - Food and Drink - Survival Mode Patch with existing patches
-
-### Tweaks
-
-- Added Survival Mode effects to food items added by;
-  - 4thUnknwon Ogre
-  - Mihail Sea Cow
-  - Riften Docks Overhaul
-  - Capital City Windhelm
-  - Immersive Encounters
-  - Fortune's Tradehouse
-  - Khajiit Will Follow
-
-- Added drunk effects to specialty drinks added by;
-  - Obscure's College of Winterhold
-  - Beyond Skyrim Merchant
-  - Fortune's Tradehouse

@@ -4,6 +4,8 @@ Many lists and outfits added by content mods have been altered to take OWL level
 
 Specific leveled list placement can be viewed within OWL lists inside LeveledListAdditionArmor.esp and LeveledListAdditionWeapons.esp
 
+Many weapons and armors have been renamed. Most of the time, I also mark the original name, but not all the time.
+
 
 # Weapons
 
@@ -98,15 +100,13 @@ Draugr Weapons Standalone
 - Galebrand
 - Kinzon Sik Zahkrii
 - Knight Sword (and variations)
-- Luna
 - Mordant
-- Legerity
+- Silver Legera
 - Sol
 - Sugaruya Katana
 - Serenity
 - Yggrasil
 - Sarta
-- Ritevice
 - Crecy
 - Scorpion Scimitar
 - Bastard Sword
@@ -120,6 +120,7 @@ Draugr Weapons Standalone
 - Steel Wakizashi
 - Flammard
 - Norse Sword
+- Kinzon
 
 ### Waraxe
 
@@ -137,6 +138,9 @@ Draugr Weapons Standalone
 - Third Era Steel Longsword
 - Knight's Greatsword
 - Templar Bastard Sword
+- Broadsword
+- Crecy
+- Flamberge
 
 ### Battleaxe
 
@@ -215,14 +219,14 @@ Draugr Weapons Standalone
 
 ### Sword
 
-- Duellist
+- Duelist Blade
 - Dunmeri Steel Leaf Sword
 - Fenrir Shortsword
 - Fenrir Longsword
 - Rhoda
 - Viceroy
 - Terra
-- Dovah Nord Sword
+- Elven(Dovah) Nord Sword
 - Elven Rapier
 - Third Era Elven Steel Sword
 - Elven Katana
@@ -232,9 +236,13 @@ Draugr Weapons Standalone
 - Blademaster's Katana
 - Royal Elven Sword
 
+### Waraxe
+
+- Elven(Dovah) Nord Axe
+
 ### Mace
 
-- Dovah Nord Warhammer
+- Elven(Dovah) Nord Warhammer
 - Elven Whip
 
 ### Greatsword
@@ -281,6 +289,10 @@ Draugr Weapons Standalone
 - RTR Orcish Sword
 - Traveler Sword
 
+### Waraxe
+
+- Krigers Eftermaele
+
 ### Mace
 
 - Orcish Whip
@@ -305,6 +317,8 @@ Draugr Weapons Standalone
 
 - Orcish Pike
 - Orcish Halberd
+- Baltimore Battleaxe
+- Evening Star
 
 
 ## Nordic Tier
@@ -364,6 +378,7 @@ Draugr Weapons Standalone
 ### Waraxe
 
 - Dwarven Commander Enhanced Waraxe (with variants)
+- Stalwart Axe
 
 ### Mace
 
@@ -448,6 +463,10 @@ Draugr Weapons Standalone
 - Ebony Pike
 - Ebony Halberd
 - Third Era Ebony Battlestaff
+
+### Warhammer
+
+- Amsvartner Warhammer
 
 
 ## Stalhrim Tier
