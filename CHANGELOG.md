@@ -69,6 +69,7 @@ A lot of the fixes in this version were from those in the discord server, playin
 - Praedy's Staves Patches
 - Hearthfires Extended and Creation Club Fishing Patch
 - GIST - Genuinely Intelligent Soul Trap
+- GIST - ESL Script
 - For Honor in SKYRIM I Aramusha Dual Katana Moveset
 - Synthesis Output
 
