@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/zediious/modlists/main/splash_piece_finished.png"></img>
+<img src="https://raw.githubusercontent.com/zediious/modlists/main/centeredlogo.png"></img>
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
@@ -8,13 +8,12 @@
 
 </div>
 
-## 1500+ mod and 1000+ plugin list, patched extensively and provides the following;
+<hr>
 
-- Serio ENB
-- Massively Overhauled/Modern Combat
-- Various New and Reworked Mechanics
-- New and Improved Quests, Locations, and Creatures,
-- Complete Settlement Overhaul with every settlement covered,
-- Custom Armor/Weapon leveled lists utilizing a very large amount of mod-added equipment
+"The Phoenix Flavor - Zediious Sprinkles" started life early 2021 as an installation of The Phoenix Flavor. The mods that The Phoenix Flavor comes with brought the game up to a perfect Vanilla+ setup. I realized that I wanted to make some changes, in the name of breaking that "Vanilla+" moniker, using TPF as a base for my adventure. I love Skyrim, but after you've played 3000+ hours, you begin to yearn for something more.
 
-Make sure to read the documentation (65% complete) for a full overview of the mod list!
+As time has passed, and more revolutionary combat/animation mods have been released, this mod list now encompasses what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly.
+
+I have enjoyed playing and creating this mod list immensely, I hope it brings you the same joy it has brought to me :)
+
+### Make sure to read the documentation (65% complete) for a full overview of the mod list!
