@@ -6,6 +6,46 @@ If the third number in a version (the 3 in 9.1.3) is changed or added, then that
 
 
 
+## v0.9.4.1 - **WIP VERSION**
+
+This version **HAS NOT** been released yet. I am beginning to release my changelogs before I make version releases, so you can check what's coming if you wish.
+
+### Removed
+
+- Hvergelmir Brows for High Poly Head
+
+### Added
+
+- Campfire - Complete Camping System (disabled by default)
+- Survival Mode Patches - Campfire (disabled by default)
+
+### Updated
+
+- Fancy Sleeping Tree Replacer - 1.5 > 1.6
+- Caught Red Handed - Quest Expansion  - 1.02 > 1.04
+- Paarthurnax - Quest Expansion - 1.11 > 1.12
+- Universal Cured Serana Eye Fix - 0.1 > 0.3
+- Oxygen Meter - 1.1 > 1.3
+- EVG Conditional Idles Extended - 1.2 > 1.3
+- ZedPatch 1 TO-UPLOAD
+- ZedPatch 2 TO-UPLOAD
+- Overwrite Misc TO-UPLOAD
+
+### Fixes
+
+- Fixed Alduin staying landed during intro sometimes
+- Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter".
+- Removed duplicate Lockpick recipe
+- Fixed duplicate stat bars in Dark Mode UI
+- Fixed duplicate crosshair when using magic and weapon
+
+### Tweaks
+
+- Disabled Parry from zxclice Backstab and Parry, as it more often than not has issues with Precision. The backstab can still occasionally cause an NPC to be invincible for a short time (if it did not kill them).
+- Reduced volume/gain of "Equus - Horses Sounds Redesigned"
+
+
+
 ## v0.9.4 - **5/6/2023**
 
 Uh oh, scary version number change! With this version, I have fixed a number of incorrect quest records and other things, and a good number of those things that will not apply on a new save. As such, I have labeled the version as not save-safe. For the most part, this will just cause broken things to stay broken. As such, I **highly recommend** you play with a new save on this version, but you may find luck with an existing save. Always make a backup of your saves before playing on new versions! Seriously! If you do play on an existing save, make sure that you dismiss all your followers before loading into it after updating!
