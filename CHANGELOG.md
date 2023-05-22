@@ -10,14 +10,18 @@ If the third number in a version (the 3 in 9.1.3) is changed or added, then that
 
 This version **HAS NOT** been released yet. I am beginning to release my changelogs before I make version releases, so you can check what's coming if you wish.
 
+This version introduces SunHelm and Campfire as optional mods, for those that want enhanced Survival gameplay.
+
 ### Removed
 
 - Hvergelmir Brows for High Poly Head
 
 ### Added
 
+- SunHelm Survival (disabled by default)
 - Campfire - Complete Camping System (disabled by default)
 - Survival Mode Patches - Campfire (disabled by default)
+- ZedPatch - Survival Mode (disabled by default) UPLOAD THIS
 
 ### Updated
 
@@ -34,6 +38,7 @@ This version **HAS NOT** been released yet. I am beginning to release my changel
 ### Fixes
 
 - Fixed Alduin staying landed during intro sometimes
+- Fixed navmesh crash near Shor's Stone due to bad conflict resolution
 - Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter".
 - Removed duplicate Lockpick recipe
 - Fixed duplicate stat bars in Dark Mode UI
