@@ -18,7 +18,7 @@ This version introduces SunHelm and Campfire as optional mods, for those that wa
 
 ### Added
 
-- SunHelm Survival (disabled by default)
+- SunHelm Survival (disabled by default) (implement https://github.com/zediious/tpfz-sprinkles/issues/67)
 - Campfire - Complete Camping System (disabled by default)
 - Survival Mode Patches - Campfire (disabled by default)
 - ZedPatch - Survival Mode (disabled by default) UPLOAD THIS
@@ -37,12 +37,12 @@ This version introduces SunHelm and Campfire as optional mods, for those that wa
 
 ### Fixes
 
-- Fixed Alduin staying landed during intro sometimes
-- Fixed navmesh crash near Shor's Stone due to bad conflict resolution
-- Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter".
-- Removed duplicate Lockpick recipe
+- Fixed Alduin staying landed during intro sometimes (fix https://github.com/zediious/tpfz-sprinkles/issues/66)
+- Fixed navmesh crash near Shor's Stone due to bad conflict resolution (fix https://github.com/zediious/tpfz-sprinkles/issues/69)
+- Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter". (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
+- Removed duplicate Lockpick recipe (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
+- Fixed duplicate crosshair when using magic and weapon (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
 - Fixed duplicate stat bars in Dark Mode UI
-- Fixed duplicate crosshair when using magic and weapon
 
 ### Tweaks
 
