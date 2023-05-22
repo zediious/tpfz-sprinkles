@@ -1,43 +1,61 @@
 Changelogs were not written here before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There are be a number of changes that are not logged. Retroactive changelogs will be written here over time. Most times, if I have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can by hovering over the notepad icon on the mod in the left pane of MO.
 
-Basic conflict resolution when adding a mod is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thouroughly.
+Basic conflict resolution when adding a mod is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thoroughly.
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
 
 
-## v0.9.4.1 - **WIP VERSION**
-
-This version **HAS NOT** been released yet. I am beginning to release my changelogs before I make version releases, so you can check what's coming if you wish.
+## v0.9.4.1 - **5/22/2023**
 
 This version introduces SunHelm and Campfire as optional mods, for those that want enhanced Survival gameplay.
+
+It also chiefly fixes a navmesh CTD near Shor's Stone. That's the main reason this release is coming without much more content additions or removals.
+
+Also a good number of other fixes here! Thank you everyone in Discord for reporting bugs :)
+
+If playing on an existing save, in order for MCM changes/fixes to apply, you need to go to the MCM Recorder MCM menu, and re-run the TPF - Zediious Sprinkles preset.
 
 ### Removed
 
 - Hvergelmir Brows for High Poly Head
+- zxlice's Backstab and Parry
 
 ### Added
 
 - SunHelm Survival (disabled by default) (implement https://github.com/zediious/tpfz-sprinkles/issues/67)
 - Campfire - Complete Camping System (disabled by default)
 - Survival Mode Patches - Campfire (disabled by default)
-- ZedPatch - Survival Mode (disabled by default) UPLOAD THIS
+- ZedPatch - Survival Mode (disabled by default)
 
 ### Updated
 
+- Assorted Mesh Fixes - 0.78 > 0.79
 - Fancy Sleeping Tree Replacer - 1.5 > 1.6
 - Caught Red Handed - Quest Expansion  - 1.02 > 1.04
 - Paarthurnax - Quest Expansion - 1.11 > 1.12
-- Universal Cured Serana Eye Fix - 0.1 > 0.3
+- Destination Weddings - 1.4 > 1.4.1
+- Riften Docks Overhaul - 2.5.2 > 2.5.3
+- Interesting NPCs Script Optimisation - 1.3 > 1.3.1
+- Interesting NPCs Follower Requirements - 2.0 > 2.01
+- Sidequests of Skyrim - 0.7.1 > 0.8
+- Viridian Knight Armor - 3.4 > 5.0
+- Dual Wield PArrying SKSE - 1.4 > 1.4
+- Dragon War - 3.0.2 > 3.0.4
+- Universal Cured Serana Eye Fix - 0.1 > 0.4
 - Oxygen Meter - 1.1 > 1.3
 - EVG Conditional Idles Extended - 1.2 > 1.3
-- ZedPatch 1 TO-UPLOAD
-- ZedPatch 2 TO-UPLOAD
-- Overwrite Misc TO-UPLOAD
+- Gesture Animation Remix - 1.9.9 > 2.0
+- Use Those Blankets - 2.0 > 2.1
+- ZedPatch 1 - 0.9.4 > 0.9.4.1
+- ZedPatch 2 - 0.9.4 > 0.9.4.1
+- Overwrite Misc - 0.9.4 > 0.9.4.1
+- Nemesis Output - 0.9.4 > 0.9.4.1
 
 ### Fixes
 
 - Fixed Alduin staying landed during intro sometimes (fix https://github.com/zediious/tpfz-sprinkles/issues/66)
+- Disabled Creature killmoves in Violens MCM to prevent invincibility (fix https://github.com/zediious/tpfz-sprinkles/issues/68)
 - Fixed navmesh crash near Shor's Stone due to bad conflict resolution (fix https://github.com/zediious/tpfz-sprinkles/issues/69)
 - Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter". (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
 - Removed duplicate Lockpick recipe (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
@@ -46,8 +64,7 @@ This version introduces SunHelm and Campfire as optional mods, for those that wa
 
 ### Tweaks
 
-- Disabled Parry from zxclice Backstab and Parry, as it more often than not has issues with Precision. The backstab can still occasionally cause an NPC to be invincible for a short time (if it did not kill them).
-- Reduced volume/gain of "Equus - Horses Sounds Redesigned"
+- Reduced volume/gain of "Equus - Horses Sounds Redesigned" 
 
 
 
@@ -156,7 +173,7 @@ A lot of the fixes in this version were from those in the discord server, playin
 - Fixed clipping of beards and hairs by using correct meshes (fix https://github.com/zediious/tpfz-sprinkles/issues/52)
 - Fixed certain bounty quests from being in-completeable (fix https://github.com/zediious/tpfz-sprinkles/issues/56)
 - Removed incorrect/useless command from Autorun configuration
-- Fixed incorrect conflict resolution for House of Horrors Expansion mod, preventing broken dialouge with Vigilant Tyranus.
+- Fixed incorrect conflict resolution for House of Horrors Expansion mod, preventing broken dialogue with Vigilant Tyranus.
 - Fixed being unable to talk to Eola in The Taste of Death
 - Fixed being unable to talk to Tolfdir after First Lessons
 - Fixed purple mesh on male Crimson Dark Knight set.
@@ -208,7 +225,7 @@ MCM settings for Wildcat have been modified, as well as the newly added Simply B
 
 - Simply Balanced
 - Immersive Dawnguard Dayspring Pass Bruma Patch
-- Nemesis Creature Behavior Compatiblity Werewolf Addon
+- Nemesis Creature Behavior Compatibility Werewolf Addon
 
 ### Updated
 
@@ -222,7 +239,7 @@ MCM settings for Wildcat have been modified, as well as the newly added Simply B
 - Penitus Oculatus - 0.17 > 0.18.2
 - Dual Wield Parrying SKSE - 1.3 > 1.4
 - Faster HDT-SMP - 1.49.3 > 1.50.7
-- Nemesis Creature Behaviour Compatibility - 1.3 > 1.4
+- Nemesis Creature Behavior Compatibility - 1.3 > 1.4
 - Precision Creatures - 2.0 > 2.1
 - Comprehensive First Person Animation Overhaul - 1.0.2 > 1.0.3
 - Improved Table Transition Animations - 1.1 > 1.2
@@ -267,7 +284,7 @@ MCM settings for Wildcat have been modified, as well as the newly added Simply B
 
 ## v0.9.3.3 - **4/16/2023**
 
-This version fixes a resurgance of the False Save Corruption bug introduced in 0.9.3.1. All previously "corrupted" saves will be retroactively fixed.
+This version fixes a resurgence of the False Save Corruption bug introduced in 0.9.3.1. All previously "corrupted" saves will be retroactively fixed.
 
 ### Added
 
@@ -352,7 +369,7 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 - Fixed Elden Counter not working at all due to old patch in use.
 - Fixed Valhalla Timed Block not working by correctly setting compatibility option in it's MCM.
 - Fixed True HUD extra meter not working correctly, as both POISE and Valhalla were trying to use it. Now only Valhalla will try to use it, and will work correctly.
-- Enabled Valhalla/POISE compatability that was disabled by mistake (not related to above)
+- Enabled Valhalla/POISE compatibility that was disabled by mistake (not related to above)
 - Fixed incorrect Scythe animation conditions. All scythe weapons will now use the unique Scythe animations.
 - Fixed LOD world hole near College of Winterhold
 
@@ -367,7 +384,7 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 ## v0.9.3 - **4/8/2023**
 
-**NOTE:** This version will have some initial issues in exisiting saves. Some of the modified locations that have changed persistent references in the world will not apply their changes on existing saves. Lawless will only apply some of its changes on cell reset. Play on this with an existing save at your own risk and do so WITH A BACKUP!
+**NOTE:** This version will have some initial issues in existing saves. Some of the modified locations that have changed persistent references in the world will not apply their changes on existing saves. Lawless will only apply some of its changes on cell reset. Play on this with an existing save at your own risk and do so WITH A BACKUP!
 
 ### Added
 
@@ -452,7 +469,7 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 ### Fixes
 
-- Using an added Blank CC Plugins mod, all non-default Creation Club content you have will be overriden with a blank plugin. This list is only built around the default 4 creations. (fix https://github.com/zediious/tpfz-sprinkles/issues/12)
+- Using an added Blank CC Plugins mod, all non-default Creation Club content you have will be overridden with a blank plugin. This list is only built around the default 4 creations. (fix https://github.com/zediious/tpfz-sprinkles/issues/12)
 - Patched three floating lanterns in the Tamriel worldspace (fix https://github.com/zediious/tpfz-sprinkles/issues/13)
 - Fixed incorrect Wildcat MCM configuration (fix https://github.com/zediious/tpfz-sprinkles/issues/9)
 - Fix clipping of Alternate Perspective Hunter addon and Pilgrim Magnus Shrine (fix https://github.com/zediious/tpfz-sprinkles/issues/2)
@@ -461,7 +478,7 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 ### Tweaks
 
-- Disabled four aggresive Thalmor that spawn near Kilkreath Ruins on the road from Immersive Patrols. (implement https://github.com/zediious/tpfz-sprinkles/issues/14)
+- Disabled four aggressive Thalmor that spawn near Kilkreath Ruins on the road from Immersive Patrols. (implement https://github.com/zediious/tpfz-sprinkles/issues/14)
 - Disabled base UNDERDOG sprinting animation
 - Modified conditions for athletic UNDERDOG sprint animation to not play for actors with heavy armor equipped. This animation will play if your current stamina is above 150, at a 0.7 randomness value.
 - Removed Actor Value checks from Goetia Animations conditions, so that they will play whenever armor is not worn, without the player or NPC requiring high Magicka and/or Magic skills.
@@ -488,7 +505,7 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 With the new version of Animated Armory, first-person animations for Animated Armory weapons are now available.
 
-I've also ditched the very odd version schema I chose. Can't explain that one. As the list is prepared for an official "unoffical" wabbajack launch, the version will reach 1.0. From then on, versioning will be done on a save-safe basis, and the documentation will be updated to reflect this.
+I've also ditched the very odd version schema I chose. Can't explain that one. As the list is prepared for an official "unofficial" wabbajack launch, the version will reach 1.0. From then on, versioning will be done on a save-safe basis, and the documentation will be updated to reflect this.
 
 On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain mods, existing saves will have issues. Refrain from updating for now if you do not want to restart your character.
 
