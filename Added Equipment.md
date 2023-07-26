@@ -791,7 +791,6 @@ Ebony Samurai Set
 
 # Player Only Sets
 
-- King Crusader Pack
 - Armor of Intrigue
 - Wayfarer's Coat
 - Mythic Dawn Set

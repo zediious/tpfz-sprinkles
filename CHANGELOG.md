@@ -1,8 +1,247 @@
-Changelogs were not written here before compiling to Wabbajack. The modlist had undergone a very large number of changes over the years before this point. There are be a number of changes that are not logged. Retroactive changelogs will be written here over time. Most times, if I have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can by hovering over the notepad icon on the mod in the left pane of MO.
+Changelogs of this fashion were not written before compiling to Wabbajack. The modlist has undergone a very large number of changes over the years before this point. Most times, if I have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can view by hovering over the notepad icon on the mod in the left pane of MO.
 
-Basic conflict resolution when adding a mod is generally not included here, unless it was done to fix an existing issue. Every addition to the list is vetted thoroughly.
+Basic conflict resolution when adding a mod is generally not included here, every addition to the list is vetted thoroughly. Only if existing conflict resolution was flawed and fixed, will it be included here.
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
+
+
+
+## v0.9.5 - **WIP VERSION**
+
+### This version is a work in progress, and has not been released yet.
+
+This version is ABSOLUTELY NOT save-safe! You cannot use any existing saves with this version :)
+
+We've replaced iEquip with the modern and *extremely responsive* Elden Equip. Never again will you die as you wait for iEquip to catch up. The mod offers a rather intuitive system for setting up your load outs, and doesn't miss a single beat when switching your weapons. The mod also offers a nearly identical system for quick potions, so you will not be missing easy access to healing while in combat.
+
+An interesting addition to the list with this version is **Fast Travel Cost**. It will now require Gold/Septims for you to Fast Travel. The cost is calculated based on distance. This was added to incentivize exploring the world, but still allow you to Fast Travel if you wish, at the expense of your ever-growing coffers!
+
+We've also removed our existing Companions questline tweak mods, and added the Companions module from At Your Own Pace! This introduces a myriad of changes to the Companions questline, allowing many more types of characters to play the questline, among many other great changes!
+
+I would also be re-missed to not mention **Remote Interactions**. This mod opens up a seriously cool dynamic to interacting with NPCs in the world, allowing you to, well, interact remotely! The hotkey to initiate this is **B**. Jayserpa never disappoints!
+
+### Removed
+
+- iEquip (Replaced with Elden Equip)
+- Alternate Conversation Camera (Replaced with Improved Alternate Conversation Camera)
+- Relighting Skyrim - No Player Homes (Updated)
+- Improved Companions - Questline Tweaks
+- The Companions - Don't Be A Milk Drinker
+- More Radiant Quests for the Companions
+- Smart Automatic Attribute Leveling (SAAL)
+- Immersive Dawnguard Dayspring Pass (Fix https://github.com/zediious/tpfz-sprinkles/issues/75)
+- Rain Extinguishes Fires (fix https://github.com/zediious/tpfz-sprinkles/issues/33)
+- Sales Overflow Solved
+- Immersive Sounds - Yggdrasil Patch
+- Dynamic Animation Replacer (Replaced with Open Animation Replacer)
+- XP32 Maximum Skeleton Special Extended - Fixed Scripts
+- XP32 Weapon Styles Uncloaked
+
+### Added
+
+- DLC2PillarBuilderActorScript Tweak
+- DLC2dunSeekerInvisScript Fix
+- DLC2MiraakScript Fix
+- DLC2dunFrostmoonTriggerScript Optimization
+- World Encounter Hostility Fix
+- Informed Mail Delivery
+- Inventory Interface Information Injector
+- Inventory Interface Information Injector for Skyrim 1.5
+- Elden Equip
+- Improved Alternate Conversation Camera
+- At Your Own Pace - Companions Module
+- More Thalmor Dossiers - Bruma Addon
+- Khajiit Will Follow - Vigilant Addon
+- ALT - The Snow Elves Throne
+- Statue of Kynareth
+- Statue of Kynareth - Xtudo Patches
+- Environs - Master Plugin
+- Environs - Hroggar's House
+- Environs - Hroggar's House - Patch Collection
+- Remote Interactions
+- Immersive Spell Learning - DESTified (Implement https://github.com/zediious/tpfz-sprinkles/issues/61)
+- Namira for Good Guys
+- Fast Travel Cost
+- Thanedom of Dumbarhold
+- Old Blood
+- Deadlands Xivilais - Mihail Monsters and Animals
+- Deadlands Xivilais - Xtudo Textures
+- More Hircinic Aspects of Hircine - Mihail's Shards of Immersion
+- More Hircinic Aspects of Hircine - Xtudo Textures
+- Barter Limit Fix
+- Acoustic Space Improvement Fixes
+- Reverb Interior Sounds Expansion
+- Open Animation Replacer (OAR)
+- Behavior Data Injector
+- Weapon Styles - Draw-Sheathe Animations
+- Nordic Animation Complete Pack (Only for Battleaxe Animations)
+- Conditional Expressions Extended
+- Sound Record Distributor
+- Sonders Keyword Distribution Resources
+- Sunhelm MCM Recorder TO UPLOAD DON't FORGET TO UPLOAD DON't FORGET TO UPLOAD DON't FORGET
+- Dynamic Activation Key
+
+### Updated
+
+- DynDOLOD 3 - Alpha120 > Alpha128
+- Vanilla Scripting Enhancements - 2.0 > 3.0
+- Skyrim Platform - 2.4 > 2.7.1
+- Particle Patch for ENB - 1.2.3 > 1.2.4
+- MCM Helper - 1.3 > 1.4
+- Assorted Mesh Fixes - 0.79 > 0.87
+- Keyboard Shortcuts Fix - 1.0.0.2 > 1.0.0.4
+- Compass Navigation Overhaul - 2.1 > 2.1.1
+- Casting Bar - 2.1.1 > 2.1.4
+- DynDOLOD Resources - Alpha32 - Alpha37
+- Ruins Clutter Improved - 3.1 > 3.2c
+- Ruins Clutter Improved - 1.1 > 1.2
+- High Poly Project - 4.9.5 > 5.3
+- Cathedral Weather and Seasons - 2.23beta > 2.23c
+- Relighting Skyrim - 1.2 > 2.1.0
+- Soft Shadows - 1.0 > 1.1
+- Dynamic Impact - Slash Effects - 0.5alpha > 1.02
+- Maximum Carnage - 7.0 > 7.7 + Add MCO Version
+- 3D Junipers - Trees and Berries - 0.1 > 0.2
+- Thanedom Assets - 1.3 > 1.3.1
+- Iconic Statues - 1.2 4K > 1.2.3 2K
+- Dwemer Pipework Reworked - 4.0 > 5.0/5.1 Hotfix
+- Zim's Immersive Artifacts - 1.6.2 > 1.7.4
+- Unique Uniques SE Re-Ported - 2.3.1 > 2.3.3
+- JS Unique Utopia SE - Daggers - 1.0 > 1.1
+- Praedy's Staves AIO - 1.2 > 1.3
+- Particle Lights for ENB - Stalhrim Deposits and Ore - 1.1 > 1.3
+- Forgotten Argonian Roots - Unknown Version > 2.0
+- Mysticism - A Magic Overhaul - 2.2.3 > 2.3.1
+- Adamant - A Perk Overhaul - 5.7.6 > 5.8.3
+- Hand to Hand - An Adamant Addon - 1.4.6 > 1.5.5
+- Take a Peek - New Stealth Mechanic - 1.15 > 1.20
+- Aetherius - A Race Overhaul - 2.10.4 > 2.11.7
+- Mundus - A Standing Stone Overhaul - 1.9.1 > 1.10.2
+- Dynamic Things Alternative - 0.2 > 0.2.1
+- Armor and Clothing Extension - 1.2 > 1.5.1
+- Thaumaturgy - An Enchanting Overhaul - 1.3.2 > 
+- Immersive Rejections - 1.1 > 1.11
+- Guard Dialogue Overhaul - 2.17 > 2.18
+- Civil War Lines Expansion - 1.06 > 1.07
+- Bandit Lines Expansion - 1.07 > 1.08
+- Misc Dialogue Edits - 1.8.5 > 1.9.2
+- More Dialogue Options - 1.4 > 1.5
+- Hunters Not Bandits - 4.0 > 4.1
+- College of Winterhold - Quest Expansion - 1.12 > 1.13
+- Nilheim - Misc Quest Expansion - 1.11 > 1.12
+- House of Horrors - Quest Expansion - 1.10 > 1.11
+- The Only Cure - Quest Expansion - 1.01 > 1.02
+- Headhunter - Bounties Redone - 1.43 > 1.50
+- More Thalmor Dossiers - 1.11 > 1.12b
+- Destination Weddings - 1.4.1 > 1.5
+- Riften Docks Overhaul - 2.5.3 > 2.5.5
+- Skyrim Sewers - Radiant Quests Enabled - 1.0 > 1.1
+- Halted Stream Mine - 1.3.2 > 1.4
+- Ryn's Goldenglow Estate - 1.0 > 1.6
+- Environs - Master Plugin - 1.0 > 2.0
+- Environs - Riften Warehouse - 1.0 > 2.0
+- Environs - The Greenwood Shack - 2.04 > 3.0
+- Environs - Hroggar's House - 1.03 > 2.0
+- Stendarr Rising - The Hall of the Vigilant Rebuild - 1.3 > 1.6
+- JK's The Winking Skeever - 1.4 > 1.5
+- JK's Arnleif and Sons Trading Company - 1.0 > 1.0.1
+- JK's Warmaiden's - 1.2 > 1.3
+- JK's Windhelm Outskirts - 1.1 > 1.1.1
+- JK's Windhelm Outskirts Patch Collection - 1.1 > 1.2
+- JK's Interiors Patch Collection - 5.16 > 5.18.1
+- Skyrim's Got Talent - Improve As a Bard - 1.61 > 1.62
+- Interesting Follower Requirements for Interesting NPCs - 2.01 > 2.02
+- Beyond Skyrim - Bruma - 1.6.1 > 1.6.3
+- The Wheels of Lull - 5.1.9 > 5.1.10
+- Ships and boats of Tamriel - 1.1 > 1.2
+- Khajiit Will Follow - 4.6.5 > 4.7.0.1
+- Quest - Baba Yaga and the Labyrinth - 0.3.1 > 0.3.2
+- Fortune's Tradehouse - 1.1 > 2.0
+- Sidequests of Skyrim - 0.8 > 0.8.2
+- Simple Weapon Swing Parry - 1.0.2 > 1.0.4-
+- Dual Wield Parrying SKSE - 1.5 > 1.7
+- Arena - An Encounter Zone Overhaul - 1.1 > 1.2
+- Dragon War - A Dragon Overhaul - 3.0.4 > 3.0.6
+- Lawless - A Bandit Overhaul - 1.7 > 2.0
+- Delphine's Map Reveals Dragon Mounds - 1.1 > 1.2
+- Tamrielic Names - 1.0 > 1.1
+- Reachmen Tribes Names - 1.1 > 1.2
+- Ashlander Nomads Names - 1.0 > 1.1
+- Dovah Names - 1.0 > 1.1
+- More Lights for ENB - Blood Splatter Fix - 0.3 > 0.4
+- Classic Paralysis - 3.1 > 3.3.1
+- Enhanced Reanimation - 1.5 > 1.5.1
+- Remember Lockpick Angle - Updated - 2.0 > 4.2
+- Vampires Cast No Shadow 2 - 1.1.1 > 1.2.1
+- Magic Sneak Attacks - 1.1 > 1.2
+- ConsolePlusPlus - 1.2 > 1.3
+- Audio Overhaul for Skyrim - 3.3.2 > 4.1.3
+- Forceful Tongue - Audio Overhaul for Skyrim Patch - 1.0 > 1.0.2
+- Immersive Sounds - Compendium - 2.2 > 3.0
+- Audio Overhaul - Immersive Sounds Integration - 1.0.1 > 1.1.0
+- Maximum Carnage Skeletons - 1.0 > 1.3
+- Payload Interpreter 1.0.1 > 1.1.0
+- Immersive World Encounters - 3.3 > 3.6.1
+- TrueHUD - HUD Additions Boss Ini Tweaks - 1.3 > 1.4
+- Conditional Armor Type Animations - 1.1 > 1.3c
+- Vanargand Animations - Male Idle Walk and Run - 1.3.1 > 1.3.1c
+- Vanargand Animations - Female Idle Walk and Run - 1.3.1 > 1.3.1c
+- Vanargand Animations - Sprint - 1.3 > 1.3c
+- Leviathan Animations II - Male Idle Walk And Run - 2.3 > 2.3c
+- Vanargand Animations - Sprint - 1.3 > 1.3c
+- Leviathan Animations II - Female Idle Walk And Run - 2.3 > 2.3c
+- Leviathan Animations II - Sprint - 2.4 > 2.4c
+- Goetia Animations - Male Idle Walk And Run - 1.2 > 1.3c
+- Goetia Animations - Female Idle Walk And Run - 1.2 > 1.3c
+- Goetia Animations - Sprint - 1.0 > 1.0c
+- ADXP I MCO elden rim moveset collection - 1.0 > 1.1
+- ADXP I MCO ER Spear Basic Animation - 1.0 > 1.1
+- Dodge - MCO|DXP - 0.9.6 > 2.1.19
+- Look Around - Searching Animations For NPCs - 1.0 > 1.1
+- Modern Female Sitting Animations Overhaul - 1.4 > 1.6
+- NPC Animation Remix - 1.4 > 1.5
+- Immersive folded hands 1.4 > 1.4.1
+- Conditional tavern cheering - 1.0.3 > 1.1
+- Conditional Expressions Extended - 1.4.2 > 1.4.5
+- Immersive Interactions - Animated Actions - 1.67 > 1.71
+- Take a Seat - New Sitting Animations - 1.0 > 1.01
+- Project ja-Kha'jay- Khajiit NPC Diversity Overhaul - 3.0 > 4.0.5+hotfix
+- Project ja-Kha'jay- Interesting NPCs Khajiit Addon - 2.2 > 3.0.4
+- powerofthree's Papyrus Extender - 5.5 > 5.6.1
+- Base Object Swapper - 2.5.1 > 2.6
+- NPCs Names Distributor - 1.1.1 > 2.2.1
+- xLODGen Resource - SSE Terrain Tamriel - 1.0 > 2.0
+- Nemesis Output TO UPLOAD AND REMAKE!!!
+- Overwrite Misc TO UPLOAD
+- LeveledListAdditionWeapon TO UPLOAD
+- MonsterPatch TO UPLOAD
+- ZedPatch 1 TO UPLOAD
+- ZedPatch 2 TO UPLOAD
+- Synthesis Output TO UPLOAD AND REMAKE!!!
+
+### Fixes
+
+- Fixed CTD during Housecarl/Prisoner encounters from Immersive Encounters by updating the mod. (https://github.com/zediious/tpfz-sprinkles/issues/74)
+- Corrected Better SkyUI Config not being incorporated into Paper UI config (fix https://github.com/zediious/tpfz-sprinkles/issues/71)
+- Corrected position of SunHelm widgets when using them via MCM Recorder preset (fix https://github.com/zediious/tpfz-sprinkles/issues/70)
+- Implemented fix for read books/notes not sorting correctly and causing issues reading the right item (Fix https://github.com/zediious/tpfz-sprinkles/issues/48)
+- Disabled barrel that was blocking the stairs in Half Moon Mill Inn
+- Corrected unbalanced damage values and crafting recipes for RFM. All RFM weapon damages and crafting requirements/materials are now in-line with the tier the weapon is placed in.
+- Added required items and conditions to many RFM COBJ's that were missing them.
+- Corrected unbalanced damage and armor values on a few equipment pieces.
+- Corrected wrong recipe conditions, and added missing recipes for Draugr Weaponry Standalone
+- Expanding on the above, you can potentially loot Dwarven/Elven/Glass-damage weapons from Draugr. Elven and above-tier Draugr weapons cannot be tempered without the respective crafting perk, to balance being able to find these more powerful weapons in Draugr crypts.
+- Balanced damage values and COBJ records for weapons added by Mihail's creature mods that were missed.
+- Corrected wrong comparison value for a variety of COBJ conditions
+- Disabled duplicate road signs at border gate to Cyrodiil
+- Switched TDM Lock-On Key to re-configured to Mouse-Button-5 by default, instead of U.
+- Fixed Triple Triad in Skyrim being broken in some cases by making Container, Gift and MessageBox menus paused.
+
+### Tweaks
+- Previously, both Battleaxes and Warhammers shared the same animation. This made it almost senseless to use Battleaxes.
+  - Switched the animation used by Warhammers to the proper animation from "elden rim moveset collection". This is a slower animation
+  - Switched the animation used by Battleaxes to the Nordic Animation Pack battleaxe anim. This is slightly faster.
+- Removed some out of place RFM weapons from certain lists.
 
 
 
@@ -59,7 +298,7 @@ If playing on an existing save, in order for MCM changes/fixes to apply, you nee
 - Fixed navmesh crash near Shor's Stone due to bad conflict resolution (fix https://github.com/zediious/tpfz-sprinkles/issues/69)
 - Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter". (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
 - Removed duplicate Lockpick recipe (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
-- Fixed duplicate crosshair when using magic and weapon (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
+- Fixed duplicate cross hair when using magic and weapon (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
 - Fixed duplicate stat bars in Dark Mode UI
 
 ### Tweaks

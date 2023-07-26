@@ -4,7 +4,8 @@
 	- COMPACTED
 - man_dibella.esp
 - Fluffworks.esp 
-- SpiceOfLife - OrcLStrongholds.esp 
+- SpiceOfLife - OrcLStrongholds.esp
+	- COMPACTED
 - CompanionsTweaks.esp 
 - Companions - Don't be a Milk Drinker.esp
 - SJG Quick Light Patch.esp 
@@ -23,6 +24,9 @@
 - Enhanced Vanilla Trees SSE.esp 
 - SaveTheIcerunner.esp
 	- COMPACTED
+- Solitude Skyway SE.esp
+	- COMPACTED
+- HPP - FirewoodSnow.esp
 
 # Plugins to Flag
 
