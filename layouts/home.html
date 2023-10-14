@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ with .Content }}
+<script>
+
+    function toggleDarkMode() {
+        alert("You can only toggle Dark Mode when you are within the actual documentation.")
+    }
+    
+</script>
+{{ . }}
+{{ end }}
+{{ end }}
