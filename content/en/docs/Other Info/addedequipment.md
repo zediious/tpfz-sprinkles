@@ -1,3 +1,9 @@
+---
+title: Added Equipment
+weight: 2
+---
+This mod list adds a very large amount of new armor and weapons to the game, with curated leveled lists containing this new equipment along with specific NPC placements.
+
 All leveled lists are using Open World Loot as a base for additions, and any native patches are used and/or merged with custom additions in OWL.
 
 Many lists and outfits added by content mods have been altered to take OWL leveled list entries rather than vanilla armor/weapon entries.
@@ -6,19 +12,20 @@ Specific leveled list placement can be viewed within OWL lists inside LeveledLis
 
 Many weapons and armors have been renamed. Most of the time, I also mark the original name, but not all the time.
 
-
-# Weapons
+## Weapons
 
 Reforging - To the Masses
+
 - All weapons patched with OWL, distributed through all relevant tiered leveled lists
 - Some that OWL did not add, were added manually. These are listed below.
 
 Proper Crossbow Integration
+
 - Distributed through all relevant tiered leveled lists
 
 Draugr Weapons Standalone
-- All weapons and shields distributed to Draugr via OWL rather than default lists
 
+- All weapons and shields distributed to Draugr via OWL rather than default lists
 
 ## Iron Tier
 
@@ -72,7 +79,6 @@ Draugr Weapons Standalone
 - Third Era Wooden Battle Staff
 - Eikbiter
 
-
 ## Steel Tier
 
 ### Dagger
@@ -86,6 +92,7 @@ Draugr Weapons Standalone
 - Knight's Dagger
 - Norse Dagger
 - Dual Steel Claws
+- Steel Dirk
 
 ### Sword
 
@@ -121,6 +128,7 @@ Draugr Weapons Standalone
 - Flammard
 - Norse Sword
 - Kinzon
+- Steel Ornate Rapier
 
 ### Waraxe
 
@@ -176,6 +184,7 @@ Draugr Weapons Standalone
 - Dwarven Wakizashi
 - Wolfnir
 - Commoner's Saber
+- Loner's Sword
 
 ### Waraxe
 
@@ -199,6 +208,7 @@ Draugr Weapons Standalone
 - Usdian
 - Dwarven Pike
 - Third Era Eastern Dwemer Longsword
+- Loner's Greatsword
 
 ### Battleaxe
 
@@ -235,6 +245,7 @@ Draugr Weapons Standalone
 - Leaf Sidesword
 - Blademaster's Katana
 - Royal Elven Sword
+- Welkynar Hussar Saber
 
 ### Waraxe
 
@@ -244,6 +255,7 @@ Draugr Weapons Standalone
 
 - Elven(Dovah) Nord Warhammer
 - Elven Whip
+- Welkynar Hussar Hammer
 
 ### Greatsword
 
@@ -263,7 +275,6 @@ Draugr Weapons Standalone
 ### Bow
 
 - Royal Elven Bow
-
 
 ## Orcish Tier
 
@@ -288,6 +299,7 @@ Draugr Weapons Standalone
 - Orcish Wakizashi
 - RTR Orcish Sword
 - Traveler Sword
+- Hisuteri Katana
 
 ### Waraxe
 
@@ -344,12 +356,14 @@ Draugr Weapons Standalone
 
 - Anduril
 - Nordic Wanderer Greatsword
+- Horse-Slaying Saber
 
 ### Battleaxe
 
 - Nordic Pike
 - Nordic Halberd
 - Atmoran Battleaxe
+- Sting (Spear)
 
 
 ## Glass Tier
@@ -456,6 +470,7 @@ Draugr Weapons Standalone
 - Ilieh
 - Ebony Nodachi
 - Blackened Steel Spadone
+- Sacred Relic Sword (unenchanted)
 
 ### Battleaxe
 
@@ -463,6 +478,7 @@ Draugr Weapons Standalone
 - Ebony Pike
 - Ebony Halberd
 - Third Era Ebony Battlestaff
+- Blackened Steel Scythe
 
 ### Warhammer
 
@@ -498,6 +514,7 @@ Draugr Weapons Standalone
 - Daedric Tanto
 - Serpent Dagger
 - Dual Daedric Claws
+- Valermon Dagger
 
 ### Sword
 
@@ -505,10 +522,14 @@ Draugr Weapons Standalone
 - Third Era Daedric Sword
 - Third Era Daedric Katana
 - Third Era Daedric Wakizashi
+- Daedric Rapier
 - Daedric Katana
 - Daedric Longsword
 - Daedric Wakizashi
 - Daedric Crescent
+- Valermos
+- Blade of Chaos
+- Yorukaze Katana
 
 ### Mace
 
@@ -521,6 +542,8 @@ Draugr Weapons Standalone
 - Daedric Dai-Katana
 - Daedric Claymore
 - War Scythe V2 (Imbued Scythe)
+- Great Valermos
+- Yorukaze Dai-Katana
 
 ### Battleaxe
 
@@ -574,52 +597,48 @@ Draugr Weapons Standalone
 
 - Dragon Bone Bow
 
-
-# Armors
-
+## Armors
 
 Common Clothes and Armors
+
 - Default distributions retained and patched
 
 Armor Variants Expansion
+
 - Default distributions retained and patched
 
 Minor Faction Armor
+
 - Default distributions retained and patched
 
 Armors of the Velothi Pt I and II
+
 - Default Solstheim distribution retained with some additional named NPC placements.
 
 Khajiiti Apex Armory
+
 - Khajiit caravan members wear and sell
 
-
-# Light Armor
-
-
-## Hide Tier
+### Hide Tier
 
 - Kyne's Hide Set
 - Nordwar Hide Set
 - Nordwar Aketon Set
 
-
-## Fur Tier
+### Fur Tier
 
 - Nordwar Fur Sets
 - Boethia's Fur Kilt
 - Nordic Tribal Set
 
-
-## Studded Tier
+### Studded Tier
 
 - Kyne's Hide Set
 - Nordwar Studded Set
 - Nordwar Nordic Chainmail Sets
 - Nordwar Padded Set
 
-
-## Leather Tier
+### Leather Tier
 
 - Rough Leather Set
 - Rogue Nord Set
@@ -629,9 +648,9 @@ Khajiiti Apex Armory
 - Seasoned Traveller Set (Traveler)
 - Nordwar Nord Leather Set
 - Treasure Hunter Set
+- Adventurer Set
 
-
-## Elven Tier
+### Elven Tier
 
 - Cyrodiilic Thief Set
 - Bosmer Set
@@ -640,9 +659,9 @@ Khajiiti Apex Armory
 - Gray Warden Set
 - Nemesis Set
 - Ebony Elven Set
+- Welkynar Hussar Set
 
-
-## Scaled Tier
+### Scaled Tier
 
 - Judea Set
 - Scout Set
@@ -658,24 +677,19 @@ Khajiiti Apex Armory
 - Countess Set
 - Inquisitor Set
 
-
-## Glass Tier
+### Glass Tier
 
 - Bosmer Elder Set
 - Kingsguard Set
 - Silver Elven Set
 - Ebony Scale Set
+- Seascale Set
 
-
-## Dragonscale Tier
+### Dragonscale Tier
 
 - Veteran Dragonscale Set
 
-
-# Heavy Armor
-
-
-## Iron Tier
+### Iron Tier
 
 - Nordwar Chainmail Set
 - Mercenary Iron Set
@@ -685,8 +699,7 @@ Khajiiti Apex Armory
 - Nordwar Iron Lamellar Set
 - Nordwar Lamellar Chainmail Set
 
-
-## Steel Tier
+### Steel Tier
 
 - Nordwar Steel Scaled Set
 - Nordwar Steel Lamellar Set
@@ -696,16 +709,15 @@ Khajiiti Apex Armory
 - Ignoble Steel Set
 - Duskplate Steel Set
 - Infantry Set
+- Steel Nord Helmet
 
-
-## Dwarven Tier
+### Dwarven Tier
 
 - Summerguard Set
 - Eastern Dwemer Set
 - 4thUnknown Dwemer Set
 
-
-## Steel Plate Tier
+### Steel Plate Tier
 
 - Cyrodiilic Plate Set
 - King Prawn Set
@@ -714,20 +726,17 @@ Khajiiti Apex Armory
 - Kvetchi Mercenary Set
 - Landlord Set
 
-
-## Orcish Tier
+### Orcish Tier
 
 - Orcish Chief Set
 - Nordic Wanderer Set
 
-
-## Nordic Tier
+### Nordic Tier
 
 - Heavy Nord Set
 - Elite Wolf Set
 
-
-## Ebony Tier
+### Ebony Tier
 
 - Dark Knight Set
 - Charred Knight Set
@@ -735,61 +744,78 @@ Khajiiti Apex Armory
 - Corrupted Thorn Set
 - Silver Ebony Set
 
-
-## Daedric Tier
+### Daedric Tier
 
 - Mihail Daedric Light Set
 - Mythic Dawn Set
 - Mihail Dremora Set
 - Mihail Harbinger Set
 - Markynaz Set
+- 4thUnknown Daedric Set
 
+## Other Lists
 
-# Other Lists
-
-## Vampire Boss
+### Vampire Boss
 
 - Eldritch Knight
 - Volkihar Knight
 - Vampire Royal Knight
+- Traveling Mage Set
 
-## Vigilant of Stendarr
+### Vigilant of Stendarr
 
 - Stendarr Templar Set
 
+### Alik'r
 
-# NPC Outfits
+- Redguard Assassin Set
+
+## NPC Outfits
 
 Harbinger Cuirass
-- Kodlak Whiteman outfit
+
+- Kodlak Whitemane outfit
 
 Redoran Exile Armor
+
 - Lleril Morvayn outfit
 
 Morrowinnd Netch Leather Armor
+
 - Teldryn Sero outfit
 
-Practical Pirate Outfit
-- Jaree-Ra outfit
-
 Northern God Armor and Battleaxe
+
 - Hajvarr Iron-Hand of White River Watch outfit
 
 Falconer Heavy Armor and Sword
+
 - Fjola of Mistwatch outfit
 - Light variant can be crafted after clearing Mistwatch
 
 Wind Ruler Armor and Sword
+
 - Bandit Boss (renamed Adelvar Wind-Ruler) of Robber's Gorge outfit
 
 Lord of Coldharbour Set
+
 - Lord Harkon outfit
 
 Ebony Samurai Set
+
 - Interesting NPCs S'vashni outfit
 
+Barsaebic Ayleid Set
 
-# Player Only Sets
+- Ancano
+
+Rormasu Armor
+
+- Interesting NPCs Anum La outfit
+- Teeba-Ei
+- Argonian Bandit Marauders
+
+## Player Only Sets
 
 - Armor of Intrigue
 - Wayfarer's Coat

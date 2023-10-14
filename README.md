@@ -14,6 +14,6 @@
 
 As time has passed, and more revolutionary combat/animation mods have been released, this mod list now encompasses what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly.
 
-I have enjoyed playing and creating this mod list immensely, I hope it brings you the same joy it has brought to me :)
+I have enjoyed playing and creating this mod list immensely, I hope it brings you the same joy it has brought to me!
 
-### Make sure to read the documentation (65% complete) for a full overview of the mod list!
+### Make sure to read the documentation for a full overview of the mod list!

@@ -1,0 +1,63 @@
+/*
+
+Add styles or override variables from the theme here.
+
+*/
+
+// Bootstrap options
+
+$enable-gradients: true !default;
+$enable-shadows: true !default;
+
+// Theme colors
+
+// TODO: consider moving all of these theme-color definitions into the User
+// Guide SCSS, or declare theme here, but namespaced:
+
+$primary: #403f4c !default;
+$secondary: #76c24f !default;
+$success: #3772ff !default;
+$info: #b0dad7 !default;
+$warning: #ed6a5a !default;
+$danger: #ed6a5a !default;
+$light: #d3f3ee !default; // TODO: consider using BS value
+$dark: #403f4c !default;  // TODO: consider using BS value
+$discord: #7289da !default;
+
+$code-color: shade-color($secondary, 40%) !default;
+
+// UI element colors
+
+$border-color: $gray-300 !default;
+$td-sidebar-tree-root-color: $primary !default;
+$td-sidebar-bg-color: rgba($primary, 0.03) !default;
+$td-sidebar-border-color: $border-color !default;
+
+// Background colors for the sections on home page etc. It is a paint by number
+// system, starting at 0, where the number is taken from the shortcode's ordinal
+// if not provided by the user. These colors are all part of the theme palette,
+// but the mix is fairly random to create variation. This can be overridden by
+// the project if needed.
+$td-box-colors: $dark, $primary, $secondary, $info, $white, $gray-600, $success,
+  $warning, $dark, $danger, $primary, $secondary, $info !default;
+
+$link-color: $blue-500;
+$link-decoration: none !default;
+$link-shade-percentage: 30% !default;
+
+// Discord Button
+
+.btn-discord {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: #{shade-color($discord, 10%)};
+    --bs-btn-border-color: var(--discord);
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #{shade-color($discord, 0%)};
+    --bs-btn-hover-border-color: #{shade-color($discord, 30%)};
+    --bs-btn-focus-shadow-rgb: var(--discord);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{shade-color($discord, 20%)};
+    --bs-btn-active-border-color: #{shade-color($discord, 20%)};
+  }
