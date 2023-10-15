@@ -2,7 +2,7 @@
 title: Cleaning your SSE Install
 weight: 2
 ---
-As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. With this mod list, you will also need to install the **Skyrim Special Edition Creation Kit** from Steam. These are **extremely** vital parts of the installation process. Do not skip this! To get your Skyrim SE to this state, follow these steps:
+As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. This is an **extremely** vital part of the installation process. Do not skip this! To get your Skyrim SE to this state, follow these steps:
 
 1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall).
 
@@ -10,11 +10,9 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 
 3. Install Skyrim: Special Edition.
 
-4. Install [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/). This is considered "Software" in your Steam library, you may need to check Software in your library filters to see it.
+4. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 
-5. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
-
-6. Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
+5. Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 Your Skyrim should be updated to the latest version before installing the list, which the above process will ensure. This list runs on Skyrim 1.5.97, but expects your game to be updated to the latest version.
 
