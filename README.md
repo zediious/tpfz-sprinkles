@@ -4,7 +4,7 @@
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
-### [Read the documentation and install the mod list](https://github.com/zediious/tpfz-sprinkles/wiki)
+### [Read the documentation and install the mod list](https://zediious.github.io/tpfz-sprinkles/docs/)
 
 </div>
 
