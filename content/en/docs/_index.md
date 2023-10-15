@@ -9,7 +9,7 @@ A Skyrim mod list based on The Phoenix Flavor
 
 Current version: 10/14/2023 v0.9.5
 
-Mod List + Archive Total Size: ~320GB
+Mod List + Archive Total Size: ~330GB
 
 ## Preamble
 
@@ -55,7 +55,7 @@ When launching the game through Mod Organizer, **NEVER** click the "Unlock" butt
 
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).
 
-As of the latest version, the modlist requires ~310GB (~121GB of Downloads/~189GB of Mods) of hard drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+As of the latest version, the modlist requires ~330GB (~120GB of Downloads/~208GB of Mods) of hard drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 This list **requires** that you have the **latest** version of Skyrim installed on Steam. Do **NOT** use any downgrade patchers, Wabbajack will do this work for you.
 
