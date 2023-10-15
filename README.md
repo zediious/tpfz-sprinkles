@@ -16,4 +16,4 @@ As time has passed, and more revolutionary combat/animation mods have been relea
 
 I have enjoyed playing and creating this mod list immensely, I hope it brings you the same joy it has brought to me!
 
-### Make sure to read the documentation for a full overview of the mod list!
+**Make sure to read the documentation for a full overview of the mod list!**
