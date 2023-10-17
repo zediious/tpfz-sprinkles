@@ -501,7 +501,7 @@ This update is *quite* large, and the above description does not cover everythin
 - Goetia Animations - Male Idle Walk And Run - 1.2 > 1.3c
 - Goetia Animations - Female Idle Walk And Run - 1.2 > 1.3c
 - Goetia Animations - Sprint - 1.0 > 1.0c
-- EVG Animated Traversal - 1.0beta - 1.02
+- EVG Animated Traversal - 1.0beta > 1.02
 - ADXP I MCO elden rim moveset collection - 1.0 > 1.1
 - ADXP I MCO ER Spear Basic Animation - 1.0 > 1.1
 - Dodge - MCO|DXP - 0.9.6 > 2.1.19
@@ -535,7 +535,7 @@ This update is *quite* large, and the above description does not cover everythin
 - Terrain LOD Output - 0.9.3.1 > 0.9.5
 - TexGen Output - 0.9.3.1 > 0.9.5
 - DynDOLOD Output > Renamed DynDOLOD Output - High
-- Nemesis Output TO RE-DOWNLOAD
+- Nemesis Output 0.9.4 > 0.9.5
 - BodySlide Output - 0.9.3.1 > 0.9.5
 - Overwrite Misc - 0.9.4 > 0.9.5
 
