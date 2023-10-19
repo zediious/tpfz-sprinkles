@@ -2,7 +2,7 @@
 title: Power Attacking and Blocking
 weight: 1
 ---
-In this mod list, we use Dual Wield Parrying SKSE to modify our block hotkey to Mouse Button-4, and For Honor Power Attack to modify our power attack hotkey to Mouse Right-Click. Below you will find instructions on changing your block key. If you want to change your block key back to the Mouse Right-Click, then you will need to remove For Honor Power Attack. Instructions are below for doing this as well.
+In this mod list, we use Dual Wield Parrying SKSE to modify our block hotkey to Mouse Button-4, and For Honor Power Attack to modify our power attack hotkey to Mouse Right-Click. Below you will find instructions on changing your block key. If you want to change your block key back to the Mouse Right-Click, then you will need to remove For Honor Power Attack and use One Click Power Attack. This is currently unsupported.
 
 ## Changing the Block Key
 
@@ -16,8 +16,6 @@ If you do change your block key, you will also need to change the block key in t
 
 ## Changing the Power Attack Key
 
-1. In the left pane of Mod Organizer, use the search bar at the bottom to search for "For Honor", and uncheck the "For Honor Power Attack" mod.
-
-If you only wanted to change the power attack key back to the default, this is all you need to do. If you want to change it to something else besides the the Mouse Right-Click or hold Mouse Left-Click, you will need to use the [One Click Power Attack NG](https://www.nexusmods.com/skyrimspecialedition/mods/60878) mod. I cannot provide support if you decide to use this. Read the mod description and posts!
+If you want to change your power attack key, you will need to use the [One Click Power Attack NG](https://www.nexusmods.com/skyrimspecialedition/mods/60878) mod, removing For Honor Power Attack from the mod list before doing so. I cannot provide support if you decide to use this, as there are a number of issues involving initiating certain types of power attacks when using this mod instead. Read the mod description and posts!
 
 ## [NEXT >> Enabling Dark Mode Interface](../darkinterface)
