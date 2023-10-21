@@ -36,6 +36,14 @@ You will also find the following three unique perk trees;
 
 If you meet either of those bills, be sure to check the perk trees and read the descriptions of them in the UI!
 
+## Play the Triple Triad card game with NPCs
+
+As you loot NPCs, you will come across a variety of Card Packs that will give you different "Triple Triad" cards. With these, you will be able to play the Triple Triad game with most NPCs in the world! In order to do so, you will need to buy a **Triple Triad Board** from a General merchant such as Belethor in Whiterun. After you own this, all cards you get from loot will be placed in a virtual chest you can access with the board in your Misc inventory section, instead of being placed in your inventory. You will also be able to challenge NPCs to a duel with a dialogue option.
+
+This game is derived from Final Fantasy, and is relatively simple however requires a bit of learning. The winner of a Triple Triad game usually gets to take one card from the loser, and you have the option to bet Septims on a game. Depending on where you are in the world, different "rules" will be enabled that change the way the game plays!
+
+Read the mod page for Triple Triad in Skyrim at the following link for the rules of the game! [Triple Triad Card Game Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/42522)
+
 ## Interact with NPCs from a distance
 
 You can have conversations with any NPC from a distance! Press the *B* key to initiate Remote Interactions! This allows you to have full conversations with any NPC without being next to them, opening up a huge door for immersion in many situations. You can use this against enemies as well, potentially opening up new strategies in combat!
