@@ -20,6 +20,10 @@ Wheeler allows you to access a Wheel Menu, one which is extremely responsive and
 
 To learn how to use both of these mods, be sure to check the [Important Hotkeys](../importanthotkeys) Wiki page to see all available hotkeys, as well as what you need to do to utilize them. It would also be a great idea for you to read the mod pages for both of these mods, as they will provide you with even more information about how they work.
 
+## The dialogue camera will switch between you and the NPC
+
+When you are speaking to an NPC, the camera will turn to face the speaking NPC. This provides a great boost of immersion for many, but it is quite subjective. If you dislike this, press **F** while in dialogue to switch to the 1st person dialogue camera.
+
 ## Access new Custom Skill Menus in the Tween Menu
 
 When you open your Tween menu, you will notice you now have an extra button labeled "Custom Skills". Within here, you will find *six* new skill trees that you can progress through! There are four trees for Warriors, Mages, Thieves, and Priests respectively. These four trees are a part of [the Sets of Skills mod that you can read about here](../charactercreate#sets-of-skillshttpswwwnexusmodscomskyrimspecialeditionmods55535), and allow you to further buff your character with benefits specific to your build!

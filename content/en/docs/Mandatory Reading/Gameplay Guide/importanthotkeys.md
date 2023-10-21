@@ -39,6 +39,7 @@ HOLD K + Press 1, 2, F, or C while hovering over item/shout in inventory or magi
 ### F
 
 - Cycle your potions.
+- You can also use this to switch to 1st person camera during dialogue.
 
 ### G
 
