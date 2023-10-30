@@ -10,18 +10,34 @@ If the third number in a version (the 3 in 9.1.3) is changed or added, then that
 
 ## v0.9.5.2 - UNRELEASED
 
+### Removed
+
+- Oblivionesque Locks
+
 ### Added
 
 - SkyTEST 2022 Redux - Realistic Animal and Predators 2K
+- Sirenroot - Frissa Sleep Package (TO UPLOAD!)
 
 ### Updated
 
+- MonsterPatch - 0.9.5 > 0.9.5.2
 - ZedPatch - 0.9.5 > 0.9.5.2
 - ZedPatch2 - 0.9.5 > 0.9.5.2
+- Occlusion Output - 0.9.5 > 0.9.5.2
 
 ### Fixes
 
-- Corrected load order for Sorcerer to place patches below it.
+- Corrected load order for Sorcerer to place patches below it. Changes were carried over in conflict resolution, however the load order was not good practice.
+- Corrected a few NPCs from Immersive College NPCs from being bald with hair patches.
+- Stopped NPCS in The Ratway from attacking the tiny SkyTEST rats.
+- Corrected inconsistent cell water types around Goldenglow Estate.
+
+### Tweaks
+
+- Reduced the amount of wolves in the Falkreath Leshen encounter.
+- Expanded trigger box for Mjoll/Aerin conversation in Riften such that it will trigger if you enter from the other side of the city.
+- Added a sleep package and bedroll for Frissa Black-Briar in Elgrim's Elixirs, so that you can steal from the store at night.
 
 ## v0.9.5.1 - **10/16/2023**
 
