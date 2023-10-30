@@ -75,6 +75,8 @@ By performing either one of the following actions, you can lay down on the groun
 - Hold SHIFT while prone to get up again.
 - SHIFT + A/D to roll left or right respectively.
 
+Keep in mind that you can only perform this action with your weapons **sheathed**. You cannot lie down with your weapons, fists, or magic out.
+
 ## Find and use a variety of new weapon types
 
 As you play, you will find many new weapon types such as Rapiers, Katanas, Pikes, Halberds, Quarterstaves, Scythes, and more! These weapons have varying damage values for the tier they are in, to compensate for the usually faster animations involved. These weapons benefit from existing weapon type perks. Make sure to take note of the following;
