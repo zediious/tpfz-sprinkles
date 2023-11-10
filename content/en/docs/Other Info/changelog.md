@@ -8,26 +8,35 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
-## v0.9.5.2 - UNRELEASED
+## v0.9.5.2 - **11/9/2023**
+
+This version was released early due to changes to Skyrim-Guild mods. Two have had their links changed, and one (Creatures Preview) was removed. This will unfortunately remove the Dragon, Bear, and Sabre-cat animations in the list. If it is re-added, the next version will contain it again.
+
+This version is save safe, though you may observe some changes not apply on an existing save.
 
 ### Removed
 
 - Oblivionesque Locks
+- Creatures - DXPMCO
 
 ### Added
 
 - SkyTEST 2022 Redux - Realistic Animal and Predators 2K
-- Sirenroot - Frissa Sleep Package (TO UPLOAD!)
+- Sirenroot - Frissa Sleep Package
+- Armors of The Velothi Pt.2 Bonesaint Plume Fix
 
 ### Updated
 
 - MonsterPatch - 0.9.5 > 0.9.5.2
 - ZedPatch - 0.9.5 > 0.9.5.2
 - ZedPatch2 - 0.9.5 > 0.9.5.2
+- Synthesis Output - 0.9.5 > 0.9.5.2
 - Occlusion Output - 0.9.5 > 0.9.5.2
+- Nemesis Output - 0.9.5 > 0.9.5.2
 
 ### Fixes
 
+- Changed download links for skyrim-guild mods to new modding-guild URL.
 - Corrected load order for Sorcerer to place patches below it. Changes were carried over in conflict resolution, however the load order was not good practice.
 - Corrected a few NPCs from Immersive College NPCs from being bald with hair patches.
 - Stopped NPCS in The Ratway from attacking the tiny SkyTEST rats.
