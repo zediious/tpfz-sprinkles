@@ -8,6 +8,12 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
+## v0.9.5.3 - **12/10/2023**
+
+This version makes the list installable again, after the recent Skyrim update(s). The changes made to do so will also allow the list to be more resistant to updates in the future.
+
+There are no other changes made with this version!
+
 ## v0.9.5.2 - **11/9/2023**
 
 This version was released early due to changes to Skyrim-Guild mods. Two have had their links changed, and one (Creatures Preview) was removed. This will unfortunately remove the Dragon, Bear, and Sabre-cat animations in the list. If it is re-added, the next version will contain it again.
