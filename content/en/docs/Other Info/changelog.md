@@ -10,6 +10,10 @@ If the third number in a version (the 3 in 9.1.3) is changed or added, then that
 
 ## v0.9.5.4- **12/10/2023**
 
+### Updated
+
+- Blank CC Plugins - 0.9.3 > 0.9.5.4
+
 ### Fixes
 
 - This version overrides the new `_ResourcePack.esl` plugin with a blank plugin, fixing freezes that were consistently occurring in certain parts of the map.
