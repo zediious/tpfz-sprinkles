@@ -8,6 +8,63 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
+## v0.9.5.5 - **12/31/2023***
+
+New Years Eve update! This version fixes a rather consistent crash involving certain spells, as well as a few other bugs! This version should be save-safe.
+
+Quite a few spells have been added, modified or removed in multiple spell mods that have been updated. You may lose a few of your spells on existing saves!
+
+### Updated
+
+- Community Shaders - 0.6.6 > 0.7.4
+- Screen Space Shadows - 1.1 > 1.1.2
+- Complex Parallax Materials - 1.0 > 1.0.2
+- Water Blending - 1.0 > 1.1
+- Tree LOD Lighting - 1.1 > 1.2.0
+- Grass Lighting - 1.3.2 > 1.4.0
+- Grass Collision - 1.1 > 1.2
+- Light Limit Fix - 1.0.2 > 1.2.0
+- Light Limit Fix - 1.0.2 > 1.0.3
+- Thunderbolt - HD Lightning - 1.0 > 2.0
+- Goat HD by Pfuscher - 1.0 > 2.0
+- Radiant Requirements - 1.1 > 1.2
+- Madmen - A Forsworn Overhaul - 2.0 > 2.2
+- Madmen - A Forsworn Overhaul Patch Collection - 2.0 > 2.0.2
+- Vulcano - 1.0.9 > 1.2.5
+- Arclight - 1.0.4 > 1.1.5
+- Desecration - 1.0.5 > 1.1.7
+- Lunaris - 1.2.2 > 1.3.5
+- Stellaris - 1.1.2 > 2.0.6
+- Necrom - 1.1.1 > 2.0.5
+- Natura - 3.1.2 > 4.0.5
+- Bloodmoon - 1.2.3 > 2.0.5
+- Abyss - 3.0.2 > 3.1.5
+- Arcane - 1.0.2 > 1.1.6
+- True Directional Movement - 2.2.4 > 2.2.5
+- Weapon Styles - Draw Sheathe Animations for IED - 1.1 > 2.1
+- NPC Animation Remix - 1.6.2 > 1.8.0
+- Immersive Folded Hands - 1.5 > 1.6.1
+- Organic Player Animations - 1.1 > 1.2.1
+- Improved Table Transition Animations - 1.2 > 1.3
+- Modern Female Sitting Animations Overhaul - 1.6 > 1.8
+- Spell Perk Item Distributor - 6.6.2 > 6.7.6
+- ZedPatch - 0.9.5.2 > 0.9.5.5
+- Synthesis Output - 0.9.5.2 > 0.9.5.5
+- Nemesis Output - 0.9.5.2 > 0.9.5.5 TO DOWNLOAD
+- Bodyslide Output - 0.9.5 > 0.9.5.5
+- Overwrite Misc - 0.9.5 > 0.9.5.5
+
+### Fixes
+
+- Fixed crashes near certain Hagravens or other magic-using NPCs due to outdated Darenii Spell mods in use with Madmen patch.
+- Fixed missing preset for Radiant Requirements during startup
+- Unbound SkyUI group keys by default
+- Disabled LamasTinyHUD feature to equip current loadout on loading save, as it would unequip everything if you have nothing set.
+- Fixed sneak animations never applying due to their DAR priority being too low. Enhanced sneak animations will now be used after getting the Trespasser perk.
+- Corrected wobbly sneak archery animations.
+- Corrected Steel Fashions Berserker armor causing women to float.
+- Removed redundant pre-made Sorcerer patches that are patched by the Synthesis patcher.
+
 ## v0.9.5.4 - **12/10/2023**
 
 ### Updated

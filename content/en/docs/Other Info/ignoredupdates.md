@@ -26,6 +26,7 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
     Andrealphus' Tweaks - Harder Quests - Harder Mara Quests
     Andrealphus' Tweaks - Harder Quests - No Easy Bloodkin
     Animated Inebriation
+    Arcane
     Arctic - Frost Effects Redux
     Argonians Enhanced - HD Argonian Hairstyles
     Armor Mesh Fixes
@@ -218,7 +219,6 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
     QW's Grass Patch
     RaceMenu
     Radiant Requirements MCM
-    Radiant Requirements MCM - Custom Preset
     Rally's Solstheim Plants 2K
     Real 3D Walls
     Real 3D Walls - Majestic Mountains Texture
@@ -325,3 +325,6 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
     WiZkiD - Hall of the Dead Stained Glass Windows
     Yes Im Sure
     Yggdrasil Music
+    ZedPatch
+    ZedPatch's Grandchild
+    ZedPatch's Offspring
