@@ -50,7 +50,7 @@ Quite a few spells have been added, modified or removed in multiple spell mods t
 - Spell Perk Item Distributor - 6.6.2 > 6.7.6
 - ZedPatch - 0.9.5.2 > 0.9.5.5
 - Synthesis Output - 0.9.5.2 > 0.9.5.5
-- Nemesis Output - 0.9.5.2 > 0.9.5.5 TO DOWNLOAD
+- Nemesis Output - 0.9.5.2 > 0.9.5.5
 - Bodyslide Output - 0.9.5 > 0.9.5.5
 - Overwrite Misc - 0.9.5 > 0.9.5.5
 
