@@ -8,7 +8,7 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
-## v0.9.5.4- **12/10/2023**
+## v0.9.5.4 - **12/10/2023**
 
 ### Updated
 
