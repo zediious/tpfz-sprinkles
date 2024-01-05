@@ -202,10 +202,6 @@ This (potentially controversial) mod prevents NPCs from moving while they are ch
 
 ## New Creature Animations
 
-### [MCO Creatures - Preview](https://www.skyrim-guild.com/mods/creatures)
-
-This mod (which could be considered an addon to MCO), adds unique behavioral attack animations to a few creatures in the game, bringing combat with these beasts up to par with humanoid combat. The creatures modified by this mod includes Sabercats, Bears and Dragons!
-
 ### New Creature Animation Mods from stuxjr
 
 This collection of Creature Animation mods adds a variety of new behavioral attacks to a variety of creatures. These animations truly do spice up combat with these creatures, similarly to MCO Creatures. This set of mods covers [Frost Atronachs](https://www.nexusmods.com/skyrimspecialedition/mods/84568), [Trolls](https://www.nexusmods.com/skyrimspecialedition/mods/84026), [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/83806), [Falmer](https://www.nexusmods.com/skyrimspecialedition/mods/83572), [Giants](https://www.nexusmods.com/skyrimspecialedition/mods/83317), [Lurkers](https://www.nexusmods.com/skyrimspecialedition/mods/83105), and [Rieklings/Goblins](https://www.nexusmods.com/skyrimspecialedition/mods/82974).

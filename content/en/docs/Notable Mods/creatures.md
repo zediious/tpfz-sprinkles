@@ -41,7 +41,7 @@ This mod adds static "Soul Trees" to the Soul Cairn worldspace. These eldritch b
 
 This overhaul mod brings back a cut type of Gargoyle, and modifies the existing Gargoyles.
 
-### [Ice Titans (Hidden)](https://www.nexusmods.com/skyrimspecialedition/mods/47181)
+### [Ice Titans](https://www.nexusmods.com/skyrimspecialedition/mods/47181)
 
 A creature mod from Mihail, this mod adds huge giant-like creatures to some of the cold areas of Skyrim. These beasts are even taller than the Giants of Skyrim, and will force you to change your route if you are not prepared for them.
 

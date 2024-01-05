@@ -7,7 +7,7 @@ weight: 20
 ---
 A Skyrim mod list based on The Phoenix Flavor
 
-Current version: 12/31/2023 v0.9.5.6
+Current version: 1/5/2024 v0.9.5.7
 
 Mod List + Archive Total Size: ~330GB
 

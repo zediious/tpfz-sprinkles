@@ -42,7 +42,7 @@ weight: 10
 
 ## Hunters Dialogue Edit / Hunters not Bandits / Thugs not Assassins
 
-## NPCs React to Necromancy
+## NPCs React to Necromancy, Invisibility, and Frenzy
 
 ## Immersive Khajiit Caravan Mules
 

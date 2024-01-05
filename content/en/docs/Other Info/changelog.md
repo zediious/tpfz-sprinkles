@@ -8,6 +8,74 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
+## v0.9.5.7 - **1/5/2024**
+
+This update chiefly fixes a common freeze when using the DynDOLOD High preset. It also fixes a few bugs, updates some mods, and includes the new Description Framework! A few new and updated mods will be making use of this. This version is save-safe!
+
+### Added
+
+- Description Framework
+- NPCs React to Frenzy
+- Vanilla Item Descriptions
+- Mythos of Skyrim - Immersive Artifact Descriptions
+- Blurbs of Skyrim
+- Descriptions for Various Mods
+
+### Updated
+
+- DynDOLOD 3 Alpha - Alpha-155 > Alpha-165
+- Assorted Mesh Fixes - 0.90 > 0.91
+- Constructible Object Custom Keyword System - 1.0.1 > 1.10
+- Constructible Object Custom Keyword System - 1.5.97 DLL - 2.0 > 2.1
+- Casting Bar - 2.1.4 > 3.0
+- Better Third Person Selection - 0.5.8 > 0.5.9
+- DynDOLOD Resources - Alpha-45 > Alpha-47
+- DynDOLOD DLL NG - Alpha-12 > Alpha-13
+- Static Mesh Improvement Mod - Quality Addon - 1.4 > 1.5
+- Cathedral Weathers and Seasons - Unofficial Update - 2.4 > 2.5
+- Dynamic Impact - Slash Effects - 1.1 > 1.2b
+- Dirt and Blood - Dynamic Visual Effects - 2.30 > 2.32
+- Obsidian Mountain Fogs - 1.2 > 1.21
+- Snowy Surfaces Sound Collision and Aesthetics - 1.6.5 > 1.6.6.2
+- Simple Snow Improvements - Skyrim - 2.1 > 2.2
+- Ancient Imperial Septims - 1.2 > 1.3
+- Immersive Death Cycle - 1.0.2 > 1.0.4
+- Forgotten Argonian Roots - 2K version > 4K version
+- Adamant - A Perk Overhaul - 5.8.4 > 5.9.1
+- Hand to Hand - An Adamant Addon - 1.5.6 > 1.5.7
+- Mysticism - A Magic Overhaul - 2.3.3 > 2.3.4
+- College of Winterhold - Quest Expansion - 1.14 > 1.15
+- Harvest Your Blood for Septimus - 1.1.1.1 > 1.1.2
+- Bring Meeko To Lod - 1.0 > 1.1
+- Skyrim's Got Talent - Improve As a Bard - 1.63 > 1.64
+- Wyrmstooth - 0.20 > 0.20.1
+- Frozen in Time - 0.26 > 0.27
+- Baba Yaga and the Labyrinth - 0.3.2 > 0.4.1
+- Penitus Oculatus - 0.18.2 > 0.18.4
+- Calling the Watchmaker - Lovecraftian Inspired Quest - 1.1 > 1.1.1
+- Sidequests of Skyrim - 0.8.2 > 0.8.3
+- Anglerfish - Fathom's Creature Series - 1.0 > 1.1
+- Shovels Bury Bodies - 0.4 > 0.5.1
+- Sweeping Organizes Stuff - 0.4 > 0.5.2
+- DynDOLOD Output - High - 0.9.5 > 0.9.5.7
+- DynDOLOD Output - Medium - 0.9.5 > 0.9.5.7
+- DynDOLOD Output - Low - 0.9.5 > 0.9.5.7
+- ZedPatch - 0.9.5.5 > 0.9.5.7
+- Overwrite Misc - 0.9.5.5 > 0.9.7.7
+
+### Fixes
+
+- Fixed freezing occurring in certain areas of the world due to a problematic DynDOLOD High preset.
+- Fixed Argonian body/face mismatch by using non-broken version of Forgotten Argonian Roots
+- Corrected animation getting stuck when power attacking with Mace or Dagger while casting concentration spell in left hand.
+- Corrected a few katanas not having the correct keyword/not using katana animations.
+- Corrected broken Map Markers in Bruma
+- Corrected invisible Fire Salts bowl.
+
+### Tweaks
+
+- Unbound all Wheeler Gamepad binds by default
+
 ## v0.9.5.6 - **12/31/2023**
 
 This tiny update simply disables Ominous ENB in the Refined profile, as it was enabled alongside Serio's ENB by mistake. If you have already updated to 0.9.5.5, you can ignore this update and change the ENB that is enabled as you choose.
@@ -1034,7 +1102,7 @@ This version has reduced the .wabbajack file size significantly! You will need t
 
 This version should be save-safe. None of the added or removed mods should have a *major* effect on the game. A few changes simply won't apply on existing saves at all, or will require a cell reset. Removed armors will disappear from your save. Make a backup of your saves before playing!
 
-A few new armors and weapons have been added to leveled lists, view [Added Equipment.md](https://github.com/zediious/tpfz-sprinkles/blob/main/Added%20Equipment.md) to see exact additions!
+A few new armors and weapons have been added to leveled lists, view [Added Equipment](https://zediious.github.io/tpfz-sprinkles/docs/other-info/addedequipment/) to see exact additions!
 
 ### Removed
 
