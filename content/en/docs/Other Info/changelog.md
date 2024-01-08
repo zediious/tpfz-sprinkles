@@ -8,6 +8,14 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
 
+## v0.9.5.8 - **1/7/2024**
+
+Bux fix! This version simply removes 3D Tree LOD in the DynDOLOD - High preset, as it is causing freezing issues that will take some time do diagnose.
+
+### Updated
+
+- DynDOLOD Output - High - 0.9.5.7 > 0.9.5.8
+
 ## v0.9.5.7 - **1/5/2024**
 
 This update chiefly fixes a common freeze when using the DynDOLOD High preset. It also fixes a few bugs, updates some mods, and includes the new Description Framework! A few new and updated mods will be making use of this. This version is save-safe!
