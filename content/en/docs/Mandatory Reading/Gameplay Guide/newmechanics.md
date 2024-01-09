@@ -26,7 +26,7 @@ When you are speaking to an NPC, the camera will turn to face the speaking NPC. 
 
 ## Access new Custom Skill Menus in the Tween Menu
 
-When you open your Tween menu, you will notice you now have an extra button labeled "Custom Skills". Within here, you will find *six* new skill trees that you can progress through! There are four trees for Warriors, Mages, Thieves, and Priests respectively. These four trees are a part of [the Sets of Skills mod that you can read about here](../charactercreate#sets-of-skillshttpswwwnexusmodscomskyrimspecialeditionmods55535), and allow you to further buff your character with benefits specific to your build!
+When you open your Tween menu, you will notice you now have an extra button labeled "Custom Skills". Within here, you will find *six* new skill trees that you can progress through! There are four trees for Warriors, Mages, Thieves, and Priests respectively. These four trees are a part of [the Sets of Skills mod that you can read about here](../characterdefine), and allow you to further buff your character with benefits specific to your build! You will get a new perk point to use in either of these trees one a new game, as well as every 5 levels.
 
 You will also find the following three unique perk trees;
 
