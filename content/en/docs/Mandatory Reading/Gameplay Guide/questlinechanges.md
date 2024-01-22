@@ -1,6 +1,6 @@
 ---
 title: Major Questline Changes
-weight: 3
+weight: 2
 ---
 We use [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) to modify the pacing of the Main Quest, College of Winterhold, and The Companions questlines. This mod makes changes to a LOT of familiar aspects of these quests, so you may feel like something is not working correctly at times. We also use a few other mods that modify the other questlines.
 

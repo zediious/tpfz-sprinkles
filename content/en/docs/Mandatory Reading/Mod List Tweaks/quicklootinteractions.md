@@ -17,4 +17,4 @@ I recommend that you decide whether you want to use this mod *before* starting a
 
 You *can* safely modify the Mod Configuration Menu for "Immersive Interactions - Animated Actions", to disable a wide variety of the default animations that play in game.
 
-## [NEXT >> Gameplay Guide - Alternative Death System](../../gameplay-guide/shadowofskyrim)
+## [NEXT >> Gameplay Guide - Defining your Character](../../gameplay-guide/characterdefine)

@@ -60,27 +60,7 @@ The hard part is now over. Carry on, the end is in sight!
 
 First and foremost, you should *NEVER* change an MCM setting except for Hotkeys without asking in Discord first. There are a very large number of MCM settings that change the experience drastically, or introduce bugs that are alleviated by disabling or enabling that setting. As such, it can quite literally break your game if you change a setting you should not change. *Please* ask about any non-hotkey MCM settings you wish to change.
 
-By default, MCM Recorder will run a custom preset that has been created for this mod list. Most MCM configuration menus will be automatically configured for you, using the recommended settings. You will, however, need to configure the MCM for a few mods as listed below;
-
-### Shadow of Skyrim
-
-This mod is **not enabled** by default, since MCM Recorder is unable to do so. You will need to enable this mod yourself if you wish to use it in your playthrough. This mod is *optional*. Nothing will break if it is not enabled, but you will not be getting the full experience. Some players do not like this type of mod, you have the option to keep it disabled. Follow the below instructions to enable it if you wish.
-
-1. Go to the *Shadow of Skyrim* MCM menu, open the General tab.
-
-2. Check the "Enabled" checkbox and allow the mod to initialize. Make sure you see "Shadow of Skyrim Initialized" at the top left of your screen after it takes you out of the MCM menu.
-
-3. Then, you need to open the MCM menu again and select the following options to set the settings. If you do not configure the following settings, there may be issues during death scenes, or the mod will not work at all.
-
-    - Respawn Tab > Respawn Location > Set to **Last Location** (this is preference)
-    - Defeat Tab > Bleedout Style > Set to Animation
-    - Developer Tab > Check Enable Developer Mode
-    - Developer Tab > Check Compatibility Mode
-    - Developer Tab > Check Alternate Start Compatibility
-
-### Valhalla Combat
-
-Only if you decide to [change the block key](../../mod-list-tweaks/powerattackblock) from Duel Wield Parrying SKSE, you will also need to change the block key in the Compatibility section of this mod. Dual Wield Parrying uses a different system to send the blocking action to the game, and Valhalla needs to know which key is initiating this separate action to properly start a timed block. If you are not rebinding your block key, you do not need to worry about this.
+On a new game, MCM Recorder will run a custom preset that has been created for this mod list. Most MCM configuration menus will be automatically configured for you, using the recommended settings. You will, however, need to configure the MCM for a few mods as listed below;
 
 ### Thieves Guild Requirements
 

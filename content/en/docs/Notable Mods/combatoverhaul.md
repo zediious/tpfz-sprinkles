@@ -82,8 +82,6 @@ The downside to this mod, is that it does NOT work in first person at all. Sorry
 
 This mod is very simple. It prevents you from saving manually or with F5 while you are in a combat state. I have added this mod to this list mostly to curb my save-scumming behaviors. I believe that if you suffer from save-scumming as well, this mod can help you to. You can safely disable this mod BEFORE starting a playthrough, but it is NOT advisable to remove it during a playthrough. Do so at your own risk!
 
-This mod integrates VERY well with Shadow of Skyrim, giving you more reason to go along with the scenarios you encounter upon death rather than just reloading a save -_-
-
 ## [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
 
 "Wildcat is a streamlined, yet full featured combat overhaul. It makes combat more dangerous and visceral by increasing lethality, adding injuries and context sensitive stagger and making combat AI more responsive and aggressive."

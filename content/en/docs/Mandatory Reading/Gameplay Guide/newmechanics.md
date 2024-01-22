@@ -1,6 +1,6 @@
 ---
 title: New Mechanics to Know
-weight: 4
+weight: 3
 ---
 Below you will find a list of important new game mechanics that you should certainly know about before playing the list. This does not cover every new mechanic! Read the Notable Mods sections after you have finished the Mandatory Reading sections for even more information.
 

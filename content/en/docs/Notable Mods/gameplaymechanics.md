@@ -20,10 +20,6 @@ Succinctly put above, you will find a large variety in Bandit attack styles, spe
 
 This mod causes you to walk slower and slower, the deeper you get into water before swimming. This is a fantastic addition in my opinion, making you consider whether it's a good idea to step into water during combat, as well as providing an immersion boost when simply exploring.
 
-## [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)
-
-Shadow of Skyrim is an overhaul to the player death system. [Read it's Wiki page here!](../../mandatory-reading/gameplay-guide/shadowofskyrim)
-
 ## SimonMagus overhauls
 
 ### Adamant

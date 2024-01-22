@@ -1,6 +1,6 @@
 ---
 title: Defining your Character
-weight: 2
+weight: 1
 ---
 We use two mods that allow us to further differentiate our characters, building a backstory for them as well as defining their "class". Follow the steps below to set up and understand these two mods.
 
