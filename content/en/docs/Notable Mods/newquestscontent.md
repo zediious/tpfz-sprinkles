@@ -98,5 +98,3 @@ As players progress, they will uncover a deep and intricate storyline, delving i
 ## Immersive World Encounters
 
 ## Missives
-
-## Sidequests in Skyrim
