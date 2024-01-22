@@ -42,26 +42,23 @@ The hard part is now over. Carry on, the end is in sight!
 
 2. At this point Mod Organizer will become "Locked", while the Skyrim executable is running. **Under NO circumstances, should you ever click the "Unlock" button while you are playing the game!** This includes immediately when it appears. Mod Organizer needs to be in this state for the mod list to launch and work properly. If you do click Unlock, you will more than likely be faced with Infinite Loading Screens, or other issues.
 
-3. Once Skyrim starts, create a new game. **Loading a save from outside this mod list will corrupt that save, do not do this. If you are updating from an existing version of the mod list, read the changelog to ensure that the new version is save-safe.**
+3. Once Skyrim starts, create a new game. Loading a save from outside this mod list will corrupt that save, **do not do this!** If you are updating from an existing version of the mod list, read the changelog to ensure that the new version is save-safe.
 
-4. Currently, there is an issue where the character creation screen is too bright. [This is being looked into](https://github.com/zediious/tpfz-sprinkles/issues/8). In the meantime, you should select the Race you want your character to be, and then move on to the next step. Rarely, the bright screen issue does not occur. If you can see your character clearly, then you can fully create your character now, and skip Step 7.
+4. Currently, there is an issue where the character creation screen is too bright. [This is being looked into](https://github.com/zediious/tpfz-sprinkles/issues/8). In the meantime, you should **select the Race you want your character to be**, and then move on to the next step. Rarely, the bright screen issue does not occur. If you can see your character clearly, then you can fully create your character now, and skip Step 7.
 
-5. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take a little bit of time. You’ll see a list of mods initializing in the top left of the screen, and you will see automated messages telling you that your MCM is automatically being configured. Please, follow the instructions in these messages, and **DO NOT** do anything until notification messages have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
+5. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take a little bit of time. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
 
 6. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-7. ONLY if you had the bright screen issue when the Race Menu first appeared in Step 4, open the console with the [Tilde/Backtick Key](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theitbase.com%2Fwp-content%2Fuploads%2F2020%2F01%2FBacktick.jpg&f=1&nofb=1&ipt=bf4ef1d8142feb86fa6843d17d61250c3a057c5b11f89931a61777c20f3de676&ipo=images) below your Escape key, and enter the following command `showracemenu` and press Enter. This will re-open the Race Menu screen. Create your character and name them whatever you’d like.
+7. ONLY if you had the bright screen issue when the Race Menu first appeared in Step 4, open the console with the [Tilde/Backtick Key](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theitbase.com%2Fwp-content%2Fuploads%2F2020%2F01%2FBacktick.jpg&f=1&nofb=1&ipt=bf4ef1d8142feb86fa6843d17d61250c3a057c5b11f89931a61777c20f3de676&ipo=images) below your Escape key, enter the following command `showracemenu`, and press Enter. This will re-open the character creation screen. Create your character and name them whatever you’d like.
 
 8. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
 
-9. At this point, you should make a save, and reload that save before continuing due to the following;
-
-- Dodging will not use stamina until you reload a save on a new game.
-- Occasionally, certain UI elements will not appear until you reload a save on a new game.
+9. At this point, you should make a save, and reload that save before continuing.
 
 ## The MCM Settings
 
-First and foremost, you should *NEVER* change an MCM setting except for Hotkeys without asking in Discord first. There are a very large number of MCM settings that change the experience drastically, or introduce bugs that are alleviated by disabling or enabling that setting. As such, it can quite literally break your game if you change a setting you should not change. *Please* ask about any MCM settings you wish to change.
+First and foremost, you should *NEVER* change an MCM setting except for Hotkeys without asking in Discord first. There are a very large number of MCM settings that change the experience drastically, or introduce bugs that are alleviated by disabling or enabling that setting. As such, it can quite literally break your game if you change a setting you should not change. *Please* ask about any non-hotkey MCM settings you wish to change.
 
 By default, MCM Recorder will run a custom preset that has been created for this mod list. Most MCM configuration menus will be automatically configured for you, using the recommended settings. You will, however, need to configure the MCM for a few mods as listed below;
 
@@ -87,11 +84,11 @@ Only if you decide to [change the block key](../../mod-list-tweaks/powerattackbl
 
 ### Thieves Guild Requirements
 
-MCM Recorder fails to configure this mod due to some issues with how TGR has created it's MCM. The Alternate Locations for Gems setting from this mod currently has an issue where a gem in The Frozen Hearth (Winterhold inn) will be placed outside of the building bounds. This can easily be fetched using the TCL console command, but you may want to avoid this setting until I have created a patch and released a new version with that patch.
+MCM Recorder fails to configure this mod due to some issues with how TGR has created it's MCM. While disabled by default, the "Alternate Locations for Gems" setting from this mod currently has an issue where a gem in The Frozen Hearth (Winterhold Inn) will be placed outside of the building bounds. This can easily be fetched using the TCL console command, but you will want to avoid this setting until this has been fixed.
 
-### DynDOLOD
+### Valhalla Combat
 
-After you have entered an exterior world space for the first time, DynDOLOD will enable. You can then edit the MCM configuration to modify your tree render distance among other settings. These configuration options can have a drastic effect on performance, so change them wisely.
+ONLY if you decide to [change the block key](../../mod-list-tweaks/powerattackblock) from Duel Wield Parrying SKSE, you will also need to change the block key in the Compatibility section of this mod. Dual Wield Parrying uses a different system to send the blocking action to the game, and Valhalla needs to know which key is initiating this separate action to properly start a timed block. If you are not rebinding your block key, you do not need to worry about this.
 
 ## Important Notes Regarding Current Bugs
 
@@ -113,8 +110,8 @@ There is a major issue with **one** of the starting scenarios you can choose whe
 
 - Quicksaves are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
 
-- It is recommended that you do not load autosaves as a rule. They are kept on by default, because I like to live a *little* over the edge, and want a fail-safe in the event that I forget to save. You are welcome to (and probably should) disable autosaves, and only rely on manually-initiated saves. If you want to read more about the subject, check out **mator's** [response to a discussion on the topic here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/comment/dpj3cx7/)
+- It is recommended that you do not load autosaves as a rule. In this mod list, they are **off** by default. If you want to read more about the subject, check out **mator's** [response to a discussion on the topic here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/comment/dpj3cx7/)
 
-- Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make (as ill-advised as making changes may be).
+- Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make.
 
 ## [NEXT >> Performance Profile](../performanceprofile)
