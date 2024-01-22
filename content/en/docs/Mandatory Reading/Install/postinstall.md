@@ -27,10 +27,15 @@ If you are *sure* you have performed Step 1, then those file should not be in th
 The only files/directories that should be in the Overwrite mod after launching the game and playing are as follows;
 
 - NetScriptFramework (if you experience a crash, logs go here)
-- Root/d3dx9_42.log and imgui.ini
+- Root
+  - betacomments.txt
+  - d3dx9_42.log
+  - imgui.ini
 - ShaderCache/
-- SKSE/Plugin log files
-- SKSE/Plugins/LamasTinyHud loadout .ini files
+- SKSE
+  - Plugins
+    - LamasTinyHUD Loadout .ini files
+  - Various plugin log files
 
 ## Launching the Game
 
