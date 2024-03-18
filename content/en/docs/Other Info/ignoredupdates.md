@@ -12,10 +12,10 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
     .NET Script Framework
     A Quality World Map
     Actor Limit Fix
+    Additional Dremora Faces
     Address Library for SKSE Plugins
     Adventurer HDT-SMP Armor - HIMBO Refit
     ADXP - MCO ER Mixed Scythe
-    ADXP - MCO Spear Basic Animation
     Ahzidal's Armor Replacer
     Airgetlam - Modern Magic Sounds Rework
     Alternate Perspective - CC Patch
@@ -176,7 +176,9 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
     Modular Armory
     Modular Armory - Armor Mesh Fixes Patch
     Modular Armory - Unique Zephyr
+    Modular SMP Hairstyles
     MonsterPatch
+    More Thalmor Dossiers
     moreHUD
     moreHUD Inventory Edition
     Morrowind Creatures
@@ -279,7 +281,6 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
     Superior Lore-Friendly Hair - HD Textures
     Survival Control Panel
     Talkative Dragons - Less Talkative
-    TexGen Output
     Thanedom Assets
     Thanedom Of Darkwater Crossing
     Thanedom Of Dunpar

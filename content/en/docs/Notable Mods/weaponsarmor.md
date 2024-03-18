@@ -4,7 +4,9 @@ weight: 6
 ---
 > Outlining thoughts for later. Each mod will be expanded upon.
 
-[Read the full added equipment list here](https://zediious.github.io/tpfz-sprinkles/docs/other-info/addedequipment/)
+This mod list adds a very large amount of new equipment to the game, most of which has been added to leveled lists.
+
+[Read the full added equipment list here](../../other-info/addedequipment/)
 
 ## Artifact Mods
 

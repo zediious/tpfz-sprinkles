@@ -18,7 +18,7 @@ Occasionally, Wabbajack and/or Rootbuilder can place files that were installed b
 
 1. If you did not perform the steps [here](../clean), you MUST do so. If you are knowledgeable, you may be able to remove files from this directory that should not be there and then simply verify your game install. If you do not understand this, PLEASE follow the directions in the link above.
 
-2. In the left pane of Mod Organizer, scroll all the way to the bottom, where you will find an "Overwrite" mod underneath the "To Test" separator. Double click this.
+2. In the left pane of Mod Organizer, scroll all the way to the bottom, where you will find an "Overwrite" mod. Double click this.
 
 3. If you have not run the game yet, this mod/directory should be *completely* empty. If it is not, *double check* that you have performed Step 1. If you have, simply select all of the files inside of the Overwrite mod, right click them, and delete.
 
@@ -41,7 +41,7 @@ The only files/directories that should be in the Overwrite mod after launching t
 
 **PLEASE READ THIS SECTION! IT WILL PREVENT ISSUES!**
 
-The hard part is now over. Carry on, the end is in sight!
+The hard part is nearly over. Carry on, the end is in sight!
 
 1. In Mod Organizer 2, select SKSE from the drop-down menu next to the Run button and click Run. You should ALWAYS run the mod list with the SKSE executable, do NOT use the Skyrim SE executable. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
 
@@ -67,10 +67,6 @@ First and foremost, you should *NEVER* change an MCM setting except for Hotkeys 
 
 On a new game, MCM Recorder will run a custom preset that has been created for this mod list. Most MCM configuration menus will be automatically configured for you, using the recommended settings. You will, however, need to configure the MCM for a few mods as listed below;
 
-### Thieves Guild Requirements
-
-MCM Recorder fails to configure this mod due to some issues with how TGR has created it's MCM. While disabled by default, the "Alternate Locations for Gems" setting from this mod currently has an issue where a gem in The Frozen Hearth (Winterhold Inn) will be placed outside of the building bounds. This can easily be fetched using the TCL console command, but you will want to avoid this setting until this has been fixed.
-
 ### Valhalla Combat
 
 ONLY if you decide to [change the block key](../../mod-list-tweaks/powerattackblock) from Duel Wield Parrying SKSE, you will also need to change the block key in the Compatibility section of this mod. Dual Wield Parrying uses a different system to send the blocking action to the game, and Valhalla needs to know which key is initiating this separate action to properly start a timed block. If you are not rebinding your block key, you do not need to worry about this.
@@ -81,9 +77,7 @@ There is a major issue with **one** of the starting scenarios you can choose whe
 
 ## Final Thoughts & Best Practices
 
-- Report any bugs/issues or anything remotely odd on our [issue tracker!](https://github.com/zediious/tpfz-sprinkles/issues) Reporting issues you find helps to make this mod list better for everyone :)
-
-- If you find a bug or anything weird in game, make sure to check the [current issues](https://github.com/zediious/tpfz-sprinkles/issues) before posting on Discord or making a new issue.
+- Report any bugs/issues or anything remotely odd on our [issue tracker!](https://github.com/zediious/tpfz-sprinkles/issues) Make sure to check the current issues before posting on Discord or making a new issue. Reporting issues you find helps to make this mod list better for everyone :)
 
 - Endorse the mods that have been downloaded by this list! Without the mod authors, the list could not exist. You definitely don't have to click endorse 1500+ times in one day, but check your Nexus download history every once in a while and spend some time endorsing these mods. Wabbajack has made it incredibly easy to get the mods downloaded, but the authors deserve some commendation for their work, in my opinion. [Follow this link to get to your download history!](https://www.nexusmods.com/skyrimspecialedition/users/myaccount?tab=download+history)
 
@@ -91,12 +85,12 @@ There is a major issue with **one** of the starting scenarios you can choose whe
 
 - When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues!
 
-- **NEVER** save right after a loading screen. Wait 30 seconds before saving to let scripts finish executing.
+- **NEVER** save right after a loading screen. Wait 15-30 seconds before saving to let scripts finish executing.
 
-- Quicksaves are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
+- Quicksaves made with F5 are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
 
 - It is recommended that you do not load autosaves as a rule. In this mod list, they are **off** by default. If you want to read more about the subject, check out **mator's** [response to a discussion on the topic here](https://www.reddit.com/r/skyrimmods/comments/7bkazq/comment/dpj3cx7/)
 
 - Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make.
 
-## [NEXT >> Performance Profile](../performanceprofile)
+## [NEXT >> Mod List Tweaks - Power Attacking and Blocking](../../mod-list-tweaks/powerattackblock)

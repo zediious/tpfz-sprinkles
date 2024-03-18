@@ -28,14 +28,6 @@ weight: 10
 
 ## Jayserpa Dialogue Overhauls
 
-### Civil War Lines Expansion
-
-### Bandit Lines Expansion
-
-### Forsworn and Thalmor Lines Expansion
-
-### Vampire Lines Expansion
-
 ## Misc Dialogue Edits
 
 ## Misc Dialogue Options

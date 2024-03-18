@@ -58,9 +58,9 @@ This mod adds a unique moveset for Rapier weapons when they are one-handed, over
 
 This mod from Skypia's "For Honor" series adds a Dual Katana moveset stylized after the "Aramusha" class in For Honor.
 
-### [Basic Spear Animation](https://www.nexusmods.com/skyrimspecialedition/mods/74564)
+### [Nobushi I Spear Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/112341)
 
-This mod adds spear combat animations for MCO. They are overriding Edgemaster, for the sake of a little variety in pole-arm animations.
+This mod adds spear combat animations for MCO. These will apply to Halberds, Spears, Pikes, and most other polearm weapons.
 
 ### [Mixed Scythe](https://www.nexusmods.com/skyrimspecialedition/mods/76480)
 

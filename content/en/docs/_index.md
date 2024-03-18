@@ -5,15 +5,15 @@ hide_readingtime: true
 menu: {main: {weight: 20}}
 weight: 20
 ---
-A Skyrim mod list based on The Phoenix Flavor
+A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
 
-Current version: 1/17/2024 v0.9.5.10
+Current version: March 18th 2024 - v0.9.6
 
-Mod List + Archive Total Size: ~330GB
+Mod List + Archive Total Size: ~393GB
 
 ## Preamble
 
-> Before anything else, I will say that you MUST read everything in this Wiki that is within the **Mandatory Reading** section, which you will find by following the links at the bottom of this page, and further pages. It is VERY important that you read the wiki pages in the **Mandatory Reading** category to understand what steps need to be taken to enjoy this list to the fullest, and have it actually work. Thank you so much!
+> Before anything else, I will say that you MUST read everything in this Wiki that is within the **Mandatory Reading** section, which you will find by following the links at the bottom of this page, and further pages. It is VERY important that you read the wiki pages in this category to understand what steps need to be taken to enjoy this list to the fullest, and have it actually work. Thank you so much!
 
 Welcome to the Wiki for The Phoenix Flavor - Zediious Sprinkles! This mod list started life early 2021 as an installation of [The Phoenix Flavor](https://loadorderlibrary.com/lists/the-phoenix-flavour). The mods that The Phoenix Flavor comes with brought the game up to a perfect Vanilla+ setup. I realized that I wanted to make some changes, in the name of breaking that "Vanilla+" moniker, using TPF as a base for my adventure. I love Skyrim, but after you've played 3000+ hours, you begin to yearn for something *more*.
 
@@ -53,17 +53,17 @@ To seal it all off, this list is accompanied by a completely customized set of l
 
 When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues! You will be reminded of this in the Post-Mod List Install section of the wiki.
 
-Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).
+Wabbajack does not require that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually.
 
-As of the latest version, the modlist requires ~330GB (~120GB of Downloads/~208GB of Mods) of hard drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+As of the latest version, the modlist requires ~393GB (~139GB of Downloads/~254GB of Mods) of drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 This list **requires** that you have the **latest** version of Skyrim installed on Steam. Do **NOT** use any downgrade patchers, Wabbajack will do this work for you.
 
-This list **does NOT support** any additional Creation Club content beyond the four defaults provided with the base game (Fishing, Saints and Seducers, Survival Mode, Rare Curios). Any additional content will be disabled with no action required on your part. The list was also not created around them, they were only recently added. These will be fully integrated soon! (Survival Mode and Saints and Seducers have been patched).
+This list **does NOT support** any additional Creation Club content beyond the four defaults provided with the base game (Fishing, Saints and Seducers, Survival Mode, Rare Curios). Any additional content will be disabled with no action required on your part.
 
-Support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
+Full support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
 
-Do NOT update the mods from [this page](https://www.nexusmods.com/skyrimspecialedition/mods/87783) (or any mod for that matter) without updating the whole list. Also a great way to have a **Bad Time™**.
+Do NOT update any mods in the list without updating the whole list. Also a great way to have a **Bad Time™**.
 
 Often, antivirus software can flag certain mod files as malicious. These will always be a false positive with this mod list. It is recommended that you set an exclusion within your antivirus for the directories you will be installing Wabbajack and this mod list. For instructions on doing so with Windows Defender, [you can click here](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
 
@@ -72,6 +72,7 @@ Often, antivirus software can flag certain mod files as malicious. These will al
 - Halgari and other contributors for creating Wabbajack, a magical black box that allows me to distribute my list.
 - Foreverphoenix for creating The Phoenix Flavor, which this mod list is based on.
 - All the mod authors for creating content to extend this game.
+- VikingWynn for helping out so much with support in Discord and the bug testing process.
 - Everyone that has reported bugs and made suggestions, making the list better.
 
-## [NEXT >> Mandatory Reading - System Specifications](./mandatory-reading/install/specs)
+## [NEXT >> Mandatory Reading - Profiles and System Specifications](./mandatory-reading/install/specs)

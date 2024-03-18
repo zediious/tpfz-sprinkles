@@ -57,7 +57,6 @@ Draugr Weapons Standalone
 
 ### Mace
 
-- Iron Whip
 - Third Era Iron Club
 - Third Era Wooden Club
 
@@ -93,6 +92,8 @@ Draugr Weapons Standalone
 - Norse Dagger
 - Dual Steel Claws
 - Steel Dirk
+- Voronan Blade
+- Rugger
 
 ### Sword
 
@@ -137,7 +138,6 @@ Draugr Weapons Standalone
 
 ### Mace
 
-- Steel Whip
 - Third Era Steel Club
 
 ### Greatsword
@@ -194,7 +194,7 @@ Draugr Weapons Standalone
 
 ### Mace
 
-- Dwarven Whip
+- Eastern Brassplate Hammer
 
 ### Greatsword
 
@@ -246,6 +246,7 @@ Draugr Weapons Standalone
 - Blademaster's Katana
 - Royal Elven Sword
 - Welkynar Hussar Saber
+- Nameless Saber
 
 ### Waraxe
 
@@ -254,7 +255,6 @@ Draugr Weapons Standalone
 ### Mace
 
 - Elven(Dovah) Nord Warhammer
-- Elven Whip
 - Welkynar Hussar Hammer
 
 ### Greatsword
@@ -305,10 +305,6 @@ Draugr Weapons Standalone
 
 - Krigers Eftermaele
 
-### Mace
-
-- Orcish Whip
-
 ### Greatsword
 
 - Baltimore Falchion
@@ -324,6 +320,7 @@ Draugr Weapons Standalone
 - Nordic Wanderer Greatsword
 - Traveler Greatsword
 - War Scythe
+- Elmlock Greatsword
 
 ### Battleaxe
 
@@ -347,10 +344,6 @@ Draugr Weapons Standalone
 ### Waraxe
 
 - Atmoran Waraxe
-
-### Mace
-
-- Nordic Whip
 
 ### Greatsword
 
@@ -397,7 +390,7 @@ Draugr Weapons Standalone
 ### Mace
 
 - Marauder
-- Glass Whip
+- River Watch Mace
 
 ### Greatsword
 
@@ -450,10 +443,6 @@ Draugr Weapons Standalone
 - Havsskurk
 - Ebony Damascus Cleaver
 
-### Mace
-
-- Ebony Whip
-
 ### Greatsword
 
 - Ritevice
@@ -496,10 +485,6 @@ Draugr Weapons Standalone
 - Stalhrim Katana
 - Stalhrim Wakizashi
 
-### Mace
-
-- Stalhrim Whip
-
 ### Battleaxe
 
 - Stalhrim Pike
@@ -530,10 +515,6 @@ Draugr Weapons Standalone
 - Valermos
 - Blade of Chaos
 - Yorukaze Katana
-
-### Mace
-
-- Daedric Whip
 
 ### Greatsword
 
@@ -576,7 +557,6 @@ Draugr Weapons Standalone
 ### Mace
 
 - Dragon Bone Mace
-- Dragonbone Whip
 
 ### Greatsword
 
@@ -660,6 +640,7 @@ Khajiiti Apex Armory
 - Nemesis Set
 - Ebony Elven Set
 - Welkynar Hussar Set
+- Elven Enforcer Set
 
 ### Scaled Tier
 
@@ -676,6 +657,8 @@ Khajiiti Apex Armory
 - Platescale Set
 - Countess Set
 - Inquisitor Set
+- Illusive Infiltrator Set
+- Elmlock Set
 
 ### Glass Tier
 
@@ -684,10 +667,13 @@ Khajiiti Apex Armory
 - Silver Elven Set
 - Ebony Scale Set
 - Seascale Set
+- River Watch Set
+- Wayrest Sellsword Set
 
 ### Dragonscale Tier
 
 - Veteran Dragonscale Set
+- Light Dragonbone Set
 
 ### Iron Tier
 
@@ -716,6 +702,7 @@ Khajiiti Apex Armory
 - Summerguard Set
 - Eastern Dwemer Set
 - 4thUnknown Dwemer Set
+- Eastern Brassplate Set
 
 ### Steel Plate Tier
 
@@ -725,16 +712,21 @@ Khajiiti Apex Armory
 - Battlemage Set
 - Kvetchi Mercenary Set
 - Landlord Set
+- Fluted Set
 
 ### Orcish Tier
 
 - Orcish Chief Set
 - Nordic Wanderer Set
+- Orcish Leather Set
+- Orcish Scout Set
 
 ### Nordic Tier
 
 - Heavy Nord Set
 - Elite Wolf Set
+- Breton Noble Armor (Renamed Nordic Knight)
+- Ysmir Armor
 
 ### Ebony Tier
 
@@ -743,6 +735,7 @@ Khajiiti Apex Armory
 - Blackened Steel Set
 - Corrupted Thorn Set
 - Silver Ebony Set
+- Yaldabaoth Set
 
 ### Daedric Tier
 

@@ -4,9 +4,232 @@ weight: 1
 ---
 Changelogs of this fashion were not written before compiling to Wabbajack. The modlist has undergone a very large number of changes over the years before this point. Most times, if I have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can view by hovering over the notepad icon on the mod in the left pane of MO.
 
+When armors/weapons are added to the list, they are commonly added to leveled lists. Check the [Added Equipment](../addedequipment) page for a full list of equipment.
+
 Basic conflict resolution when adding a mod is generally not included here, every addition to the list is vetted thoroughly. Only if existing conflict resolution was flawed and fixed, will it be included here.
 
-If the third number in a version (the 3 in 9.1.3) is changed or added, then that version is **NOT SAFE** to update to on an existing save at all. If the fourth number in a version (the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues. This schema will be changed when the mod list reaches version 1.0.
+If the third number in a version (the 3 in 9.1.3) is changed, that version is **NOT SAFE** to update to on an existing save. If the fourth number in a version (i.e the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.
+
+## v0.9.6 - **3/18/2024**
+
+This version is SAVE UN-SAFE! You should not use existing saves with this version, or you risk causing issues with them.
+
+A large change coming with this update is the introduction of the "Experience" mod. Leveling your skills will no longer increase your level alone. For your player level to increase, you must explore/find locations, defeat enemies, finish quests, as well as a variety of other game actions. Your skill levels will be capped depending on how high your character level is.
+
+This version also introduces an "Ultra" DynDOLOD preset, that uses Grass LOD and 3D Tree LOD! This is an extremely intensive preset, and should only be used with very powerful systems. With this, there are now three different presets with this list. The optional Medium DynDOLOD preset has also been removed.
+
+We're also introducing new player homes! For now, we've only added five homes. Any homes added to the list will always be modified to either add cost to them, or increase it if it's too low. More of these will be added with time.
+
+A notable addition is Skyrim Motion Control. It now takes time for the character to speed up and slow down, which creates a very realistic feeling of motion. You can also move slightly faster when moving downhill, and will be slowed uphill.
+
+Another important change with this update is the re-introduction of Weapon Speed effects. These effects will now affect your attack speed, whereas previously they did not. This is going to be fine-tuned over time for balance to prevent too much attack speed.
+
+Mod Organizer has also been updated to the latest version, along with RootBuilder. If you installed any additional plugins, they will need to be updated to this new version!
+
+### Removed
+
+- Chillrend Visual Overhaul
+- Shadow of Skyrim - Alternate Death and Nemesis System
+- Wards Functionalities Extended
+- Sidequests of Skyrim
+- Honed Metal - Revoiced
+- Honed Metal - Additional Materials
+- ADXP - MCO Spear Basic Animation
+- Spear Movement Animations
+- DynDOLOD Output - Medium
+
+### Added
+
+- Bethesda Plugin Manager for Mod Organizer
+- Subsurface Scattering (Disabled by default)
+- Water Parallax (Disabled by default)
+- Water Caustics (Disabled by default)
+- Wetness Effects (Disabled by default)
+- Dynamic Cubemaps (Disabled by default)
+- Backported Extended ESL Support
+- Grass Cache Helper NG
+- Sky Reflection Fix
+- Use or Take
+- Read or Take
+- Subtitles
+- Dragon Mounds - Better Collision and Mesh Fixes
+- Slightly Better Nordic Burial Cairns
+- Stacks of Septims - 3D Coin Piles
+- Arcs Chillrend Redux
+- Modular SMP Hairstyles
+- Valkyr HDT-SMP Hairstyles 02
+- FANTASY CREATURE HDTP SMP TAILS
+- Angelic Halos and Demonic Horns
+- HORNY
+- Horns Aplenty
+- Experience
+- Experience - MCM
+- Fishing Preview
+- Simple Fishing Overhaul
+- COIN - Coins of Interesting Natures
+- Honed Metal Additional Materials - Formlist Manipulator
+- Face Sculptor Expanded
+- Extended Bandit Dialogue
+- Dialogue Expansion - Windhelm
+- Dialogue Expansion - Imperial Soldiers
+- Dialogue Expansion - Brelyna Maryon
+- Talkative Hagravens
+- Scared of Shootings - NPCs react to aiming bows
+- Return Aegisbane
+- Unmasking Sybille
+- The Rookery - Bard and Thief Loft
+- The Rookery - Acquisition Edits
+- Dovahkiin's Vault
+- Kalnn - A Vampire's Hobbit Hole
+- Mirele Bismath Reborn
+- Mirele Bismath Reborn - Extended Bath and EVGAT
+- Mirele Bismath Reborn - Increased Cost
+- Magpie Manor
+- Siege at Icemoth
+- Grief
+- Xtudo Fixes for Old Gods of the Hunt/Leshens
+- Xtudo Fixes for Water Hags
+- Xtudo Fixes for Storm Golem
+- Nameless Saber + Xtudo Fixes
+- Vorono's Bauernwehr
+- Vorono's Rugger
+- Eastern Brassplate Set + Xtudo Fixes
+- River Watch Set + Xtudo Fixes
+- Illusive Infiltrator Armor + Xtudo Fixes
+- Gryphonknight Regalia - Breton Noble Armor
+- Fluted Armor + Xtudo Fixes
+- Light Dragonbone Armor
+- Yaldabaoth Armor + HDT-SMP Patch
+- Wayrest Sellsword Set
+- Elmlock Armor and Blade
+- Elven Enforcer Armor
+- Ysmir Armor + Xtudo Fixes
+- Orcish Scout Armor
+- Orcish Leather Armor
+- Vigilant CBBE Patch
+- Beyond Reach CBBE and HIMBO Patch
+- NPCs Take Cover - Smarter Anti-Cheese AI
+- Nordic Winds
+- Open Animation Replacer - Dialogue Plugin
+- SKYRIM MOTION CONTROL
+- SKYRIM MOTION CONTROL - MCM
+- Vanargand Animations II - Unarmed Non Combat Locomotion
+- EVGAT - Dynamic Climb-able Ladder Doors
+- Nobushi I Spear Moveset
+- Vanargand Animations II - Unarmed MCO Moveset
+- Player Character Gestures
+- Dynamic Horse Petting Animations for Immersive Interactions
+- Horse Behaviour Improvements
+- Papyrus Ini Manipulator
+- FormList Manipulator
+- Grass Cache Output
+- DynDOLOD Output - Ultra
+
+### Updated
+
+- Mod Organizer - 2.4.4 > 2.5.0
+- Root Builder - 4.4.2 > 5.0.4
+- Community Shaders - 0.7.4 > 0.8.4
+- Screen-Space Shadows - 1.1.2 > 1.2.0
+- Complex Parallax Materials - 1.0.2 > 1.0.3
+- Tree LOD Lighting - 1.2 > 1.2.1
+- Grass Lighting - 1.4 > 1.4.1
+- Light Limit Fix - 1.2 > 1.3
+- DynDOLOD 3 Alpha - Alpha-165 > Alpha-167
+- powerofthree's Tweaks - 1.8.1 > 1.9.2
+- Skyrim Particle Patch for ENB - 1.2.6 > 1.2.8
+- Zero Bounty Hostility Fix - 0.3 > 0.4
+- Better Third Person Selection - 0.5.9 > 0.6.0
+- Detection Meter - 0.17 > 1.11
+- DynDOLOD DLL NG - Alpha-13 > Alpha-17
+- Dirt and Blood - Dynamic Visual Effects - 2.32 > 2.34
+- JS Unique Utopia SE - Daggers - 1.2 > 1.2.1
+- JS Unique Utopia SE - Rings - 1.1 > 1.2
+- Immersive Display Overhaul - 1.3 > 1.31
+- Hand to Hand - An Adamant Addon - 1.5.7 > 1.5.8
+- Mysticism - 2.3.4 > 2.4.1
+- Pilgrim - 1.1.2 > 1.2.2
+- Aetherius - 2.11.8 > 2.12.1
+- Mundus - 1.11 > 1.12.2
+- Scion - 2.1.2 > 2.2.2
+- Manbeast - 2.0 > 2.1.1
+- Stormcrown - 1.1.10 > 1.1.16
+- Security Overhaul SKSE - Lock Add-ons - 0.1.8 > 0.1.9.1
+- Honed Metal - 1.23 > 1.26
+- Apothecary - 1.3.4 > 1.3.9
+- Thaumaturgy - 1.3.3 > 1.4.5
+- Animated Carriage
+- Animated Carriage - Additional Routes
+- Nether's Follower Framework - 2.8.5 > 2.8.6
+- AI Overhaul - 1.8.4 > 1.8.5
+- Additional Dremora Faces - 1.3 > 1.3.7
+- Misc Dialogue Edits - 1.9.2 > 1.9.4
+- Civil War Lines Expansion - 1.08 > 1.09
+- Bandit Lines Expansion - 1.08 > 109
+- Forsworn and Thalmor Lines Expansion - 1.01 > 1.02
+- Vampire Lines Expansion - 1.0 > 1.02
+- Immersive Rejections - 1.11 > 1.13
+- The Heart of Dibella - Quest Expansion - 1.0 > 1.03
+- Nilheim - Misc Quest Expansion - 1.12 > 1.13
+- Headhunter - Bounties Redone - 1.51 > 1.52
+- Harvest Your Blood for Septimus - 1.1.2 > 1.1.2.1
+- More Thalmor Dossiers - 1.12b - 1.15
+- More Thalmor Dossiers - Interesting NPCs - 1.12 - 1.15
+- More Thalmor Dossiers - Bruma - 1.12 - 1.15
+- Remote Interactions - 1.03 > 1.04
+- Skyrim's Got Talent - Improve As a Bard - 1.64 > 1.70
+- Interesting NPCs Script Optimisation - 2.0 > 2.1
+- Magic Sneak Attacks - 1.2 > 1.3
+- Pause After Load Unscripted NG - 1.1.1 > 1.2.0
+- Open Animation Replacer 2.0.2 > 2.2.2
+- Paired Animation Improvements - 1.0.1 > 1.0.2
+- EVG Animated Traversal - 1.02 > 2.0b
+- Reanimated NPC Animations - 1.2 > 1.21
+- Axarien's Animations - Teldryn Sero - 1.0 > 1.1
+- Immersive Interactions - Animated Actions - 1.73 > 1.75
+- Immersive Interactions for Quick Loot - 1.4 > 1.5
+- Spell Perk Item Distributor - 6.7.6 > 6.8.2
+- Sound Record Distributor - 1.3 > 1.5.1
+- Keyword Item Distributor - 3.0.4 > 3.4.0
+- Leveled List Additions (Armor) - 0.9.5 > 0.9.6
+- Leveled List Additions (Weapon) - 0.9.5 > 0.9.6
+- MonsterPatch - 0.9.5.2 > 0.9.6
+- ZedPatch 1 - 0.9.5.7 > 0.9.6
+- ZedPatch 2 - 0.9.5.2 > 0.9.6
+- ZedPatch 3 - 0.9.5 > 0.9.6
+- Synthesis Output - 0.9.9.5 > 0.9.6
+- TexGen Output - 0.9.5 > 0.9.6
+- DynDOLOD Output - High - 0.9.5.8 > 0.9.6
+- DynDOLOD Output - Low - 0.9.5.7 > 0.9.6
+- Occlusion Output - 0.9.5.2 > 0.9.6
+- Nemesis Output - 0.9.5.5> 0.9.6
+- BodySlide Output - 0.9.5.5 > 0.9.6
+
+### Fixes
+
+- Removed cloaks from "Beyond Reach - Tweaks and Enhancements" as they were behaving in odd ways, while retaining added shields.
+- Fixed NPCs at Raven Rock from detouring through Bloodskaal Barrow to get across town, as well as various other navmesh issues.
+- Fix second stage of Restoration "Affliction" perk from reducing Poison damage instead of raising it.
+- Corrected new Dark Brotherhood armor models and textures not applying.
+- Made all bandits dead at Four Skull Lookout, and removed it from radiant lists.
+- Fixed landscape and building errors at Soljund's Sinkhole.
+- Corrected water seam in Morthal.
+- Disabled erroneous water plane in Old Ruins at Stonehills.
+- Fixed water trough positioning at Solitude Blacksmith
+- Fixed landscape hole north of the Whiterun-Reach border gate
+- Corrected landscape hole near Ogre's Hole location.
+- Corrected unarmed T-pose by replacing animation mod.
+- Corrected wrong damage and material type on Colovian Axe.
+- Removed Ebony in COBJs for Forgotten Plate set.
+- Prevent Rogue Perk from Warrior path lowering crossbow reload speed.
+
+### Tweaks
+
+- Newly added Vanargand unarmed moveset replacing Edgemaster unarmed animation that applies before "Momentum" Hand-to-Hand perk. The faster moveset that already exists will play at that point. The newly added locomotion animations will always apply to unarmed.
+- Switched from the "ADXP" to "MCO" version of Attack - MCO-DXP, allowing Weapon Speed effects to apply to third person animations again.
+- Enable Scrambled Bugs fixed for Staff and Scroll experience in respective schools.
+- Made more mod-added NPCs use OWL leveled lists rather than vanilla items.
+- Disabled actor fade via SSE Display Tweaks.
 
 ## v0.9.5.10 - **1/17/2024**
 

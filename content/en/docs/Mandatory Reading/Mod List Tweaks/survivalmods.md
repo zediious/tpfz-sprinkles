@@ -2,7 +2,9 @@
 title: Enabling Extra Survival Mods
 weight: 3
 ---
-Always remember that the list was *not* created around these, and they do not create my desired gameplay. They exist as an option so users that want that gameplay can still receive official support These mods are entirely optional, and are not how I personally prefer to play the list
+Always remember that the list was *not* created around these, and they do not create my desired gameplay. They exist as an option so users that want that gameplay can still receive official support These mods are entirely optional, and are not how I personally prefer to play the list.
+
+If you make a support thread in Discord while using these Survival mods, please make sure to include that in the request :)
 
 ## Enabling Survival Mods
 

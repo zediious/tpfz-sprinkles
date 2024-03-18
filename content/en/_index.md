@@ -12,7 +12,7 @@ title: TPF - Zediious Sprinkles
       Join Discord for Support! <i class="fab fa-discord ms-2 "></i>
     </a>
   </div>
-  <p class="mt-4 mb-0 fs-3 text-white">A game changing Skyrim Mod-List, based on The Phoenix Flavor.</p>
+  <p class="mt-4 mb-0 fs-3 text-white">A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.</p>
 </div>
 
 {{< /blocks/cover >}}

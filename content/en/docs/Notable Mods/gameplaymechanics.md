@@ -52,15 +52,11 @@ To put it simply, OWL will stop Skyrim from distributing very high-level loot to
 
 ### Custom Skills - VIGILANT (Put in new content w/ VIGILANT)
 
-### Ward Functionalities Extended (maybe belongs in combat)
-
 ### Different Casting Time (maybe belongs in combat)
 
 ### Molag's Will - Vampire Overhaul
 
 ### Dragon War
-
-### Intuitive Dragon Ride Control
 
 ### Dealing with Backstories
 

@@ -40,6 +40,8 @@ weight: 9
 
 ## Environs - Riften Warehouse
 
+## Environs - Abandonded Abodes
+
 ## Dungeons - Revisited
 
 ## Dark Anchors ruins and Dolmens

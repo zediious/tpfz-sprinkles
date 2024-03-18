@@ -28,11 +28,11 @@ weight: 3
 
 5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
 
-6. Let Wabbajack do its thing. This will take usually 2-3 hours at most if you have good internet, but the time to download can take quite a bit of time if you have slower internet speeds. Get a snack and read a book for a bit. If you have good enough internet, YouTube is also your friend here.
+6. Let Wabbajack do its thing. This will take usually 2-3 hours at most if you have good internet, but the time to download can take quite a bit of time if you have slower internet speeds.
 
 ### Without Nexus Premium
 
-5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
+5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Put on some music or a TV show and make a day of it.
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit our Discord server for assistance. **Don’t forget to upload your log file!**  
 

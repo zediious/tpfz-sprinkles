@@ -46,6 +46,9 @@ If a plugin has had its FormIDs compacted before flagging ESL, that will be note
 - FNIS.esp
 - XPMSE.esp
 - LokiHorses.esp
+- ReturnAegisbane.esp
+- orcishleather.esp
+- orcishscout.esp
 
 ## Plugins Yet to Flag
 

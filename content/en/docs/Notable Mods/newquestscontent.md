@@ -85,10 +85,6 @@ As players progress, they will uncover a deep and intricate storyline, delving i
 
 ## The Grand Paladin
 
-## The Warrior of Rivercrest
-
-## The Fugitive of Natural Order
-
 ## Fortune's Tradehouse
 
 ## Skybound Underhang Camp (will be listed here or in other section)
