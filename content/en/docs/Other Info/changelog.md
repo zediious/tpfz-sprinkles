@@ -10,6 +10,14 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed, that version is **NOT SAFE** to update to on an existing save. If the fourth number in a version (i.e the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.
 
+## v0.9.6.1 - **3/20/2024**
+
+This version is save safe! It simply corrects changed links for Attack - MCO and Dodge - MCO as the site they were hosted on was changed.
+
+### Updated
+
+- Dodge - Modern Dodging - 2.1.19 > 2.1.21
+
 ## v0.9.6 - **3/18/2024**
 
 This version is SAVE UN-SAFE! You should not use existing saves with this version, or you risk causing issues with them.
