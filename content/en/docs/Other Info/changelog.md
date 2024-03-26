@@ -10,6 +10,15 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed, that version is **NOT SAFE** to update to on an existing save. If the fourth number in a version (i.e the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.
 
+## v0.9.6.2 - **3/26/2024**
+
+This version is save safe! It removes Skyrim Motion Control, as it has been found to be still causing freezing either alone or in conjunction with other mods in the list.
+
+### Removed
+
+- SKYRIM MOTION CONTROL
+- SKYRIM MOTION CONTROL - MCM
+
 ## v0.9.6.1 - **3/20/2024**
 
 This version is save safe! It simply corrects changed links for Attack - MCO and Dodge - MCO as the site they were hosted on was changed.

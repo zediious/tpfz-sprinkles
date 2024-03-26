@@ -7,7 +7,7 @@ weight: 20
 ---
 A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
 
-Current version: March 21st 2024 - v0.9.6.1
+Current version: March 26th 2024 - v0.9.6.2
 
 Mod List + Archive Total Size: ~393GB
 
