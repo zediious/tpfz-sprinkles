@@ -120,5 +120,3 @@ Inspired by Nito of Dark Souls, this creature is a powerful necromantic creature
 ## Cernunnos
 
 ## Ogres
-
-## Anglerfish

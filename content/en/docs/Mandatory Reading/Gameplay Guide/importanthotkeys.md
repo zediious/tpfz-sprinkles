@@ -202,6 +202,11 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 ## Misc
 
+### SHIFT+;
+
+- Open the Dialogue History menu, to view previous conversations with NPCs
+- This can be changed in the Dialogue History MCM
+
 ### ]
 
 - Open the Idle Menu, to perform a few different idle animations.

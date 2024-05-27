@@ -38,7 +38,6 @@ If a plugin has had its FormIDs compacted before flagging ESL, that will be note
 - Sabrecat_Preview_MCO.esp
 - Enhanced Vanilla Trees SSE.esp
 - HandToHandLocksmith.esp
-- DEST_ISL.esp
 - LovelyLetter.esp
 - ModernizeVanilla.esp
 - RaceMenuMorphsCBBE.esp

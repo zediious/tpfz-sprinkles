@@ -10,6 +10,149 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 If the third number in a version (the 3 in 9.1.3) is changed, that version is **NOT SAFE** to update to on an existing save. If the fourth number in a version (i.e the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.
 
+## v0.9.6.3 - **5/27/2024**
+
+This version fixes a crash when re-loading saves for many users, as well as resolve an issue with Valhalla executions. A good many mods have been updated, along with some new introductions!
+
+This version is **save-safe**. If you have progressed through Vominheim however, you will have issues there! Also, anyone wearing a removed armor set will now be exposed!
+
+Thank you everyone who has reported bugs and made suggestions!
+
+### Removed
+
+- Anglerfish - Fathom's Creature Series (https://github.com/zediious/tpfz-sprinkles/issues/108)
+- Forgotten Medieval Plate Armor (https://github.com/zediious/tpfz-sprinkles/issues/86)
+- Orcish Leather Armor
+- Orcish Scout Armor
+
+### Added
+
+- Alchemy XP Fix
+- ImGui Icons
+- Kome's Inventory Tweaks
+- Skyrim Souls RE - 1.5.97 DLL
+- Dialogue History
+- Menu Zoom
+- Immersive Plaque Reading Interface
+- Failed Pickpocket Gains XP Redux - NFF Patch
+- Honed Metal - 1.5.97 DLL
+- Hunters Loot and Skin Animals
+- Infiltration - Quest Expansion
+- Ivarstead Source
+- Stress and Fear - A Dynamic Sanity System
+- Take a Nap - Sleep on Chairs
+- Immersive Spell Learning - Exclusions (https://github.com/zediious/tpfz-sprinkles/issues/117)
+- Beyond Skyrim - Bruma - Unofficial Patch
+- Bruma Navmesh Fix
+- Gorm Armor + Xtudo Fixes
+- Crown Plate Set + Xtudo Fixes
+- Valhalla Combat - Backstab Bug Fix
+- Paulicus Poison Block Updated (https://github.com/zediious/tpfz-sprinkles/issues/93)
+- Endless Firewood - Chop Forever (https://github.com/zediious/tpfz-sprinkles/issues/106)
+- Persistent Favorites
+- The Standing Sound Stones
+- Object Categorization Framework
+- XP32 Maximum Skeleton Special Extended - Fixed Scripts
+- Dynamic Crafting Animations
+- Immersive Fishing
+- No Grass in Objects - Ultra Profile
+
+### Updated
+
+- Community Shaders - 0.8.4 > 0.8.7
+- Subsurface Scattering - 1.0 > 1.0.1
+- Wetness Effects - 1.0 > 1.0.2
+- More Informative Console - 1.1 > 1.2
+- Skyrim Particle Patch for ENB - 1.2.8 > 1.2.9
+- No Grass in Objects - 8.0 > 1.0.14
+- Assorted Mesh Fixes - 0.91 > 0.98.1
+- Naked Dead NPC Fix - 1.0.6 > 1.0.7
+- Infinity UI - 2.0.1 > 2.0.2
+- Inventory Interface Information Injector - 1.0.2 > 1.1.0
+- Inventory Interface Information Injector - 1.5.97 DLL - 1.0 > 1.1.0
+- Constructible Object Custom Keyword System - 1.1 > 1.1.1
+- Constructible Object Custom Keyword System - 1.5.97 DLL - 2.1 > 2.2
+- TrueHUD - HUD Additions - 1.1.8 > 1.1.9
+- Skyrim Souls RE - 2.2.2 > 2.4.0
+- Read Or Take - 1.3 > 1.4
+- Compass Navigation Overhaul - 2.1.1 > 2.2
+- DynDOLOD Resources - Alpha-47 > Alpha-49
+- DynDOLOD DLL NG - Alpha-17 > Alpha-29
+- Rally's Solstheim Plants 2K - 1.0 > 1.2
+- Iconic's Falmer Eye Gem Retexture 2K - 1.1 > 1.0.1
+- Horker HD by Pfuscher - 2.0 > 3.0
+- Modular SMP Hairstyles - 1.02 > 1.031
+- Adamant - A Perk Overhaul - 5.9.1 > 5.9.2
+- Mysticism - A Magic Overhaul - 2.4.1 > 2.4.2
+- Aetherius - A Race Overhaul - 2.12.1 > 2.13.2
+- Mundus - A Standing Stone Overhaul - 1.12.2 > 1.13.0
+- Armor and Clothing Extension - 1.5.1 > 1.5.2
+- Dialogue Expansion - Brelyna Maryon - 1.3.2 > 1.5
+- Scared of Shootings - NPCs react to aiming bows - 0.2.1 > 0.3
+- The Whispering Door - Quest Expansion - 1.10 > 1.11
+- Ryn's Snazzy Last Vigil - 1.2 > 1.3
+- Skyrim on Skooma - 69.5 > 69.69
+- Alternate Perspective - Voiced Addon - 1.0.1 > 1.10
+- Start in Bruma - Alternate Perspective Addon - 1.1 > 1.2
+- Vigilant - NPC Overhaul - 2.8.1 > 2.8.2
+- The Wheels of Lull - 5.1.12 > 5.1.13.3
+- Wyrmstooth - 12.0.1 > 12.0.2
+- Land of Vominheim - 2.19 > 2.40
+- Molag Bal's Inferno - Strange Men Fix - 0.9.5 > 0.9.6.3
+- SIRENROOT - Deluge of Deceit - 1.10 > 1.21
+- The Grand Paladin - 1.5 > 1.52
+- Siege at Icemoth - 1.2 > 1.2.1
+- Skybound Underhang Camp - 5.0 > 6.0
+- Skybound Underhang Camp - Lawbringer Extension - 1.4 > 1.5
+- Vorono's Bauernwehr - 1.0 > 1.11
+- NPCs Take Cover - Smarter Anti-Cheese AI - 1.0 > 1.01
+- Descriptions for Various Mods - 2.3 > 2.4.1
+- Photo Mode - 1.2 > 1.4
+- Open Animation Replacer - 2.2.2 > 2.3.0
+- Comprehensive First Person Animation Overhaul - 1.0.3 > 1.4-hotfix
+- Weapon Styles - Draw Sheathe Animations for IED - 2.1 > 2.2
+- Precision Creatures - 2.3 > 2.4
+- NPC Animation Remix - 1.8 > 1.9.0
+- Lively Children Animations - 1.0 > 2.2.1
+- Gesture Animation Remix - 2.0 > 2.1.1
+- Conditional Tavern Cheering - 1.1 > 1.3
+- Modern Female Sitting Animations Overhaul - 1.8 > 1.9
+- Immersive Interactions - Animated Actions - 1.75 > 1.76
+- Base Object Swapper - 2.6.1 > 3.0.3
+- Spell Perk Item Distributor - 6.8.2 > 7.1.3
+- Sonders Keyword Distribution Resources - 1.2 > 1.4
+- NPCs Names Distributor - 2.4 > 2.5.1
+- Description Framework - 1.3 > 2.1.1
+- Leveled List Additions (Armors) - 0.9.6 > 0.9.6.3
+- Leveled List Additions (Weapons) - 0.9.6 > 0.9.6.3
+- MonsterPatch - 0.9.6 > 0.9.6.3
+- ZedPatch - 0.9.6 > 0.9.6.3
+- ZedPatch2 - 0.9.6 > 0.9.6.3
+- ZedPatch3 - 0.9.6 > 0.9.6.3
+- City Navmesh Patches - 0.9.5 > 0.9.6.3
+- Synthesis Output - 0.9.6 > 0.9.6.3
+- Occlusion Output - 0.9.6 > 0.9.6.3
+- BodySlide Output - 0.9.6 > 0.9.6.3
+- Overwrite Misc - 0.9.5.7 > 0.9.6.3
+
+### Fixes
+
+- Re-added XPMSE - Fixed Scripts, resolving a common re-load crash for many users (https://github.com/zediious/tpfz-sprinkles/issues/111)
+- Added a fix to stop Valhalla backstab functionality from misbehavin' (https://github.com/zediious/tpfz-sprinkles/issues/110)
+- Corrected table and fireplace clipping on Jorrvaskr porch (https://github.com/zediious/tpfz-sprinkles/issues/112)
+- Corrected clipping fishing supplies in Morthal, and changed navmesh to fit new positions (https://github.com/zediious/tpfz-sprinkles/issues/103)
+- Resolved Una NPC in Blue Palace from being bald when they are not meant to be (https://github.com/zediious/tpfz-sprinkles/issues/109)
+- Patched script to prevent taking items from NFF storage from giving "failed" pickpocket XP.
+- Resolved Honed Metal crash when crafting enchanted items twice with new DLL from mod author.
+- Prevent Young Man from appearing randomly and following you in the world, alongside Strange Man.
+- Made NPCs at Half-Moon Mill no longer get distributed names
+- Made Bears in Shadowgreen Cavern no longer get distributed names
+
+### Tweaks
+
+- Removed forge  recipes for Draugr weapons.
+- Reduced value of added Draugr weapons.
+
 ## v0.9.6.2 - **3/26/2024**
 
 This version is save safe! It removes Skyrim Motion Control, as it has been found to be still causing freezing either alone or in conjunction with other mods in the list.

@@ -340,6 +340,7 @@ Draugr Weapons Standalone
 
 - Nordic Steel Katana
 - Nordic Steel Wakizashi
+- Crown Sword (Renamed Crowned Sword)
 
 ### Waraxe
 
@@ -659,6 +660,7 @@ Khajiiti Apex Armory
 - Inquisitor Set
 - Illusive Infiltrator Set
 - Elmlock Set
+- Gorm Set
 
 ### Glass Tier
 
@@ -690,7 +692,6 @@ Khajiiti Apex Armory
 - Nordwar Steel Scaled Set
 - Nordwar Steel Lamellar Set
 - Infantry Heavy Steel Set
-- Forgotten Plate Set
 - Royal Guard Set
 - Ignoble Steel Set
 - Duskplate Steel Set
@@ -713,13 +714,12 @@ Khajiiti Apex Armory
 - Kvetchi Mercenary Set
 - Landlord Set
 - Fluted Set
+- Crown Plate Set
 
 ### Orcish Tier
 
 - Orcish Chief Set
 - Nordic Wanderer Set
-- Orcish Leather Set
-- Orcish Scout Set
 
 ### Nordic Tier
 
