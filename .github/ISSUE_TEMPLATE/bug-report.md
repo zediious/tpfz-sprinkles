@@ -9,6 +9,7 @@ assignees: ''
 ---
 
 Modlist Version:
+Modlist Profile:
 
 **Describe the Bug**
 Please provide as much information about the issue you are experiencing, and the circumstances the lead to it:
