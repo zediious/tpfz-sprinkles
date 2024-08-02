@@ -18,6 +18,12 @@ This version is **save-safe**. If you have progressed through Vominheim however,
 
 Thank you everyone who has reported bugs and made suggestions!
 
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
 ### Removed
 
 - Anglerfish - Fathom's Creature Series (https://github.com/zediious/tpfz-sprinkles/issues/108)
@@ -153,22 +159,40 @@ Thank you everyone who has reported bugs and made suggestions!
 - Removed forge  recipes for Draugr weapons.
 - Reduced value of added Draugr weapons.
 
+</details>
+
 ## v0.9.6.2 - **3/26/2024**
 
 This version is save safe! It removes Skyrim Motion Control, as it has been found to be still causing freezing either alone or in conjunction with other mods in the list.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
 - SKYRIM MOTION CONTROL
 - SKYRIM MOTION CONTROL - MCM
 
+</details>
+
 ## v0.9.6.1 - **3/20/2024**
 
 This version is save safe! It simply corrects changed links for Attack - MCO and Dodge - MCO as the site they were hosted on was changed.
 
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
 ### Updated
 
 - Dodge - Modern Dodging - 2.1.19 > 2.1.21
+
+</details>
 
 ## v0.9.6 - **3/18/2024**
 
@@ -185,6 +209,12 @@ A notable addition is Skyrim Motion Control. It now takes time for the character
 Another important change with this update is the re-introduction of Weapon Speed effects. These effects will now affect your attack speed, whereas previously they did not. This is going to be fine-tuned over time for balance to prevent too much attack speed.
 
 Mod Organizer has also been updated to the latest version, along with RootBuilder. If you installed any additional plugins, they will need to be updated to this new version!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -391,6 +421,8 @@ Mod Organizer has also been updated to the latest version, along with RootBuilde
 - Made more mod-added NPCs use OWL leveled lists rather than vanilla items.
 - Disabled actor fade via SSE Display Tweaks.
 
+</details>
+
 ## v0.9.5.10 - **1/17/2024**
 
 This version has no user-facing changes. The list was re-compiled with the latest version of Skyrim to make it installable again. You can safely ignore this version if you already have the list installed!
@@ -403,13 +435,27 @@ This version has no user-facing changes. The list was re-compiled with the lates
 
 Bux fix! This version simply removes 3D Tree LOD in the DynDOLOD - High preset, as it is causing freezing issues that will take some time do diagnose.
 
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
 ### Updated
 
 - DynDOLOD Output - High - 0.9.5.7 > 0.9.5.8
 
+</details>
+
 ## v0.9.5.7 - **1/5/2024**
 
 This update chiefly fixes a common freeze when using the DynDOLOD High preset. It also fixes a few bugs, updates some mods, and includes the new Description Framework! A few new and updated mods will be making use of this. This version is save-safe!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Added
 
@@ -475,6 +521,8 @@ This update chiefly fixes a common freeze when using the DynDOLOD High preset. I
 
 - Unbound all Wheeler Gamepad binds by default
 
+</details>
+
 ## v0.9.5.6 - **12/31/2023**
 
 This tiny update simply disables Ominous ENB in the Refined profile, as it was enabled alongside Serio's ENB by mistake. If you have already updated to 0.9.5.5, you can ignore this update and change the ENB that is enabled as you choose.
@@ -484,6 +532,12 @@ This tiny update simply disables Ominous ENB in the Refined profile, as it was e
 New Years Eve update! This version fixes a rather consistent crash involving certain spells, as well as a few other bugs! This version should be save-safe.
 
 Quite a few spells have been added, modified or removed in multiple spell mods that have been updated. You may lose a few of your spells on existing saves!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Updated
 
@@ -536,7 +590,17 @@ Quite a few spells have been added, modified or removed in multiple spell mods t
 - Corrected Steel Fashions Berserker armor causing women to float.
 - Removed redundant pre-made Sorcerer patches that are patched by the Synthesis patcher.
 
+</details>
+
 ## v0.9.5.4 - **12/10/2023**
+
+This update resolves issues with the _ResourcePack.esl plugin.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Updated
 
@@ -545,6 +609,8 @@ Quite a few spells have been added, modified or removed in multiple spell mods t
 ### Fixes
 
 - This version overrides the new `_ResourcePack.esl` plugin with a blank plugin, fixing freezes that were consistently occurring in certain parts of the map.
+
+</details>
 
 ## v0.9.5.3 - **12/10/2023**
 
@@ -557,6 +623,12 @@ There are no other changes made with this version!
 This version was released early due to changes to Skyrim-Guild mods. Two have had their links changed, and one (Creatures Preview) was removed. This will unfortunately remove the Dragon, Bear, and Sabre-cat animations in the list. If it is re-added, the next version will contain it again.
 
 This version is save safe, though you may observe some changes not apply on an existing save.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -592,9 +664,9 @@ This version is save safe, though you may observe some changes not apply on an e
 - Expanded trigger box for Mjoll/Aerin conversation in Riften such that it will trigger if you enter from the other side of the city.
 - Added a sleep package and bedroll for Frissa Black-Briar in Elgrim's Elixirs, so that you can steal from the store at night.
 
-## v0.9.5.1 - **10/16/2023**
+</details>
 
-### Fixes
+## v0.9.5.1 - **10/16/2023**
 
 This version very simply includes Campfire, Campfire - Survival Mode Patch, and Custom Skills Framework Unified Menu - Dear Diary Dark, which were left out of the list compilation on accident, as these are disabled-by-default mods. Confirmed that these were the only ones missing. Absolutely a save-safe update!
 
@@ -615,6 +687,12 @@ We've also removed our existing Companions questline tweak mods, and added the C
 I would also be re-missed to not mention **Remote Interactions**. This mod opens up a seriously cool dynamic to interacting with NPCs in the world, allowing you to, well, interact remotely! The hotkey to initiate this is **B**. Jayserpa never disappoints!
 
 This update is *quite* large, and the above description does not cover everything. Be sure to read the full changelog below!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1207,6 +1285,8 @@ This update is *quite* large, and the above description does not cover everythin
 - Disable Borderless Windowed Mode (still very seamless without)
 - Decreased brightness to 50%. This only applies without ENB.
 
+</details>
+
 ## v0.9.4.1 - **5/22/2023**
 
 This version introduces SunHelm and Campfire as optional mods, for those that want enhanced Survival gameplay.
@@ -1216,6 +1296,12 @@ It also chiefly fixes a navmesh CTD near Shor's Stone. That's the main reason th
 Also a good number of other fixes here! Thank you everyone in Discord for reporting bugs :)
 
 If playing on an existing save, in order for MCM changes/fixes to apply, you need to go to the MCM Recorder MCM menu, and re-run the TPF - Zediious Sprinkles preset.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1265,7 +1351,9 @@ If playing on an existing save, in order for MCM changes/fixes to apply, you nee
 
 ### Tweaks
 
-- Reduced volume/gain of "Equus - Horses Sounds Redesigned" 
+- Reduced volume/gain of "Equus - Horses Sounds Redesigned"
+
+</details>
 
 ## v0.9.4 - **5/6/2023**
 
@@ -1280,6 +1368,12 @@ There are new mods, some from suggestions! The Idle Animations WheelMenu keybind
 Also included are a very large number of fixes for combat/equipment balance, including changes to damage/crit, armor value, weight, value, keywords, crafting recipes and other miscellaneous things.
 
 A lot of the fixes in this version were from those in the discord server, playing the list/checking my patches and giving feedback. You know who you are, thank you SO much!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1391,9 +1485,17 @@ A lot of the fixes in this version were from those in the discord server, playin
 - Modified  One-hand Katana Animations to also work if you have a Spell or torch in your off hand, not just fists or shield.
 - Lots of consistency tweaks for added weapons and armor, to make their damage/crit, weight, value, keywords, and crafting recipes balanced and proper.
 
+</details>
+
 ## v0.9.3.5 - **4/24/2023**
 
 This version simply removes a weapon mod from the list that has been placed under moderation review. This weapon was previously in the Glass Battleaxe leveled lists. This is save safe, the weapon will simply disappear from your saves if it existed.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1404,6 +1506,8 @@ This version simply removes a weapon mod from the list that has been placed unde
 - ZedPatch 1 - 0.9.3.4 > 0.9.3.5
 - LeveledListAdditionsWeapons - 0.9.3.1 > 0.9.3.5
 
+</details>
+
 ## v0.9.3.4 - **4/20/2023**
 
 This version brings a re-balance of the combat and each difficulty. Using Simply Balanced, I've tweaked base damage values for the player and NPCs to be a *bit* more tanky on Adept. Further, difficulty modifiers have been changed. As you reduce your difficulty, enemies will become very easy to kill, and you will take a little less damage. As you raise your difficulty, enemies will exponentially become more "spongy" and you will take a little more damage. The focus with this is allowing the player to make enemies more spongy, if that is the desired gameplay. The Adept difficulty is what can be considered my "signature difficulty" with this list, and is what I would recommend playing with.
@@ -1411,6 +1515,12 @@ This version brings a re-balance of the combat and each difficulty. Using Simply
 I've also fixed an embarrassingly large amount of borked weapon keywords and DAR conditions for said keywords. A variety of weapons that were not using the correct animations will now do so.
 
 MCM settings for Wildcat have been modified, as well as the newly added Simply Balanced
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1475,9 +1585,17 @@ MCM settings for Wildcat have been modified, as well as the newly added Simply B
   - Decreased the damage multiplier for power attacks by 10%
   - Reduces experience gained across the board by 10%
 
+</details>
+
 ## v0.9.3.3 - **4/16/2023**
 
 This version fixes a resurgence of the False Save Corruption bug introduced in 0.9.3.1. All previously "corrupted" saves will be retroactively fixed.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Added
 
@@ -1489,19 +1607,35 @@ This version fixes a resurgence of the False Save Corruption bug introduced in 0
 - Fixed missing roads on world map since version 0.9.3.1
 - Changed BTPS MCM settings to fix item tooltips in 1st person (fix https://github.com/zediious/tpfz-sprinkles/issues/42)
 
+</details>
+
 ## v0.9.3.2 - **4/15/2023**
 
 This version has reduced the .wabbajack file size significantly! You will need to download the new version of Base Coat if updating, which is quite large.
 
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
 ### Updated
 
 - Base Coat - 1.0 > 1.1
+
+</details>
 
 ## v0.9.3.1 - **4/15/2023**
 
 This version should be save-safe. None of the added or removed mods should have a *major* effect on the game. A few changes simply won't apply on existing saves at all, or will require a cell reset. Removed armors will disappear from your save. Make a backup of your saves before playing!
 
 A few new armors and weapons have been added to leveled lists, view [Added Equipment](https://zediious.github.io/tpfz-sprinkles/docs/other-info/addedequipment/) to see exact additions!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1569,9 +1703,17 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 - Made the Valhalla Combat Timed Block window slightly larger.
 - Increased Dodge stamina cost from 10 to 20
 
+</details>
+
 ## v0.9.3 - **4/8/2023**
 
 **NOTE:** This version will have some initial issues in existing saves. Some of the modified locations that have changed persistent references in the world will not apply their changes on existing saves. Lawless will only apply some of its changes on cell reset. Play on this with an existing save at your own risk and do so WITH A BACKUP!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Added
 
@@ -1610,9 +1752,17 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 - Modified Better Third Person Selection MCM to hide the activate key on activation prompts.
 
+</details>
+
 ## v0.9.2 - **4/6/2023**
 
 **NOTE:** This version is technically save-unsafe, due to some mod updates, but you may find your save is lightly affected. Play on this with an existing save at your own risk and do so WITH A BACKUP!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 
@@ -1668,17 +1818,15 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 - Modified conditions for athletic UNDERDOG sprint animation to not play for actors with heavy armor equipped. This animation will play if your current stamina is above 150, at a 0.7 randomness value.
 - Removed Actor Value checks from Goetia Animations conditions, so that they will play whenever armor is not worn, without the player or NPC requiring high Magicka and/or Magic skills.
 
+</details>
+
 ## v0.9.1.1 - **4/2/2023**
 
-### Fixes
-
-- Actually fixed installation issues.
+Actually fixed installation issues.
 
 ## v0.9.1 - **4/2/2023**
 
-### Fixes
-
-- Fixed installation issues regarding Skyrim version. You must now install the list with the latest version of Skyrim installed on Steam.
+Fixed installation issues regarding Skyrim version. You must now install the list with the latest version of Skyrim installed on Steam.
 
 ## v0.9 - **4/2/2023**
 
@@ -1687,6 +1835,12 @@ With the new version of Animated Armory, first-person animations for Animated Ar
 I've also ditched the very odd version schema I chose. Can't explain that one. As the list is prepared for an official "unofficial" wabbajack launch, the version will reach 1.0. From then on, versioning will be done on a save-safe basis, and the documentation will be updated to reflect this.
 
 On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain mods, existing saves will have issues. Refrain from updating for now if you do not want to restart your character.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Added
 
@@ -1720,3 +1874,8 @@ On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain m
 ### Tweaks
 
 - Added all Animated Armory whips to mace leveled lists (some tiers were missing)
+
+</details>
+
+<br>
+
