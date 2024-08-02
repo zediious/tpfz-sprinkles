@@ -1879,3 +1879,4 @@ On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain m
 
 <br>
 
+*A few versions were released before `v0.9`, however the changelogs for those have been removed.*
