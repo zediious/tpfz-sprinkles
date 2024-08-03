@@ -202,6 +202,11 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 ## Misc
 
+### ;
+
+- Open the Dragonborn's Bestiary UI
+- This can be changed in the .ini file in "The Dragonborn's Bestiary".
+
 ### SHIFT+;
 
 - Open the Dialogue History menu, to view previous conversations with NPCs
