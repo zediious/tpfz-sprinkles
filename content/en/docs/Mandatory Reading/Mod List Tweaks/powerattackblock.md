@@ -18,4 +18,4 @@ If you do change your block key, you will also need to change the block key in t
 
 If you want to change your power attack key, you will need to use the [One Click Power Attack NG](https://www.nexusmods.com/skyrimspecialedition/mods/60878) mod, removing For Honor Power Attack from the mod list before doing so. **I cannot provide support if you decide to use this**, as there are a number of issues involving initiating certain types of power attacks when using this mod instead. Read the mod description and posts!
 
-## [NEXT >> Enabling Dark Mode Interface](../darkinterface)
+## [NEXT >> Switching Interface Theme](../interfacetheme)
