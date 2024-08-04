@@ -112,9 +112,9 @@ By walking up to most doors, and holding SHIFT and pressing E, you can initiate 
 
 With the same functionality is the above "Peeking", feature, you can use SHIFT + E to initiate a few unique things! If a bard is playing music, this allows you to clap for them! You can also pet your horse rather than jumping onto it. Try it out on various things!
 
-## Open locks with a Two-Handed weapon or Fists
+## Open locks with Two-Handed weapons, Fists, or Power Bashing
 
-Power attacking a locked chest, door, or even wire-trap with a *Two-Handed* weapon or your *Fists* can potentially unlock it! Whether or not you unlock the lock or not, depends on either your Two-Handed skill, Hand-to-Hand skill or Stamina amount. Reference the below table to see what you can unlock at which levels. Your Security skill will be increased if you successfully destroy a lock this way. If you do not have the requisite skill level or stamina, nothing will happen when you attempt.
+Power attacking a locked chest, door, or even wire-trap with a *Two-Handed*, *Fists*, or using a *Power Bash* can potentially unlock it! Whether or not you unlock the lock or not, depends on either your Two-Handed skill, Hand-to-Hand skill or Stamina amount. Reference the below table to see what you can unlock at which levels. Your Security skill **WILL NOT** increase if you open a lock this way. If you do not have the requisite skill level or stamina, nothing will happen when you attempt.
 
 | Novice | Apprentice | Adept | Expert | Master |
 |--------|------------|-------|--------|--------|
