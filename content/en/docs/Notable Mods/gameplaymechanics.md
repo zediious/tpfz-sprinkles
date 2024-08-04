@@ -58,9 +58,19 @@ To put it simply, OWL will stop Skyrim from distributing very high-level loot to
 
 ### Dragon War
 
+### The Dragonborn's Bestiary
+
 ### Dealing with Backstories
 
 ### Set of Skills - A Skyrim Class Mod
+
+### Immersive Spell Learning - DESTified
+
+### Cold Region Behavior
+
+### Stress and Fear
+
+### EVG Traversal + SkyClimb
 
 ### Realistic AI Detection
 
@@ -74,6 +84,14 @@ To put it simply, OWL will stop Skyrim from distributing very high-level loot to
 
 ### Dog Commands
 
+### Take a Nap (Sleep on Chairs)
+
+### Grab and Throw
+
+### Fast Travel Cost
+
+### Immersive Horses
+
 ### Carriage and Ferry Travel Overhaul
 
 ### Dynamic Things Alternative
@@ -81,8 +99,6 @@ To put it simply, OWL will stop Skyrim from distributing very high-level loot to
 ### Immersive Display Overhaul
 
 ### Security Overhaul
-
-### Oblivionesque Locks
 
 ### Lockpicking for Barbarians
 
