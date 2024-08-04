@@ -8,7 +8,7 @@ Read the mod pages *thoroughly* to know what to expect! At Your Own Pace in part
 
 ### Main Quest
 
-The Main Quest has various stopping points that will certainly throw you off if you are expecting vanilla behavior. For instance, you will always find the Horn of Jurgen Windcaller in Ustengrav, and can return it to the Greybeards. You will need to speak to Farengar on your own to further advance the quest, where he will have Delphine send you a letter in a few days.
+The Main Quest has various stopping points that will certainly throw you off if you are expecting vanilla behavior. For instance, you will always find the Horn of Jurgen Windcaller in Ustengrav, and can return it to the Greybeards. You will need to speak to Farengar on your own to further advance the quest, where he will have Delphine send you a letter in a few days. Various other stopping points are introduced, where the player would need to take action for further quests to begin.
 
 ### The College of Winterhold
 
@@ -16,7 +16,7 @@ In combination with [College of Winterhold - Quest Expansion](https://www.nexusm
 
 ### The Companions
 
-The Companions questline now also requires a great deal more Radiant quests to advance, while also allowing you to take multiple quests at a time. There are also quite a few changes to how certain parts of the questline work, allowing more types of characters to reasonably be a companion than before.
+The Companions questline now also requires a great deal more Radiant quests to advance, while also allowing you to take multiple quests at a time. There are also quite a few changes to how certain parts of the questline work, allowing more types of characters to reasonably be a companion than before. You can progress without being a Werewolf!
 
 ### The Thieves Guild
 
