@@ -113,6 +113,7 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 - Switch the shoulder the camera is viewing over. Only applies when a ranged weapon or magic is unsheathed.
 - This can be changed in the SmoothCam MCM menu.
+- This is also used for [quickly dismounting a horse](#v-while-riding-a-horse)
 
 ## Movement
 
@@ -190,8 +191,8 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 ### ACTIVATE while sneaking and looking at owned horse
 
-- Access your Horse's saddlebags, for some additional storage
-- This cannot be changed
+- Access your Horse's saddlebags for some additional storage, as well as Immersive Horses settings
+- This can be changed in the Immersive Horses MCM (not recommended).
 
 ### ACTIVATE while riding a horse
 
@@ -202,6 +203,11 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 - Dismount the horse
 - You can modify how this works in the "Better Third Person Selection" MCM in the "General" tab, on the right side.
+
+### V while riding a horse
+
+- Quickly dismount your horse from behind into a combat-ready state.
+- This can be changed in the Immersive Horses MCM,
 
 ## Misc
 
