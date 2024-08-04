@@ -4,6 +4,14 @@ weight: 4
 ---
 **Please read everything in this section! There are many important things here!**
 
+## Ensure .NET 5.0 Runtime is installed
+
+This version of .NET is required to launch the game via Mod Organizer. Make sure you have this version installed, even if you already have a newer version.
+
+1. Visit [https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime), and use **"Download x64"** under the **"Run desktop apps"** section
+
+2. Run the downloaded executable file, and use **"Install"**. Make sure this installs successfully.
+
 ## Launching Mod Organizer 2
 
 1. Navigate to C:\tpfzs (or wherever you installed the mod list) and open ModOrganizer.exe.
