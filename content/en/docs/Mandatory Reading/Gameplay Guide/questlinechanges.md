@@ -24,6 +24,6 @@ For the Thieves Guild, we are using [Thieves Guild Requirements](https://www.nex
 
 ### The Dark Brotherhood
 
-For the Dark Brotherhood, we are utilizing [Save the Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/33461) and [Your Choices Matter - A Dark Brotherhood Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/46871) to create more scenarios for the player to choose.
+For the Dark Brotherhood, we are utilizing [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974), [Destroy the Dark Brotherhood - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118229), [Save the Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/33461) and [Your Choices Matter - A Dark Brotherhood Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/46871) to create more scenarios for the player to choose in how they begin the questline, and progress through it.
 
 ## [NEXT -> New Mechanics to Know](../newmechanics)
