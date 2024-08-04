@@ -59,7 +59,7 @@ As of the latest version, the modlist requires ~393GB (~139GB of Downloads/~254G
 
 This list **requires** that you have the **latest** version of Skyrim installed on Steam. Do **NOT** use any downgrade patchers, Wabbajack will do this work for you.
 
-This list **does NOT support** any additional Creation Club content beyond the four defaults provided with the base game (Fishing, Saints and Seducers, Survival Mode, Rare Curios). Any additional content will be disabled with no action required on your part.
+This list **does NOT support** any additional Creation Club content beyond the four defaults provided with the base game (Fishing, Saints and Seducers, Survival Mode, Rare Curios). Any additional content will be disabled with no action required on your part. To be clear, you CAN still install this mod list if you have the Anniversary content, but it will not be usable/will be disabled in the list's default state.
 
 Full support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
 
