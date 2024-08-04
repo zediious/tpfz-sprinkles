@@ -28,11 +28,15 @@ weight: 7
 
 ## Innocence Lost - Quest Expansion
 
+## Destroy the Dark Brotherhood - Quest Expansion
+
 ## Caught Red Handed - Quest Expansion
 
 ## Nilheim - Misc Quest Expansion
 
 ## Somebody Else's Problem - Ignore the Forsworn Conspiracy
+
+## Infiltration - Quest Expansion
 
 ## House of Horrors - Quest Expansion
 
