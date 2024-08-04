@@ -71,7 +71,7 @@ The hard part is nearly over. Carry on, the end is in sight!
 
 First and foremost, you should *NEVER* change an MCM setting except for Hotkeys without asking in Discord first. There are a very large number of MCM settings that change the experience drastically, or introduce bugs that are alleviated by disabling or enabling that setting. As such, it can quite literally break your game if you change a setting you should not change. *Please* ask about any non-hotkey MCM settings you wish to change.
 
-On a new game, MCM Recorder will run a custom preset that has been created for this mod list. Most MCM configuration menus will be automatically configured for you, using the recommended settings. You will, however, need to configure the MCM for a few mods as listed below;
+On a new game, MCM Recorder will run a custom preset that has been created for this mod list. Most MCM configuration menus will be automatically configured for you, using the needed and recommended settings. Below you will find any mods that may require additional configuration.
 
 ### Valhalla Combat
 
