@@ -94,7 +94,6 @@ As you play, you will find many new weapon types such as Rapiers, Katanas, Pikes
 - All Pikes, Halberds, Scythes and Quarterstaves in the game are classified as **Battleaxes**, and will benefit from perks for Battleaxes.
 - All Rapiers and Katanas in the game are classified as **Swords**, and will benefit from perks for Swords.
 - Claws in the game are classified as **Daggers**, and will benefit from perks for Daggers.
-- Whips in the game are classified as **Maces**, and will benefit from perks for Maces.
 - Dai-Katana weapons in the game are classified as **Greatswords**, and will benefit from perks for Greatswords, despite their "Katana" keyword in the Inventory.
 
 ## Throw a stone to distract enemies
