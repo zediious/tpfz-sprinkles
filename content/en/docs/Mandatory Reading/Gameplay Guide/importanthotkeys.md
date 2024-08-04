@@ -5,11 +5,13 @@ weight: 4
 ---
 ![full_layout_v3](../../../../keybinds/full_layout_v3.png)
 
-Only newly added or changed vanilla hotkeys are listed here. Listed alongside each keybind you will see where you can change this keybind. If you do not see a keybind here, then it is as it is in vanilla. Let me know if you find this is not the case!
+Only newly added or changed vanilla hotkeys are listed here. If you do not see a keybind here, then it is as it is in vanilla. Let me know if you find this is not the case!
 
 ## Regarding changing your keybinds
 
 If you want to change keybinds in game with your keyboard, you **must** unplug your controllers. Otherwise, you will be unable to do so.
+
+Listed alongside each keybind you will see where you can change that keybind.
 
 ## LamasTinyHUD
 
