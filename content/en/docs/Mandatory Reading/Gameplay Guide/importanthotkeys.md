@@ -1,5 +1,6 @@
 ---
 title: Important Hotkeys
+icon: fa-solid fa-keyboard
 weight: 4
 ---
 ![full_layout_v3](../../../../keybinds/full_layout_v3.png)
