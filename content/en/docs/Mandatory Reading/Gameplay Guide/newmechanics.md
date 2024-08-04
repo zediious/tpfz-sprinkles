@@ -44,6 +44,16 @@ This game is derived from Final Fantasy, and is relatively simple however requir
 
 Read the mod page for Triple Triad in Skyrim at the following link for the rules of the game! [Triple Triad Card Game Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/42522)
 
+## Utilize your Horse Whistle, Horse Saddlebags, and quickly dismount your Horse
+
+[Immersive Horses](https://www.nexusmods.com/skyrimspecialedition/mods/13402) is used in this modlist, and it adds great tools for using your horse. Use the **"Horse Whistle Power"** in your Powers menu to summon your horse wherever it may be. If you sneak and activate your horse, you can access a Saddlebag inventory, as well as many other advanced features related to managing all of your owned horses.
+
+You can also perform a quick-dismount using the "V" key. This will cause you to quickly hop off the back of the horse into a combat-ready state.
+
+## Interact with the world while riding a Horse
+
+You can now talk with NPCs and harvest ingredients/open containers while you are riding a horse.
+
 ## Interact with NPCs from a distance
 
 You can have conversations with any NPC from a distance! Press the *B* key to initiate Remote Interactions! This allows you to have full conversations with any NPC without being next to them, opening up a huge door for immersion in many situations. You can use this against enemies as well, potentially opening up new strategies in combat!
