@@ -57,17 +57,15 @@ The hard part is nearly over. Carry on, the end is in sight!
 
 3. Once Skyrim starts, create a new game. Loading a save from outside this mod list will corrupt that save, **do not do this!** If you are updating from an existing version of the mod list, read the changelog to ensure that the new version is save-safe.
 
-4. Currently, there is an issue where the character creation screen is too bright. [This is being looked into](https://github.com/zediious/tpfz-sprinkles/issues/8). In the meantime, you should **select the Race you want your character to be**, and then move on to the next step. Rarely, the bright screen issue does not occur. If you can see your character clearly, then you can fully create your character now, and skip Step 7.
+4. Create your character, and finalize their race/name.
 
-5. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take a little bit of time. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
+5. **As soon as you gain control of your character, do nothing.** The mods are loading and MCM configurations are being applied. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
 
 6. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-7. ONLY if you had the bright screen issue when the Race Menu first appeared in Step 4, open the console with the [Tilde/Backtick Key](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theitbase.com%2Fwp-content%2Fuploads%2F2020%2F01%2FBacktick.jpg&f=1&nofb=1&ipt=bf4ef1d8142feb86fa6843d17d61250c3a057c5b11f89931a61777c20f3de676&ipo=images) below your Escape key, enter the following command `showracemenu`, and press Enter. This will re-open the character creation screen. Create your character and name them whatever you’d like.
+7. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
 
-8. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
-
-9. At this point, you should make a save, and reload that save before continuing.
+8. At this point, you should make a save, and reload that save before continuing.
 
 ## The MCM Settings
 
