@@ -31,7 +31,7 @@ The game will be hardly recognizable in term of movement, animation, combat, and
 
 ### New and Improved Mechanics
 
-This mod list does not stop at only influencing combat and animations. Just about every mechanic in the game has either been improved and/or replaced with new modern mechanics. We are also introducing entirely new mechanics, such as [Take a Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908), [Sneak Behavior Extensions- True Prone System](https://www.nexusmods.com/skyrimspecialedition/mods/87807), [Maximum Carnage](https://www.nexusmods.com/skyrimspecialedition/mods/43494) and much more!
+This mod list does not stop at only influencing combat and animations. Just about every mechanic in the game has either been improved and/or replaced with new modern mechanics. We are also introducing entirely new mechanics, such as [SkyClimb](https://www.nexusmods.com/skyrimspecialedition/mods/97253), [Take a Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908), [Sneak Behavior Extensions- True Prone System](https://www.nexusmods.com/skyrimspecialedition/mods/87807), [Maximum Carnage](https://www.nexusmods.com/skyrimspecialedition/mods/43494) and much more! Take a look at the "[New Mechanics to Know](mandatory-reading/gameplay-guide/newmechanics/)" page for an in-depth look at what to expect!
 
 ### Complete Settlement Overhaul / Vanilla Locations and Quests Overhaul
 
