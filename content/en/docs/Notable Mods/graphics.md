@@ -4,6 +4,8 @@ weight: 1
 ---
 The graphics and visual improvements in this list are based on the improvements brought by The Phoenix Flavor. Below are some mods that have been added to further enhance the graphics and visual effects.
 
+An edit of Serio's ENB from Phoenix is in use in the "Refined" and "Refined - Ultra" profiles, with Ominous ENB as an option. Community Shaders is in use in the "Refined - Performance" profile. ENB and Community Shaders are well documented for the most part, and do not have sections below.
+
 ## [Enhanced Volumetric Lighting and Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
 
 "Skyrim's shadows and by extension volumetric lighting (VL) aren't synchronized with the sun all the time, during sunrise/sunset they disconnect from the visible sun. EVLaS fixes this problem by synchronizing the shadows with the visible sun for the entire duration of the day."
