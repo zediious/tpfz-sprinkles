@@ -77,13 +77,15 @@ On a new game, MCM Recorder will run a custom preset that has been created for t
 
 ONLY if you decide to [change the block key](../../mod-list-tweaks/powerattackblock) from Duel Wield Parrying SKSE, you will also need to change the block key in the Compatibility section of this mod. Dual Wield Parrying uses a different system to send the blocking action to the game, and Valhalla needs to know which key is initiating this separate action to properly start a timed block. If you are not rebinding your block key, you do not need to worry about this.
 
-## Important Notes Regarding Current Bugs
+## Take Note of any Current Bugs
 
-There is a major issue with **one** of the starting scenarios you can choose when speaking to "The Messenger". Under **NO CIRCUMSTANCES** should you select the "Dragonborn" -> "High Hrothgar" start. This scenario completes quests in ways that [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) does not support, completely breaking the main quest. I won't be *too* mad if you select this start and ask about it, but I will be sad because that means you did not *read*. You should avoid using the Random start option to prevent choosing this start. If you do decide to use the Random start, make sure to re-roll if you spawn outside of High Hrothgar.
+Take a look at our full current issue tracker here; [https://github.com/zediious/tpfz-sprinkles/issues](https://github.com/zediious/tpfz-sprinkles/issues). 
+
+Issues that are very frequent and/or effect the experience as a whole will be pinned at the top of the issue tracker. It will be valuable for you to check the others as well to confirm what you may need to look out for in the current version.
+
+Make sure to report any bugs/issues or anything remotely odd on our issue tracker! If an issue already exists for what you're finding, most certainly add a comment expressing that you are seeing the issue as well. Reporting issues you find helps to make this mod list better for everyone :)
 
 ## Final Thoughts & Best Practices
-
-- Report any bugs/issues or anything remotely odd on our [issue tracker!](https://github.com/zediious/tpfz-sprinkles/issues) Make sure to check the current issues before posting on Discord or making a new issue. Reporting issues you find helps to make this mod list better for everyone :)
 
 - Endorse the mods that have been downloaded by this list! Without the mod authors, the list could not exist. You definitely don't have to click endorse 1500+ times in one day, but check your Nexus download history every once in a while and spend some time endorsing these mods. Wabbajack has made it incredibly easy to get the mods downloaded, but the authors deserve some commendation for their work, in my opinion. [Follow this link to get to your download history!](https://www.nexusmods.com/skyrimspecialedition/users/myaccount?tab=download+history)
 
