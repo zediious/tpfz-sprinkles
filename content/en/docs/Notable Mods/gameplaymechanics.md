@@ -66,6 +66,8 @@ To put it simply, OWL will stop Skyrim from distributing very high-level loot to
 
 ### Immersive Spell Learning - DESTified
 
+### Staff Enhanced Magicka
+
 ### Cold Region Behavior
 
 ### Stress and Fear
