@@ -78,6 +78,8 @@ To put it simply, OWL will stop Skyrim from distributing very high-level loot to
 
 ### Sneak Behavior Extensions - True Prone system
 
+### Stealing Not Browsing - A Pickpocket Mod
+
 ### Dynamic Collision Adjustment
 
 ### Dynamic Weather and time Based Detection
