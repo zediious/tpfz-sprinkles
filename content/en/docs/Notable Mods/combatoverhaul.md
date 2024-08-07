@@ -204,13 +204,13 @@ This (potentially controversial) mod prevents NPCs from moving while they are ch
 
 This collection of Creature Animation mods adds a variety of new behavioral attacks to a variety of creatures. These animations truly do spice up combat with these creatures. This set of mods covers [Frost Atronachs](https://www.nexusmods.com/skyrimspecialedition/mods/84568), [Trolls](https://www.nexusmods.com/skyrimspecialedition/mods/84026), [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/83806), [Falmer](https://www.nexusmods.com/skyrimspecialedition/mods/83572), [Giants](https://www.nexusmods.com/skyrimspecialedition/mods/83317), [Lurkers](https://www.nexusmods.com/skyrimspecialedition/mods/83105), and [Rieklings/Goblins](https://www.nexusmods.com/skyrimspecialedition/mods/82974).
 
-## [Dragon Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/123113)
+### [Dragon Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/123113)
 
 "The goal of this animation replacer is to make fair attacks for dragons, because in vanilla some attacks are instant (like wing attacks) some attacks are too slow (bite attacks) some attacks are cheesy (get behind dragon and you'll never see his face again because he will be in constant loop of tail ground slams)"
 
 This mod greatly improves melee combat with dragons with telegraphed motion-data attacks. There are a variety of new attacks that dragons will use in the right situation. This makes these fights more exciting, and fair.
 
-## [DNFA Wolves Combat Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/124855)
+### [DNFA Wolves Combat Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/124855)
 
 "...wolves (and, occasionally, death hounds)...now they behave more like wolves from DS games: chain their attacks, dodge from you."
 
