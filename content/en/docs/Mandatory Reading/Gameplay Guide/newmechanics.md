@@ -10,6 +10,14 @@ The way you will perform combat in this mod list is *drastically* different from
 
 The above linked page is *rather long*, and I would suggest you read it after finishing the Mandatory Reading section. You certainly do not have to read it word-for-word, I did my best to describe each mod in as much detail as possible.
 
+## You can get stressed in combat, preventing certain types of attacks
+
+If you reach the "Critical Stress" level during combat via "[Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522)", you will be unable to sprint, perform power attacks, or power bashes. You will be left with normal attacks, and running/climbing away from your enemy.
+
+It is possible to temporarily reduce this with Alcohol, but this will introduce further side effects that will reduce the situation even further. If you find yourself in a situation like this, it is best to get away and come back better prepared after you have de-stressed.
+
+Stress is added to your player whenever you get hit. If you can avoid getting hit completely, you will not generate any stress. You can reduce stress by drinking alcohol, eating a warm meal, sleeping in a safe space, petting a dog, playing music, fishing, etc. Read the full mod page for Stress and Fear to see what other options exist to manage stress, and get to know the Fear mechanic. Make sure to keep on top of your stress levels!
+
 ## Equip your armor, weapons, and magic with LamasTinyHUD and Wheeler
 
 [LamasTinyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/82545) and [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) provide you with instant access to your entire arsenal of armor, weapons, and magic. With LamasTinyHUD, you can configure sequential loadouts for gear in your left and right hands, as well as your Shouts/Powers. The mod also allows you to cycle through restoration potions for health, stamina, and magicka. The mod will intelligently use the best restoration potion it can use. You can also place any potion of your choosing in the loadout.
