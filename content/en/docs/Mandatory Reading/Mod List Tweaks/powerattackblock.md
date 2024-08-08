@@ -16,7 +16,7 @@ If you do change your block key, you will also need to change the block key in t
 
 ## Changing the Power Attack Key
 
-Please note that**I cannot provide support if you decide to change your Power Attack key.** Strange behavior can occur relating to power attacks not triggering as they should, where blocking happens instead. If you want to change your power attack key, you will need to follow the below steps;
+Please note that **I cannot provide support if you decide to change your Power Attack key.** Strange behavior can occur relating to power attacks not triggering as they should, where blocking happens instead. If you want to change your power attack key, you will need to follow the below steps;
 
 1. Disable/uncheck the **For Honor Power Attack** mod in the left pane of Mod Organizer.
 
