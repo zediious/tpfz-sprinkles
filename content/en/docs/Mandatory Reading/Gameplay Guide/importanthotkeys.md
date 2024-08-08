@@ -93,7 +93,7 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Show/Hide your Compass and Clock.
 - Can be changed in the "Immersive HUD" MCM.
 
-### Middle-Mouse Click
+### N
 
 - Switch from 1st person to 3rd person and vice-versa while outside of your inventory.
 - You will also use this key to favorite an item in your inventory. This will not conflict with the above
@@ -149,6 +149,11 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Power Attack (**IMPORTANT:** when using magic, power attacking is done like vanilla, by holding LEFT-CLICK).
 - Perform a Counter immediately after blocking an enemy attack.
 - For instructions on changing this keybind, [refer to this guide](../../mod-list-tweaks/powerattackblock).
+
+### Middle Mouse/Mouse Wheel CLICK
+
+- Perform a "Combo" Power Attack. This is a standalone attack that can be chained to normal light or power attacks, and is different for each base weapon type.
+- Scrolling can still be used to move in and out of 3rd and 1st person.
 
 ### Mouse BUTTON-4
 
