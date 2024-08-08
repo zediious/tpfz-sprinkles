@@ -16,6 +16,7 @@ Follow the below steps to disable the default Dark Mode UI and enable the Paper 
     - Inventory Interface Information Injector - Dark Mode
     - Dear Diary Dark Mode C.O.C.K.S. Mode
     - Custom Skills Framework Unified Menu - Dear Diary Dark
+    - KIT SkyUI Config - Dark Mode
 
 2. **Enable** the following mods in the **INTERFACE** separator of the left pane of Mod Organizer;
 
@@ -26,6 +27,7 @@ Follow the below steps to disable the default Dark Mode UI and enable the Paper 
     - Dear Diary Light Skin for C.O.C.K.S
     - Custom Skills Framework Unified Menu - Dear Diary Paper
     - Dear Diary Paper - Experience Patch
+    - KIT SkyUI Config - Paper Mode
 
 Keep in mind that the main menu will always use the Paper version of the UI via the "Dear Diary Main Menu" mod. Do NOT disable this mod. You do not need to worry about the plugin load order for any of these mods.
 
