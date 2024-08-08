@@ -2,7 +2,7 @@
 title: Power Attacking and Blocking
 weight: 1
 ---
-In this mod list, we use Dual Wield Parrying SKSE to modify our block hotkey to Mouse Button-4, and For Honor Power Attack to modify our power attack hotkey to Mouse Right-Click. Since not everyone may have a mouse with additional buttons, these may need to be changed. Below you will find instructions on changing your block key. If you want to change your block key back to the Mouse Right-Click, then you will need to remove For Honor Power Attack and use One Click Power Attack. This is currently unsupported.
+In this mod list, we use Dual Wield Parrying SKSE to modify our block hotkey to Mouse Button-4, and For Honor Power Attack to modify our power attack hotkey to Mouse Right-Click. Since not everyone may have a mouse with additional buttons, these may need to be changed. Below you will find instructions on changing your block key. If you want to change your block key back to the Mouse Right-Click, then you will need to remove For Honor Power Attack. This is currently unsupported.
 
 ## Changing the Block Key
 
