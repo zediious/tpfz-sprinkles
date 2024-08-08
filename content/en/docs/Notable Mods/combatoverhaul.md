@@ -30,13 +30,21 @@ The mod is completely configurable, with the ability to create and load other us
 
 This mod, in combination with True Directional Movement, bring the movement and camera in third-person up to modern standards and beyond.
 
-## [MCO - Modern Combat Overhaul](https://www.skyrim-guild.com/mods/attack)
+## [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052)
 
-"Skyrim shares the same mechanics for 1st and 3rd person. It doesn’t translate well and created something you never see in modern games: the ice skating combat. You move freely during the attacks, like in a top-down 2D game. Conventional mods could only limit it by reducing the movement speed...(this mod implements) Chainable power attacks, animated charged attacks, animated transitions and non linear move-sets are all available in one mod for 0 performance cost due to its behavioral nature"
+*This quote is from Distar's "MCO" mod, however it highlights the same issue that BFCO resolves.* "Skyrim shares the same mechanics for 1st and 3rd person. It doesn’t translate well and created something you never see in modern games: the ice skating combat. You move freely during the attacks, like in a top-down 2D game. Conventional mods could only limit it by reducing the movement speed...(this mod implements) Chainable power attacks, animated charged attacks, animated transitions and non linear move-sets are all available in one mod for 0 performance cost due to its behavioral nature"
 
-MCO - Modern Combat Overhaul completely changes the third-person combat experience. As described by Distar, vanilla Skyrim's combat suffers from the "ice-skating issue", where it almost appears as though the player is ice skating while swinging their weapon around. MCO fixes this by implementing a system where animations have *movement data* associated with them. This means that animations can be made that will make the character takes steps when attacking, or any other number of locomotive actions. Through the use of a variety of animation packs covering every weapon type, including mod-added weapons, this mod completely transforms the feeling of third-person combat.
+BFCO - Attack Behavior Framework completely changes the third-person combat experience, and is an expansion and re-iteration of MCO with many more features. As described by Distar, vanilla Skyrim's combat suffers from the "ice-skating issue", where it almost appears as though the player is ice skating while swinging their weapon around. BFCO fixes this by implementing a system where animations have *movement data* associated with them. This means that animations can be made that will make the character takes steps when attacking, or any other number of locomotive actions. Through the use of a variety of animation packs covering every weapon type, including mod-added weapons, this mod completely transforms the feeling of third-person combat.
+
+BFCO further expands on MCO with much improved chainability of attacks, as well as introducing a secondary "Combo Power Attack" that can be initiated by using Middle-Mouse Click. This can be chained with your normal light and power attacks.
+
+BFCO specifically also allows for jumping attacks, and swimming attacks. If you tap your left-click while in the air shortly after jumping, you will perform a light jump attack. If you hold left-click, you will perform a jumping power attack. Swimming attacks are basic, and can be performed while in a swimming state with a left-click.
 
 Through the use of the other mods, which you will find further in this list, these animations are utilized by **enemies**!
+
+## BFCO Animation Packs
+
+The below mods are animation packs that were originally created for the MCO framework, but are converted for use with BFCO in this mod list.
 
 ### [Elden Rim Moveset Collection](https://www.nexusmods.com/skyrimspecialedition/mods/72220)
 
@@ -70,7 +78,7 @@ This mod adds scythe combat animations for MCO. Some of our weapon mods add scyt
 
 "SKSE plugin that brings up the modern (action) game‘s combos attack AI into Skyrim...The vanilla Skyrim game engine does not have the concept of combos attack at all, except the right to left and left to right swing attack...SCAR introduces a dynamic and highly customizable AI attack system to the game...NPCs would check the range of distance and angle as well as other conditions before every strike, pick up the attack action that meet the criteria, then perform it."
 
-In short, this mod allows enemy NPCs to use the movesets from MCO - Modern Combat Overhaul, and to use them in smart and intelligent ways. You will find that enemies will now combo the fuck out of you! Enemies will intelligently use any MCO moveset that they can use based on their equipped weapon. All of the MCO animations that we are using in this list fully support SCAR, and you will see them used by the enemy.
+In short, this mod allows enemy NPCs to use the movesets from BFCO - Attack Behavior Framework, and to use them in smart and intelligent ways. You will find that enemies will now combo the fuck out of you! Enemies will intelligently use any BFCO moveset that they can use based on their equipped weapon. All of the BFCO animations that we are using in this list fully support SCAR, and you will see them used by the enemy.
 
 ## [Dodge - MCO](https://www.skyrim-guild.com/mods/dodge)
 
@@ -99,12 +107,6 @@ Valhalla Combat is a newer combat overhaul, that is focused on bringing some mod
 Blocking has also been overhauled, using similar mechanics from the mod author's original blocking mod, [Shield of Stamina](https://www.nexusmods.com/skyrimspecialedition/mods/62137). Performing a Timed Block will now deal you no damage, as long as you have enough stamina to tank all the damage. This incentivizes you to use a shield much more than vanilla, where you cannot block all damage even at 100 block will all perks.
 
 Successful **light** attacks that hit an enemy no longer deplete your stamina, they *regenerate* it, incentivizing you to perform long combo chains using our new combat framework, MCO. Power attacks will still deplete your stamina, and missed light attacks will also do so. Your stamina will regenerate 5x faster by default, helping you maintain a healthy combat state.
-
-## [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579)
-
-"Elden Ring has a lovely guard counter system. Pressing power attack key shortly after blocking an attack, you do a "guard counter" that deals additional damage. This mod brings its mechanic to Skyrim."
-
-As it was very simply put in the original description, this mod adds Elden Ring's guard counter mechanic to the game. You can perform this action by power attacking immediately after a successful block. This adds another layer of complexity to combat. increasing the options you have when dealing with enemies.
 
 ## [Simple Weapon Swing Parry](https://www.nexusmods.com/skyrimspecialedition/mods/74326)
 
@@ -140,8 +142,6 @@ This mod adds some spice to combat against any type of ghost enemies. Unless you
 
 Simply put, this mod makes power attacks respect the input you are giving with your keyboard. Without this mod, all sorts of wonky things can occur during combat if you attempt to power attack right after a dodge or sprint, potentially throwing off the combat experience quite a bit. This mod remedies that problem.
 
-It should be noted that directional power attacks do not exist with all weapon types, but this mod still prevents the issues described above from occurring.
-
 ## [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
 
 "Physically accurate, true Havok collisions for melee. Procedural, physics-based hit reactions. Weapon trails. Hitstop and camera shake. Recoils when hitting certain materials. Supports both first person and third person, as well as other NPCs and creatures."
@@ -156,15 +156,17 @@ This addon to Precision adds true hit-boxes to the attacks of Werewolves, Vampir
 
 ## [For Honor Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/87228)
 
-This very simple mod changes the Power Attack functionality to be used with your Right Mouse-Click, instead of holding your Left Mouse-Click. This makes it much more smooth to combo from light attacks to power attacks.
+This very simple mod changes the Power Attack functionality to be used with your Right Mouse-Click, instead of holding your Left Mouse-Click. This makes it much more smooth to combo from light attacks to power attacks. The mod completely removes blocking functionality from RIGHT-CLICK.
 
 When you have a spell equipped in your non-weapon hand, you will still power attack by holding Left Mouse-Click, to allow you to still use both hands.
 
-## [Vanguard - Bash Behaviors Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52633)
+## [Vanguard - Bash Behaviors Updated](https://www.nexusmods.com/skyrimspecialedition/mods/115030)
 
 "Changes how most of the Bashing work, NPC bashing have been completely overhauled to be more telegraphed instead of being too fast to give room to dodge or parry without the use of scripts...Players also get different types of bashing depending on equipped item, not just a visual change but the movement and the speed of the bash now varies to give variety on the approach of certain weapons"
 
 Completely overhauling the power bash, this mod introduces a set of unique behavioral animations that will replace the power bashing animations for all weapons and shields. These animations will have movement data, and behave much like a typical weapon attack. This not only increases variety in your own combat routine, it allows you to more easily avoid enemy bash attacks. In vanilla, these attacks are almost instant, and enemies do them all the time. Each bash animation is unique, with only a select few weapons sharing the same animation.
+
+This is an updated version of the original mod, with many fixes and improvements.
 
 ## [POISE - Stagger Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
 
