@@ -108,6 +108,12 @@ Blocking has also been overhauled, using similar mechanics from the mod author's
 
 Successful **light** attacks that hit an enemy no longer deplete your stamina, they *regenerate* it, incentivizing you to perform long combo chains using our new combat framework, MCO. Power attacks will still deplete your stamina, and missed light attacks will also do so. Your stamina will regenerate 5x faster by default, helping you maintain a healthy combat state.
 
+## [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579)
+
+"Elden Ring has a lovely guard counter system. Pressing power attack key shortly after blocking an attack, you do a "guard counter" that deals additional damage. This mod brings its mechanic to Skyrim."
+
+As it was very simply put in the original description, this mod adds Elden Ring's guard counter mechanic to the game. You can perform this action by power attacking immediately after a successful block. This adds another layer of complexity to combat. increasing the options you have when dealing with enemies.
+
 ## [Simple Weapon Swing Parry](https://www.nexusmods.com/skyrimspecialedition/mods/74326)
 
 "Between a weapon swing's animation and hit frame, an attacker enters a blocking state, parrying any attacks against them."
