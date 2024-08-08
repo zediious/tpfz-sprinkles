@@ -55,6 +55,20 @@ You will also find the following three unique perk trees;
 
 If you meet either of those bills, be sure to check the perk trees and read the descriptions of them in the UI!
 
+## Encounter creatures while you play and fill out your Bestiary!
+
+As you slay, activate, or conjure creates, entries for those creatres will be added to your Bestiary, which you can open with the Semicolon ; key. Each entry will have an image of the creature, its resistances and weaknesses, along with the loot it drops. A description of the creature including lore and what ways it may attack is included here as well.
+
+It's a very fun time seeing the Bestiary fill up as you encounter more and more creatures! A constant effort is made with this mod list to ensure that all creatures have a bestiary entry.
+
+## Take notes in your Journal!
+
+By using the Apostraphe ' key, you can open your Journal! Here, you can create any arbitrary text entries you wish, categorizing them how you see fit. You can use this to make actual journal entries from your character's perspective, or to simply keep a to-do list.
+
+When you first open the journal, you may find that it is not positioned as you would like. Use **SHIFT+ARROW KEYS** to move the Journal to your desired position.
+
+As you create new entries in selected sections, use the arrow buttons at the bottom right and bottom left of the UI to move between entries.
+
 ## Play the Triple Triad card game with NPCs
 
 As you loot NPCs, you will come across a variety of Card Packs that will give you different "Triple Triad" cards. With these, you will be able to play the Triple Triad game with most NPCs in the world! In order to do so, you will need to buy a **Triple Triad Board** from a General merchant such as Belethor in Whiterun. After you own this, all cards you get from loot will be placed in a virtual chest you can access with the board in your Misc inventory section, instead of being placed in your inventory. You will also be able to challenge NPCs to a duel with a dialogue option.

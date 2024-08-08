@@ -86,7 +86,7 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 - Scroll Wheel Menu pages while in the Wheel Menu
 
-## HUD and Camera
+## UI, HUD and Camera
 
 ### X
 
@@ -114,6 +114,16 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Switch the shoulder the camera is viewing over. Only applies when a ranged weapon or magic is unsheathed.
 - This can be changed in the SmoothCam MCM menu.
 - This is also used for [quickly dismounting a horse](#v-while-riding-a-horse)
+
+### ;
+
+- Open the Dragonborn's Bestiary UI
+- This can be changed in the .ini file in "The Dragonborn's Bestiary".
+
+### '
+
+- Open the Dragonborn's Journal, where you can take notes.
+- This can be changed in the "Takes Notes!" MCM menu.
 
 ## Movement
 
@@ -215,11 +225,6 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - This can be changed in the Immersive Horses MCM,
 
 ## Misc
-
-### ;
-
-- Open the Dragonborn's Bestiary UI
-- This can be changed in the .ini file in "The Dragonborn's Bestiary".
 
 ### SHIFT+;
 
