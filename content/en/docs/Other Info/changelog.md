@@ -1,5 +1,6 @@
 ---
 title: Changelog
+icon: fa-solid fa-scroll
 weight: 1
 ---
 Changelogs of this fashion were not written before compiling to Wabbajack. The modlist has undergone a very large number of changes over the years before this point. Most times, if I have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can view by hovering over the notepad icon on the mod in the left pane of MO.

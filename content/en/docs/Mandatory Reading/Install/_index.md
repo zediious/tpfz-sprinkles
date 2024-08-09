@@ -1,5 +1,6 @@
 ---
 title: Installing the Mod List
+icon: fa-solid fa-download
 hide_readingtime: true
 weight: 1
 description: >

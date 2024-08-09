@@ -1,5 +1,6 @@
 ---
 title: Mod List Tweaks
+icon: fa-solid fa-wrench
 hide_readingtime: true
 weight: 2
 description: >

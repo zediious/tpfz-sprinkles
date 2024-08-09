@@ -1,5 +1,6 @@
 ---
 title: Gameplay Guide
+icon: fa-solid fa-gamepad
 hide_readingtime: true
 weight: 3
 description: >
