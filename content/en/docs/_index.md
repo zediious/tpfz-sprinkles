@@ -9,7 +9,6 @@ A heavily curated Skyrim mod list, focused on elevating the game to a modern sta
 
 Current version: 5/27/2024 - v0.9.6.3
 
-Mod List + Archive Total Size: ~393GB
 
 ## Preamble
 
@@ -51,11 +50,11 @@ To seal it all off, this list is accompanied by a completely customized set of l
 
 ## Warnings/Disclaimers
 
-When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues! You will be reminded of this in the Post-Mod List Install section of the wiki.
+As of the latest version, the modlist requires ~406GB (~144GB of Downloads/~262GB of Mods) of drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 Wabbajack does not require that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually.
 
-As of the latest version, the modlist requires ~393GB (~139GB of Downloads/~254GB of Mods) of drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues! You will be reminded of this in the Post-Mod List Install section of the wiki.
 
 This list **requires** that you have the **latest** version of Skyrim installed on Steam. Do **NOT** use any downgrade patchers, Wabbajack will do this work for you.
 
