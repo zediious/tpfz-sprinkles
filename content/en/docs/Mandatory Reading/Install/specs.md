@@ -28,6 +28,26 @@ You can use either profile, and you can switch between them at any time. To do s
 Note that if you decide to use the "Refined - Performance" profile/use Community Shaders, the game will take a small amount of time to generate and cache the shaders on the first launch of the game. This will only happen once.
 The "Refined - Performance" profile will perform much better than the default profile, at the cost of visuals.
 
+## Page File Configuration
+
+This mod list is quite large, and consumes quite a bit of memory (RAM) while running. Due to the way Skyrim's engine works, there are times where the engine itself is unable to allocate more of your actual dedicated memory (RAM), leading to crashes. We can resolve this by manually defining a larger "Page File" for Windows/Skyrim to use. A Page File is space/a file on one of your disk drives (preferably an SSD) that can be used in place of memory when there is not enough dedicated memory available. Follow the below steps to set up and configure your page file.
+
+*Note: These steps were taken almost directly from [this page](https://www.thewindowsclub.com/increase-page-file-size-virtual-memory-windows), with a few changes.*
+
+1. In the Taskbar Search, type “Advanced System“. You will see View Advanced System Settings. Click on it. Or you can navigate to it via the Control Panel (Search “Advanced Settings” in the search box and then click View advanced system settings under the System option)
+2. In System Properties, click the Advanced tab
+3. In the Performance section click the Settings button
+4. Performance Options will open. Click Advanced tab
+5. Here, under Virtual memory, select Change
+6. Uncheck "Automatically manage paging file size for all drives" at the top.
+7. Highlight your Windows system drive. This should be an SSD!
+8. Select Custom size
+9. Change the Initial size value to `40960` and the Maximum size value to `40960`
+10. Click Set
+11. Finally, Click Apply/OK all the way.
+
+The values above are what I use on my computer. I do not recommend you use any more than that.
+
 ## System Specifications
 
 You should absolutely have Skyrim and this mod list installed onto an SSD, and they should be on the same SSD. Using a HDD **will** induce lower framerates, stutters, and possibly other issues related to stability. If you have no choice, the list will *function* to a degree, but your experience will be heavily degraded.
@@ -58,8 +78,6 @@ If you have worse specifications than the below or cannot deal with the performa
 If I play the list with the "Refined - Performance" profile, nearly all performance issues described in this page are gone. What remains is large stutters momentarily that can bring me down to ~30 FPS, due to VRAM limits being reached. These usually only occur after a long play session, and go away for about 30 minutes at a time.
 
 I also recommend 6GB of VRAM, however as shown above it is possible to run this list with 4GB of VRAM. When doing so, you may be exposed to occasional VRAM related stuttering and FPS drops during extremely heavy moments, or rarely crashes. In my experience, I am able to play 3+ hour long sessions on this list with no crashes, only very rarely do these crashes occur. You will know it is a GPU related crash if your crash logs reference a `nvwgf2umx.dll` (with NVIDIA Graphics Cards).
-
-While playing the game with 4GB VRAM, we are almost always dipping into our pagefile, running at 3.9/4GB of VRAM usage. As such, you should make sure you have [configured your Page File](https://www.thewindowsclub.com/increase-page-file-size-virtual-memory-windows).
 
 Again, I HIGHLY recommend that you have 6GB of VRAM when running this list. It will make for a better time overall, but you absolutely can use less.
 
