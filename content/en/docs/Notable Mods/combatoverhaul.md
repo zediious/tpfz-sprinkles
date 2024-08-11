@@ -40,6 +40,10 @@ BFCO further expands on MCO with much improved chainability of attacks, as well 
 
 BFCO specifically also allows for jumping attacks, and swimming attacks. If you tap your left-click while in the air shortly after jumping, you will perform a light jump attack. If you hold left-click, you will perform a jumping power attack. Swimming attacks are basic, and can be performed while in a swimming state with a left-click.
 
+BFCO also adds special bow and crossbow bashing behaviors, which we have locked behind the "Ranger" perk in the Archery skill tree with this mod list. With a bow, holding down power attack to bash will unleash a flurry of lighter-power arrows after a power bash. With a crossbow, an acrobatic maneuver if performed, where you continuously move forward and stab with a bolt.
+
+If you don't have the "Ranger" perk, holding down power attack for one second will perform the first part of the power bash still.
+
 Through the use of the other mods, which you will find further in this list, these animations are utilized by **enemies**!
 
 ## BFCO Animation Packs

@@ -29,6 +29,16 @@ Swimming attacks are basic, and can be performed while in a swimming state with 
 
 The jump attack alone opens up numerous scenarios in combat, and the swim attacks allow you to get at those pesky Slaughterfish, along with attacking other aquatic monsters.
 
+## Utilize new Bow Bashing behaviors
+
+BFCO - Attack Behavior Framework also adds special bow and crossbow bashing behaviors, which we have **locked behind the "Ranger" perk in the Archery skill tree** with this mod list.
+
+With a bow, holding down power attack to bash will unleash a flurry of lighter-power arrows after a power bash.
+
+When holding down power attack with a crossbow, an acrobatic maneuver if performed, where you continuously move forward and stab with a bolt.
+
+If you don't have the "Ranger" perk, holding down power attack for one second will perform the first part of the power bash, without the extended behavior.
+
 ## Equip your armor, weapons, and magic with LamasTinyHUD and Wheeler
 
 [LamasTinyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/82545) and [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) provide you with instant access to your entire arsenal of armor, weapons, and magic. With LamasTinyHUD, you can configure sequential loadouts for gear in your left and right hands, as well as your Shouts/Powers. The mod also allows you to cycle through restoration potions for health, stamina, and magicka. The mod will intelligently use the best restoration potion it can use. You can also place any potion of your choosing in the loadout.
