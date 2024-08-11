@@ -8,7 +8,7 @@ If you prefer a lighter tone, we offer "[Dear Diary - Paper UI](https://www.nexu
 
 Follow the below steps to disable the default Dark Mode UI and enable the Paper version. All of these mods are grouped right next to each other in the mod list.
 
-1. **Disable** the following mods in the **INTERFACE** separator of the left pane of Mod Organizer;
+1. **Disable** the following mods in the **INTERFACE AND CAMERA** separator of the left pane of Mod Organizer;
 
     - Dear Diary - Dark Mode
     - Dear Diary - Dark Mode SkyUI Config
@@ -18,7 +18,7 @@ Follow the below steps to disable the default Dark Mode UI and enable the Paper 
     - Custom Skills Framework Unified Menu - Dear Diary Dark
     - KIT SkyUI Config - Dark Mode
 
-2. **Enable** the following mods in the **INTERFACE** separator of the left pane of Mod Organizer;
+2. **Enable** the following mods in the **INTERFACE AND CAMERA** separator of the left pane of Mod Organizer;
 
     - Dear Diary - Paper Mode
     - Paper UI Sounds
