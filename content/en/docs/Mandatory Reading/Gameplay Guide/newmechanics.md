@@ -67,13 +67,13 @@ If you meet either of those bills, be sure to check the perk trees and read the 
 
 ## Encounter creatures while you play and fill out your Bestiary!
 
-As you slay, activate, or conjure creates, entries for those creatres will be added to your Bestiary, which you can open with the Semicolon ; key. Each entry will have an image of the creature, its resistances and weaknesses, along with the loot it drops. A description of the creature including lore and what ways it may attack is included here as well.
+As you slay, activate, or conjure creates, entries for those creatures will be added to your Bestiary, which you can open with the Semicolon ; key. Each entry will have an image of the creature, its resistances and weaknesses, along with the loot it drops. A description of the creature including lore and what ways it may attack is included here as well.
 
 It's a very fun time seeing the Bestiary fill up as you encounter more and more creatures! A constant effort is made with this mod list to ensure that all creatures have a bestiary entry.
 
 ## Take notes in your Journal!
 
-By using the Apostraphe ' key, you can open your Journal! Here, you can create any arbitrary text entries you wish, categorizing them how you see fit. You can use this to make actual journal entries from your character's perspective, or to simply keep a to-do list.
+By using the Apostrophe ' key, you can open your Journal! Here, you can create any arbitrary text entries you wish, categorizing them how you see fit. You can use this to make actual journal entries from your character's perspective, or to simply keep a to-do list.
 
 When you first open the journal, you may find that it is not positioned as you would like. Use **SHIFT+ARROW KEYS** to move the Journal to your desired position.
 
