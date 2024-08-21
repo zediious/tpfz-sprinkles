@@ -23,7 +23,7 @@ Stress is added to your player whenever you get hit. If you can avoid getting hi
 With "BFCO - Attack Behavior Framework" in the list, you are able to perform jumping attacks, and swimming attacks!
 
 - If you CLICK **LEFT-CLICK** while in the air shortly after jumping, you will perform a light jump attack.
-- If you HOLD **LEFT-CLICK** while in the air shortly after jumping, you will perform a jumping power attack.
+- If you HOLD **LEFT-CLICK** or CLICK **MOUSE-WHEEL** while in the air shortly after jumping, you will perform a jumping power attack.
 
 Swimming attacks are basic, and can be performed while in a swimming state with a left-click.
 
