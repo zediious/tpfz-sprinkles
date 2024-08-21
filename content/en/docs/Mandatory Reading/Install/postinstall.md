@@ -89,7 +89,7 @@ Make sure to report any bugs/issues or anything remotely odd on our issue tracke
 
 - Endorse the mods that have been downloaded by this list! Without the mod authors, the list could not exist. You definitely don't have to click endorse 1500+ times in one day, but check your Nexus download history every once in a while and spend some time endorsing these mods. Wabbajack has made it incredibly easy to get the mods downloaded, but the authors deserve some commendation for their work, in my opinion. [Follow this link to get to your download history!](https://www.nexusmods.com/skyrimspecialedition/users/myaccount?tab=download+history)
 
-- The **Notable Mods** sections in the Wiki sidebar contains a full-detailed breakdown of all the important mods in this list (this section is still a WIP!). Make sure to check it out after you have read the Mandatory Reading section! You can also view the Load Order Library list in the "Other List Information" tab to view the full mod list.
+- The **Notable Mods** sections in the Wiki sidebar contains a full-detailed breakdown of all the important mods in this list. This section is still a WIP, and many sections only contain stubs with the mod name. Make sure to check it out after you have read the Mandatory Reading section! You can also use "Full Mod List" in the "Other List Information" tab to view the full mod list at Load Order Library.
 
 - When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues!
 
