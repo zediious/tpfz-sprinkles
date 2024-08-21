@@ -7,8 +7,7 @@ weight: 20
 ---
 A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
 
-Current version: 5/27/2024 - v0.9.6.3
-
+Current version: v1.0-pre1 - INSERT_DATE_HERE
 
 ## Preamble
 
@@ -46,7 +45,7 @@ We are also adding a wide variety of New Creature mods to the game, from renowne
 
 ### Custom Leveled Lists with mod-added Equipment
 
-To seal it all off, this list is accompanied by a completely customized set of leveled lists for both armors and weapons, containing a massive number of mod-added equipment. [You can view the full list of equipment here!](other-info/addedequipment/) Every leveled list has been curated by hand, carefully choosing what should go where and balancing the stats of the new equipment to match the tier they are placed in. It will not be uncommon for you to never see a particular piece of vanilla equipment again, instead finding new equipment you may have never seen before! This not only increases your general loot variety, it increases the diversity of armors and weapons across every NPC in the game, and provides you with a large number of choices in equipping yourself. Some equipment that has been added can only be crafted, and you can easily request a blacksmith to do so with the [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) mod.
+To seal it all off, this list is accompanied by a completely customized set of leveled lists for both armors and weapons, containing a massive number of mod-added equipment. [You can view the full list of equipment here!](other-info/addedequipment/) Every leveled list has been curated by hand, carefully choosing what should go where and balancing the stats of the new equipment to match the tier they are placed in. It will not be uncommon for you to never see a particular piece of vanilla equipment again, instead finding new equipment you may have never seen before! This not only increases your general loot variety, it increases the diversity of armors and weapons across every NPC in the game, and provides you with a large number of choices in equipping yourself. Most of the equipment added to the last has also had **Enchanted Variants** created, which will be given as end-of-dungeon rewards, as rewards at the end of a quest, etc. Some equipment that has been added can only be crafted, and you can easily request a blacksmith to do so with the [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) mod.
 
 ## Warnings/Disclaimers
 
