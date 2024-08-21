@@ -4,7 +4,7 @@ weight: 2
 ---
 As with any modlist, it is extremely important that you start with a clean, unmodified installation of Skyrim: Special Edition. This is an **extremely** vital part of the installation process, do NOT skip this! 
 
-This list also requires you to install the Skyrim Special Edition Creation Kit from Steam. The list will fail to install if the Creation Kit is not installed. To do these things, follow these steps:
+This list also requires you to install the Skyrim Special Edition Creation Kit from Steam. **The list will fail to install if the Creation Kit is not installed to the Skyrim game folder.** To do these things, follow these steps:
 
 ### Installing Skyrim
 
