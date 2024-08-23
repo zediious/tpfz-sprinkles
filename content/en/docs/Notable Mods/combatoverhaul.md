@@ -110,7 +110,7 @@ Valhalla Combat is a newer combat overhaul, that is focused on bringing some mod
 
 Blocking has also been overhauled, using similar mechanics from the mod author's original blocking mod, [Shield of Stamina](https://www.nexusmods.com/skyrimspecialedition/mods/62137). Performing a Timed Block will now deal you no damage, as long as you have enough stamina to tank all the damage. This incentivizes you to use a shield much more than vanilla, where you cannot block all damage even at 100 block will all perks.
 
-Successful **light** attacks that hit an enemy no longer deplete your stamina, they *regenerate* it, incentivizing you to perform long combo chains using our new combat framework, MCO. Power attacks will still deplete your stamina, and missed light attacks will also do so. Your stamina will regenerate 5x faster by default, helping you maintain a healthy combat state.
+Successful **light** attacks that hit an enemy no longer deplete your stamina, they *regenerate* it, incentivizing you to perform long combo chains using our new combat framework, BFCO. Power attacks will still deplete your stamina, and missed light attacks will also do so. Your stamina will regenerate 5x faster by default, helping you maintain a healthy combat state.
 
 ## [Elden Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65579)
 
