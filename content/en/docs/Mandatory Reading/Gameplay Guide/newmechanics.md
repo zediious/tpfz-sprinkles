@@ -101,6 +101,16 @@ You can now talk with NPCs and harvest ingredients/open containers while you are
 
 You can have conversations with any NPC from a distance! Press the *B* key to initiate Remote Interactions! This allows you to have full conversations with any NPC without being next to them, opening up a huge door for immersion in many situations. You can use this against enemies as well, potentially opening up new strategies in combat!
 
+## Use your Follower Menu
+
+With the `H` Key, you can open the quick follower menu. Here, you can tell all or selected followers to wait, follow, teleport, or open their inventories. This is a very quick way to interact with your followers!
+
+## Recruit more than one follower with "Leadership" Speech perks
+
+By default, you can only recruit one follower at a time. If you take the **"Leadership"** perks in the Speech tree, however, you will be able to recruit one more follower.
+
+There are three separate Leadership perks, each unlocking an additional follower slot after you have unlocked all three perks in that tree. Start with the perk at the bottom!
+
 ## Knock on doors
 
 If you interact with a locked door in non-hostile areas, you are given the option to knock on the door instead of pick the lock. If there is an NPC inside, there is a chance they will let you in! This chance is improved dramatically if you have a relationship of some type with the NPC who owns the dwelling.
