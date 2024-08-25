@@ -33,11 +33,17 @@ The jump attack alone opens up numerous scenarios in combat, and the swim attack
 
 BFCO - Attack Behavior Framework also adds special bow and crossbow bashing behaviors, which we have **locked behind the "Ranger" perk in the Archery skill tree** with this mod list.
 
-With a bow, holding down power attack to bash will unleash a flurry of lighter-power arrows after a power bash.
+If you **have the "Ranger" perk**;
 
-When holding down power attack with a crossbow, an acrobatic maneuver if performed, where you continuously move forward and stab with a bolt.
+- With a bow, holding down power attack to bash will unleash a flurry of lighter-power arrows after a power bash, which continues as long as you hold power attack.
+- When holding down power attack with a crossbow, an acrobatic maneuver if performed, where you continuously move forward and stab with a bolt, which continues as long as you hold power attack
 
-If you don't have the "Ranger" perk, holding down power attack for one second will perform the first part of the power bash, without the extended behavior.
+If you **don't have the "Ranger" perk**;
+
+- Holding down power attack for **one second** will perform a basic bash maneuver, which also "throws" an arrow or bolt forward.
+- Holding down power attack for **half a second**, you will slam your bow down in a slicing motion.
+
+Do **not** hold power attack for longer if you don't have the **Ranger** perk, as it may result in a T-Pose you can break out of by pressing the R key.
 
 ## Equip your armor, weapons, and magic with LamasTinyHUD and Wheeler
 
