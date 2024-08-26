@@ -161,6 +161,12 @@ As you play, you will find many new weapon types such as Rapiers, Katanas, Pikes
 - Claws in the game are classified as **Daggers**, and will benefit from perks for Daggers.
 - Dai-Katana weapons in the game are classified as **Greatswords**, and will benefit from perks for Greatswords, despite their "Katana" keyword in the Inventory.
 
+## Utilize Crafter's Link Stones to access your crafting items from anywhere
+
+If you craft a "Crafter's Link Stone" at the forge, and place it inside a container, the materials in that container will then be accessible from any appropriate crafting apparatus! You would want to place one of these in any containers you store your ingots, pelts, and other materials inside. Then, you can craft with those materials from any Forge, Tanning Rack, etc.
+
+This is a bit of an immersion-breaker, however it is incredibly useful, and you can ignore the feature if you wish.
+
 ## Throw a stone to distract enemies
 
 With the *Throw Stone* power, you can throw a small stone you found on the ground. This allows you to get the attention of enemies, and send them where you would like quite easily, without wasting arrows or even needing a bow. You can also use these to trigger Runes, for you Warriors with no spells.
