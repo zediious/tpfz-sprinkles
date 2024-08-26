@@ -93,6 +93,12 @@ This game is derived from Final Fantasy, and is relatively simple however requir
 
 Read the mod page for Triple Triad in Skyrim at the following link for the rules of the game! [Triple Triad Card Game Mod Page](https://www.nexusmods.com/skyrimspecialedition/mods/42522)
 
+## Play instruments, and improve your skills as a Bard!
+
+If you click on a Lute, Flute, or Drum in your inventory, you will begin to play a song! At first, your skills will be...bad, to say the least. You may suffer debuffs, and the songs you are playing will be noticeably bad. Those around you will lament at your musical attempts!
+
+As you keep playing, however, your skills will increase, to the point that all the patrons in a tavern will cheer for you! A few people at the Bard's College are also able to give you lessons, for a price.
+
 ## Utilize your Horse Whistle, Horse Saddlebags, and quickly dismount your Horse
 
 [Immersive Horses](https://www.nexusmods.com/skyrimspecialedition/mods/13402) is used in this modlist, and it adds great tools for using your horse. Use the **"Horse Whistle Power"** in your Powers menu to summon your horse wherever it may be. If you sneak and activate your horse, you can access a Saddlebag inventory, as well as many other advanced features related to managing all of your owned horses.
