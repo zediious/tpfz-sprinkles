@@ -99,6 +99,14 @@ If you click on a Lute, Flute, or Drum in your inventory, you will begin to play
 
 As you keep playing, however, your skills will increase, to the point that all the patrons in a tavern will cheer for you! A few people at the Bard's College are also able to give you lessons, for a price.
 
+## Fish anywhere that there is water!
+
+As long as you have bait, you can equip a Fishing Pole, and swing it in the direction of water. This will then start the Fishing minigame, giving you a "Fishing Supplies" underneath where you swung to continue fishing afterwards. This marker disappears after you leave that immediate area.
+
+No longer are you required to find the "Fishing Supplies" placed in the world to fish. Just do so wherever you find water!
+
+You *can* use this to fish in places that you certainly should not be able to. Fish responsibly!
+
 ## Utilize your Horse Whistle, Horse Saddlebags, and quickly dismount your Horse
 
 [Immersive Horses](https://www.nexusmods.com/skyrimspecialedition/mods/13402) is used in this modlist, and it adds great tools for using your horse. Use the **"Horse Whistle Power"** in your Powers menu to summon your horse wherever it may be. If you sneak and activate your horse, you can access a Saddlebag inventory, as well as many other advanced features related to managing all of your owned horses.
