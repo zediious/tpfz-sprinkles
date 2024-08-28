@@ -3,13 +3,15 @@ title: Changelog
 icon: fa-solid fa-scroll
 weight: 1
 ---
-Changelogs of this fashion were not written before compiling to Wabbajack. The modlist has undergone a very large number of changes over the years before v0.9. Most times, if I had or have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can view by hovering over the notepad icon on the mod in the left pane of MO.
+Changelogs of this fashion were not written before compiling to Wabbajack. The modlist has undergone a very large number of changes over the years before v0.9.
 
-When armors/weapons are added to the list, they are commonly added to leveled lists. Check the [Added Equipment](../addedequipment) page for a full list of equipment.
+Most times, if I had or have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can view by hovering over the notepad icon on the mod in the left pane of MO.
+
+When armors/weapons are added to the list, they are commonly added to leveled lists. Check the [Added Equipment](../addedequipment) page for a full list of equipment and their leveled list placement.
 
 Basic conflict resolution when adding a mod is generally not included here, every addition to the list is vetted thoroughly. Only if existing conflict resolution was flawed and fixed, will it be included here.
 
-If the third number in a version (the 3 in 9.1.3) is changed, that version is **NOT SAFE** to update to on an existing save. If the fourth number in a version (i.e the 4 in 9.1.3.4) is changed or added, then that version should be safe to update to on an existing save, but you may encounter some non-breaking issues.
+To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
 ## v0.9.6.3 - **5/27/2024**
 
