@@ -13,6 +13,296 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.0-pre1 - **INSERT_DATE_HERE**
+
+*Pre-release build 1 for the official 1.0 release. These pre-releases will be made until the 1.0 version is found to be stable.*
+
+This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them.
+
+A large change with this version is the **change from Attack/MCO to BFCO**, which are combat animation frameworks used to add motion data to our attack animations. BFCO offers jumping attacks, swimming attacks, and much improved chain-ability of attacks over MCO. All of our currently used animations were converted for BFCO, and are working. You are now able to use a "Combo Power Attack" with the Middle-Mouse click, which can be chained with normal and power attacks. These animations will improve over time as the combo power attack, jumping attack, and other chained animations are given unique animations with either separate animations, or animation packs designed around BFCO with all features used. As it stands, this is a massive improvement over MCO.
+
+A large addition with this version, is the **introduction of enchanted variants of modded equipment**. You will now find enchanted variants of modded equipment in the enchanted gear leveled lists, such as in end-of-dungeon loot chests, rarely in merchant inventories, or rewards from a Jarl. *Not all* equipment has the capability of being enchanted, with some being intentionally left out to make sure there aren't too many enchanted items around. However, any new equipment added to the list going forward will have enchanted variants provided it suits the equipment.
+
+When using the Semicolon key, you can now open **The Dragonborn's Bestiary**, a wonderful new addition. Most creatures you kill will add a new entry to this bestiary, showing a description, as well as their weaknesses and resistances. Through the use of community addons and custom made entries, it is planned to have every creature in the list available in the Bestiary! A large amount of custom work has already been done.
+
+We've also **added "Takes Notes!"** which can be opened with the Apostrophe key. This allows you to take arbitrary notes in game. You can write your character's journal, or keep a simple to-do list.
+
+The new **"Dragon Combat Animations" and "DNFA Wolves Combat Behavior"** mods add telegraphed attacks with motion data to both of these creatures, making combat with them much more exciting!
+
+**Immersive Horses has also made it's way in**, with our previous lite horse mods no longer in use. This mod provides a much better experience when it comes to summoning your horse, and other related actions.
+
+**Dear Diary - Dark Mode has replaced the Paper UI as the default for the mod list**. Now, the Paper UI is disabled by default, but can be used as an option.
+
+**Lorkhan - Soundtrack Replacer has also been added as the modlist's new main music mod**. Yggdrasil still exists as an optional replacer, with the patches to Yggdrasil having been moved to their own plugin.
+
+Various new mods have been added, such as EVG Clamber, First Person Interactions, Grab and Throw, some new equipment mods, and Arcanum, more spells! A very large number of bugs have been fixed, and tweaks made as well. Make sure to read the Detailed Changelog!
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Removed
+
+- ModWatch Uploader (Use [Load Order Library](https://loadorderlibrary.com/))
+- Variety of Script Fixes from ferrari365 (Replaced with AIO SCROTE)
+- NPC AI Process Position Fix (Replaced with NG)
+- Better SkyUI Config (In favor of Kome's Inventory Tweaks configurations)
+- Honed Metal - 1.5.97 DLL (included in Honed Metal update)
+- Attack - MCO-DXP (Replaced with BFCO)
+- MCO Universal Support
+- MCO Block Recovery
+- Vanguard - Bash Behaviors Overhaul (Replaced with updated version)
+- Iron Dusk's Laboratory - Saddlebags (Replaced by Immersive Horses)
+- Screenshot Helper
+- EVG Conditional Idles Extended - Child Fix (included in EVG Idles update)
+- New Praying Animations (Replaced with Divines Prayer Animations)
+
+### Added
+
+- ENB Preset - Silent Horizons 2 - Universal Core
+- Disk Cache Enabler
+- Save Unbaker
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)
+- DLC2 Miraak BossFightScript Fix
+- Universal (SKSE) Rim Lighting Fix
+- Edmond's Assassin of Old - Immersive Vanilla Bug Fix
+- Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
+- KIT SkyUI Config - Dark Mode TO UPLOAD AND DOWNLOAD
+- KIT SkyUI Config - Paper Mode TO UPLOAD AND DOWNLOAD
+- Encounter Zone Informer
+- The Dragonborn's Bestiary + Addons
+  - Dragon Priest
+  - Creature Variants
+  - Bears of the North
+  - Falmer Overhaul
+  - Draugrs
+  - Familiars
+  - Bruma
+  - New Daedra
+  - Ogres
+  - Flesh Colossus
+  - Mihail Creatures
+  - 4thUnknown Creatures
+  - VIGILANT
+  - GLENMORIL
+  - Darkend
+  - SkyTEST
+  - Darenni Creatures
+  - Natura
+  - Bogmort
+  - Zediious Addons TO UPLOAD AND DOWNLOAD
+- Katariah Ship Stairs Fix
+- Better Hearthfire Nails
+- Meridia Shrine Dungeon ENB PARTICLE LIGHTS
+- Lollygaggin' - Vanilla Guard Armor Replacer
+- SC Horses - Mane Fix
+- Less Wide Female Draugr Shoulders - MSE Version
+- Draugrs - New Models and Textures
+- Draugrs - New Models and Textures - Dragon Priests
+- Draugrs - New Models and Textures - Xtudo Fixes and Patches
+- Higher Poly Vanilla Dragons
+- Vanilla Hair Remake
+- Fish Anywhere With Water
+- Security Overhaul - Extra Locks
+- Apocryphal Library
+- WiZkiD Hunter's Camp Overhaul
+- Leadership
+- Leadership Redux and Adamant Patch TO UPLOAD AND DOWNLOAD
+- Crowded Streets
+- Follower Dialogue Expansion - Aela the Huntress
+- Follower Dialogue Expansion - Ysolda
+- Follower Dialogue Expansion - Uthgerd the Unbroken
+- Follower Dialogue Expansion - Jenassa
+- Follower Dialogue Expansion - Lydia
+- Follower Dialogue Expansion - Jordis the Sword-Maiden
+- Follower Dialogue Expansion - Erik the Slayer
+- Follower Dialogue Expansion - Mjoll the Lioness
+- Falmer Servant Lines Expansion
+- Female Dark Elf voice added to Hearthfire
+- Destroy The Dark Brotherhood - Quest Expansion
+- Revealing Rune
+- Tactical Valtheim - Shield Crash Fix TO UPLOAD AND DOWNLOAD
+- Book of Shadows - Disable Takedowns TO UPLOAD AND DOWNLOAD
+- Grab And Throw
+- Immersive Horses
+- Your Market Stall Plus
+- Take Notes - Journal of the Dragonborn
+- Take Notes - Journal of the Dragonborn - Settings Loader
+- Arcanum - A New Age of Magic (Fixed)
+- Optimised Scripts for Arcanum
+- Arcanum - Spellsiphon Patch
+- Interesting NPCs - Melea Entius Tweaks
+- Snazzy Items for Interesting NPCs
+- Unslaad Weapons and Armors Retexture SE
+- Clockwork
+- Clockwork - Cleaned Textures
+- Additional Clockwork
+- Ascend - Hidden Peaks of Skyrim
+- Animated Armoury - Precision Patch Complete
+- Rihad Swordsman Set + HIMBO/CBBE Refits
+- Crude Glass Weapon
+- Haugbui - A Draugr Overhaul - SimonRim Patch
+- Potema Revoiced
+- Ghostly Helgi Voice
+- Distant Rolling Thunder
+- LORKHAN - Soundtrack Replacer
+- Yggdrasil Conflict Resolution Patch (extracted from ZedPatch) TO UPLOAD AND DOWNLOAD
+- PAPER
+- Mu Skeleton Editor
+- ENB Helper Plus
+- Open Animation Replacer - Math Plugin
+- Offset Movement Animations Framework
+- Attack Data Transition Fix
+- BFCO - Attack Behavior Framework
+- Combat Pathing Revolutio
+- Elden Rim Dual Wield Moveset Collection
+- Vanargand Animations - Mace Moveset MCO
+- Vanguard - Bash Behaviors Updated
+- First Person Interactions
+- EVG CLAMBER - Slope Animations
+- I Just Want to Sit Down and Read
+- Vanilla Eating Animation Fixes
+- DNFA Wolves Combat Behavior
+- Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/tpfz-sprinkles/issues/123))
+- Automated Enchanted Variants TO UPLOAD AND DOWNLOAD
+- Automated Enchanted Variant Leveled List Additions TO UPLOAD AND DOWNLOAD
+- ZedPatch - BFCO TO UPLOAD AND DOWNLOAD
+- Weapon and Armor Balance (extracted from ZedPatches) TO UPLOAD AND DOWNLOAD
+
+### Updated
+
+- ENBSeries Core - 0.488 > 0.502
+- DynDOLOD 3 Alpha - Alpha-167 > Alpha-180
+- More Informative Console - 1.2 > 1.2.1
+- Skyrim Particle Patch for ENB - 1.2.9 > 1.3.1
+- powerofthree's Tweaks - 1.9.2 > 1.11.0
+- Assorted Mesh Fixes - 0.98.1 > 0.111
+- Naked Dead NPC Fix - 1.0.7 > 1.0.8
+- Menu Zoom - 1.0.1 > 1.0.2
+- Better Third Person Selection - 0.6 > 0.7.1
+- Immersive Plaque Reading Interface - 0.7 > 0.7.2
+- DynDOLOD Resources - Alpha-49 > Alpha-52
+- DynDOLOD DLL NG - Alpha-29 > Alpha-32
+- Cathedral Weathers and Seasons - Unofficial Update - 2.50 > 2.57
+- Scallions of Skyrim - High Polygon Leeks - 0.1 > 0.2
+- WiZkiD Carriages 2K - 1.4 > 1.5
+- Bloodskal Blade - Tweaks and Enhancements - 1.2 > 1.3.1
+- Experience - 3.2 > 3.4.5
+- Experience - MCM - 1.2 > 1.4
+- Aetherius - A Race Overhaul - 2.13.2 > 2.14.1
+- Mundus - A Standing Stone Overhaul - 1.13 > 1.13.1
+- Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
+- Honed Metal - 1.26 > 1.26.1
+- Animated Carriage - 1.0 > 1.1
+- Dialogue Expansion - Brelyna Maryon - 1.5 > 2.2.1
+- Civil War Lines Expansion - 1.09 > 1.1
+- NPCs React To Invisibility - 1.03 > 1.10
+- The Innocence Lost - Quest Expansion - 1.01 > 1.11
+- Caught Red Handed - Quest Expansion - 1.04 > 1.06
+- The Heart of Dibella - Quest Expansion - 1.03 > 1.04
+- House of Horrors - Quest Expansion - 1.12 > 1.13
+- The Only Cure - Quest Expansion - 1.02 > 1.03
+- Return Aegisbane - 1.0 > 1.2
+- Ryn's Azura's Shrine - 1.2 > 1.3
+- Stress and Fear - A Dynamic Sanity System - 1.02 > 1.03
+- Taunt Your Enemies - Taunting Matters - 1.01 > 1.03
+- Take a Nap - Sleep on Chairs - 1.01 > 1.02
+- Lockpicking for Barbarians - 1.0.11 > 1.1.2
+- Spellsiphon - Immersive Combat - 5.27 > 5.28
+- Alternate Perspective - 3.06 > 3.1.1
+- Alternate Perspective - Voiced Addon - 1.10 > 1.11
+- Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.75
+- Interesting NPCs - Quest Requirement Tweaks TPFZS - 1.2 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+  - This version is specific to the mod list, and is hosted on the mod list page
+- Frozen in Time - 0.27 > 0.28
+- Siege at Icemoth - 1.2.1 > 1.2.2
+- More Weapon Keywords - 0.4001 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Dragons Fall Down - Immersive Airborne Death - 1.0.1 > 1.0.3
+- Haugbui - A Draugr Overhaul (Renamed from Briraka) - 3.0.1 > 4.2
+- Haugbui - A Draugr Overhaul - WACCF Patch (Renamed from Briraka) - 3.0 > 4.0
+- Haugbui - A Draugr Overhaul - Cannibal Draugr Patch (Renamed from Briraka) - 3.0-CD > 4.1
+- Swiftly Order Squad - Follower Commands UI - 1.7.1 > 1.8.4
+- Persistent Favorites - 0.3 > 0.3.1
+- PhotoMode - 1.4 > 1.6.0
+- Nordic Winds - 1.1 > 1.2
+- Open Animation Replacer - 2.3 > 2.3.6
+- EVG Animated Traversal - 2.0beta > 2.1
+- EVG Conditional Idles - 1.42 > 1.51
+- EVG Conditional Idles Extended - 1.3 > 1.41
+- NPC Animation Remix - 1.9 > 2.0
+- Immersive Folded Hands RENAMED Arm Movement Animations - 1.6.1 > 2.1.0
+- Player Character Gestures - 1.0 > 2.1.0
+- Immersive Fishing - 1.1 > 1.3
+- Immersive Interactions - Animated Actions - 1.76 > 1.77
+- Dynamic Horse Petting Animations for Immersive Interactions - 1.1 > 1.11
+- Lively Cart Driver Animation - 1.0 > 2.0
+- Flute Animation Fix - 1.1 > 1.2
+- powerofthree's Papyrus Extender - 5.6.1 > 5.8.0
+- Base Object Swapper - 3.0.3 > 3.3.0
+- iWant Widgets - 1.31 > 1.33
+- Leveled List Additions (Armors) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Leveled List Additions (Weapons) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- MonsterPatch - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- ZedPatch - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- ZedPatch2 - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- ZedPatch3 - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- City Navmesh Patches (Additional plugins added) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Synthesis Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Occlusion Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Nemesis Output - 0.9.6 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- BodySlide Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Overwrite Misc - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+
+### Fixes
+
+- Fix blurry character creation screen with delay added to racemenu appearing, such that the bright effect can finish applying. ([Fix #8](https://github.com/zediious/tpfz-sprinkles/issues/8))
+- Corrected navmesh for Jorrvaskr porch, and moved the table closer to building after previous fix. ([Fix #122](https://github.com/zediious/tpfz-sprinkles/issues/122))
+- Resolved crash when fast traveling while follower has "Shield of Valtheim" equipped via script edit ([Fix #91](https://github.com/zediious/tpfz-sprinkles/issues/91))
+- Removed Soul Trap effect from Molag Perk to prevent freeze and allow progression ([Partially fix #90](https://github.com/zediious/tpfz-sprinkles/issues/90))
+- Using Kome's Inventory Tweaks and KID, add proper icons and categories to Spell Tomes, ingredients, and misc items added by various mods.
+- Prevent Security XP when accessing any NFF/follower containers (Clothing Satchel, etc), appending previous fix with only one container.
+- Prevent conjured creatures from certain creature mods from giving loot when they die, as this provides infinite of that drop.
+- Made A Matter of Time widget sync properly with the compass with Immersive HUD linked SkyUI widgets.
+- Disabled Active Effects automatically appearing in combat to prevent time widget flashing.
+- Added missing crafting recipes for Fluted set, as world encounter is disabled.
+- Disabled Book of Shadows "Takedowns" feature to allow melee sneak builds to work.
+- Allow more clothing to be used when doing the "Stolen Property" quest.
+- Disabled Maximum Carnage gore for Giants due to them disappearing
+- Prevent Companions brawl quests from sending outside of Skyrim
+- Made The Rookery map marker not visible on a new game
+- Added missing tempering recipe for Kara Yatagan weapon.
+- Fixed a few more equipment with incorrect keywords.
+- Fixed improper navmesh in Winterhold.
+
+### Tweaks
+
+- Gave wandering giants an aggro range, they will attack if you get too close like giants at camps, with a much smaller aggro range. ([Fix #124](https://github.com/zediious/tpfz-sprinkles/issues/124))
+- Unlock the door to Gloombound Mine in [Narzulbur](https://www.nexusmods.com/skyrimspecialedition/mods/88809). There is no way to unlock it via quest, and NPCs reference you bringing them ore from inside.
+- Disable fog effect when killing Foglings, and prevent their corpse from disappearing to allow looting the unique ingredient.
+- Distribute enchanted variants for most mod-added equipment in SubListEnch lists, so that they will appear as dungeon loot, rewards for quests, etc.
+- Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
+- Converted all currently used MCO combat animations to be used with BFCO.
+- BFCO special bow/crossbow power bash behaviors locked behind Archery "Ranger" perk.
+- Disabled all Arcana tome-crafting benches except for the Midden and Dragonsreach locations.
+- Changed A Matter of Time widget type, and moved below the compass
+- Lowered speed, raised scale, and raised maximum shown amount for top-left notification messages.
+- Disable Wildcat configuration power from appearing in powers menu on new game
+- Reduce frequency of Animated Carriages spawning via Autorun commands
+- Made NFF-linked followers only sandbox when you are in a town/city.
+- Disabled Security XP gain when bashing locks
+- Made Chief Yarmor in Dumbarhold much stronger
+- Reduced HDT wind effect factor from 1.5 to 0.5
+- Muted clock sound from Magpie Manor
+- Moved many mods around to more appropriate separators in Mod Organizer's left pane.
+- Separated the majority of weapon and armor tweaks to a separate plugin.
+- po3 Tweaks Changes
+  - Picking up/grabbing owned items will now be counted as stealing.
+  - Load doors now say "Enter" rather than "Open". i.e Open Skyrim -> Enter Skyrim
+
+</details>
+
 ## v0.9.6.3 - **5/27/2024**
 
 This version fixes a crash when re-loading saves for many users, as well as resolve an issue with Valhalla executions. A good many mods have been updated, along with some new introductions!
@@ -1882,4 +2172,4 @@ On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain m
 
 <br>
 
-*A few versions were released before `v0.9`, however the changelogs for those have been removed.*
+*A few versions were released before `v0.9` as Wabbajack releases, however the changelogs for those have been removed as the versioning was all over the place.*
