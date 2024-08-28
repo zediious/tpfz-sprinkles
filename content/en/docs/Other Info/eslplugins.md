@@ -35,21 +35,19 @@ If a plugin has had its FormIDs compacted before flagging ESL, that will be note
 - JK Bannered Mare Capital whiterun expansion Patch 0.1.esp (FormIDs Compacted)
 - JK Drunken Huntsman Capital whiterun expansion Patch.esp (FormIDs Compacted)
 - Better Dynamic Snow SE.esp
-- Sabrecat_Preview_MCO.esp
 - Enhanced Vanilla Trees SSE.esp
 - HandToHandLocksmith.esp
-- LovelyLetter.esp
-- ModernizeVanilla.esp
 - RaceMenuMorphsCBBE.esp
 - Settlements Expanded SE - The Great Village of Old Hroldan Patch.esp
 - FNIS.esp
 - XPMSE.esp
-- LokiHorses.esp
 - ReturnAegisbane.esp
-- orcishleather.esp
-- orcishscout.esp
+- Leadership.esp (FormIDs Compacted)
+- Leadership - Adamant.esp
 
 ## Plugins Yet to Flag
+
+This is not exhaustive.
 
 - JaxonzEnhGrav.esp (recompile jaxonzengrab.psc to change object reference formid)
 - ZIA_Complete Pack.esp (scripts do not point to formIDs. Check artifacts in game)
@@ -63,7 +61,6 @@ If a plugin has had its FormIDs compacted before flagging ESL, that will be note
 - KarstaagReborn.esp (scripts do not point to formids, check in game)
 - Cloaks.esp, Cloaks - Dawkguard.esp (patches need to be watched out for)
 - Unique Dragon Aspect.esp (scripts do not point to formids, check in game)
-- Saddlebags.esp (scripts do not point to formids, check in game)
 - NoRoadPredatorsRedone.esp (watch for patches)
 - suspiciouscityguards.esp (scripts do not point to formids, check in game)
 - AI Overhaul (maybe not, has a LOT of patches and will be a disaster when updating them)
