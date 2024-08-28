@@ -6,11 +6,13 @@ This mod list adds a very large amount of new armor and weapons to the game, wit
 
 All leveled lists are using Open World Loot as a base for additions, and any native patches are used and/or merged with custom additions in OWL.
 
-Many lists and outfits added by content mods have been altered to take OWL leveled list entries rather than vanilla armor/weapon entries.
+Many lists and outfits added by content mods and the Vanilla game have been altered to take OWL leveled list entries rather than vanilla armor/weapon entries.
 
-Specific leveled list placement can be viewed within OWL lists inside LeveledListAdditionArmor.esp and LeveledListAdditionWeapons.esp
+Shields from certain armor mods have been placed in separate tiers from the set they are from, and are not listed here. You will find a variety of different shields.
 
-Many weapons and armors have been renamed. Most of the time, I also mark the original name, but not all the time.
+Many weapons and armors have been renamed. Most of the time, I also mark the original name in the list below, but not all the time.
+
+Nearly all of the equipment mods in the list have had enchanted variants generated for every enchantment in the game, and have been distributed to the proper enchanted equipment leveled list. You will find enchanted variants of these weapons and armor as end-of-dungeon loot, rarely in merchant inventories, rewards for quests, etc.
 
 ## Weapons
 
@@ -26,6 +28,12 @@ Proper Crossbow Integration
 Draugr Weapons Standalone
 
 - All weapons and shields distributed to Draugr via OWL rather than default lists
+
+Many of the weapons shown below are from the following larger weapon packs
+
+- Skyrim Weapons Expansion
+- Weapons of the Third Era
+- Katana Crafting
 
 ## Iron Tier
 
