@@ -255,6 +255,7 @@ Many of the weapons shown below are from the following larger weapon packs
 - Royal Elven Sword
 - Welkynar Hussar Saber
 - Nameless Saber
+- Rihad Sword
 
 ### Waraxe
 
@@ -410,6 +411,7 @@ Many of the weapons shown below are from the following larger weapon packs
 - Ebony Dai-Katana (some spice)
 - Ayleid Greatsword
 - Wolf Cleaver
+- Crude Glass Greatsword
 
 ### Battleaxe
 
@@ -417,7 +419,11 @@ Many of the weapons shown below are from the following larger weapon packs
 - Third Era Glass Battlestaff
 - Poleaxe
 - Reforged Dwarven Commander Battleaxe (with variants)
+- Crude Glass Battleaxe
 
+### Warhammer
+
+- Crude Glass Warhammer
 
 ## Ebony Tier
 
@@ -426,7 +432,7 @@ Many of the weapons shown below are from the following larger weapon packs
 - Assassin's Dagger
 - Ebony Tanto
 - Ebony Damascus Dagger
-- Bsomer Elder Short Blade
+- Bosmer Elder Short Blade
 - Dual Ebony Claws
 
 ### Sword
@@ -727,7 +733,7 @@ Khajiiti Apex Armory
 ### Orcish Tier
 
 - Orcish Chief Set
-- Nordic Wanderer Set
+- Nordic Wanderer Set (Orcish Wanderer)
 
 ### Nordic Tier
 
@@ -770,6 +776,7 @@ Khajiiti Apex Armory
 ### Alik'r
 
 - Redguard Assassin Set
+- Rihad Set
 
 ## NPC Outfits
 
@@ -781,7 +788,7 @@ Redoran Exile Armor
 
 - Lleril Morvayn outfit
 
-Morrowinnd Netch Leather Armor
+Morrowind Netch Leather Armor
 
 - Teldryn Sero outfit
 
@@ -834,3 +841,4 @@ Rormasu Armor
 - Hermit Armor
 - Viridian Knight Armor
 - Longcoats
+- Raven Set
