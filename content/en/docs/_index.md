@@ -13,7 +13,7 @@ Current version: v1.0-pre1 - INSERT_DATE_HERE
 
 > Before anything else, I will say that you MUST read everything in this Wiki that is within the **Mandatory Reading** section, which you will find by following the links at the bottom of this page, and further pages. It is VERY important that you read the wiki pages in this category to understand what steps need to be taken to enjoy this list to the fullest, and have it actually work. Thank you so much!
 
-Welcome to the Wiki for The Phoenix Flavor - Zediious Sprinkles! This mod list started life early 2021 as an installation of [The Phoenix Flavor](https://loadorderlibrary.com/lists/the-phoenix-flavour). The mods that The Phoenix Flavor comes with brought the game up to a perfect Vanilla+ setup. I realized that I wanted to make some changes, in the name of breaking that "Vanilla+" moniker, using TPF as a base for my adventure. I love Skyrim, but after you've played 3000+ hours, you begin to yearn for something *more*.
+Welcome to the Wiki for The Phoenix Flavor - Zediious Sprinkles! This mod list started life in 2021 as an installation of [The Phoenix Flavor](https://loadorderlibrary.com/lists/the-phoenix-flavour). The mods that The Phoenix Flavor comes with brought the game up to a perfect Vanilla+ setup. I realized that I wanted to make some changes, in the name of breaking that "Vanilla+" moniker, using TPF as a base for my adventure. I love Skyrim, but after you've played 3000+ hours, you begin to yearn for something *more*.
 
 As time has passed, and more revolutionary combat/animation mods have been released, this mod list now encompasses what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly.
 
@@ -67,9 +67,9 @@ Often, antivirus software can flag certain mod files as malicious. These will al
 
 ## Credits & Thanks
 
+- All the mod authors that have made the mods in this list. Without them, the list could not be. Thank you for creating content to extend this game!
 - Halgari and other contributors for creating Wabbajack, a magical black box that allows me to distribute my list.
-- Foreverphoenix for creating The Phoenix Flavor, which this mod list is based on.
-- All the mod authors for creating content to extend this game.
+- Foreverphoenix for creating the original "The Phoenix Flavor" mod list, which this list is based on.
 - VikingWynn for helping out so much with support in Discord and the bug testing process.
 - Everyone that has reported bugs and made suggestions, making the list better.
 
