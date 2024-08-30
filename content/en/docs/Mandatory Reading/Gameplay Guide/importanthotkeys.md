@@ -222,7 +222,12 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 ### V while riding a horse
 
 - Quickly dismount your horse from behind into a combat-ready state.
-- This can be changed in the Immersive Horses MCM,
+- This can be changed in the Immersive Horses MCM
+
+### U while riding a horse
+
+- Toggle trot/walk, changing the speed of the horse independently from CAPSLK
+- This can be changed in the Immersive Horses MCM
 
 ## Misc
 
