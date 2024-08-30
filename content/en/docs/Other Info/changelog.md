@@ -213,15 +213,16 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Animated Carriage - 1.0 > 1.1
 - Dialogue Expansion - Brelyna Maryon - 1.5 > 2.2.1
 - Civil War Lines Expansion - 1.09 > 1.1
-- NPCs React To Invisibility - 1.03 > 1.10
+- NPCs React To Invisibility - 1.03 > 1.11
 - The Innocence Lost - Quest Expansion - 1.01 > 1.11
 - Caught Red Handed - Quest Expansion - 1.04 > 1.06
 - The Heart of Dibella - Quest Expansion - 1.03 > 1.04
 - House of Horrors - Quest Expansion - 1.12 > 1.13
-- The Only Cure - Quest Expansion - 1.02 > 1.03
+- The Only Cure - Quest Expansion - 1.02 > 1.04
+- Infiltration - Quest Expansion - 1.01 > 1.02
 - Return Aegisbane - 1.0 > 1.2
 - Ryn's Azura's Shrine - 1.2 > 1.3
-- Stress and Fear - A Dynamic Sanity System - 1.02 > 1.03
+- Stress and Fear - A Dynamic Sanity System - 1.02 > 1.04
 - Taunt Your Enemies - Taunting Matters - 1.01 > 1.03
 - Take a Nap - Sleep on Chairs - 1.01 > 1.02
 - Lockpicking for Barbarians - 1.0.11 > 1.1.2
@@ -235,6 +236,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Siege at Icemoth - 1.2.1 > 1.2.2
 - More Weapon Keywords - 0.4001 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - Dragons Fall Down - Immersive Airborne Death - 1.0.1 > 1.0.3
+- Better Stealth AI for Followers - 3.4 > 3.5
 - Haugbui - A Draugr Overhaul (Renamed from Briraka) - 3.0.1 > 4.2
 - Haugbui - A Draugr Overhaul - WACCF Patch (Renamed from Briraka) - 3.0 > 4.0
 - Haugbui - A Draugr Overhaul - Cannibal Draugr Patch (Renamed from Briraka) - 3.0-CD > 4.1
@@ -250,9 +252,9 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Immersive Folded Hands RENAMED Arm Movement Animations - 1.6.1 > 2.1.0
 - Player Character Gestures - 1.0 > 2.1.0
 - Immersive Fishing - 1.1 > 1.3
-- Immersive Interactions - Animated Actions - 1.76 > 1.77
+- Immersive Interactions - Animated Actions - 1.76 > 1.78
 - Dynamic Horse Petting Animations for Immersive Interactions - 1.1 > 1.11
-- Lively Cart Driver Animation - 1.0 > 2.0
+- Lively Cart Driver Animation - 1.0 > 2.0.1
 - Flute Animation Fix - 1.1 > 1.2
 - powerofthree's Papyrus Extender - 5.6.1 > 5.8.0
 - Base Object Swapper - 3.0.3 > 3.3.0
