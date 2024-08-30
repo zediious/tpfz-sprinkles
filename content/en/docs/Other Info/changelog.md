@@ -175,6 +175,7 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - Vanilla Eating Animation Fixes
 - DNFA Wolves Combat Behavior
 - Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/tpfz-sprinkles/issues/123))
+- High Poly Head - Vanilla Hair Remake Patch
 - Automated Enchanted Variants TO UPLOAD AND DOWNLOAD
 - Automated Enchanted Variant Leveled List Additions TO UPLOAD AND DOWNLOAD
 - ZedPatch - BFCO TO UPLOAD AND DOWNLOAD
