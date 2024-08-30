@@ -50,11 +50,15 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - NPC AI Process Position Fix (Replaced with NG)
 - Better SkyUI Config (In favor of Kome's Inventory Tweaks configurations)
 - Honed Metal - 1.5.97 DLL (included in Honed Metal update)
+- Apothecary - Food and Drink Addon (Replaced with Gourmet)
+- Apothecary - Food and Drink Addon - Survival Mode Patch
 - Attack - MCO-DXP (Replaced with BFCO)
 - MCO Universal Support
 - MCO Block Recovery
 - Vanguard - Bash Behaviors Overhaul (Replaced with updated version)
 - Iron Dusk's Laboratory - Saddlebags (Replaced by Immersive Horses)
+- Miscellaneous Tweaks Collection - More Expensive Inns (Replaced by Candlehearth)
+- Alcohol Drunk Effect (Fully replaced by Animated Inebriation)
 - Screenshot Helper
 - EVG Conditional Idles Extended - Child Fix (included in EVG Idles update)
 - New Praying Animations (Replaced with Divines Prayer Animations)
@@ -104,10 +108,11 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - Draugrs - New Models and Textures - Xtudo Fixes and Patches
 - Higher Poly Vanilla Dragons
 - Vanilla Hair Remake
+- Candlehearth - An Inn Overhaul + Patches
 - Fish Anywhere With Water
 - Security Overhaul - Extra Locks
 - Apocryphal Library
-- WiZkiD Hunter's Camp Overhaul
+- Gourmet - A Cooking Overhaul + Patches
 - Leadership
 - Leadership Redux and Adamant Patch TO UPLOAD AND DOWNLOAD
 - Crowded Streets
@@ -120,7 +125,8 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - Follower Dialogue Expansion - Erik the Slayer
 - Follower Dialogue Expansion - Mjoll the Lioness
 - Falmer Servant Lines Expansion
-- Female Dark Elf voice added to Hearthfire
+- Female Dark Elf Voice added to Hearthfire
+- WiZkiD Hunter's Camp Overhaul
 - Destroy The Dark Brotherhood - Quest Expansion
 - Revealing Rune
 - Tactical Valtheim - Shield Crash Fix TO UPLOAD AND DOWNLOAD
@@ -154,15 +160,18 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - ENB Helper Plus
 - Open Animation Replacer - Math Plugin
 - Offset Movement Animations Framework
+- EVG CLAMBER - Slope Animations
 - Attack Data Transition Fix
 - BFCO - Attack Behavior Framework
-- Combat Pathing Revolutio
+- Combat Pathing Revolution
 - Elden Rim Dual Wield Moveset Collection
 - Vanargand Animations - Mace Moveset MCO
 - Vanguard - Bash Behaviors Updated
-- First Person Interactions
-- EVG CLAMBER - Slope Animations
+- Animated Eating Redux
+- Animated Eating Redux - Zediious Addons TO UPLOAD AND DOWNLOAD
+- Realistic HD Misc Remastered (Dining Set Only)
 - I Just Want to Sit Down and Read
+- First Person Interactions
 - Vanilla Eating Animation Fixes
 - DNFA Wolves Combat Behavior
 - Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/tpfz-sprinkles/issues/123))
@@ -193,6 +202,7 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - Experience - MCM - 1.2 > 1.4
 - Aetherius - A Race Overhaul - 2.13.2 > 2.14.1
 - Mundus - A Standing Stone Overhaul - 1.13 > 1.13.1
+- Animated Inebriation - 2.0.6 > 2.0.9
 - Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
 - Honed Metal - 1.26 > 1.26.1
 - Animated Carriage - 1.0 > 1.1
@@ -290,6 +300,7 @@ Various new mods have been added, such as EVG Clamber, First Person Interactions
 - Lowered speed, raised scale, and raised maximum shown amount for top-left notification messages.
 - Disable Wildcat configuration power from appearing in powers menu on new game
 - Reduce frequency of Animated Carriages spawning via Autorun commands
+- Added all mod-added alcohol to Animated Inebriation KID distribution
 - Made NFF-linked followers only sandbox when you are in a town/city.
 - Disabled Security XP gain when bashing locks
 - Made Chief Yarmor in Dumbarhold much stronger
