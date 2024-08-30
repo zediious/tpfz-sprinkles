@@ -52,6 +52,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - NPC AI Process Position Fix (Replaced with NG)
 - Better SkyUI Config (In favor of Kome's Inventory Tweaks configurations)
 - Honed Metal - 1.5.97 DLL (included in Honed Metal update)
+- Honed Metal Additional Materials - Formlist Manipulator
 - Apothecary - Food and Drink Addon (Replaced with Gourmet)
 - Apothecary - Food and Drink Addon - Survival Mode Patch
 - Attack - MCO-DXP (Replaced with BFCO)
@@ -64,6 +65,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Screenshot Helper
 - EVG Conditional Idles Extended - Child Fix (included in EVG Idles update)
 - New Praying Animations (Replaced with Divines Prayer Animations)
+- Horse Behavior Improvements
 
 ### Added
 
