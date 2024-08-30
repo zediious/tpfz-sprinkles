@@ -15,17 +15,17 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ## v1.0-pre1 - **INSERT_DATE_HERE**
 
-*Pre-release build 1 for the official 1.0 release. These pre-releases will be made until the 1.0 version is found to be stable.*
+*Pre-release build 1 for the official 1.0 release. These pre-releases will be made until the 1.0 version is found to be stable over a period of time.*
 
-This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them.
+This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them. It is highly likely older saves will not load at all.
 
 A large change with this version is the **change from Attack/MCO to BFCO**, which are combat animation frameworks used to add motion data to our attack animations. BFCO offers jumping attacks, swimming attacks, and much improved chain-ability of attacks over MCO. All of our currently used animations were converted for BFCO, and are working. You are now able to use a "Combo Power Attack" with the Middle-Mouse click, which can be chained with normal and power attacks. These animations will improve over time as the combo power attack, jumping attack, and other chained animations are given unique animations with either separate animations, or animation packs designed around BFCO with all features used. As it stands, this is a massive improvement over MCO.
 
-A large addition with this version, is the **introduction of enchanted variants of modded equipment**. You will now find enchanted variants of modded equipment in the enchanted gear leveled lists, such as in end-of-dungeon loot chests, rarely in merchant inventories, or rewards from a Jarl. *Not all* equipment has the capability of being enchanted, with some being intentionally left out to make sure there aren't too many enchanted items around. However, any new equipment added to the list going forward will have enchanted variants provided it suits the equipment.
+A large addition with this version, is the **introduction of enchanted variants of modded equipment**. You will now find enchanted variants of modded equipment in the enchanted gear leveled lists, such as in end-of-dungeon loot chests, rarely in merchant inventories, or rewards from a Jarl. *Not all* equipment has the capability of being enchanted, with some being intentionally left out to make sure there aren't too many enchanted items around. However, any new equipment added to the list going forward will have enchanted variants provided it suits the equipment. No longer will you only find Vanilla enchanted equipment!
 
-When using the Semicolon key, you can now open **The Dragonborn's Bestiary**, a wonderful new addition. Most creatures you kill will add a new entry to this bestiary, showing a description, as well as their weaknesses and resistances. Through the use of community addons and custom made entries, it is planned to have every creature in the list available in the Bestiary! A large amount of custom work has already been done.
+When using the Semicolon key, you can now open **The Dragonborn's Bestiary**, a wonderful new addition. Non-human creatures you kill will add a new entry to this Bestiary, showing a description, as well as their weaknesses and resistances. Through the use of community addons and custom made entries, it is planned to have every creature in the list available in the Bestiary! A large amount of custom work has already been done!
 
-We've also **added "Takes Notes!"** which can be opened with the Apostrophe key. This allows you to take arbitrary notes in game. You can write your character's journal, or keep a simple to-do list.
+We've also added **"Takes Notes!"** which can be opened with the Apostrophe key. This allows you to take arbitrary notes in game. You can write your character's journal, or keep a simple to-do list.
 
 The new **"Dragon Combat Animations" and "DNFA Wolves Combat Behavior"** mods add telegraphed attacks with motion data to both of these creatures, making combat with them much more exciting!
 
@@ -35,7 +35,9 @@ The new **"Dragon Combat Animations" and "DNFA Wolves Combat Behavior"** mods ad
 
 **Lorkhan - Soundtrack Replacer has also been added as the modlist's new main music mod**. Yggdrasil still exists as an optional replacer, with the patches to Yggdrasil having been moved to their own plugin.
 
-Various new mods have been added, such as EVG Clamber, First Person Interactions, Grab and Throw, some new equipment mods, and Arcanum, more spells! A very large number of bugs have been fixed, and tweaks made as well. Make sure to read the Detailed Changelog!
+We have also introduced a new default ENB, **Silent Horizons 2 - Universal Core!** Serio's and Ominous ENB presets are still available as optional presets!
+
+A wide variety of new mods have been added, such as EVG Clamber, First Person Interactions, Animated Eating Redux, Grab and Throw, Clockwork, Candlehearth, Gourmet, some new equipment mods, and Arcanum, more spells! A very large number of bugs have been fixed, and tweaks made as well. Make sure to read the Detailed Changelog as even the above does not cover nearly everything!
 
 <details>
 
