@@ -44,6 +44,7 @@ If a plugin has had its FormIDs compacted before flagging ESL, that will be note
 - ReturnAegisbane.esp
 - Leadership.esp (FormIDs Compacted)
 - Leadership - Adamant.esp
+- AnimatedEatingRedux.esp (FormIDs Compacted)
 
 ## Plugins Yet to Flag
 
