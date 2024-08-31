@@ -25,6 +25,8 @@ With "BFCO - Attack Behavior Framework" in the list, you are able to perform jum
 - If you CLICK **LEFT-CLICK** while in the air shortly after jumping, you will perform a light jump attack.
 - If you HOLD **LEFT-CLICK** or CLICK **MOUSE-WHEEL** while in the air shortly after jumping, you will perform a jumping power attack.
 
+When you are using a **Bow** or **Crossbow**, and you have the **Ranger** perk in the Archery tree, you can perform jumping ranged attacks, with a large amount of acrobatics involved! If you do not have the Ranger perk, attacking with a Bow or Crossbow while in the air **will cause a T-Pose**! Avoid doing so until you have the Ranger perk. **This T-Pose can easily be exited by pressing the "R" key**.
+
 Swimming attacks are basic, and can be performed while in a swimming state with a left-click.
 
 The jump attack alone opens up numerous scenarios in combat, and the swim attacks allow you to get at those pesky Slaughterfish, along with attacking other aquatic monsters.
@@ -43,7 +45,7 @@ If you **don't have the "Ranger" perk**;
 - Holding down power attack for **one second** will perform a basic bash maneuver, which also "throws" an arrow or bolt forward.
 - Holding down power attack for **half a second**, you will slam your bow down in a slicing motion.
 
-Do **not** hold power attack for longer if you don't have the **Ranger** perk, as it may result in a T-Pose you can break out of by pressing the R key.
+Do **not** hold power attack for longer if you don't have the **Ranger** perk, as it **may result in a T-Pose you can break out of by pressing the R key**.
 
 ## Equip your armor, weapons, and magic with LamasTinyHUD and Wheeler
 
