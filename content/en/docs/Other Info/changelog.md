@@ -134,6 +134,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - WiZkiD Hunter's Camp Overhaul
 - Destroy The Dark Brotherhood - Quest Expansion
 - Revealing Rune
+- Unmarked Locations Pack - Blackreach
+- Unmarked Locations Pack - Soul Cairn
 - Tactical Valtheim - Shield Crash Fix TO UPLOAD AND DOWNLOAD
 - Book of Shadows - Disable Takedowns TO UPLOAD AND DOWNLOAD
 - Grab And Throw
