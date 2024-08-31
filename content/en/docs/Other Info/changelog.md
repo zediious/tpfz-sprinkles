@@ -311,7 +311,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Distribute enchanted variants for most mod-added equipment in SubListEnch lists, so that they will appear as dungeon loot, rewards for quests, etc.
 - Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
 - Converted all currently used MCO combat animations to be used with BFCO.
-- BFCO special bow/crossbow power bash behaviors locked behind Archery "Ranger" perk.
+- BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk.
 - Disabled all Arcana tome-crafting benches except for the Midden and Dragonsreach locations.
 - Changed A Matter of Time widget type, and moved below the compass
 - Lowered speed, raised scale, and raised maximum shown amount for top-left notification messages.
