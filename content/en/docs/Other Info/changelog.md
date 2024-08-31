@@ -79,6 +79,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
 - KIT SkyUI Config - Dark Mode TO UPLOAD AND DOWNLOAD
 - KIT SkyUI Config - Paper Mode TO UPLOAD AND DOWNLOAD
+- Mark Books as Unread
 - Encounter Zone Informer
 - The Dragonborn's Bestiary + Addons
   - Dragon Priest

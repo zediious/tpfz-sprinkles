@@ -125,6 +125,11 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Open the Dragonborn's Journal, where you can take notes.
 - This can be changed in the "Takes Notes!" MCM menu.
 
+### U
+
+- While hovering over a book in the inventory, mark that book as Unread.
+- This can be changed in the "Mark Books as Unread" mod's `.json` file.
+
 ## Movement
 
 ### L-ALT
