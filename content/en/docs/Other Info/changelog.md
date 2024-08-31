@@ -179,6 +179,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Vanguard - Bash Behaviors Updated
 - Dragon Combat Animations
 - DNFA Wolves Combat Behavior
+- Better Horse Dismounting
 - Animated Eating Redux
 - Animated Eating Redux - Zediious Addons TO UPLOAD AND DOWNLOAD
 - Realistic HD Misc Remastered (Dining Set Only)
