@@ -208,6 +208,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Aetherius - A Race Overhaul - 2.13.2 > 2.14.1
 - Mundus - A Standing Stone Overhaul - 1.13 > 1.13.1
 - Animated Inebriation - 2.0.6 > 2.0.9
+- Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 0.9.6.3 > 1.0-pre1
 - Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
 - Honed Metal - 1.26 > 1.26.1
 - Animated Carriage - 1.0 > 1.1
@@ -279,7 +280,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Resolved crash when fast traveling while follower has "Shield of Valtheim" equipped via script edit ([Fix #91](https://github.com/zediious/tpfz-sprinkles/issues/91))
 - Removed Soul Trap effect from Molag Perk to prevent freeze and allow progression ([Partially fix #90](https://github.com/zediious/tpfz-sprinkles/issues/90))
 - Using Kome's Inventory Tweaks and KID, add proper icons and categories to Spell Tomes, ingredients, and misc items added by various mods.
-- Prevent Security XP when accessing any NFF/follower containers (Clothing Satchel, etc), appending previous fix with only one container.
+- Prevent Security XP when accessing any NFF/KWF follower containers (Clothing Satchel, Extra Storage, etc), appending previous fix with only one container.
 - Prevent conjured creatures from certain creature mods from giving loot when they die, as this provides infinite of that drop.
 - Made A Matter of Time widget sync properly with the compass with Immersive HUD linked SkyUI widgets.
 - Disabled Active Effects automatically appearing in combat to prevent time widget flashing.
