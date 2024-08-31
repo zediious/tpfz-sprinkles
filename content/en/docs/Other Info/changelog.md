@@ -140,6 +140,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Book of Shadows - Disable Takedowns TO UPLOAD AND DOWNLOAD
 - Grab And Throw
 - Immersive Horses
+- Horsin' Around
 - Your Market Stall Plus
 - Take Notes - Journal of the Dragonborn
 - Take Notes - Journal of the Dragonborn - Settings Loader
@@ -163,6 +164,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Distant Rolling Thunder
 - LORKHAN - Soundtrack Replacer
 - Yggdrasil Conflict Resolution Patch (extracted from ZedPatch) TO UPLOAD AND DOWNLOAD
+- Pyramid Utils
 - PAPER
 - Mu Skeleton Editor
 - ENB Helper Plus
