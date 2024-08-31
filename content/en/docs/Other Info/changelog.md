@@ -177,13 +177,14 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Elden Rim Dual Wield Moveset Collection
 - Vanargand Animations - Mace Moveset MCO
 - Vanguard - Bash Behaviors Updated
+- Dragon Combat Animations
+- DNFA Wolves Combat Behavior
 - Animated Eating Redux
 - Animated Eating Redux - Zediious Addons TO UPLOAD AND DOWNLOAD
 - Realistic HD Misc Remastered (Dining Set Only)
 - I Just Want to Sit Down and Read
 - First Person Interactions
 - Vanilla Eating Animation Fixes
-- DNFA Wolves Combat Behavior
 - Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/tpfz-sprinkles/issues/123))
 - High Poly Head - Vanilla Hair Remake Patch
 - Automated Enchanted Variants TO UPLOAD AND DOWNLOAD
