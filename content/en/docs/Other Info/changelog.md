@@ -176,6 +176,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - BFCO - Attack Behavior Framework
 - Combat Pathing Revolution
 - Elden Rim Dual Wield Moveset Collection
+- Gryphon - Battleaxe Moveset
 - Vanargand Animations - Mace Moveset MCO
 - Vanguard - Bash Behaviors Updated
 - Dragon Combat Animations
