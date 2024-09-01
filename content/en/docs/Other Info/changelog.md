@@ -156,6 +156,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Additional Clockwork
 - Ascend - Hidden Peaks of Skyrim
 - Korvinthian (Small Custom Dungeon, on Modpack Page) TO UPLOAD AND DOWNLOAD
+- Armors of The Velothi Pt. II - Traveling Merchant Actually Travels TO UPLOAD AND DOWNLOAD
 - Animated Armoury - Precision Patch Complete
 - Rihad Swordsman Set + HIMBO/CBBE Refits
 - Crude Glass Weapon
@@ -314,6 +315,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
 - Converted all currently used MCO combat animations to be used with BFCO.
 - BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk.
+- Made the Traveling Merchant standing outside Riften travel back and forth between Riften and Windhelm.
 - Disabled all Arcana tome-crafting benches except for the Midden and Dragonsreach locations.
 - Changed A Matter of Time widget type, and moved below the compass
 - Lowered speed, raised scale, and raised maximum shown amount for top-left notification messages.
