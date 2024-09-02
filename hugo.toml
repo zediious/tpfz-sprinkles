@@ -75,9 +75,9 @@ description = "Documentation for mod endevours by Zediious"
       unsafe = true
   [markup.highlight]
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-    style = "tango"
+    style = "solarized-light"
     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
-    # guessSyntax = "true"
+    guessSyntax = "true"
 
 # Everything below this are Site Params
 
@@ -134,7 +134,7 @@ offlineSearchSummaryLength = 250
 offlineSearchMaxResults = 5
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
-prism_syntax_highlighting = false
+prism_syntax_highlighting = true
 
 # User interface configuration
 [params.ui]
