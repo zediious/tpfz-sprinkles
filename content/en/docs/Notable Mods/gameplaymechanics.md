@@ -32,6 +32,10 @@ This mod causes you to walk slower and slower, the deeper you get into water bef
 
 ### Apothecary
 
+### Gourmet
+
+### Candlehearth
+
 ### Thaumaturgy
 
 ### Aetherius
@@ -48,78 +52,78 @@ This mod causes you to walk slower and slower, the deeper you get into water bef
 
 To put it simply, OWL will stop Skyrim from distributing very high-level loot to most enemies, even if you are a very high level yourself. This creates a much more believable world, where you will only rarely find very high value weapons. As part of the tweaks this mod list contains, we have added an IMMENSE amount of new weapons and armor to all the leveled lists in the game, so the "weaker" equipment you will find on most enemies will be of a very large variety!
 
-### Take a Peek - New Stealth Mechanic
+## Take a Peek - New Stealth Mechanic
 
-### Custom Skills - VIGILANT (Put in new content w/ VIGILANT)
+## Custom Skills - VIGILANT (Put in new content w/ VIGILANT)
 
-### Different Casting Time (maybe belongs in combat)
+## Different Casting Time (maybe belongs in combat)
 
-### Molag's Will - Vampire Overhaul
+## Molag's Will - Vampire Overhaul
 
-### Dragon War
+## Dragon War
 
-### The Dragonborn's Bestiary
+## The Dragonborn's Bestiary
 
-### Dealing with Backstories
+## Dealing with Backstories
 
-### Set of Skills - A Skyrim Class Mod
+## Set of Skills - A Skyrim Class Mod
 
-### Immersive Spell Learning - DESTified
+## Immersive Spell Learning - DESTified
 
-### Cold Region Behavior
+## Stress and Fear
 
-### Stress and Fear
+## EVG Traversal + SkyClimb
 
-### EVG Traversal + SkyClimb
+## Realistic AI Detection
 
-### Realistic AI Detection
+## Book of Shadows
 
-### Book of Shadows
+## Sneak Behavior Extensions - True Prone system
 
-### Sneak Behavior Extensions - True Prone system
+## Dynamic Collision Adjustment
 
-### Dynamic Collision Adjustment
+## Dynamic Weather and time Based Detection
 
-### Dynamic Weather and time Based Detection
+## Dog Commands
 
-### Dog Commands
+## Take a Nap (Sleep on Chairs)
 
-### Take a Nap (Sleep on Chairs)
+## Animated Inebriation
 
-### Grab and Throw
+## Grab and Throw
 
-### Fast Travel Cost
+## Fast Travel Cost
 
-### Immersive Horses
+## Immersive Horses
 
-### Carriage and Ferry Travel Overhaul
+## Carriage and Ferry Travel Overhaul
 
-### Dynamic Things Alternative
+## Dynamic Things Alternative
 
-### Immersive Display Overhaul
+## Immersive Display Overhaul
 
-### Security Overhaul
+## Security Overhaul
 
-### Lockpicking for Barbarians
+## Lockpicking for Barbarians
 
-### Locked Chests have Keys
+## Locked Chests have Keys
 
-### Common Clothes and Armors / Armor Variants Expansion / Cloaks of Skyrim(artesian)
+## Common Clothes and Armors / Armor Variants Expansion / Cloaks of Skyrim(artesian)
 
 - (belongs in equipment once that section is written up more likely)
 
-### Trade and Barter
+## Trade and Barter
 
-### Hearthfire Extended
+## Hearthfire Extended
 
-### Your Market Stall
+## Your Market Stall
 
-### Linked Crafting Storage
+## Linked Crafting Storage
 
-### Honed Metal
+## Honed Metal
 
-### Potion Combination and Separation
+## Potion Combination and Separation
 
-### Cast Spells as Lesser Powers (maybe belongs in combat)
+## Cast Spells as Lesser Powers (maybe belongs in combat)
 
 ...
