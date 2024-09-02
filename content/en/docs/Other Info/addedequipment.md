@@ -1,5 +1,6 @@
 ---
 title: Added Equipment
+icon: fa-solid fa-shield
 weight: 2
 ---
 This mod list adds a very large amount of new armor and weapons to the game, with curated leveled lists containing this new equipment along with specific NPC placements.
