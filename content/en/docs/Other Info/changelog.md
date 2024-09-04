@@ -104,6 +104,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
   - Zediious Addons TO UPLOAD AND DOWNLOAD
 - Katariah Ship Stairs Fix
 - Better Hearthfire Nails
+- Ayleid Ruins Retexture
 - Meridia Shrine Dungeon ENB PARTICLE LIGHTS
 - Lollygaggin' - Vanilla Guard Armor Replacer
 - SC Horses - Mane Fix
