@@ -243,8 +243,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Alternate Perspective - 3.06 > 3.1.1
 - Alternate Perspective - Voiced Addon - 1.10 > 1.11
 - Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.75
-- Interesting NPCs - Quest Requirement Tweaks TPFZS - 1.2 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-  - This version is specific to the mod list, and is hosted on the mod list page
+- Interesting NPCs - Quest Requirement Tweaks - 1.2 > 1.2.1
 - Frozen in Time - 0.27 > 0.28
 - Siege at Icemoth - 1.2.1 > 1.2.2
 - More Weapon Keywords - 0.4001 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
