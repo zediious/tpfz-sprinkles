@@ -163,6 +163,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Clockwork
 - Clockwork - Cleaned Textures
 - Additional Clockwork
+- The Thrassian Scare
 - Ascend - Hidden Peaks of Skyrim
 - Korvinthian
 - Armors of The Velothi Pt. II - Traveling Merchant Actually Travels TO UPLOAD AND DOWNLOAD
