@@ -80,6 +80,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Universal (SKSE) Rim Lighting Fix
 - Edmond's Assassin of Old - Immersive Vanilla Bug Fix
 - Say No To Calcelmo
+- Local Map Upgrade
 - Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
 - KIT SkyUI Config - Dark Mode TO UPLOAD AND DOWNLOAD
 - KIT SkyUI Config - Paper Mode TO UPLOAD AND DOWNLOAD
