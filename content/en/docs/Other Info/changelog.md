@@ -111,6 +111,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Better Hearthfire Nails
 - Ayleid Ruins Retexture
 - Meridia Shrine Dungeon ENB PARTICLE LIGHTS
+- Diverse Tanning Racks
 - Lollygaggin' - Vanilla Guard Armor Replacer
 - SC Horses - Mane Fix
 - Less Wide Female Draugr Shoulders - MSE Version
