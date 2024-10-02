@@ -73,6 +73,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - SSEEdit 4.1.5f x64 (Added alongside existing xEdit version)
 - Disk Cache Enabler
 - Save Unbaker
+- LeveledList Crash Fix
+- LeveledList Crash Fix for Skyrim 1.5
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)
 - DLC2 Miraak BossFightScript Fix
 - Universal (SKSE) Rim Lighting Fix
