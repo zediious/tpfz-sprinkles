@@ -70,6 +70,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 ### Added
 
 - ENB Preset - Silent Horizons 2 - Universal Core
+- SSEEdit 4.1.5f x64 (Added alongside existing xEdit version)
 - Disk Cache Enabler
 - Save Unbaker
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)
