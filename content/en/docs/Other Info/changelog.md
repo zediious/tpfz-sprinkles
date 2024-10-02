@@ -178,7 +178,10 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Yggdrasil Conflict Resolution Patch (extracted from ZedPatch) TO UPLOAD AND DOWNLOAD
 - Pyramid Utils
 - PAPER
+- SkyPatcher
 - Mu Skeleton Editor
+- KiLoader for Skyrim
+- ENB Extender for Skyrim
 - ENB Helper Plus
 - Open Animation Replacer - Math Plugin
 - Offset Movement Animations Framework
