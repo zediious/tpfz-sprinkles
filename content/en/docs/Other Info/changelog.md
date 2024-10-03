@@ -55,6 +55,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Honed Metal Additional Materials - Formlist Manipulator
 - Apothecary - Food and Drink Addon (Replaced with Gourmet)
 - Apothecary - Food and Drink Addon - Survival Mode Patch
+- Jaxonz Positioner (Replaced with Object Manipulation Overhaul)
 - Attack - MCO-DXP (Replaced with BFCO)
 - MCO Universal Support
 - MCO Block Recovery
@@ -155,6 +156,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Your Market Stall Plus
 - Take Notes - Journal of the Dragonborn
 - Take Notes - Journal of the Dragonborn - Settings Loader
+- Object Manipulation Overhaul
 - Arcanum - A New Age of Magic (Fixed)
 - Optimised Scripts for Arcanum
 - Arcanum - Spellsiphon Patch
