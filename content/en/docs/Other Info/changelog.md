@@ -321,6 +321,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 
 ### Tweaks
 
+- All patch plugins updated to record header version 1.71
 - Gave wandering giants an aggro range, they will attack if you get too close like giants at camps, with a much smaller aggro range. ([Fix #124](https://github.com/zediious/tpfz-sprinkles/issues/124))
 - Unlock the door to Gloombound Mine in [Narzulbur](https://www.nexusmods.com/skyrimspecialedition/mods/88809). There is no way to unlock it via quest, and NPCs reference you bringing them ore from inside.
 - Disable fog effect when killing Foglings, and prevent their corpse from disappearing to allow looting the unique ingredient.
