@@ -202,7 +202,6 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - ADXP I MCO ER Spear Basic Animation
 - Spear Movement Animation
 - Vanargand Animations - Mace Moveset MCO
-- Vanguard - Bash Behaviors Updated
 - Dragon Combat Animations
 - DNFA Wolves Combat Behavior
 - Better Horse Dismounting
