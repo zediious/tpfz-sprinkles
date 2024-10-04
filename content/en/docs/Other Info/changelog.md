@@ -149,6 +149,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Sensible Oculory Solution - Logical Mzark Puzzle
 - Unmarked Locations Pack - Blackreach
 - Unmarked Locations Pack - Soul Cairn
+- Environs - Riften Warehouse - Patch Collection
 - Soul Resurrection - Injury and Alternative Death System
 - Tactical Valtheim - Shield Crash Fix TO UPLOAD AND DOWNLOAD
 - Book of Shadows - Disable Takedowns TO UPLOAD AND DOWNLOAD
