@@ -224,20 +224,41 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 
 - ENBSeries Core - 0.488 > 0.502
 - DynDOLOD 3 Alpha - Alpha-167 > Alpha-180
-- More Informative Console - 1.2 > 1.2.1
-- Skyrim Particle Patch for ENB - 1.2.9 > 1.3.1
+- More Informative Console - 1.2 > 1.2.2
+- ConsolePlusPlus - 1.3 > 1.4
+- Skyrim Particle Patch for ENB - 1.2.9 > 1.3.3
 - powerofthree's Tweaks - 1.9.2 > 1.11.0
-- Assorted Mesh Fixes - 0.98.1 > 0.111
+- Assorted Mesh Fixes - 0.98.1 > 0.116
+- Mannequin Management - 3.1 > 4.2
 - Naked Dead NPC Fix - 1.0.7 > 1.0.8
+- Sprint Sneak Movement Speed Fix - 1.1.1 > 1.1.2
+- Equip Enchantment Fix - 1.3.5 > 1.3.6
+- Calcelmo has Standards - 1.1 > 1.2
+- Dialogue History - 1.1.2 > 2.0
+- Dear Diary Dark Mode C.O.C.K.S. Mode - 2.0 > 3.0
 - Menu Zoom - 1.0.1 > 1.0.2
+- Skyrim Souls RE - 1.5.97 DLL - 2.4-SE-2 > 2.4-SE-3
+- Descriptions for Various Mods - 2.4.1 > 2.4.2
 - Better Third Person Selection - 0.6 > 0.7.1
 - Immersive Plaque Reading Interface - 0.7 > 0.7.2
 - DynDOLOD Resources - Alpha-49 > Alpha-52
 - DynDOLOD DLL NG - Alpha-29 > Alpha-32
 - Cathedral Weathers and Seasons - Unofficial Update - 2.50 > 2.57
+- Deadly Spell Impacts - 1.7.0 > 1.9.0
+- ENB Lights For Effect Shaders - 2.0 > 2.1.0
+- Arctic - Frost Effects Redux - 2.1 > 3.1
+- Aspens Ablaze - 2.35 > 2.37
+- Fancy Sleeping Tree Replacer - 1.6 > 1.7
 - Scallions of Skyrim - High Polygon Leeks - 0.1 > 0.2
+- Farmhouses of the Nords - 0.2 > 1.2
 - WiZkiD Carriages 2K - 1.4 > 1.5
-- Bloodskal Blade - Tweaks and Enhancements - 1.2 > 1.3.1
+- Daedric Shrines - All in One - 1.01 > 1.02
+- WiZkiD - Hall of the Dead Stained Glass Windows - 1.4 > 1.5
+- JS Knapsacks SE - 1.2 > 1.21
+- Bloodskal Blade - Tweaks and Enhancements - 1.2 > 1.4.0
+- Fluffworks Animals - 1.1 > 1.1f
+- SkySight Male Skin - 1.0 > 1.1
+- DVA - Dynamic Vampire Appearance - 1.1 > 1.2
 - Experience - 3.2 > 3.4.5
 - Experience - MCM - 1.2 > 1.4
 - Aetherius - A Race Overhaul - 2.13.2 > 2.14.1
@@ -246,9 +267,15 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 0.9.6.3 > 1.0-pre1
 - Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
 - Honed Metal - 1.26 > 1.26.1
+- COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.2
 - Animated Carriage - 1.0 > 1.1
+- AI Overhaul - 1.8.5 > 1.8.6
+- Face Sculptor Expanded - 1.0 > 1.02
+- Tamrielic Names - 1.1 > 1.2.1
 - Dialogue Expansion - Brelyna Maryon - 1.5 > 2.2.1
 - Civil War Lines Expansion - 1.09 > 1.1
+- Misc Dialogue Edits - 1.9.4 > 1.9.5.2
+- More Dialogue Options - 1.5 > 1.5.1
 - NPCs React To Invisibility - 1.03 > 1.11
 - The Innocence Lost - Quest Expansion - 1.01 > 1.11
 - Caught Red Handed - Quest Expansion - 1.04 > 1.06
@@ -256,20 +283,59 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - House of Horrors - Quest Expansion - 1.12 > 1.13
 - The Only Cure - Quest Expansion - 1.02 > 1.04
 - Infiltration - Quest Expansion - 1.01 > 1.02
+- Headhunter - Bounties Redone - 1.52 > 1.56
 - Return Aegisbane - 1.0 > 1.2
+- Engorged Robber's Gorge - 1.1.3 > 1.1.4
 - Ryn's Azura's Shrine - 1.2 > 1.3
+- Ryn's Goldenglow Estate - 1.6 > 1.7
+- Environs - Riften Warehouse - 2.0 > 2.01
+- Environs - Hroggar's House - 2.0.1 > 2.0.3
+- Environs - Abandoned Abodes - 1.0.2 > 1.0.4
+- Wyrm Tamer - Lawbringer for Wyrmstooth - 2.0.3 > 2.0.5
+- JK's Silver-Blood Inn - 1.0 > 1.0.1
+- JK's Radiant Raiment - 1.0.1 > 1.0.2
+- JK's High Hrothgar - 1.0 > 1.0.2
+- JK's Sky Haven Temple - 1.0 > 1.0.1
+- JK's Castle Dour - 1.1 > 1.3
+- JK's Windhelm Outskirts - 1.1.1 > 1.1.2
+- JK's Windhelm Outskirts Patches - 1.2 > 1.5
+- JK's Riften Outskirts - 1.0.1 > 1.1
 - Stress and Fear - A Dynamic Sanity System - 1.02 > 1.04
 - Taunt Your Enemies - Taunting Matters - 1.01 > 1.03
 - Take a Nap - Sleep on Chairs - 1.01 > 1.02
 - Lockpicking for Barbarians - 1.0.11 > 1.1.2
 - Spellsiphon - Immersive Combat - 5.27 > 5.28
-- Alternate Perspective - 3.06 > 3.1.1
+- Vulcano - 1.2.5 > 1.2.6
+- Arclight - 1.1.5 > 1.1.6
+- Desecration - 1.1.7 > 1.1.8
+- Lunaris - 1.3.5 > 1.3.6
+- Stellaris - 2.0.6 > 2.0.7
+- Necrom - 2.0.5 > 2.0.6
+- Bloodmoon - 2.0.5 > 2.0.6
+- Abyss - 3.1.5 > 3.1.6
+- Arcane - 1.1.6 > 1.1.7
+- Alternate Perspective - 3.06 > 4.0
 - Alternate Perspective - Voiced Addon - 1.10 > 1.11
-- Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.75
+- Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.76
 - Interesting NPCs - Quest Requirement Tweaks - 1.2 > 1.2.1
 - Frozen in Time - 0.27 > 0.28
-- Siege at Icemoth - 1.2.1 > 1.2.2
+- Siege at Icemoth - 1.2.1 > 1.2.3
+- Missives - Worldspace Additions - Solstheim - 2.03 > 2.09
+- Mihail Monsters and Animals - Dwarven Magetta - 1.0 > 2.2
+- Mihail Monsters and Animals - Dwarven Driller - 1.0 - 1.1
+- Mihail Monsters and Animals - Dwarven Power Suits - 2.0 > 2.1
+- Mihail Monsters and Animals - Dwarven Threshers - 1.0 > 1.1
+- Mihail Monsters and Animals - Dwarven Defenders - 1.1 > 1.2
+- Mihail Monsters and Animals - Ice Titans - 1.0 > 2.0
+- Mihail Monsters and Animals - Mourning Souls - 1.1 > 1.2
+- Mihail Monsters and Animals - Harpies - 1.0 > 2.0
+- Mihail Monsters and Animals - Grey Children - 1.0 > 1.1
+- Mihail Armors and Clothes - Daedric Light Armor - 1.0 > 1.1
+- Harbinger Armor - Mihail Armors and Clothes 1.0 > 1.1
+- Elite Wolf Armor by NordwarUA - 1.0 > 1.5
+- Gryphonknight Regalia - Breton Noble Armor - 1.2.5 > 1.3
 - More Weapon Keywords - 0.4001 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Simply Balanced - 1.4.6 > 1.4.7
 - Dragons Fall Down - Immersive Airborne Death - 1.0.1 > 1.0.3
 - Better Stealth AI for Followers - 3.4 > 3.5
 - Haugbui - A Draugr Overhaul (Renamed from Briraka) - 3.0.1 > 4.2
@@ -280,19 +346,25 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - PhotoMode - 1.4 > 1.6.0
 - Nordic Winds - 1.1 > 1.2
 - Open Animation Replacer - 2.3 > 2.3.6
+- True Directional Movement - Modernized Gameplay - 2.2.5 > 2.2.6
 - EVG Animated Traversal - 2.0beta > 2.1
 - EVG Conditional Idles - 1.42 > 1.51
 - EVG Conditional Idles Extended - 1.3 > 1.41
 - NPC Animation Remix - 1.9 > 2.0
-- Immersive Folded Hands RENAMED Arm Movement Animations - 1.6.1 > 2.1.0
+- Organic Player Animations - 1.2.1 > 2.0.0
+- Immersive Folded Hands RENAMED Arm Movement Animations - 1.6.1 > 2.2.0
 - Player Character Gestures - 1.0 > 2.1.0
 - Immersive Fishing - 1.1 > 1.3
 - Immersive Interactions - Animated Actions - 1.76 > 1.78
 - Dynamic Horse Petting Animations for Immersive Interactions - 1.1 > 1.11
 - Lively Cart Driver Animation - 1.0 > 2.0.1
-- Flute Animation Fix - 1.1 > 1.2
+- Flute Animation Fix - 1.1 > 1.3
+- Papyrus Ini Manipulator - 1.9.6 > 1.9.7
 - powerofthree's Papyrus Extender - 5.6.1 > 5.8.0
+- FormList Manipulator - 1.7.1 > 1.8.1
 - Base Object Swapper - 3.0.3 > 3.3.0
+- Sonders Keyword Distribution Resources - 1.4 > 1.7
+- NPCs Names Distributor - 2.5.1 > 2.5.3
 - iWant Widgets - 1.31 > 1.33
 - Leveled List Additions (Armors) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - Leveled List Additions (Weapons) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
@@ -302,6 +374,10 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - ZedPatch3 - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - City Navmesh Patches (Additional plugins added) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - Synthesis Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- TexGen Output - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
+- DynDOLOD Output - Ultra - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
+- DynDOLOD Output - High - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
+- DynDOLOD Output - Low - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
 - Occlusion Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - Nemesis Output - 0.9.6 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - BodySlide Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
