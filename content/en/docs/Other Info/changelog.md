@@ -56,6 +56,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Apothecary - Food and Drink Addon (Replaced with Gourmet)
 - Apothecary - Food and Drink Addon - Survival Mode Patch
 - Jaxonz Positioner (Replaced with Object Manipulation Overhaul)
+- Molag Bal's Inferno
+- Molag Bal's Inferno - Strange Man Fix (never worked :( )
 - Attack - MCO-DXP (Replaced with BFCO)
 - MCO Universal Support
 - MCO Block Recovery
