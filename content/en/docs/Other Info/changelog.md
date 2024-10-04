@@ -236,7 +236,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Sprint Sneak Movement Speed Fix - 1.1.1 > 1.1.2
 - Equip Enchantment Fix - 1.3.5 > 1.3.6
 - Calcelmo has Standards - 1.1 > 1.2
-- Dialogue History - 1.1.2 > 2.0
+- Dialogue History - 1.1.2 > 2.0.1
 - Dear Diary Dark Mode C.O.C.K.S. Mode - 2.0 > 3.0
 - Menu Zoom - 1.0.1 > 1.0.2
 - Skyrim Souls RE - 1.5.97 DLL - 2.4-SE-2 > 2.4-SE-3
