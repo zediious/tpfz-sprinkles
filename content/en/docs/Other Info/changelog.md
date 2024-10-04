@@ -188,6 +188,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - KiLoader for Skyrim
 - ENB Extender for Skyrim
 - ENB Helper Plus
+- Container Distribution Framework
+- Container Distribution Framework - 1.5.97 DLL
 - Open Animation Replacer - Math Plugin
 - Offset Movement Animations Framework
 - EVG CLAMBER - Slope Animations
