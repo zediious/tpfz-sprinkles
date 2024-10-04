@@ -59,7 +59,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Attack - MCO-DXP (Replaced with BFCO)
 - MCO Universal Support
 - MCO Block Recovery
-- Vanguard - Bash Behaviors Overhaul (Replaced with updated version)
+- Vanguard - Bash Behaviors Overhaul (Hopefully temporary, incompatible with BFCO)
 - Iron Dusk's Laboratory - Saddlebags (Replaced by Immersive Horses)
 - Miscellaneous Tweaks Collection - More Expensive Inns (Replaced by Candlehearth)
 - Alcohol Drunk Effect (Fully replaced by Animated Inebriation)
