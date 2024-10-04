@@ -332,13 +332,13 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 ### Tweaks
 
 - All patch plugins updated to record header version 1.71
+- Converted all currently used MCO combat animations to be used with BFCO.
+- **** BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk. UNSURE IF DOING!!!
+- Distribute enchanted variants for most mod-added equipment in SubListEnch lists, so that they will appear as dungeon loot, rewards for quests, etc.
+- Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
 - Gave wandering giants an aggro range, they will attack if you get too close like giants at camps, with a much smaller aggro range. ([Fix #124](https://github.com/zediious/tpfz-sprinkles/issues/124))
 - Unlock the door to Gloombound Mine in [Narzulbur](https://www.nexusmods.com/skyrimspecialedition/mods/88809). There is no way to unlock it via quest, and NPCs reference you bringing them ore from inside.
 - Disable fog effect when killing Foglings, and prevent their corpse from disappearing to allow looting the unique ingredient.
-- Distribute enchanted variants for most mod-added equipment in SubListEnch lists, so that they will appear as dungeon loot, rewards for quests, etc.
-- Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
-- Converted all currently used MCO combat animations to be used with BFCO.
-- BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk.
 - Made the Traveling Merchant standing outside Riften travel back and forth between Riften and Windhelm.
 - Disabled all Arcana tome-crafting benches except for the Midden and Dragonsreach locations.
 - Changed A Matter of Time widget type, and moved below the compass
