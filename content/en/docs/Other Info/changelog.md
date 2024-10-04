@@ -60,6 +60,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - MCO Universal Support
 - MCO Block Recovery
 - Vanguard - Bash Behaviors Overhaul (Hopefully temporary, incompatible with BFCO)
+- ADXP - MCO Elden Rim Moveset Collection (Replaced with BFCO version)
+- Nobushi - Spear Moveset (Re-replaced with Basic Spear Animations)
 - Iron Dusk's Laboratory - Saddlebags (Replaced by Immersive Horses)
 - Miscellaneous Tweaks Collection - More Expensive Inns (Replaced by Candlehearth)
 - Alcohol Drunk Effect (Fully replaced by Animated Inebriation)
@@ -192,8 +194,11 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Attack Data Transition Fix
 - BFCO - Attack Behavior Framework
 - Combat Pathing Revolution
+- BFCO - Elden Rim Moveset Collection (SCAR)
 - Elden Rim Dual Wield Moveset Collection
 - Gryphon - Battleaxe Moveset
+- ADXP I MCO ER Spear Basic Animation
+- Spear Movement Animation
 - Vanargand Animations - Mace Moveset MCO
 - Vanguard - Bash Behaviors Updated
 - Dragon Combat Animations
