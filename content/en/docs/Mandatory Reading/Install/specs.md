@@ -15,9 +15,9 @@ Below is a list of the differences between these three profiles
 
 | Profile | Shaders | Rules | Tree LOD | Using Grass LOD
 |     :---:    |     :---:     |     :---:     |     :---:     |     :---:     |
-| **Refined (The default profile)** | ENB | High | 2D | NO
-| **Refined - Performance** | Community Shaders | Low | 2D | NO |
+| **Refined (The default profile)** | ENB | High | 3D | NO
 | **Refined - Ultra** | ENB | High | 3D | YES |
+| **Refined - Performance** | Community Shaders | Medium | 2D | NO |
 
 <br>
 
