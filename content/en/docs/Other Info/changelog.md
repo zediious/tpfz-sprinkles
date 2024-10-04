@@ -288,6 +288,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Headhunter - Bounties Redone - 1.52 > 1.56
 - Return Aegisbane - 1.0 > 1.2
 - Engorged Robber's Gorge - 1.1.3 > 1.1.4
+- Riften Docks Overhaul - 2.5.5 > 2.5.7b
 - Ryn's Azura's Shrine - 1.2 > 1.3
 - Ryn's Goldenglow Estate - 1.6 > 1.7
 - Environs - Riften Warehouse - 2.0 > 2.01
