@@ -163,6 +163,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Arcanum - A New Age of Magic (Fixed)
 - Optimised Scripts for Arcanum
 - Arcanum - Spellsiphon Patch
+- Darenni CID Addons TO UPLOAD AND DOWNLOAD
 - Interesting NPCs - Melea Entius Tweaks
 - Snazzy Items for Interesting NPCs
 - Unslaad Weapons and Armors Retexture SE
