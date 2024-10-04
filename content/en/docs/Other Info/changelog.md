@@ -374,6 +374,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - ZedPatch3 - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - City Navmesh Patches (Additional plugins added) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
 - Synthesis Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Terrain LOD Output - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
 - TexGen Output - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
 - DynDOLOD Output - Ultra - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
 - DynDOLOD Output - High - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
