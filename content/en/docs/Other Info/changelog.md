@@ -47,6 +47,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 
 ### Removed
 
+- CK64 Fixes (Replaced with CK Platform Extended)
+- CK64 Fixes Update
 - ModWatch Uploader (Use [Load Order Library](https://loadorderlibrary.com/))
 - Variety of Script Fixes from ferrari365 (Replaced with AIO SCROTE)
 - NPC AI Process Position Fix (Replaced with NG)
@@ -75,6 +77,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 ### Added
 
 - ENB Preset - Silent Horizons 2 - Universal Core
+- CK Platform Extended
 - SSEEdit 4.1.5f x64 (Added alongside existing xEdit version)
 - Disk Cache Enabler
 - Save Unbaker
