@@ -320,13 +320,13 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Made A Matter of Time widget sync properly with the compass with Immersive HUD linked SkyUI widgets.
 - Disabled Active Effects automatically appearing in combat to prevent time widget flashing.
 - Added missing crafting recipes for Fluted set, as world encounter is disabled.
+- Added missing tempering recipe for Kara Yatagan weapon.
 - Disabled Book of Shadows "Takedowns" feature to allow melee sneak builds to work.
 - Allow more clothing to be used when doing the "Stolen Property" quest.
 - Disabled Maximum Carnage gore for Giants due to them disappearing
 - Prevent Companions brawl quests from sending outside of Skyrim
 - Resolved purple mesh/body on a lot of named Draugr bosses
 - Made The Rookery map marker not visible on a new game
-- Added missing tempering recipe for Kara Yatagan weapon.
 - Fixed a few more equipment with incorrect keywords.
 - Fixed improper navmesh in Winterhold.
 
