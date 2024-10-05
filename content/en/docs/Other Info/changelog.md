@@ -205,6 +205,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Combat Pathing Revolution
 - BFCO - Elden Rim Moveset Collection (SCAR)
 - Elden Rim Dual Wield Moveset Collection
+- Eivor - ADXP I MCO Sprint Attacks
+- BFCO Eivor Sprint Attacks as Jump Attacks
 - Gryphon - Battleaxe Moveset
 - ADXP I MCO ER Spear Basic Animation
 - Spear Movement Animation
