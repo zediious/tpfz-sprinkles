@@ -242,6 +242,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Mannequin Management - 3.1 > 4.2
 - Naked Dead NPC Fix - 1.0.7 > 1.0.8
 - Sprint Sneak Movement Speed Fix - 1.1.1 > 1.1.2
+- Camera Persistence Fixes - 1.0 > 1.1
 - Equip Enchantment Fix - 1.3.5 > 1.3.6
 - Calcelmo has Standards - 1.1 > 1.2
 - Dialogue History - 1.1.2 > 2.0.1
