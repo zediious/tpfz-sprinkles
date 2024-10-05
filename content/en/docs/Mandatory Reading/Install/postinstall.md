@@ -36,6 +36,7 @@ The only files/directories that should be in the Overwrite mod after launching t
 
 - NetScriptFramework (if you experience a crash, logs go here)
 - Root
+  - enbcache/cache files
   - betacomments.txt
   - d3dx9_42.log
   - imgui.ini
