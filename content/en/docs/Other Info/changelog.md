@@ -147,7 +147,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Follower Dialogue Expansion - Mjoll the Lioness
 - Follower Dialogue Expansion - Faendal
 - Falmer Servant Lines Expansion
-- Female Dark Elf Voice added to Hearthfire
+- Missing Voices in Hearthfire Added Back
 - WiZkiD Hunter's Camp Overhaul
 - Destroy The Dark Brotherhood - Quest Expansion
 - Revealing Rune
