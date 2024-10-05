@@ -87,6 +87,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - DLC2 Miraak BossFightScript Fix
 - Universal (SKSE) Rim Lighting Fix
 - Edmond's Assassin of Old - Immersive Vanilla Bug Fix
+- Grain Mill Animation Fix
 - Say No To Calcelmo
 - Local Map Upgrade
 - Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
@@ -144,6 +145,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Follower Dialogue Expansion - Jordis the Sword-Maiden
 - Follower Dialogue Expansion - Erik the Slayer
 - Follower Dialogue Expansion - Mjoll the Lioness
+- Follower Dialogue Expansion - Faendal
 - Falmer Servant Lines Expansion
 - Female Dark Elf Voice added to Hearthfire
 - WiZkiD Hunter's Camp Overhaul
@@ -158,6 +160,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Soul Resurrection - Injury and Alternative Death System
 - Tactical Valtheim - Shield Crash Fix TO UPLOAD AND DOWNLOAD
 - Book of Shadows - Disable Takedowns TO UPLOAD AND DOWNLOAD
+- Beginner Bard Animations - For Skyrim's Got Talent
 - Grab And Throw
 - Immersive Horses
 - Horsin' Around
