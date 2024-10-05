@@ -430,6 +430,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Lowered speed, raised scale, and raised maximum shown amount for top-left notification messages.
 - Disable Wildcat configuration power from appearing in powers menu on new game
 - Prevent NPCs in the Ratway from attacking the small Rats added by SkyTEST ([Fix #97](https://github.com/zediious/tpfz-sprinkles/issues/97))
+- Made Bone Colossus no longer have the Protected flag, so they can be killed by NPCs.
 - Reduce frequency of Animated Carriages spawning via Autorun commands
 - Added all mod-added alcohol to Animated Inebriation KID distribution
 - Made NFF-linked followers only sandbox when you are in a town/city.
