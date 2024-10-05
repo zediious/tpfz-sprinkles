@@ -405,6 +405,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Prevent Security XP when accessing any NFF/KWF follower containers (Clothing Satchel, Extra Storage, etc), appending previous fix with only one container.
 - Prevent conjured creatures from certain creature mods from giving loot when they die, as this provides infinite of that drop.
 - Prevent creatures from certain creature mods from being given spells by Darenii's spell mod SPID configurations, which stopped them from attacking.
+- Stamina regeneration on successful light attack reduced to 0.05 of max stamina instead of 0.2.
 - Made A Matter of Time widget sync properly with the compass with Immersive HUD linked SkyUI widgets.
 - Disabled Active Effects automatically appearing in combat to prevent time widget flashing.
 - Added missing crafting recipes for Fluted set, as world encounter is disabled.
