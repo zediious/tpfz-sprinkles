@@ -238,13 +238,14 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - ConsolePlusPlus - 1.3 > 1.4
 - Skyrim Particle Patch for ENB - 1.2.9 > 1.3.3
 - powerofthree's Tweaks - 1.9.2 > 1.11.0
-- Assorted Mesh Fixes - 0.98.1 > 0.116
+- Assorted Mesh Fixes - 0.98.1 > 0.117.1
 - Mannequin Management - 3.1 > 4.2
 - Naked Dead NPC Fix - 1.0.7 > 1.0.8
 - Sprint Sneak Movement Speed Fix - 1.1.1 > 1.1.2
 - Camera Persistence Fixes - 1.0 > 1.1
 - Equip Enchantment Fix - 1.3.5 > 1.3.6
 - Calcelmo has Standards - 1.1 > 1.2
+- Vampires Cast No Shadow 2 - 1.2.1 > 1.2.2
 - Dialogue History - 1.1.2 > 2.0.1
 - Dear Diary Dark Mode C.O.C.K.S. Mode - 2.0 > 3.0
 - Menu Zoom - 1.0.1 > 1.0.2
@@ -256,12 +257,14 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - DynDOLOD DLL NG - Alpha-29 > Alpha-32
 - Cathedral Weathers and Seasons - Unofficial Update - 2.50 > 2.57
 - Deadly Spell Impacts - 1.7.0 > 1.9.0
-- ENB Lights For Effect Shaders - 2.0 > 2.1.0
+- ENB Lights For Effect Shaders - 2.0 > 2.2.0
 - Arctic - Frost Effects Redux - 2.1 > 3.1
 - Aspens Ablaze - 2.35 > 2.37
 - Fancy Sleeping Tree Replacer - 1.6 > 1.7
 - Scallions of Skyrim - High Polygon Leeks - 0.1 > 0.2
 - Farmhouses of the Nords - 0.2 > 1.2
+- Sovngarde HD 2K - 3.1 > 3.2
+- Soul Cairn HD 2K - 5.0 > 5.0.1
 - WiZkiD Carriages 2K - 1.4 > 1.5
 - Daedric Shrines - All in One - 1.01 > 1.02
 - WiZkiD - Hall of the Dead Stained Glass Windows - 1.4 > 1.5
@@ -278,7 +281,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 0.9.6.3 > 1.0-pre1
 - Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
 - Honed Metal - 1.26 > 1.26.1
-- COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.2
+- COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.3
 - Animated Carriage - 1.0 > 1.1
 - AI Overhaul - 1.8.5 > 1.8.6
 - Face Sculptor Expanded - 1.0 > 1.02
@@ -373,6 +376,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Flute Animation Fix - 1.1 > 1.3
 - Papyrus Ini Manipulator - 1.9.6 > 1.9.7
 - powerofthree's Papyrus Extender - 5.6.1 > 5.8.0
+- Object Categorization Framework - 5.6.1 > 6.0.1
 - FormList Manipulator - 1.7.1 > 1.8.1
 - Base Object Swapper - 3.0.3 > 3.3.0
 - Sonders Keyword Distribution Resources - 1.4 > 1.7
