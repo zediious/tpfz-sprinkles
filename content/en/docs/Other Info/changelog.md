@@ -238,7 +238,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - ConsolePlusPlus - 1.3 > 1.4
 - Skyrim Particle Patch for ENB - 1.2.9 > 1.3.3
 - powerofthree's Tweaks - 1.9.2 > 1.11.0
-- Assorted Mesh Fixes - 0.98.1 > 0.117.1
+- Assorted Mesh Fixes - 0.98.1 > 0.120
 - Mannequin Management - 3.1 > 4.2
 - Naked Dead NPC Fix - 1.0.7 > 1.0.8
 - Sprint Sneak Movement Speed Fix - 1.1.1 > 1.1.2
@@ -280,6 +280,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Animated Inebriation - 2.0.6 > 2.0.9
 - Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 0.9.6.3 > 1.0-pre1
 - Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
+- Dynamic Things Alternative - 0.2.2 > 0.3
 - Honed Metal - 1.26 > 1.26.1
 - COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.3
 - Animated Carriage - 1.0 > 1.1
@@ -288,6 +289,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Tamrielic Names - 1.1 > 1.2.1
 - Dialogue Expansion - Brelyna Maryon - 1.5 > 2.2.1
 - Civil War Lines Expansion - 1.09 > 1.1
+- Extended Bandit Dialogue - 1.0 > 1.0.1
 - Misc Dialogue Edits - 1.9.4 > 1.9.5.2
 - More Dialogue Options - 1.5 > 1.5.1
 - NPCs React To Invisibility - 1.03 > 1.11
@@ -329,7 +331,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Bloodmoon - 2.0.5 > 2.0.6
 - Abyss - 3.1.5 > 3.1.6
 - Arcane - 1.1.6 > 1.1.7
-- Alternate Perspective - 3.06 > 4.0
+- Alternate Perspective - 3.06 > 4.0.1
 - Alternate Perspective - Voiced Addon - 1.10 > 1.11
 - Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.76
 - Interesting NPCs - Quest Requirement Tweaks - 1.2 > 1.2.1
@@ -356,7 +358,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Haugbui - A Draugr Overhaul (Renamed from Briraka) - 3.0.1 > 4.2
 - Haugbui - A Draugr Overhaul - WACCF Patch (Renamed from Briraka) - 3.0 > 4.0
 - Haugbui - A Draugr Overhaul - Cannibal Draugr Patch (Renamed from Briraka) - 3.0-CD > 4.1
-- Swiftly Order Squad - Follower Commands UI - 1.7.1 > 1.8.4
+- Swiftly Order Squad - Follower Commands UI - 1.7.1 > 1.9.0
 - Persistent Favorites - 0.3 > 0.3.1
 - PhotoMode - 1.4 > 1.6.0
 - Nordic Winds - 1.1 > 1.2
