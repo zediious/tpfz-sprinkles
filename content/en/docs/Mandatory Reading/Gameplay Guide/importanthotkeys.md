@@ -236,6 +236,11 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 
 ## Misc
 
+### PERIOD
+
+- Pick the object you are looking at for manipulation with [Object Manipulation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/123664).
+- All other key binds from the above mod are default.
+
 ### SHIFT+;
 
 - Open the Dialogue History menu, to view previous conversations with NPCs
