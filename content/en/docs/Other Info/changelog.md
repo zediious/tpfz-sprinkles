@@ -89,6 +89,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Edmond's Assassin of Old - Immersive Vanilla Bug Fix
 - Grain Mill Animation Fix
 - Say No To Calcelmo
+- Dragonborn Reskin - SkyUI Active Effects Icons
 - Local Map Upgrade
 - Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
 - KIT SkyUI Config - Dark Mode TO UPLOAD AND DOWNLOAD
@@ -167,6 +168,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Your Market Stall Plus
 - Take Notes - Journal of the Dragonborn
 - Take Notes - Journal of the Dragonborn - Settings Loader
+- Sandbox When Idle
 - Object Manipulation Overhaul
 - Arcanum - A New Age of Magic (Fixed)
 - Optimised Scripts for Arcanum
@@ -175,6 +177,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Interesting NPCs - Melea Entius Tweaks
 - Snazzy Items for Interesting NPCs
 - Unslaad Weapons and Armors Retexture SE
+- Land of Vominheim - SE - Unique Rewards by Xtudo
 - Clockwork
 - Clockwork - Cleaned Textures
 - Additional Clockwork
