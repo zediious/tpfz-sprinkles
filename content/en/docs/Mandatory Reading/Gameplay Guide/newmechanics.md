@@ -10,6 +10,14 @@ The way you will perform combat in this mod list is *drastically* different from
 
 The above linked page is *rather long*, and I would suggest you read it after finishing the Mandatory Reading section. You certainly do not have to read it word-for-word, I did my best to describe each mod in as much detail as possible. You will find some entries below related to combat regardless.
 
+## When you die, you will resurrect with de-buffs instead of reloading your last save
+
+This mod list uses the mod ["Soul Resurrection - Injury and Alternative Death System"](https://www.nexusmods.com/skyrimspecialedition/mods/128265). This adds a new mechanic on death, where you will be resurrected on the spot, with a set of de-buffs that represent how you were "injured".
+
+This mod chiefly exists to prevent re-loading saves while in game, however it presents more interesting gameplay than "Die, reload, die, reload". The de-buffs can reduce your movement speeds, attribute maximums and regeneration, among a variety of other effects. Running away may be your only option in certain situations!
+
+If you "die" many times, your stress levels will likely be through the roof. Leading into...
+
 ## You can get stressed in combat, preventing certain types of attacks
 
 If you reach the "Critical Stress" level during combat via "[Stress and Fear](https://www.nexusmods.com/skyrimspecialedition/mods/116522)", you will be unable to sprint, perform power attacks, or power bashes. You will be left with normal attacks, and running/climbing away from your enemy.
