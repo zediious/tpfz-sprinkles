@@ -94,6 +94,8 @@ Make sure to report any bugs/issues or anything remotely odd on our issue tracke
 
 - When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues!
 
+- Be mindful of loading saves while in game, after you have already loaded into a save. This is **highly discouraged!** Skyrim has an engine issue with not clearing game state fully on save loads, which can cause crashes, save corruption in certain instances, or benign issues. [Check this comment for a more in-depth breakdown](https://www.reddit.com/r/skyrimmods/comments/17h3h2o/comment/k6lnsew/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). We use a death alternative mod to get around this on death, but it is highly recommended that you do not do so manually without first fully closing the game.
+
 - **NEVER** save right after a loading screen. Wait 15-30 seconds before saving to let scripts finish executing.
 
 - Quicksaves made with F5 are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
