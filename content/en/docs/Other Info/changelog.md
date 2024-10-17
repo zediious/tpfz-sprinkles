@@ -252,6 +252,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Vampires Cast No Shadow 2 - 1.2.1 > 1.2.2
 - Dialogue History - 1.1.2 > 2.0.1
 - Dear Diary Dark Mode C.O.C.K.S. Mode - 2.0 > 3.0
+- Simple Activate SKSE - 1.4.1 > 1.4.2
 - Menu Zoom - 1.0.1 > 1.0.2
 - Skyrim Souls RE - 1.5.97 DLL - 2.4-SE-2 > 2.4-SE-3
 - Descriptions for Various Mods - 2.4.1 > 2.4.2
@@ -339,6 +340,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Alternate Perspective - Voiced Addon - 1.10 > 1.11
 - Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.76
 - Interesting NPCs - Quest Requirement Tweaks - 1.2 > 1.2.1
+- Land of Vominheim - 2.4 > 2.5
 - Frozen in Time - 0.27 > 0.28
 - Siege at Icemoth - 1.2.1 > 1.2.3
 - Missives - Worldspace Additions - Solstheim - 2.03 > 2.09
@@ -362,7 +364,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Haugbui - A Draugr Overhaul (Renamed from Briraka) - 3.0.1 > 4.2
 - Haugbui - A Draugr Overhaul - WACCF Patch (Renamed from Briraka) - 3.0 > 4.0
 - Haugbui - A Draugr Overhaul - Cannibal Draugr Patch (Renamed from Briraka) - 3.0-CD > 4.1
-- Swiftly Order Squad - Follower Commands UI - 1.7.1 > 1.9.0
+- Swiftly Order Squad - Follower Commands UI - 1.7.1 > 1.11.3
 - Persistent Favorites - 0.3 > 0.3.1
 - PhotoMode - 1.4 > 1.6.0
 - Nordic Winds - 1.1 > 1.2
