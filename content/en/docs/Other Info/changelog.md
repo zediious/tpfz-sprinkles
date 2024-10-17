@@ -219,6 +219,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Vanargand Animations - Mace Moveset MCO
 - Dragon Combat Animations
 - DNFA Wolves Combat Behavior
+- Combat Animation Overhaul - Dwarven Sphere
 - Better Horse Dismounting
 - Animated Eating Redux
 - Animated Eating Redux - Zediious Addons TO UPLOAD AND DOWNLOAD
