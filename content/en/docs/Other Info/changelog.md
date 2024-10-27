@@ -84,14 +84,16 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - LeveledList Crash Fix
 - LeveledList Crash Fix for Skyrim 1.5
 - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)
-- DLC2 Miraak BossFightScript Fix
+- DLC2 Miraak BossFightScript Fix-
+- Horse Save Load Fix
 - Universal (SKSE) Rim Lighting Fix
 - Edmond's Assassin of Old - Immersive Vanilla Bug Fix
 - Grain Mill Animation Fix
 - Say No To Calcelmo
 - Dragonborn Reskin - SkyUI Active Effects Icons
-- Local Map Upgrade
+- Wheeler CTD-Fix
 - Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
+- Local Map Upgrade
 - KIT SkyUI Config - Dark Mode TO UPLOAD AND DOWNLOAD
 - KIT SkyUI Config - Paper Mode TO UPLOAD AND DOWNLOAD
 - Mark Books as Unread
@@ -117,11 +119,16 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
   - Natura
   - Bogmort
   - Zediious Addons TO UPLOAD AND DOWNLOAD
+- Blended Roads Less Bumpiness
+- Diverse Downed Logs
+- Dwemer Water Wheels
 - Katariah Ship Stairs Fix
 - Better Hearthfire Nails
 - Ayleid Ruins Retexture
 - Meridia Shrine Dungeon ENB PARTICLE LIGHTS
+- Better Forgotten Vale Portal Textures
 - Diverse Tanning Racks
+- HFs - Diverse Satchel
 - Lollygaggin' - Vanilla Guard Armor Replacer
 - SC Horses - Mane Fix
 - Less Wide Female Draugr Shoulders - MSE Version
@@ -130,6 +137,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Draugrs - New Models and Textures - Xtudo Fixes and Patches
 - Higher Poly Vanilla Dragons
 - Vanilla Hair Remake
+- Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key
 - Candlehearth - An Inn Overhaul + Patches
 - Fish Anywhere With Water
 - Security Overhaul - Extra Locks
@@ -188,6 +196,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Animated Armoury - Precision Patch Complete
 - Rihad Swordsman Set + HIMBO/CBBE Refits
 - Crude Glass Weapon
+- NPC Spell Variance - Spell Variety AI
 - Haugbui - A Draugr Overhaul - SimonRim Patch
 - Potema Revoiced
 - Ghostly Helgi Voice
@@ -221,6 +230,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - DNFA Wolves Combat Behavior
 - Combat Animation Overhaul - Dwarven Sphere
 - Better Horse Dismounting
+- Casual Dog Animations
 - Animated Eating Redux
 - Animated Eating Redux - Zediious Addons TO UPLOAD AND DOWNLOAD
 - Realistic HD Misc Remastered (Dining Set Only)
@@ -241,7 +251,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - More Informative Console - 1.2 > 1.2.2
 - ConsolePlusPlus - 1.3 > 1.4
 - Skyrim Particle Patch for ENB - 1.2.9 > 1.3.3
-- powerofthree's Tweaks - 1.9.2 > 1.11.0
+- powerofthree's Tweaks - 1.9.2 > 1.12.2
 - Assorted Mesh Fixes - 0.98.1 > 0.120
 - Mannequin Management - 3.1 > 4.2
 - Naked Dead NPC Fix - 1.0.7 > 1.0.8
@@ -278,7 +288,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Fluffworks Animals - 1.1 > 1.1f
 - SkySight Male Skin - 1.0 > 1.1
 - DVA - Dynamic Vampire Appearance - 1.1 > 1.2
-- Experience - 3.2 > 3.4.5
+- Experience - 3.2 > 3.5.0
 - Experience - MCM - 1.2 > 1.4
 - Aetherius - A Race Overhaul - 2.13.2 > 2.14.1
 - Mundus - A Standing Stone Overhaul - 1.13 > 1.13.1
@@ -287,7 +297,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Security Overhaul SKSE - Lock Variations - 3.2 > 4.0
 - Dynamic Things Alternative - 0.2.2 > 0.3
 - Honed Metal - 1.26 > 1.26.1
-- COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.3
+- COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.5
 - Animated Carriage - 1.0 > 1.1
 - AI Overhaul - 1.8.5 > 1.8.6
 - Face Sculptor Expanded - 1.0 > 1.02
@@ -305,6 +315,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - The Only Cure - Quest Expansion - 1.02 > 1.04
 - Infiltration - Quest Expansion - 1.01 > 1.02
 - Headhunter - Bounties Redone - 1.52 > 1.56
+- Harvest Your Blood for Septimus - 1.1.2.1 > 1.1.3
 - Return Aegisbane - 1.0 > 1.2
 - Engorged Robber's Gorge - 1.1.3 > 1.1.4
 - Riften Docks Overhaul - 2.5.5 > 2.5.7b
@@ -322,7 +333,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - JK's Windhelm Outskirts - 1.1.1 > 1.1.2
 - JK's Windhelm Outskirts Patches - 1.2 > 1.5
 - JK's Riften Outskirts - 1.0.1 > 1.1
-- Stress and Fear - A Dynamic Sanity System - 1.02 > 1.04
+- Stress and Fear - A Dynamic Sanity System - 1.02 > 1.05
 - Taunt Your Enemies - Taunting Matters - 1.01 > 1.03
 - Take a Nap - Sleep on Chairs - 1.01 > 1.02
 - Lockpicking for Barbarians - 1.0.11 > 1.1.2
@@ -383,10 +394,10 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Lively Cart Driver Animation - 1.0 > 2.0.1
 - Flute Animation Fix - 1.1 > 1.3
 - Papyrus Ini Manipulator - 1.9.6 > 1.9.7
-- powerofthree's Papyrus Extender - 5.6.1 > 5.8.0
+- powerofthree's Papyrus Extender - 5.6.1 > 5.9.0
 - Object Categorization Framework - 5.6.1 > 6.0.1
 - FormList Manipulator - 1.7.1 > 1.8.1
-- Base Object Swapper - 3.0.3 > 3.3.0
+- Base Object Swapper - 3.0.3 > 3.3.1
 - Sonders Keyword Distribution Resources - 1.4 > 1.7
 - NPCs Names Distributor - 2.5.1 > 2.5.3
 - iWant Widgets - 1.31 > 1.33
