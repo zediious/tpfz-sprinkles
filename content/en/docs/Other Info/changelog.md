@@ -121,6 +121,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
   - Zediious Addons TO UPLOAD AND DOWNLOAD
 - Blended Roads Less Bumpiness
 - Diverse Downed Logs
+- High Quality Ivy (Only Ivy Textures for above mod)
 - Dwemer Water Wheels
 - Katariah Ship Stairs Fix
 - Better Hearthfire Nails
