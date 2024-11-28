@@ -104,4 +104,6 @@ Make sure to report any bugs/issues or anything remotely odd on our issue tracke
 
 - Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make.
 
+- If you plan to launch the Creation Kit within this mod list, you will need to disable the Skyrim 1.5.97 Executables" mod to do so!
+
 ## [NEXT >> Mod List Tweaks - Power Attacking and Blocking](../../mod-list-tweaks/powerattackblock)
