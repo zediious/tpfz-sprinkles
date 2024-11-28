@@ -206,6 +206,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Yggdrasil Conflict Resolution Patch (extracted from ZedPatch) TO UPLOAD AND DOWNLOAD
 - Pyramid Utils
 - PAPER
+- DyBills Papyrus Functions
 - SkyPatcher
 - Mu Skeleton Editor
 - KiLoader for Skyrim
@@ -251,9 +252,9 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - DynDOLOD 3 Alpha - Alpha-167 > Alpha-180
 - More Informative Console - 1.2 > 1.2.2
 - ConsolePlusPlus - 1.3 > 1.4
-- Skyrim Particle Patch for ENB - 1.2.9 > 1.3.3
+- Skyrim Particle Patch for ENB - 1.2.9 > 1.3.4
 - powerofthree's Tweaks - 1.9.2 > 1.12.2
-- Assorted Mesh Fixes - 0.98.1 > 0.120
+- Assorted Mesh Fixes - 0.98.1 > 0.121
 - Mannequin Management - 3.1 > 4.2
 - Naked Dead NPC Fix - 1.0.7 > 1.0.8
 - Sprint Sneak Movement Speed Fix - 1.1.1 > 1.1.2
@@ -266,12 +267,16 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Simple Activate SKSE - 1.4.1 > 1.4.2
 - Menu Zoom - 1.0.1 > 1.0.2
 - Skyrim Souls RE - 1.5.97 DLL - 2.4-SE-2 > 2.4-SE-3
-- Descriptions for Various Mods - 2.4.1 > 2.4.2
+- Descriptions for Various Mods - 2.4.1 > 2.5
 - Better Third Person Selection - 0.6 > 0.7.1
+- Camera Noise - 1.2.1 > 1.2.4
 - Immersive Plaque Reading Interface - 0.7 > 0.7.2
 - DynDOLOD Resources - Alpha-49 > Alpha-52
 - DynDOLOD DLL NG - Alpha-29 > Alpha-32
 - Cathedral Weathers and Seasons - Unofficial Update - 2.50 > 2.57
+- Splashes of Storms - 1.3 > 1.3.1
+- Shooting Stars - 1.1 > 1.2
+- Dirt and Blood - Dynamic Visual Effects - 2.34 > 2.35
 - Deadly Spell Impacts - 1.7.0 > 1.9.0
 - ENB Lights For Effect Shaders - 2.0 > 2.2.0
 - Arctic - Frost Effects Redux - 2.1 > 3.1
@@ -288,6 +293,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Bloodskal Blade - Tweaks and Enhancements - 1.2 > 1.4.0
 - Fluffworks Animals - 1.1 > 1.1f
 - SkySight Male Skin - 1.0 > 1.1
+- Beards of Power - 0.3cbeard - 0.4.1
 - DVA - Dynamic Vampire Appearance - 1.1 > 1.2
 - Experience - 3.2 > 3.5.0
 - Experience - MCM - 1.2 > 1.4
@@ -299,6 +305,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Dynamic Things Alternative - 0.2.2 > 0.3
 - Honed Metal - 1.26 > 1.26.1
 - COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.5
+- Simplicity of Seeding - 0.4 > 0.5
 - Animated Carriage - 1.0 > 1.1
 - AI Overhaul - 1.8.5 > 1.8.6
 - Face Sculptor Expanded - 1.0 > 1.02
@@ -306,14 +313,14 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Dialogue Expansion - Brelyna Maryon - 1.5 > 2.2.1
 - Civil War Lines Expansion - 1.09 > 1.1
 - Extended Bandit Dialogue - 1.0 > 1.0.1
-- Misc Dialogue Edits - 1.9.4 > 1.9.5.2
+- Misc Dialogue Edits - 1.9.4 > 1.9.5.3
 - More Dialogue Options - 1.5 > 1.5.1
 - NPCs React To Invisibility - 1.03 > 1.11
 - The Innocence Lost - Quest Expansion - 1.01 > 1.11
 - Caught Red Handed - Quest Expansion - 1.04 > 1.06
 - The Heart of Dibella - Quest Expansion - 1.03 > 1.04
 - House of Horrors - Quest Expansion - 1.12 > 1.13
-- The Only Cure - Quest Expansion - 1.02 > 1.04
+- The Only Cure - Quest Expansion - 1.02 > 1.05
 - Infiltration - Quest Expansion - 1.01 > 1.02
 - Headhunter - Bounties Redone - 1.52 > 1.56
 - Harvest Your Blood for Septimus - 1.1.2.1 > 1.1.3
@@ -348,13 +355,14 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Bloodmoon - 2.0.5 > 2.0.6
 - Abyss - 3.1.5 > 3.1.6
 - Arcane - 1.1.6 > 1.1.7
-- Alternate Perspective - 3.06 > 4.0.1
+- Alternate Perspective - 3.06 > 4.0.3
+- Alternate Perspective Addon - New Beginnings - 1.3.3 > 1.3.6
 - Alternate Perspective - Voiced Addon - 1.10 > 1.11
 - Skyrim's Got Talent - Improve As a Bard - 1.70 > 1.76
 - Interesting NPCs - Quest Requirement Tweaks - 1.2 > 1.2.1
-- Land of Vominheim - 2.4 > 2.5
+- Land of Vominheim - 2.4 > 2.7
 - Frozen in Time - 0.27 > 0.28
-- Siege at Icemoth - 1.2.1 > 1.2.3
+- Siege at Icemoth - 1.2.1 > 1.3
 - Missives - Worldspace Additions - Solstheim - 2.03 > 2.09
 - Mihail Monsters and Animals - Dwarven Magetta - 1.0 > 2.2
 - Mihail Monsters and Animals - Dwarven Driller - 1.0 - 1.1
@@ -378,7 +386,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Haugbui - A Draugr Overhaul - Cannibal Draugr Patch (Renamed from Briraka) - 3.0-CD > 4.1
 - Swiftly Order Squad - Follower Commands UI - 1.7.1 > 1.11.3
 - Persistent Favorites - 0.3 > 0.3.1
-- PhotoMode - 1.4 > 1.6.0
+- PhotoMode - 1.4 > 1.7.1
 - Nordic Winds - 1.1 > 1.2
 - Open Animation Replacer - 2.3 > 2.3.6
 - True Directional Movement - Modernized Gameplay - 2.2.5 > 2.2.6
@@ -391,6 +399,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Player Character Gestures - 1.0 > 2.1.0
 - Immersive Fishing - 1.1 > 1.3
 - Immersive Interactions - Animated Actions - 1.76 > 1.78
+- Dynamic Crafting Animations - 1.1 > 1.2.1
 - Dynamic Horse Petting Animations for Immersive Interactions - 1.1 > 1.11
 - Lively Cart Driver Animation - 1.0 > 2.0.1
 - Flute Animation Fix - 1.1 > 1.3
