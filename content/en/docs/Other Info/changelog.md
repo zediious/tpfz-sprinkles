@@ -249,7 +249,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 ### Updated
 
 - ENBSeries Core - 0.488 > 0.502
-- DynDOLOD 3 Alpha - Alpha-167 > Alpha-180
+- DynDOLOD 3 Alpha - Alpha-167 > Alpha-182
 - More Informative Console - 1.2 > 1.2.2
 - ConsolePlusPlus - 1.3 > 1.4
 - Skyrim Particle Patch for ENB - 1.2.9 > 1.3.4
@@ -271,8 +271,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Better Third Person Selection - 0.6 > 0.7.1
 - Camera Noise - 1.2.1 > 1.2.4
 - Immersive Plaque Reading Interface - 0.7 > 0.7.2
-- DynDOLOD Resources - Alpha-49 > Alpha-52
-- DynDOLOD DLL NG - Alpha-29 > Alpha-32
+- DynDOLOD Resources - Alpha-49 > Alpha-53.1
+- DynDOLOD DLL NG - Alpha-29 > Alpha-33
 - Cathedral Weathers and Seasons - Unofficial Update - 2.50 > 2.57
 - Splashes of Storms - 1.3 > 1.3.1
 - Shooting Stars - 1.1 > 1.2
