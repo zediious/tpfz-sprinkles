@@ -17,6 +17,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 *Pre-release build 1 for the official 1.0 release. These pre-releases will be made until the 1.0 version is found to be stable over a period of time.*
 
+This release is being made slightly earlier than expected due to Creation Kit updates. There is more planned for the "final" 1.0 release.
+
 This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them. It is highly likely older saves will not load at all.
 
 A large change with this version is the **change from Attack/MCO to BFCO**, which are combat animation frameworks used to add motion data to our attack animations. BFCO offers jumping attacks, swimming attacks, and much improved chain-ability of attacks over MCO. All of our currently used animations were converted for BFCO, and are working. You are now able to use a "Combo Power Attack" with the Middle-Mouse click, which can be chained with normal and power attacks. These animations will improve over time as the combo power attack, jumping attack, and other chained animations are given unique animations with either separate animations, or animation packs designed around BFCO with all features used. As it stands, this is a massive improvement over MCO.
