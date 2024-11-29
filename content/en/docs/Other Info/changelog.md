@@ -92,10 +92,10 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Say No To Calcelmo
 - Dragonborn Reskin - SkyUI Active Effects Icons
 - Wheeler CTD-Fix
-- Kome's Inventory Tweaks - Zediious Patches TO UPLOAD AND DOWNLOAD
+- Kome's Inventory Tweaks - Zediious Patches
 - Local Map Upgrade
-- KIT SkyUI Config - Dark Mode TO UPLOAD AND DOWNLOAD
-- KIT SkyUI Config - Paper Mode TO UPLOAD AND DOWNLOAD
+- KIT SkyUI Config - Dark Mode
+- KIT SkyUI Config - Paper Mode
 - Mark Books as Unread
 - Encounter Zone Informer
 - The Dragonborn's Bestiary + Addons
@@ -118,7 +118,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
   - Darenni Creatures
   - Natura
   - Bogmort
-  - Zediious Addons TO UPLOAD AND DOWNLOAD
+  - Zediious Addons
 - Blended Roads Less Bumpiness
 - Diverse Downed Logs
 - High Quality Ivy (Only Ivy Textures for above mod)
@@ -145,7 +145,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Apocryphal Library
 - Gourmet - A Cooking Overhaul + Patches
 - Leadership
-- Leadership Redux and Adamant Patch TO UPLOAD AND DOWNLOAD
+- Leadership Redux and Adamant Patch
 - Crowded Streets
 - Follower Dialogue Expansion - Aela the Huntress
 - Follower Dialogue Expansion - Ysolda
@@ -168,8 +168,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Unmarked Locations Pack - Soul Cairn
 - Environs - Riften Warehouse - Patch Collection
 - Soul Resurrection - Injury and Alternative Death System
-- Tactical Valtheim - Shield Crash Fix TO UPLOAD AND DOWNLOAD
-- Book of Shadows - Disable Takedowns TO UPLOAD AND DOWNLOAD
+- Tactical Valtheim - Shield Crash Fix
+- Book of Shadows - Disable Takedowns
 - Beginner Bard Animations - For Skyrim's Got Talent
 - Grab And Throw
 - Immersive Horses
@@ -182,7 +182,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Arcanum - A New Age of Magic (Fixed)
 - Optimised Scripts for Arcanum
 - Arcanum - Spellsiphon Patch
-- Darenni CID Addons TO UPLOAD AND DOWNLOAD
+- Darenni CID Addons
 - Interesting NPCs - Melea Entius Tweaks
 - Snazzy Items for Interesting NPCs
 - Unslaad Weapons and Armors Retexture SE
@@ -193,17 +193,16 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - The Thrassian Scare
 - Ascend - Hidden Peaks of Skyrim
 - Korvinthian
-- Armors of The Velothi Pt. II - Traveling Merchant Actually Travels TO UPLOAD AND DOWNLOAD
+- Armors of The Velothi Pt. II - Traveling Merchant Actually Travels
 - Animated Armoury - Precision Patch Complete
 - Rihad Swordsman Set + HIMBO/CBBE Refits
 - Crude Glass Weapon
-- NPC Spell Variance - Spell Variety AI
 - Haugbui - A Draugr Overhaul - SimonRim Patch
 - Potema Revoiced
 - Ghostly Helgi Voice
 - Distant Rolling Thunder
 - LORKHAN - Soundtrack Replacer
-- Yggdrasil Conflict Resolution Patch (extracted from ZedPatch) TO UPLOAD AND DOWNLOAD
+- Yggdrasil Conflict Resolution Patch (extracted from ZedPatch)
 - Pyramid Utils
 - PAPER
 - DyBills Papyrus Functions
@@ -234,17 +233,17 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Better Horse Dismounting
 - Casual Dog Animations
 - Animated Eating Redux
-- Animated Eating Redux - Zediious Addons TO UPLOAD AND DOWNLOAD
+- Animated Eating Redux - Zediious Addons
 - Realistic HD Misc Remastered (Dining Set Only)
 - I Just Want to Sit Down and Read
 - First Person Interactions
 - Vanilla Eating Animation Fixes
 - Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/tpfz-sprinkles/issues/123))
 - High Poly Head - Vanilla Hair Remake Patch
-- Automated Enchanted Variants TO UPLOAD AND DOWNLOAD
-- Automated Enchanted Variant Leveled List Additions TO UPLOAD AND DOWNLOAD
-- ZedPatch - BFCO TO UPLOAD AND DOWNLOAD
-- Weapon and Armor Balance (extracted from ZedPatches) TO UPLOAD AND DOWNLOAD
+- Automated Enchanted Variants
+- Automated Enchanted Variant Leveled List Additions
+- ZedPatch - BFCO
+- Weapon and Armor Balance (extracted from ZedPatches)
 
 ### Updated
 
@@ -377,7 +376,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Harbinger Armor - Mihail Armors and Clothes 1.0 > 1.1
 - Elite Wolf Armor by NordwarUA - 1.0 > 1.5
 - Gryphonknight Regalia - Breton Noble Armor - 1.2.5 > 1.3
-- More Weapon Keywords - 0.4001 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- More Weapon Keywords - 0.4001 > 1.0-pre1
 - Simply Balanced - 1.4.6 > 1.4.7
 - Dragons Fall Down - Immersive Airborne Death - 1.0.1 > 1.0.3
 - Better Stealth AI for Followers - 3.4 > 3.5
@@ -411,23 +410,23 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Sonders Keyword Distribution Resources - 1.4 > 1.7
 - NPCs Names Distributor - 2.5.1 > 2.5.3
 - iWant Widgets - 1.31 > 1.33
-- Leveled List Additions (Armors) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- Leveled List Additions (Weapons) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- MonsterPatch - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- ZedPatch - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- ZedPatch2 - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- ZedPatch3 - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- City Navmesh Patches (Additional plugins added) - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- Synthesis Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- Terrain LOD Output - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
-- TexGen Output - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
-- DynDOLOD Output - Ultra - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
-- DynDOLOD Output - High - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
-- DynDOLOD Output - Low - 0.9.6 > 1.0-pre1 TO RERUN AND UPLOAD AND DOWNLOAD
-- Occlusion Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- Nemesis Output - 0.9.6 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- BodySlide Output - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
-- Overwrite Misc - 0.9.6.3 > 1.0-pre1 TO UPLOAD AND DOWNLOAD
+- Leveled List Additions (Armors) - 0.9.6.3 > 1.0-pre1
+- Leveled List Additions (Weapons) - 0.9.6.3 > 1.0-pre1
+- MonsterPatch - 0.9.6.3 > 1.0-pre1
+- ZedPatch - 0.9.6.3 > 1.0-pre1
+- ZedPatch2 - 0.9.6.3 > 1.0-pre1
+- ZedPatch3 - 0.9.6.3 > 1.0-pre1
+- City Navmesh Patches (Additional plugins added) - 0.9.6.3 > 1.0-pre1
+- Synthesis Output - 0.9.6.3 > 1.0-pre1
+- Terrain LOD Output - 0.9.6 > 1.0-pre1
+- TexGen Output - 0.9.6 > 1.0-pre1
+- DynDOLOD Output - Ultra - 0.9.6 > 1.0-pre1
+- DynDOLOD Output - High - 0.9.6 > 1.0-pre1
+- DynDOLOD Output - Low - 0.9.6 > 1.0-pre1
+- Occlusion Output - 0.9.6.3 > 1.0-pre1
+- Nemesis Output - 0.9.6 > 1.0-pre1
+- BodySlide Output - 0.9.6.3 > 1.0-pre1
+- Overwrite Misc - 0.9.6.3 > 1.0-pre1
 
 ### Fixes
 
