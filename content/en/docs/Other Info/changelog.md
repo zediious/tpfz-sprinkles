@@ -308,6 +308,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - COIN - Coins of Interesting Natures - 2.1.3.2 > 3.1.5
 - Simplicity of Seeding - 0.4 > 0.5
 - Animated Carriage - 1.0 > 1.1
+- Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 0.9.6.3 > 1.0-pre1
 - AI Overhaul - 1.8.5 > 1.8.6
 - Face Sculptor Expanded - 1.0 > 1.02
 - Tamrielic Names - 1.1 > 1.2.1
