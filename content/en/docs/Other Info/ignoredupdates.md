@@ -10,6 +10,7 @@ If you are wanting to un-ignore these mods, [take a look at this script for doin
 ## List of mods whose updates are ignored
 
 ```
+List of mods that will no longer ignore updates;
 .NET Script Framework
 A Good Death - Old Orc Overhaul
 A Quality World Map
@@ -47,9 +48,9 @@ Capital Windhelm Expansion
 Cathedral - 3D Pine Grass
 Cathedral Weathers and Seasons
 Chainmail Armor - HIMBO Refit
-CK64 Fixes Update
 Collision Reset Hotkey
 Colovian Prince Set
+Combat Animation Overhaul - Dwarven Sphere
 Combat Pathing Revolution
 Common Clothes and Armors
 Community Overlay 3
@@ -73,6 +74,7 @@ Dear Diary - Dark Mode Compass Navigation Overhaul
 Dear Diary Paper - Experience Patch
 Deer Skull and Antlers Retexture 2K
 Disable USSEP Book
+Diverse Downed Logs
 Diverse Tanning Racks
 Dlizzio's Mesh Fixes - Noble Skyrim Material Fix
 DNFA Wolves Combat Behavior
@@ -92,6 +94,7 @@ Ennead Banners - RUGNAROK Patch
 EVG Conditional Idles Extended
 EVG Conditional Idles Extended - Valhalla Fix
 Face Discoloration Fix
+FaceFXWrapper
 Falconer Armor - Female Weight Slider
 Falconer Armor - Fixes
 Falconer Armor - Male Weight Slider
@@ -101,6 +104,7 @@ FileAccess Interface for Skyrim
 Fix Note Icon for SkyUI (SKSE64)
 Fluffworks Animals
 Fluted Armor - Xtudo Fixes
+Follower Dialogue Expansion - Uthgerd the Unbroken
 Follower Trap Safety
 Footprints
 Footprints - SPID
@@ -110,12 +114,14 @@ Fuz Ro D-oh
 Gauldurbrand - Gauldur Weapons Replacer
 Gorm Armor - Xtudo Fixes
 Gray Warden HDT-SMP Armor - HIMBO Refit
+Hall of the Followers
 Heart of the Beast - Werewolf Overhaul
 Hearthfire Extended
 Hearthfire Multiple Adoptions
 Heavy Nordic Armor - HIMBO Refit
 High Poly Head - Vanilla Hair Remake Patch
 High Poly Smelter - Embers HD Patch
+High Quality Ivy Textures
 Highland Cow HD by Pfuscher
 Horse Mane Fix
 Horse Stamina HUD
@@ -136,7 +142,6 @@ Iron Legion - HIMBO Refit
 JContainers
 JK's Haelga's Bunkhouse
 JK's The Bannered Mare
-JK's The Pawned Prawn - Riften Docks Overhaul Patch
 JK's Understone Keep
 Jump Behavior Overhaul
 Kalilies NPCs - Keep Your Skin
@@ -144,6 +149,7 @@ Katana Crafting
 Kellan HDT-SMP Armor - HIMBO Refit
 Knight Armor by NordwarUA
 Kvetchi Mercenary Set
+Land of Vominheim - Unique Rewards by Xtudo
 LC Land Lord Armor
 Leadership
 Lightweight Smithing Tweaks for SSO
@@ -200,6 +206,7 @@ Pandorable's NPCs - Males - AI Overhaul Patch
 Papyrus Profiler
 PapyrusUtil - Modders Scripting Utility Functions
 Particle Lights For ENB - Bugs In A Jar
+Paulicus Poison Block Updated
 Payload Interpreter
 Pilgrim and Daedric Shrines Consistency and Tweaks
 Point The Way
@@ -224,6 +231,7 @@ River Watch Set - Xtudo Fixes
 Rogue Nord Armor - HIMBO Refit
 Royal Elven Armor Set
 RTR Ebony Nodachi and Rapier
+RUGNAROK 2K
 Ruins Clutter Improved
 Run For Your Lives
 Ryn's Anise's Cabin
@@ -263,6 +271,7 @@ Statue of Mara - Xtudo Patches
 Steel Light Elven Armor - HIMBO Refit
 Storm Lightning
 Stormcrown - A Shout Overhaul
+Stuff of Shadows - Nightingale and Twilight Sepulcher Improvements and Bug Fixes
 Superior Lore-Friendly Hair - HD Textures
 Survival Control Panel
 Talkative Dragons - Less Talkative
