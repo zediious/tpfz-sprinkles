@@ -248,6 +248,8 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 ### Updated
 
 - ENBSeries Core - 0.488 > 0.502
+- ZedPatch - Survival Mods - 0.9.4.1 > 1.0-pre1
+- Sunhelm MCM Recorder - 0.9.5 > 1.0-pre1
 - DynDOLOD 3 Alpha - Alpha-167 > Alpha-182
 - More Informative Console - 1.2 > 1.2.2
 - ConsolePlusPlus - 1.3 > 1.4
