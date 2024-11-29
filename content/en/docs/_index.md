@@ -15,7 +15,7 @@ Current version: v1.0-pre1 - INSERT_DATE_HERE
 
 Welcome to the Wiki for The Phoenix Flavor - Zediious Sprinkles! This mod list started life in 2021 as an installation of [The Phoenix Flavor](https://loadorderlibrary.com/lists/the-phoenix-flavour). The mods that The Phoenix Flavor comes with brought the game up to a perfect Vanilla+ setup. I realized that I wanted to make some changes, in the name of breaking that "Vanilla+" moniker, using TPF as a base for my adventure. I love Skyrim, but after you've played 3000+ hours, you begin to yearn for something *more*.
 
-As time has passed, and more revolutionary combat/animation mods have been released, this mod list now encompasses what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly.
+As time has passed, and more revolutionary combat/animation mods have been released, this mod list now encompasses what I consider to be the perfect, modern Skyrim. Nearly everything in the game has been touched, in an effort to bring the game to a modern standard, and to make it a game I could play endlessly. Many tweaks and additions have been made to many mods, as well as standalone changes. You will find various unique changes in this modlist geared towards improving the vanilla game and the mods in the list.
 
 I have enjoyed playing and creating this mod list immensely, I hope it brings you the same joy it has brought to me :)
 
