@@ -35,6 +35,8 @@ If you are *sure* you have performed Step 1, then those file should not be in th
 The only files/directories that should be in the Overwrite mod after launching the game and playing are as follows;
 
 - NetScriptFramework (if you experience a crash, logs go here)
+- KiLoader
+  - Various directories
 - Root
   - enbcache/cache files
   - betacomments.txt
@@ -43,8 +45,11 @@ The only files/directories that should be in the Overwrite mod after launching t
 - ShaderCache/
 - SKSE
   - Plugins
+    - IED directory
     - LamasTinyHUD Loadout .ini files
-  - Various plugin log files
+    - Various plugin log files
+- textures
+  - PhotoMode directory
 
 ## Launching the Game
 
