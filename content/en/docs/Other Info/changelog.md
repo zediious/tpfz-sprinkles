@@ -13,9 +13,7 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
-## v1.0-pre1 - **INSERT_DATE_HERE**
-
-This release is being made slightly earlier than expected due to Creation Kit updates. There is more planned for the "final" 1.0 release which will come in future updates.
+## v1.0 - **11/29/2024**
 
 This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them. It is highly likely older saves will not load at all.
 
