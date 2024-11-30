@@ -459,7 +459,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 
 - All patch plugins updated to record header version 1.71
 - Converted all currently used MCO combat animations to be used with BFCO.
-- **** BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk. UNSURE IF DOING!!!
+- BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk.
 - Distribute enchanted variants for most mod-added equipment in SubListEnch lists, so that they will appear as dungeon loot, rewards for quests, etc.
 - Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
 - Gave wandering giants an aggro range, they will attack if you get too close like giants at camps, with a much smaller aggro range. ([Fix #124](https://github.com/zediious/tpfz-sprinkles/issues/124))
