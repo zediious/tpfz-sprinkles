@@ -15,9 +15,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ## v1.0-pre1 - **INSERT_DATE_HERE**
 
-*Pre-release build 1 for the official 1.0 release. These pre-releases will be made until the 1.0 version is found to be stable over a period of time.*
-
-This release is being made slightly earlier than expected due to Creation Kit updates. There is more planned for the "final" 1.0 release.
+This release is being made slightly earlier than expected due to Creation Kit updates. There is more planned for the "final" 1.0 release which will come in future updates.
 
 This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them. It is highly likely older saves will not load at all.
 
