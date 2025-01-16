@@ -13,6 +13,54 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.0.1 - **INSERT_DATE_HERE**
+
+### Removed
+
+- Dynamic Cubemaps (deprecated)
+- Tree LOD Lighting (deprecated)
+- Base Coat
+
+### Added
+
+- Screen Space Global Illumination
+- Terrain Shadows
+- Terrain Shadows - Mod Patches
+- Vanilla Remastered - Every Single Texture Upscaled and Reworked
+- Exit Sneak On Sprint
+
+### Updated
+
+- Community Shaders - 0.8.7 > 1.1.6
+- Screen-Space Shadows - 1.2 > 2.0
+- Subsurface Scattering - 1.0.1 > 2.0
+- Wetness Effects - 1.0.2 > 2.0
+- Grass Lighting - 1.4.1 > 2.0
+- Grass Collision - 1.2 > 2.0
+- Light Limit Fix - 1.3 > 2.0.1
+- Skyrim Particle Patch - 1.3.4 > 1.3.5
+- powerofthree's Tweaks - 1.12.2 > 1.13.1
+- Assorted Mesh Fixes - 0.121 > 0.126
+- Local Map Upgrade - 2.1 > 3.1.0
+- Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
+- Beards of Power - 0.4.1 > 0.4.2
+- Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key - 0.1.1 > 0.1.2
+- Apocryphal Library - 1.1 > 1.2
+- Simplicity of Seeding - 0.5 > 0.6.3
+- Follower Dialogue Expansion - Aela the Huntress - 3.0.2 > 4.0
+- Follower Dialogue Expansion - Lydia - 1.3.1 > 1.4
+- Follower Dialogue Expansion - Erik the Slayer - 2.0 > 2.0.1
+- Falmer Servant Lines Expansion - 1.0 > 1.01
+- Scared of Shootings - NPCs react to aiming bows - 0.3 > 0.4
+- PhotoMode - 1.7.1 > 1.8.0
+- The Heart of Dibella - Quest Expansion - 1.04 > 1.05
+- Baba Yaga and the Labyrinth - 0.4.1 > 0.4.2
+- The Thrassian Scare - 2.1.2 > 2.1.2.1
+- Siege at Icemoth - 1.3 > 1.3.2
+- Dynamic Crafting Animations - 1.2.1 > 1.2.2
+- Dylbills Papyrus Functions - 7.4 > 7.7
+- ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+
 ## v1.0 - **11/29/2024**
 
 This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them. It is highly likely older saves will not load at all.
