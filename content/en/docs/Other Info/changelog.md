@@ -26,12 +26,14 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Screen Space Global Illumination
 - Terrain Shadows
 - Terrain Shadows - Mod Patches
+- Cloud Shadows
+- Skylighting
 - Vanilla Remastered - Every Single Texture Upscaled and Reworked
 - Exit Sneak On Sprint
 
 ### Updated
 
-- Community Shaders - 0.8.7 > 1.1.6
+- Community Shaders - 0.8.7 > 1.1.9
 - Screen-Space Shadows - 1.2 > 2.0
 - Subsurface Scattering - 1.0.1 > 2.0
 - Wetness Effects - 1.0.2 > 2.0
@@ -59,6 +61,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Siege at Icemoth - 1.3 > 1.3.2
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
 - Dylbills Papyrus Functions - 7.4 > 7.7
+- ZedPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 
 ## v1.0 - **11/29/2024**
