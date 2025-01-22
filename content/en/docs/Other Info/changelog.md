@@ -28,8 +28,20 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Terrain Shadows - Mod Patches
 - Cloud Shadows
 - Skylighting
+- The Dragonborn's Bestiary - DDDM Patch
+- The Dragonborn's Bestiary - Default Interface
 - Vanilla Remastered - Every Single Texture Upscaled and Reworked
+- Cathedral Weathers Conflict Resolution - TO UPLOAD AND DOWNLOAD
+- Follower Dialogue Expansion - Borgakh the Steel Heart
+- Follower Dialogue Expansion - Roggi Knot-Beard
+- Shouts of Stallholders
+- Better Grabbing
+- Alteration - Open Lock Spell
+- DAc0da
+- DAc0da - English Translation
+- DAc0da - Delayed Start
 - Exit Sneak On Sprint
+- New Creature Animation - Dwarven Centurion
 
 ### Updated
 
@@ -63,6 +75,10 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Dylbills Papyrus Functions - 7.4 > 7.7
 - ZedPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+
+### Tweaks
+
+- Replaced all instances of Mysticism's tiered unlock spells with "Alteration - Open Lock Spell's" version in leveled lists, etc.
 
 ## v1.0 - **11/29/2024**
 
