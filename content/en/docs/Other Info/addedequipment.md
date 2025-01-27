@@ -645,6 +645,7 @@ Khajiiti Apex Armory
 - Nordwar Nord Leather Set
 - Treasure Hunter Set
 - Adventurer Set
+- New Leather Armor
 
 ### Elven Tier
 

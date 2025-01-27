@@ -41,6 +41,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - DAc0da - English Translation
 - DAc0da - Delayed Start
 - Chevalier's Armor
+- New Leather Armor
 - Exit Sneak On Sprint
 - New Creature Animation - Dwarven Centurion
 
