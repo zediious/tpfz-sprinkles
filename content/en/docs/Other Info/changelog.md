@@ -40,6 +40,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - DAc0da
 - DAc0da - English Translation
 - DAc0da - Delayed Start
+- Chevalier's Armor
 - Exit Sneak On Sprint
 - New Creature Animation - Dwarven Centurion
 

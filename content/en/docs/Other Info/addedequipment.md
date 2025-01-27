@@ -676,6 +676,7 @@ Khajiiti Apex Armory
 - Illusive Infiltrator Set
 - Elmlock Set
 - Gorm Set
+- Chevalier Half-Plate Set
 
 ### Glass Tier
 
@@ -730,6 +731,7 @@ Khajiiti Apex Armory
 - Landlord Set
 - Fluted Set
 - Crown Plate Set
+- Chevalier Plate Set
 
 ### Orcish Tier
 
