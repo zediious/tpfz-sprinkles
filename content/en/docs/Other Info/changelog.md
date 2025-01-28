@@ -116,8 +116,15 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - ZedPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch2 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Weapon and Armor Balance - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- City Navmesh Patches - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Synthesis Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ALL DYNDOLOD PRESETS!!!
+- Overwrite Misc - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+
+### Fixes
+
+- Corrected workbench keyword on Pig Iron temper COBJs
 
 ### Tweaks
 
