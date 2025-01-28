@@ -17,6 +17,7 @@ Follow the below steps to disable the default Dark Mode UI and enable the Paper 
     - Dear Diary Dark Mode C.O.C.K.S. Mode
     - Custom Skills Framework Unified Menu - Dear Diary Dark
     - The Dragonborn's Bestiary - DDDM Patch
+    - QuickLoot IE - Dear Diary Dark Mode Reskin
     - KIT SkyUI Config - Dark Mode
 
 2. **Enable** the following mods in the **INTERFACE AND CAMERA** separator of the left pane of Mod Organizer;
