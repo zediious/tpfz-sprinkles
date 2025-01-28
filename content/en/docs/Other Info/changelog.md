@@ -21,7 +21,13 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 - Dynamic Cubemaps (deprecated)
 - Tree LOD Lighting (deprecated)
-- Base Coat
+- Base Coat (replaced with Vanilla Remastered)
+- QuickLoot EE (Replaced with QuickLoot IE)
+- Unmarked Locations Pack - Blackreach (Replaced with AIO)
+- Unmarked Locations Pack - Soul Cairn (Replaced with AIO)
+- Namira for Good Guys (Replaced with The Taste of Death - Quest Addon)
+- Following Mercer
+- Grief (Replaced by More to do in the Soul Cairn)
 
 ### Added
 
@@ -30,22 +36,49 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Terrain Shadows - Mod Patches
 - Cloud Shadows
 - Skylighting
+- QuickLoot IE - A QuickLoot EE Fork
+- QuickLoot IE - Dear Diary Dark Mode Reskin
 - The Dragonborn's Bestiary - DDDM Patch
 - The Dragonborn's Bestiary - Default Interface
+- Skyrim Character Sheet
+- Predictable Persuasion
 - Vanilla Remastered - Every Single Texture Upscaled and Reworked
 - Cathedral Weathers Conflict Resolution - TO UPLOAD AND DOWNLOAD
+- NAT.ENB III - Natural and Atmospheric Tamriel
+- NAT.CS III
+- FYX - Jarl Longhouse - Consistent Interior
+- Halffaces - Necromantic Altar
+- Skyfall's Blue Palace Courtyard
+- JK's Nightingale Hall
+- Evolving Locations - Cliffside Retreat
+- Evolving Locations - Lucky's Shack
+- CFTO - Useless Dock Removal
+- Anima Nera - SerketHetyt's Serana Overhaul
+- Considerate Followers - Followers are Silent During Dialogue
+- Considerate Followers for 1.5.97
 - Follower Dialogue Expansion - Borgakh the Steel Heart
 - Follower Dialogue Expansion - Roggi Knot-Beard
 - Shouts of Stallholders
+- HAG - Occult Orphan Rock
+- Wicked Wayward Pass - FuzzBeeds Minor Locations
+- Better Esbern Voice Consistency Fix
+- The Taste of Death - Quest Addon
 - Better Grabbing
 - Alteration - Open Lock Spell
 - DAc0da
 - DAc0da - English Translation
 - DAc0da - Delayed Start
+- Demon of Dream + Simonrim Patches
+- Unmarked Locations Pack - All In One + Patch Hub
+- More to do in the Soul Cairn
+- Redeeming Fultheim - A Blades Quest Addon
+- Rest In Peace Katria
 - Chevalier's Armor
 - New Leather Armor
+- Nirn Necessities - SMP Accessories
 - Exit Sneak On Sprint
 - New Creature Animation - Dwarven Centurion
+- Fishermen Fish
 
 ### Updated
 
@@ -77,11 +110,18 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Siege at Icemoth - 1.3 > 1.3.2
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
 - Dylbills Papyrus Functions - 7.4 > 7.7
+- Automated Enchanted Variants - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Leveled List Additions (Weapons) - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Automated Enchanted Variant Leveled List Additions - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- ZedPatch2 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Synthesis Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- ALL DYNDOLOD PRESETS!!!
 
 ### Tweaks
 
+- Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
 
 </details>
 
