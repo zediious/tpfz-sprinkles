@@ -15,6 +15,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ## v1.0.1 - **INSERT_DATE_HERE**
 
+<details>
+
 ### Removed
 
 - Dynamic Cubemaps (deprecated)
@@ -80,7 +82,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Tweaks
 
-- Replaced all instances of Mysticism's tiered unlock spells with "Alteration - Open Lock Spell's" version in leveled lists, etc.
+
+</details>
 
 ## v1.0 - **11/29/2024**
 
