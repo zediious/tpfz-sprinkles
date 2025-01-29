@@ -47,6 +47,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - NAT.ENB III - Natural and Atmospheric Tamriel
 - NAT.CS III
 - slightly Better Dust aka Dust not Clouds
+- slightly Better Oil
 - FYX - Jarl Longhouse - Consistent Interior
 - Better Atronach Forge Offering Box
 - Halffaces - Necromantic Altar
