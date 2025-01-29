@@ -46,7 +46,9 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Cathedral Weathers Conflict Resolution - TO UPLOAD AND DOWNLOAD
 - NAT.ENB III - Natural and Atmospheric Tamriel
 - NAT.CS III
+- slightly Better Dust aka Dust not Clouds
 - FYX - Jarl Longhouse - Consistent Interior
+- Better Atronach Forge Offering Box
 - Halffaces - Necromantic Altar
 - Skyfall's Blue Palace Courtyard
 - JK's Nightingale Hall
@@ -54,6 +56,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Evolving Locations - Lucky's Shack
 - CFTO - Useless Dock Removal
 - Anima Nera - SerketHetyt's Serana Overhaul
+- Ships On The Horizon
 - Considerate Followers - Followers are Silent During Dialogue
 - Considerate Followers for 1.5.97
 - Follower Dialogue Expansion - Borgakh the Steel Heart
@@ -77,8 +80,12 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - New Leather Armor
 - Nirn Necessities - SMP Accessories
 - Exit Sneak On Sprint
+- Jump Slide Fix
+- SkyParkour - A SkyClimb Addon
 - New Creature Animation - Dwarven Centurion
 - Fishermen Fish
+- Pan's Nameless Hunters
+- Pan's Nameless Witches
 
 ### Updated
 
