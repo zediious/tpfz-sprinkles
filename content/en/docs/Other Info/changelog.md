@@ -49,6 +49,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - slightly Better Dust aka Dust not Clouds
 - slightly Better Oil
 - FYX - Jarl Longhouse - Consistent Interior
+- HFs - Archery Target Remodel
 - Better Atronach Forge Offering Box
 - Halffaces - Necromantic Altar
 - Skyfall's Blue Palace Courtyard
@@ -66,6 +67,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - HAG - Occult Orphan Rock
 - Wicked Wayward Pass - FuzzBeeds Minor Locations
 - Better Esbern Voice Consistency Fix
+- Localized Thieves Guild Jobs
+- Thieve's Guild Requiresments - Localized Guild Jobs Patch - TO UPLOAD AND DOWNLOAD
 - The Taste of Death - Quest Addon
 - Better Grabbing
 - Alteration - Open Lock Spell
@@ -133,6 +136,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 ### Fixes
 
 - Corrected workbench keyword on Pig Iron temper COBJs
+- Correctly aligned water trough at Markarth blacksmith
 
 ### Tweaks
 
