@@ -119,6 +119,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Baba Yaga and the Labyrinth - 0.4.1 > 0.4.2
 - The Thrassian Scare - 2.1.2 > 2.1.2.1
 - Siege at Icemoth - 1.3 > 1.3.2
+- Faster HDT-SMP - 2.0.2beta-1 > 2.5.1
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
 - Dylbills Papyrus Functions - 7.4 > 7.7
 - Automated Enchanted Variants - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
