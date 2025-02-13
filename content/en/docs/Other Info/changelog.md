@@ -75,6 +75,9 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - DAc0da
 - DAc0da - English Translation
 - DAc0da - Delayed Start
+- The Gray Cowl of Nocturnal - 10th Anniversary
+- Missives Worldspace Additions - Gray Cowl
+- Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
 - Unmarked Locations Pack - All In One + Patch Hub
 - More to do in the Soul Cairn
@@ -132,6 +135,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - City Navmesh Patches - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Synthesis Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ALL DYNDOLOD PRESETS!!!
+- Occlusion Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Overwrite Misc - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 
 ### Fixes
@@ -142,6 +146,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 ### Tweaks
 
 - Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
+- The Gray of Nocturnal quest start will not trigger until you have completed the Thieves Guild quest, "Darkness Returns".
+- Disabled Survival Mode prompt on entering worldspace in a new game.
 
 </details>
 
