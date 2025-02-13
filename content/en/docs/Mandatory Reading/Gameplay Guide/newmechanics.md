@@ -169,10 +169,10 @@ Throughout the world, you may also find glowing *glowing white orbs*. These are 
 
 By performing either one of the following actions, you can lay down on the ground! This prevents enemies from seeing you, but it does not make your hitbox smaller. We can hope for [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783) compatibility in the future!
 
-- Hold SHIFT while sneaking to slowly go prone.
-- SHIFT + W while sneaking to jump into prone.
-- Hold SHIFT while prone to get up again.
-- SHIFT + A/D to roll left or right respectively.
+- Hold CTRL while sneaking to slowly go prone.
+- CTRL + W while sneaking to jump into prone.
+- Hold CTRL while prone to get up again.
+- CTRL + A/D to roll left or right respectively.
 
 Keep in mind that you can only perform this action with your weapons **sheathed**. You cannot lie down with your weapons, fists, or magic out.
 

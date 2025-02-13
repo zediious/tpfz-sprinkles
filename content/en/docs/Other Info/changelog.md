@@ -148,6 +148,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
 - The Gray of Nocturnal quest start will not trigger until you have completed the Thieves Guild quest, "Darkness Returns".
 - Disabled Survival Mode prompt on entering worldspace in a new game.
+- Modified Prone/Lay down hotkey to Left CTRL from Left SHIFT.
 
 </details>
 

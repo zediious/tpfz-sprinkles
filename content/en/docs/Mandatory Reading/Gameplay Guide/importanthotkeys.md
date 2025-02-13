@@ -142,6 +142,14 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Sprint.
 - This can be changed in the Vanilla controls menu.
 
+### L-CONTROL
+
+- Vanilla Sneak
+- Hold CTRL while sneaking to slowly go prone.
+- CTRL + W while sneaking to jump into prone.
+- Hold CTRL while prone to get up again.
+- CTRL + A/D to roll left or right respectively.
+
 ### SPACE
 
 - Perform a step dodge.
