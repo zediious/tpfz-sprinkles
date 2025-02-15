@@ -15,8 +15,8 @@ Below is a list of the differences between these three profiles
 
 | Profile | Shaders | Rules | Tree LOD | Using Grass LOD
 |     :---:    |     :---:     |     :---:     |     :---:     |     :---:     |
-| **Refined (The default profile)** | ENB | High | 3D | NO
-| **Refined - Ultra** | ENB | High | 3D | YES |
+| **Refined (The default profile)** | Community Shaders | High | 3D | NO
+| **Refined - Ultra** | Community Shaders | High | 3D | YES |
 | **Refined - Performance** | Community Shaders | Medium | 2D | NO |
 
 <br>
@@ -25,8 +25,7 @@ Below is a list of the differences between these three profiles
 
 You can use either profile, and you can switch between them at any time. To do so, click the "Profile" dropdown menu at the top of the left pane in Mod Organizer 2, and select your desired profile. Note that any changes made in one profile will **not** reflect in the others.
 
-Note that if you decide to use the "Refined - Performance" profile/use Community Shaders, the game will take a small amount of time to generate and cache the shaders on the first launch of the game. This will only happen once.
-The "Refined - Performance" profile will perform much better than the default profile, at the cost of visuals.
+Note that you have multiple ENBs you can use as an option if you choose. These exist near the very top of the the left pane of Mod Organizer, alongside Community Shaders and it's addons. Ensure that you **disable** Community Shaders if you decide to do so.
 
 ## Page File Configuration
 
