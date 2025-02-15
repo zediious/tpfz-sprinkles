@@ -2,9 +2,11 @@
 title: Graphical Improvements
 weight: 1
 ---
-The graphics and visual improvements in this list are based on the improvements brought by The Phoenix Flavor. Below are some mods that have been added to further enhance the graphics and visual effects.
+The bulk of the visual changes with this modlist come from Community Shaders. However, many other mods are used to imrpove them.
 
-An edit of Serio's ENB from Phoenix is in use in the "Refined" and "Refined - Ultra" profiles, with Ominous ENB as an option. Community Shaders is in use in the "Refined - Performance" profile. ENB and Community Shaders are well documented for the most part, and do not have sections below.
+ENB exists as an option with this list, which can manually be enabled in place of Community Shaders. Silent Horizons 2 is available as a preset, along ith Ominous ENB and an edit of Serio's ENB from Phoenix. Community Shaders is in use by default all profiles.
+
+Below are most of the non ENB/CS mods that have been added to further enhance the graphics and visual effects.
 
 ## [Enhanced Volumetric Lighting and Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/63725)
 
@@ -17,6 +19,12 @@ This mod has a pretty drastic effect on the entire imagespace of the game in pra
 "This is a reasonably simple SKSE plugin which adjusts how shadows look so that they look more correct in cloudy and overcast lighting situations. Clear weather is unaffected."
 
 Simply put, this mod will soften/diffuse shadows when the weather outside would not cast such a sharp shadow. To understand best, check out the images on the mod page, or get in game and see for yourself!
+
+## [Natural Lighting and Atmospherics 3 / N.A.T 3 for Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139567)
+
+This mod is a port of NAT 3 to Community Shaders. The original ENB-based mod is a requirement, so this can and needs to be disabled if using ENB instead.
+
+Iterations of NAT have been extremely popular over the years, and the third iteration is no different. The weathers and visuals are extremely crisp and natural. The Community Shaders version utilizes the new features CS has implemented, bringing them to life even more. These weathers serve as a fantastic base for outdoor visuals.
 
 ## [Storm Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/29243)
 
