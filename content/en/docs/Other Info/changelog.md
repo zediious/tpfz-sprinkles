@@ -41,6 +41,10 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Cloud Shadows
 - Skylighting
 - NVIDIA DLSS Frame Generation (Disabled by Default)
+- Fishing Strings (extracted from CC BSA)
+- Quest Fixes
+- Dragonborn DLC Fixes
+- Aerin Stays in Riften
 - QuickLoot IE - A QuickLoot EE Fork
 - QuickLoot IE - Dear Diary Dark Mode Reskin
 - The Dragonborn's Bestiary - DDDM Patch
@@ -68,6 +72,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Considerate Followers for 1.5.97
 - Follower Dialogue Expansion - Borgakh the Steel Heart
 - Follower Dialogue Expansion - Roggi Knot-Beard
+- Follower Dialogue Expansion - Aranea Ienith
 - Shouts of Stallholders
 - HAG - Occult Orphan Rock
 - Wicked Wayward Pass - FuzzBeeds Minor Locations
@@ -84,6 +89,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Missives Worldspace Additions - Gray Cowl
 - Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
+- The Breathing Abyss
+- Final Farewell
 - Unmarked Locations Pack - All In One + Patch Hub
 - More to do in the Soul Cairn
 - Redeeming Fultheim - A Blades Quest Addon
@@ -94,6 +101,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Exit Sneak On Sprint
 - Jump Slide Fix
 - SkyParkour - A SkyClimb Addon
+- Weapon Switch Animation Fix
 - New Creature Animation - Dwarven Centurion
 - Fishermen Fish
 - Pan's Nameless Hunters
