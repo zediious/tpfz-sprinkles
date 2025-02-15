@@ -101,6 +101,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Updated
 
+- Mod Organizer - 2.5.0 > 2.5.2
 - Community Shaders - 0.8.7 > 1.1.9
 - Screen-Space Shadows - 1.2 > 2.0
 - Subsurface Scattering - 1.0.1 > 2.0
