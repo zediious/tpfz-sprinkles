@@ -61,17 +61,19 @@ The hard part is nearly over. Carry on, the end is in sight!
 
 2. At this point Mod Organizer will become "Locked", while the Skyrim executable is running. **Under NO circumstances, should you ever click the "Unlock" button while you are playing the game!** This includes immediately when it appears. Mod Organizer needs to be in this state for the mod list to launch and work properly. If you do click Unlock, you will more than likely be faced with Infinite Loading Screens, or other issues.
 
-3. Once Skyrim starts, create a new game. Loading a save from outside this mod list will corrupt that save, **do not do this!** If you are updating from an existing version of the mod list, read the changelog to ensure that the new version is save-safe.
+3. As Skyrim loads to the main menu, Community shaders will begin to compile shaders. This usually takes roughly ten minutes, and only needs to occur once. **Do NOT skip this!**
 
-4. Create your character, and finalize their race/name.
+4. Once shaders have finished compiling and you have loaded to the main menu, create a new game. Loading a save from outside this mod list will corrupt that save, or more than likely not load. If you are updating from an existing version of the mod list, read the changelog to ensure that the new version is save-safe!
 
-5. **As soon as you gain control of your character, do nothing.** The mods are loading and MCM configurations are being applied. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
+5. Create your character, and finalize their race/name.
 
-6. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+6. **As soon as you gain control of your character, do nothing.** The mods are loading and MCM configurations are being applied. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
 
-7. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
+7. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-8. At this point, you should make a save, and reload that save before continuing.
+8. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
+
+9. At this point, you should make a save, and reload that save before continuing.
 
 ## The MCM Settings
 
