@@ -13,9 +13,13 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
-## v1.0.1 - **INSERT_DATE_HERE**
+## v1.1 - **INSERT_DATE_HERE**
 
 <details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
 
 ### Removed
 

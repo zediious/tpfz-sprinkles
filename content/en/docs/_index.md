@@ -7,7 +7,7 @@ weight: 20
 ---
 A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
 
-Current version: v1.0 - 11/29/2024
+Current version: v1.1 - **INSERT_DATE_HERE**
 
 ## Preamble
 
