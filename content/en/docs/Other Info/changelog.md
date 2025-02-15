@@ -40,6 +40,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Terrain Shadows - Mod Patches
 - Cloud Shadows
 - Skylighting
+- NVIDIA DLSS Frame Generation (Disabled by Default)
 - QuickLoot IE - A QuickLoot EE Fork
 - QuickLoot IE - Dear Diary Dark Mode Reskin
 - The Dragonborn's Bestiary - DDDM Patch
