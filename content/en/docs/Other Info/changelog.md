@@ -110,35 +110,53 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 ### Updated
 
 - Mod Organizer - 2.5.0 > 2.5.2
-- Community Shaders - 0.8.7 > 1.1.9
-- Screen-Space Shadows - 1.2 > 2.0
+- Community Shaders - 0.8.7 > 1.1.15
+- Screen-Space Shadows - 1.2 > 1.2.1
 - Subsurface Scattering - 1.0.1 > 2.0
 - Wetness Effects - 1.0.2 > 2.0
 - Grass Lighting - 1.4.1 > 2.0
 - Grass Collision - 1.2 > 2.0
 - Light Limit Fix - 1.3 > 2.0.1
+- ENB Preset - Silent Horizons 2 - 1.7.1 > 1.7.2
+- DynDOLOD 3 Alpha - Alpha-182 > Alpha-187
 - Skyrim Particle Patch - 1.3.4 > 1.3.5
 - powerofthree's Tweaks - 1.12.2 > 1.13.1
 - Assorted Mesh Fixes - 0.121 > 0.126
+- Inventory Interface Information Injector - 1.5.97 DLL - 1.1 > 1.1.0-SE.1
 - Local Map Upgrade - 2.1 > 3.1.0
 - Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
+- Dwemer Water Wheels - 0.2.1 > 0.2.2
+- OBody NG - 4.2 > 4.3.6
 - Beards of Power - 0.4.1 > 0.4.2
 - Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key - 0.1.1 > 0.1.2
 - Apocryphal Library - 1.1 > 1.2
 - Simplicity of Seeding - 0.5 > 0.6.3
+- Follower Dialogue Expansion - Brelyna Maryon - 2.2.1 > 2.3.4
+- Follower Dialogue Expansion - Jenassa - 3.0 > 
 - Follower Dialogue Expansion - Aela the Huntress - 3.0.2 > 4.0
 - Follower Dialogue Expansion - Lydia - 1.3.1 > 1.4
 - Follower Dialogue Expansion - Erik the Slayer - 2.0 > 2.0.1
 - Falmer Servant Lines Expansion - 1.0 > 1.01
 - Scared of Shootings - NPCs react to aiming bows - 0.3 > 0.4
+- NPCs React To Necromancy - 1.02 > 1.03
 - PhotoMode - 1.7.1 > 1.8.0
 - The Heart of Dibella - Quest Expansion - 1.04 > 1.05
+- Remote Interactions - 1.04 > 1.05
+- UNSLAAD - 3.0.2 > 3.0.3
+- UNSLAAD - English Voiced - 3.0.2 > 3.0.3
+- Land of Vominheim - 2.70 > 2.92
+- The Wheels of Lull - 5.1.13.3 > 5.2.1
 - Baba Yaga and the Labyrinth - 0.4.1 > 0.4.2
 - The Thrassian Scare - 2.1.2 > 2.1.2.1
-- Siege at Icemoth - 1.3 > 1.3.2
+- Siege at Icemoth - 1.3 > 1.3.4
 - Faster HDT-SMP - 2.0.2beta-1 > 2.5.1
+- New Creature Animation - Werewolf - 1.1 > 2.01
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
-- Dylbills Papyrus Functions - 7.4 > 7.7
+- I Just Want to Sit Down and Read - 1.4 > 1.7
+- Dylbills Papyrus Functions - 7.4 > 8.4
+- ENB Extender for Skyrim - 1.2.3 > 1.3
+- SkyPatcher - 3.3.2 > 3.7.0
+- Object Categorization Framework - 6.0.2 > 6.1.0
 - Automated Enchanted Variants - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Leveled List Additions (Weapons) - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Automated Enchanted Variant Leveled List Additions - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
