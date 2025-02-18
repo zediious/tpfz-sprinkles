@@ -3,7 +3,7 @@ title: Changelog
 icon: fa-solid fa-scroll
 weight: 1
 ---
-Changelogs of this fashion were not written before compiling to Wabbajack. The modlist has undergone a very large number of changes over the years before v0.9.
+Changelogs of this fashion were not written before compiling to Wabbajack in early 2023. The modlist has undergone a very large number of changes over the years before the earliest changelog entries.
 
 Most times, if I had or have changed a mod in any way, I created Notes for that mod in Mod Organizer, which you can view by hovering over the notepad icon on the mod in the left pane of MO.
 
