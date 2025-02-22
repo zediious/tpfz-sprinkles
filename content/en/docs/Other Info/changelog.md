@@ -123,12 +123,15 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - powerofthree's Tweaks - 1.12.2 > 1.13.1
 - Assorted Mesh Fixes - 0.121 > 0.126
 - Inventory Interface Information Injector - 1.5.97 DLL - 1.1 > 1.1.0-SE.1
+- Better Third Person Selection - 0.7.1 > 0.8.0
 - Local Map Upgrade - 2.1 > 3.1.0
+- The Dragonborn's Bestiary - 1.4 > 1.5.2
 - Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
 - Dwemer Water Wheels - 0.2.1 > 0.2.2
 - OBody NG - 4.2 > 4.3.6
 - Beards of Power - 0.4.1 > 0.4.2
 - Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key - 0.1.1 > 0.1.2
+- Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Apocryphal Library - 1.1 > 1.2
 - Simplicity of Seeding - 0.5 > 0.6.3
 - Follower Dialogue Expansion - Brelyna Maryon - 2.2.1 > 2.3.4
@@ -149,6 +152,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Baba Yaga and the Labyrinth - 0.4.1 > 0.4.2
 - The Thrassian Scare - 2.1.2 > 2.1.2.1
 - Siege at Icemoth - 1.3 > 1.3.4
+- Dragon War - A Dragon Overhaul - 3.0.6 > 4.1.5
 - Faster HDT-SMP - 2.0.2beta-1 > 2.5.1
 - New Creature Animation - Werewolf - 1.1 > 2.01
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
@@ -166,8 +170,9 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Weapon and Armor Balance - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - City Navmesh Patches - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Synthesis Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- ALL DYNDOLOD PRESETS!!!
+- ALL DYNDOLOD PRESETS NEED RERAN AND UPLOADED!!!
 - Occlusion Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- BodySlide Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Overwrite Misc - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 
 ### Fixes
