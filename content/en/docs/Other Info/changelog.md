@@ -27,6 +27,9 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Tree LOD Lighting (deprecated)
 - Base Coat (replaced with Vanilla Remastered)
 - QuickLoot EE (Replaced with QuickLoot IE)
+- Cathedral Weathers and Seasons
+- Cathedral Weathers and Seasons - Unofficial Update
+- Cathedral Weathers MCM
 - Unmarked Locations Pack - Blackreach (Replaced with AIO)
 - Unmarked Locations Pack - Soul Cairn (Replaced with AIO)
 - Namira for Good Guys (Replaced with The Taste of Death - Quest Addon)
