@@ -35,13 +35,13 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Added
 
+- Vanilla Remastered - Every Single Texture Upscaled and Reworked
 - Screen Space Global Illumination
 - Terrain Shadows
 - Terrain Shadows - Mod Patches
 - Cloud Shadows
 - Skylighting
 - NVIDIA DLSS Frame Generation (Disabled by Default)
-- Fishing Strings (extracted from CC BSA)
 - Quest Fixes
 - Dragonborn DLC Fixes
 - Aerin Stays in Riften
@@ -49,18 +49,19 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - QuickLoot IE - Dear Diary Dark Mode Reskin
 - The Dragonborn's Bestiary - DDDM Patch
 - The Dragonborn's Bestiary - Default Interface
+- Configurable Notification Messages - Separate New Game Speed
 - Skyrim Character Sheet
 - Predictable Persuasion
-- Vanilla Remastered - Every Single Texture Upscaled and Reworked
-- Cathedral Weathers Conflict Resolution - TO UPLOAD AND DOWNLOAD
 - NAT.ENB III - Natural and Atmospheric Tamriel
 - NAT.CS III
 - slightly Better Dust aka Dust not Clouds
 - slightly Better Oil
 - FYX - Jarl Longhouse - Consistent Interior
+- Better Big Boat LOD + Longboat Addon
 - HFs - Archery Target Remodel
 - Better Atronach Forge Offering Box
 - Halffaces - Necromantic Altar
+- Master Thief Armor (Guildmaster Armor replacer)
 - Skyfall's Blue Palace Courtyard
 - JK's Nightingale Hall
 - Evolving Locations - Cliffside Retreat
@@ -78,15 +79,19 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Wicked Wayward Pass - FuzzBeeds Minor Locations
 - Better Esbern Voice Consistency Fix
 - Localized Thieves Guild Jobs
-- Thieve's Guild Requiresments - Localized Guild Jobs Patch - TO UPLOAD AND DOWNLOAD
+- Thieve's Guild Requirements - Localized Guild Jobs Patch - TO UPLOAD AND DOWNLOAD
 - The Taste of Death - Quest Addon
+- Remote Interactions - Animated Inebration Patch - TO UPLOAD AND DOWNLOAD
 - Better Grabbing
 - Alteration - Open Lock Spell
+- Alternate Perspective - Random Equipment Roll
 - DAc0da
 - DAc0da - English Translation
 - DAc0da - Delayed Start
 - The Gray Cowl of Nocturnal - 10th Anniversary
+- The Gray Cowl of Nocturnal 10th Anniversary - Sa547's Flora Overhaul
 - Missives Worldspace Additions - Gray Cowl
+- Khajiit Will Follow - No Checklist Quest TO UPLOAD AND DOWNLOAD!!!
 - Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
 - The Breathing Abyss
@@ -97,7 +102,10 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Rest In Peace Katria
 - Chevalier's Armor
 - New Leather Armor
+- Wandering Mercenary Armor + HIMBO Refit
 - Nirn Necessities - SMP Accessories
+- Dragons Use Thu'um + Patch Collection
+- Dynamic Collision Adjustment - True Prone System Patch
 - Exit Sneak On Sprint
 - Jump Slide Fix
 - SkyParkour - A SkyClimb Addon
@@ -106,6 +114,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Fishermen Fish
 - Pan's Nameless Hunters
 - Pan's Nameless Witches
+- Andrealphus' Papyrus Functions
 
 ### Updated
 
