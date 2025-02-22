@@ -190,6 +190,12 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Fixes
 
+- Corrected environment mask incompatibility with Community Shaders on the following armor mods
+    Reiko Samurai Armor
+    Knight Armor
+- Actually fixed Security XP gain from taking NFF and KWF follower items
+- Ensured all of M'aiq's lines do not start a conversation.
+- Corrected some marked-as-stolen items in Mirele Bismath
 - Corrected workbench keyword on Pig Iron temper COBJs
 - Correctly aligned water trough at Markarth blacksmith
 
@@ -197,8 +203,10 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 - Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
 - The Gray of Nocturnal quest start will not trigger until you have completed the Thieves Guild quest, "Darkness Returns".
+- Modified Prone/Lay Down hotkey to Left SHIFT + V from Left SHIFT only. Rolling and jumping to prone do not require V.
+- Modified Configurable Notification Messages mod to fade notifications much faster at the beginning of a new game.
 - Disabled Survival Mode prompt on entering worldspace in a new game.
-- Modified Prone/Lay down hotkey to Left CTRL from Left SHIFT.
+- Disabled Khajiit Will Follow checklist quest on a new game.
 
 </details>
 
