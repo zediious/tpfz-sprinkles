@@ -126,6 +126,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Better Third Person Selection - 0.7.1 > 0.8.0
 - Local Map Upgrade - 2.1 > 3.1.0
 - The Dragonborn's Bestiary - 1.4 > 1.5.2
+- DynDOLOD Resources - Alpha-53.1 > Alpha-54
 - Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
 - Dwemer Water Wheels - 0.2.1 > 0.2.2
 - OBody NG - 4.2 > 4.3.6
