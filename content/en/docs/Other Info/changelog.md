@@ -201,6 +201,9 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Fixes
 
+- Ensure that Jarl of Falkreath dialogue after receiving letter will always be visible once receiving the letter unless you use the `coc` command to teleport to Falkreath after setting your level to 12+ in the starting room (don't do this).
+- Ensure At Your Own Pace Misc objectives are completed if using the Dragonborn > High Hrothgar Alternate Perspective start option on a new game (Fix [#16](https://github.com/zediious/tpfz-sprinkles/issues/16))
+- Ensure that when using the above alternate start, the swapped Thane weapon from Zim's Immersive Artifacts is given properly.
 - Corrected environment mask incompatibility with Community Shaders on the following armor mods
     Reiko Samurai Armor
     Knight Armor
@@ -212,12 +215,17 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Tweaks
 
+- Added descriptions to all of the choices in Dealing with Backstories that detail what each choice will do, using Description Framework.
+- Choice to enter Dealing with Backstories character building area will now appear when leaving the Alternate Perspective starting room.
 - Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
 - The Gray of Nocturnal quest start will not trigger until you have completed the Thieves Guild quest, "Darkness Returns".
 - Modified Prone/Lay Down hotkey to Left SHIFT + V from Left SHIFT only. Rolling and jumping to prone do not require V.
+- Entering prone will now modify your character's collision accordingly, so that you can now sneak into smaller gaps
 - Modified Configurable Notification Messages mod to fade notifications much faster at the beginning of a new game.
+- Disabled Spellsiphon book on new game. Must be Archamage to get the book without adding it/cheating.
 - Disabled Survival Mode prompt on entering worldspace in a new game.
-- Disabled Khajiit Will Follow checklist quest on a new game.
+- Prevent leaving sneaking state while your character is prone.
+- Disabled Khajiit Will Follow quest and book on a new game.
 
 </details>
 
