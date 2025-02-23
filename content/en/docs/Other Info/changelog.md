@@ -64,6 +64,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - HFs - Archery Target Remodel
 - Better Atronach Forge Offering Box
 - Halffaces - Necromantic Altar
+- HFs - Aretino Family Heirloom Remodel
 - Master Thief Armor (Guildmaster Armor replacer)
 - Skyfall's Blue Palace Courtyard
 - JK's Nightingale Hall
@@ -84,17 +85,25 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Localized Thieves Guild Jobs
 - Thieve's Guild Requirements - Localized Guild Jobs Patch - TO UPLOAD AND DOWNLOAD
 - The Taste of Death - Quest Addon
+- Dealing with Backstories - Description Framework Addon - TO UPLOAD AND DOWNLOAD
+- Dealing with Backstories - Hand to Hand Patch
 - Remote Interactions - Animated Inebration Patch - TO UPLOAD AND DOWNLOAD
 - Better Grabbing
+- Spellsiphon - Disable New Game Book - TO UPLOAD AND DOWNLOAD
+- Immersive Illusion Spells
+- Immersive Illusion Spells - Distribution
 - Alteration - Open Lock Spell
+- Alternate Perspective - Falkreath Favor Quest Failsafe - TO UPLOAD AND DOWNLOAD
 - Alternate Perspective - Random Equipment Roll
+- Alternate Perspective - Dealing with Backstories Addon - TO UPLOAD AND DOWNLOAD
+- Alternate Perspective - AYOPMQ and ZIA Patch - TO UPLOAD AND DOWNLOAD
 - DAc0da
 - DAc0da - English Translation
 - DAc0da - Delayed Start
 - The Gray Cowl of Nocturnal - 10th Anniversary
 - The Gray Cowl of Nocturnal 10th Anniversary - Sa547's Flora Overhaul
 - Missives Worldspace Additions - Gray Cowl
-- Khajiit Will Follow - No Checklist Quest TO UPLOAD AND DOWNLOAD!!!
+- Khajiit Will Follow - No Starting Quest or Book TO UPLOAD AND DOWNLOAD!!!
 - Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
 - The Breathing Abyss
@@ -118,6 +127,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Pan's Nameless Hunters
 - Pan's Nameless Witches
 - Andrealphus' Papyrus Functions
+- AddItemMenu - Give Menu Item Directly
+- AddItemMenu - Remove on Leave AP Starting Room
 
 ### Updated
 
