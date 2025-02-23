@@ -35,10 +35,10 @@ If you are *sure* you have performed Step 1, then those file should not be in th
 The only files/directories that should be in the Overwrite mod after launching the game and playing are as follows;
 
 - NetScriptFramework (if you experience a crash, logs go here)
-- KiLoader
+- KiLoader (If using ENB)
   - Various directories
 - Root
-  - enbcache/cache files
+  - enbcache/cache files (If using ENB)
   - betacomments.txt
   - d3dx9_42.log
   - imgui.ini
