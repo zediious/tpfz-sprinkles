@@ -158,6 +158,7 @@ Many of the weapons shown below are from the following larger weapon packs
 - Broadsword
 - Crecy
 - Flamberge
+- Wandering Mercenary Claymore
 
 ### Battleaxe
 
@@ -678,6 +679,7 @@ Khajiiti Apex Armory
 - Elmlock Set
 - Gorm Set
 - Chevalier Half-Plate Set
+- Wandering Mercenary Armor
 
 ### Glass Tier
 
