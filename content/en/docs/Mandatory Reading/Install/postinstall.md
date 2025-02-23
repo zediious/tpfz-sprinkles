@@ -67,13 +67,17 @@ The hard part is nearly over. Carry on, the end is in sight!
 
 5. Create your character, and finalize their race/name.
 
-6. **As soon as you gain control of your character, do nothing.** The mods are loading and MCM configurations are being applied. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased. This may take a bit of time, but be patient. This only needs to happen on the first load into a new game.
+6. **As soon as you gain control of your character, do nothing.** The mods are loading and MCM configurations are being applied. You’ll see a list of mods initializing in the top left of the screen, and you will see popup messages, which you can click OK on. Please, **DO NOT** do anything until notification messages at the top left have ceased and the final confirmation messagebox has appeared. This only needs to happen on the first load into a new game, and does not take very long.
 
 7. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 8. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
 
-9. At this point, you should make a save, and reload that save before continuing.
+9. Use the Shrine of Zenithar to get a set of equipment, or the "AddItemMenu" item in your Inventory's Misc section to find something specific you may be looking for if you choose. The "AddItemMenu" item will be removed from your inventory when you leave the starting room!
+
+10. Speak to the Dragon in the room to choose an Alternate Start option. You **can** choose the Vanilla start in this list! After doing so, leave through the door. When you do, you will be given the option to enter the "Dealing with Backstories" character building area. You are given the option to skip this completely by ignoring the "visions". [Read about the process of using Dealing with Backstories here!](../..//gameplay-guide/characterdefine/#dealing-with-backstorieshttpswwwnexusmodscomskyrimspecialeditionmods61106)
+
+Now, get out there and enjoy the game!
 
 ## The MCM Settings
 
@@ -87,7 +91,7 @@ ONLY if you decide to [change the block key](../../mod-list-tweaks/powerattackbl
 
 ## Take Note of any Current Bugs
 
-Take a look at our full current issue tracker here; [https://github.com/zediious/tpfz-sprinkles/issues](https://github.com/zediious/tpfz-sprinkles/issues). 
+Take a look at our full current issue tracker here; [https://github.com/zediious/tpfz-sprinkles/issues](https://github.com/zediious/tpfz-sprinkles/issues).
 
 Issues that are very frequent and/or effect the experience as a whole will be pinned at the top of the issue tracker. It will be valuable for you to check the others as well to confirm what you may need to look out for in the current version.
 
