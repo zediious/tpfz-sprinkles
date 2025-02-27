@@ -87,6 +87,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - The Taste of Death - Quest Addon
 - Dealing with Backstories - Description Framework Addon - TO UPLOAD AND DOWNLOAD
 - Dealing with Backstories - Hand to Hand Patch
+- Dealing with Backstories - Experience and Sets of Skills CSF Patch
 - Remote Interactions - Animated Inebration Patch - TO UPLOAD AND DOWNLOAD
 - Better Grabbing
 - Spellsiphon - Disable New Game Book - TO UPLOAD AND DOWNLOAD
@@ -117,6 +118,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Wandering Mercenary Armor + HIMBO Refit
 - Nirn Necessities - SMP Accessories
 - Dragons Use Thu'um + Patch Collection
+- Forgotten Vale Dragons - No Dragonborn Requirement
+- No Dragonborn Until Unbound
 - Dynamic Collision Adjustment - True Prone System Patch
 - Exit Sneak On Sprint
 - Jump Slide Fix
@@ -144,6 +147,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - DynDOLOD 3 Alpha - Alpha-182 > Alpha-187
 - Skyrim Particle Patch - 1.3.4 > 1.3.5
 - powerofthree's Tweaks - 1.12.2 > 1.13.1
+- No Grass in Objects - 1.0.14 > 1.3
 - Assorted Mesh Fixes - 0.121 > 0.126
 - Inventory Interface Information Injector - 1.5.97 DLL - 1.1 > 1.1.0-SE.1
 - Better Third Person Selection - 0.7.1 > 0.8.0
@@ -205,8 +209,9 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 - Ensure At Your Own Pace Misc objectives are completed if using the Dragonborn > High Hrothgar Alternate Perspective start option on a new game (Fix [#16](https://github.com/zediious/tpfz-sprinkles/issues/16))
 - Ensure that when using the above alternate start, the swapped Thane weapon from Zim's Immersive Artifacts is given properly.
 - Corrected environment mask incompatibility with Community Shaders on the following armor mods
-    Reiko Samurai Armor
-    Knight Armor
+  - Reiko Samurai Armor
+  - Knight Armor
+  - Dremora Armor
 - Actually fixed Security XP gain from taking NFF and KWF follower items
 - Ensured all of M'aiq's lines do not start a conversation.
 - Corrected some marked-as-stolen items in Mirele Bismath
@@ -215,16 +220,20 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ### Tweaks
 
+- Completing your Dealing with Backstories character creation at older ages will now grant you accordingly higher levels (patched for Experience), perk points, and Sets of Skills perk points
 - Added descriptions to all of the choices in Dealing with Backstories that detail what each choice will do, using Description Framework.
 - Choice to enter Dealing with Backstories character building area will now appear when leaving the Alternate Perspective starting room.
 - Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
 - The Gray of Nocturnal quest start will not trigger until you have completed the Thieves Guild quest, "Darkness Returns".
 - Modified Prone/Lay Down hotkey to Left SHIFT + V from Left SHIFT only. Rolling and jumping to prone do not require V.
-- Entering prone will now modify your character's collision accordingly, so that you can now sneak into smaller gaps
-- Modified Configurable Notification Messages mod to fade notifications much faster at the beginning of a new game.
-- Disabled Spellsiphon book on new game. Must be Archamage to get the book without adding it/cheating.
+- Entering prone will now modify your character's collision accordingly, so that you can now crawl into smaller gaps.
+- Prevent the player from leaving a sneaking state while they are prone. You must leave prone first to leave sneak.
+- Modified Configurable Notification Messages to fade notifications much faster at the beginning of a new game.
+- Player is now unable to learn Words of Power or absorb Dragon Souls until they have completed Unbound.
+- Allow the Forgotten Vale Ice Dragons fight to begin before Unbound/Dragon Rising is completed.
+- Disabled Spellsiphon book on new game. The book exists in the Archmage's quarters.
+- Corrected names of enchanted rings given by Dealing with Backstories.
 - Disabled Survival Mode prompt on entering worldspace in a new game.
-- Prevent leaving sneaking state while your character is prone.
 - Disabled Khajiit Will Follow quest and book on a new game.
 
 </details>
