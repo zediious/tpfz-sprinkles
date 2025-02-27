@@ -8,7 +8,7 @@ weight: 3
 
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur.
 
-3. Create a second folder called C:\tpfzs. This folder is where everything will be installed. You can also place it where you would like and name it what you would like, but ensure the location you place it in is not under the protection of your Antivirus. **or inside the Wabbajack folder you created in step 2.**
+3. Create a second folder called C:\Aurbaesence. This folder is where everything will be installed. You can also place it where you would like and name it what you would like, but ensure the location you place it in is not under the protection of your Antivirus. **or inside the Wabbajack folder you created in step 2.**
 
 4. Ensure that the newly created directory is **completely empty.**
 
@@ -18,9 +18,9 @@ weight: 3
 
 1. Open the Wabbajack.exe you placed in C:\Wabbajack, and wait for it to open. Click the left-most button in the main center area labeled **"Browse Mod Lists"**
 
-2. Check the **"Show Unofficial Lists"** checkbox at the top of the window. Then, search for "Zediious" in the search box. Hover over the filtered **"The Phoenix Flavor - Zediious Sprinkles"** mod list, and click the Download button. After that has completed, click the Play button that has replaced the Download button.
+2. Check the **"Show Unofficial Lists"** checkbox at the top of the window. Then, search "Aurbaesence", or some amount of the modpack name, in the search box. Hover over the filtered **"Aurbaesence"** mod list, and click the Download button. After that has completed, click the Play button that has replaced the Download button.
 
-3. In the following window, set the Installation Location to C:\tpfzs (or wherever you created that directory). The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in. Seriously, this is VERY important. If you are at all confused by this, PLEASE reach out on our Discord!
+3. In the following window, set the Installation Location to C:\Aurbaesence (or wherever you created that directory). The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in. Seriously, this is VERY important. If you are at all confused by this, PLEASE reach out on our Discord!
 
 4. Click Run.
 

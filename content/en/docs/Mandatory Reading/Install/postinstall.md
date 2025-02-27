@@ -14,7 +14,7 @@ This version of .NET is required to launch the game via Mod Organizer. Make sure
 
 ## Launching Mod Organizer 2
 
-1. Navigate to C:\tpfzs (or wherever you installed the mod list) and open ModOrganizer.exe.
+1. Navigate to C:\Aurbaesence (or wherever you installed the mod list) and open ModOrganizer.exe.
 
 2. If you don't have Microsoft VC_Redist installed, you may see an error. You can download the latest versions here: [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version). Note that this is separate from the .NET 5.0 runtime downloaded above.
 
