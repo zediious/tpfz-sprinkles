@@ -165,16 +165,20 @@ When you walk up to a ledge that your character could reasonably climb, you will
 
 Throughout the world, you may also find glowing *glowing white orbs*. These are pre-placed traversal points, and can allow you to climb up a larger ledge, climb a ladder, or any number of things. Keep an eye out for them!
 
+## Crouching will adjust your collision
+
+If you crouch, your collision will adjust accordingly. This way, enemies will miss you if they were to hit your head, and you can crouch through some smaller gaps!
+
 ## Lay down on the ground
 
-By performing either one of the following actions, you can lay down on the ground! This prevents enemies from seeing you, but it does not make your hitbox smaller. We can hope for [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783) compatibility in the future!
+By performing either one of the following actions, you can lay down on the ground! This prevents enemies from seeing you, **and it WILL make your hitbox/collision smaller!** This will allow you to crawl through very small gaps, go under tables and more! Try to use this somewhat responsibly!
 
 - Hold CTRL while sneaking to slowly go prone.
 - CTRL + W while sneaking to jump into prone.
 - Hold CTRL while prone to get up again.
 - CTRL + A/D to roll left or right respectively.
 
-Keep in mind that you can only perform this action with your weapons **sheathed**. You cannot lie down with your weapons, fists, or magic out.
+Keep in mind that you can only perform this action with your weapons **sheathed**. You cannot lie down with your weapons, fists, or magic out. You are also unable to stop sneaking, while you are prone.
 
 ## Find and use a variety of new weapon types
 
