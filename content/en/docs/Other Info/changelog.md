@@ -15,7 +15,7 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ## v1.1 - **INSERT_DATE_HERE**
 
-The modlist's name has been changed to **Aurbaesence!** As the list evolves, it feels appropriate to give it it's own identity away from Phoenix's great work.
+The modlist's name has been changed to **Aurbaesence! (OR-bes-ence)** As the list evolves, it feels appropriate to give it it's own identity away from Phoenix's great work.
 
 <details>
 
