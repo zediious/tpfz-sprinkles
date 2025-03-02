@@ -61,7 +61,7 @@ The hard part is nearly over. Carry on, the end is in sight!
 
 2. At this point Mod Organizer will become "Locked", while the Skyrim executable is running. **Under NO circumstances, should you ever click the "Unlock" button while you are playing the game!** This includes immediately when it appears. Mod Organizer needs to be in this state for the mod list to launch and work properly. If you do click Unlock, you will more than likely be faced with Infinite Loading Screens, or other issues.
 
-3. As Skyrim loads to the main menu, Community shaders will begin to compile shaders. This usually takes roughly ten minutes, and only needs to occur once. **Do NOT skip this!**
+3. As Skyrim loads to the main menu, Community Shaders will begin to compile shaders. This usually takes roughly ten minutes, and only needs to occur once. **Do NOT skip this!**
 
 4. Once shaders have finished compiling and you have loaded to the main menu, create a new game. Loading a save from outside this mod list will corrupt that save, or more than likely not load. If you are updating from an existing version of the mod list, read the changelog to ensure that the new version is save-safe!
 
@@ -71,11 +71,11 @@ The hard part is nearly over. Carry on, the end is in sight!
 
 7. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-8. Make sure you are **not** looking at the Dragon NPC in the room, and press the F10 key. Select a Body Preset from the menu that appears. If you don't care about this as a Male character, select *Zeroed*. You *must* choose a preset as a Male, as the default proportions given are quite wonky. As a Female character, you can safely ignore this if you wish.
+8. If you choose, you can also use the **F10** key to select a Body Preset for you character (male or female). Make sure you are not looking at the **Dragon NPC** in the room when you do so. This is completely optional, near-vanilla defaults are used.
 
-9. Use the Shrine of Zenithar to get a set of equipment, or the "AddItemMenu" item in your Inventory's Misc section to find something specific you may be looking for if you choose. The "AddItemMenu" item will be removed from your inventory when you leave the starting room!
+9. Use the **Shrine of Zenithar** to get a set of equipment, or the **"Orb of the Aurbis"** item in your Inventory's Misc section to find something specific you may be looking for if you choose. The "Orb of the Aurbis" item(s) will be removed from your inventory when you leave the starting room! You can also take this time to learn any spells you want to start with, as you will be able to **learn spells instantly while you are in the starting room**.
 
-10. Speak to the Dragon in the room to choose an Alternate Start option. You **can** choose the Vanilla start in this list! After doing so, leave through the door. When you do, you will be given the option to enter the "Dealing with Backstories" character building area. You are given the option to skip this completely by ignoring the "visions". [Read about the process of using Dealing with Backstories here!](../..//gameplay-guide/characterdefine/#dealing-with-backstorieshttpswwwnexusmodscomskyrimspecialeditionmods61106)
+10. Speak to the **Dragon NPC** in the room to choose an Alternate Start option. If you decide to not speak to the Dragon, you will start in the Helgen Inn. You **can** choose the Vanilla Start in this list, it will play out! After doing so, leave through the door into the darkness. When you do, you will be given the option to enter the "Dealing with Backstories" character building area. You are given the option to skip this completely by ignoring the "visions". [Read about the process of using Dealing with Backstories here!](../..//gameplay-guide/characterdefine/#dealing-with-backstorieshttpswwwnexusmodscomskyrimspecialeditionmods61106). If you do the Vanilla Start, you will see this prompt after you leave the cave with Hadvar or Ralof.
 
 Now, get out there and enjoy the game!
 
