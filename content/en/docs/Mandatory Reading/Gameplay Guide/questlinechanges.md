@@ -8,7 +8,9 @@ Read the mod pages *thoroughly* to know what to expect! At Your Own Pace in part
 
 ### Main Quest
 
-The Main Quest has various stopping points that will certainly throw you off if you are expecting vanilla behavior. For instance, you will always find the Horn of Jurgen Windcaller in Ustengrav, and can return it to the Greybeards. You will need to speak to Farengar on your own to further advance the quest, where he will have Delphine send you a letter in a few days. Various other stopping points are introduced, where the player would need to take action for further quests to begin.
+The largest change with the Main Quest is through [Alternate Perspective](../../../notable-mods/newquestscontent/#alternate-perspectivehttpswwwnexusmodscomskyrimspecialeditionmods50307). This mod allows you to begin the game without using the Vanilla Start, but provides an *alternate* method of experiencing the attack on Helgen. At any point after leaving the starting room, you can speak to the **Innkeeper** at **Helgen's Inn**, and you will see a special dialogue option that mentions **"Begin Intro"**. Use this if you wish to begin the Main Quest! This is mentioned on the note in the starting room, so be sure to always look around!
+
+Courtesy of [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704), the Main Quest has various new stopping points that will certainly throw you off if you are expecting vanilla behavior. For instance, you will always find the Horn of Jurgen Windcaller in Ustengrav, and can return it to the Greybeards. You will need to speak to Farengar on your own to further advance the quest, where he will have Delphine send you a letter in a few days. Various other stopping points are introduced, where the player would need to take action for further quests to begin.
 
 ### The College of Winterhold
 
@@ -25,5 +27,7 @@ For the Thieves Guild, we are using [Thieves Guild Requirements](https://www.nex
 ### The Dark Brotherhood
 
 For the Dark Brotherhood, we are utilizing [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974), [Destroy the Dark Brotherhood - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118229), [Save the Dark Brotherhood](https://www.nexusmods.com/skyrimspecialedition/mods/33461) and [Your Choices Matter - A Dark Brotherhood Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/46871) to create more scenarios for the player to choose in how they begin the questline, and progress through it.
+
+This covers changes to the main questlines, but does not cover everything! [Check out the Improved Vanilla Quests section](../../../notable-mods/improvedquests/) under Notable Mods to learn more!
 
 ## [NEXT -> New Mechanics to Know](../newmechanics)
