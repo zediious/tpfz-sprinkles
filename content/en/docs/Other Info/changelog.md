@@ -17,6 +17,10 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 The modlist's name has been changed to **Aurbaesence! (OR-bes-ence)** As the list evolves, it feels appropriate to give it it's own identity away from Phoenix's great work.
 
+The largest change, outside of the name, with this version is the change from ENB to Community Shaders in the main profile. All existing ENB presets still remain as optional mods, however Community Shaders has reached a point where I am entirely satisfied with with it's visuals, along with it's lesser performance hit.
+
+Controller Suppport has also been added, in the form of Complete Controller Setup! This optional suite of mods will allow you to use all important gameplay functions with the controller!
+
 <details>
 
 **<summary>Detailed Changelog</summary>**
@@ -132,8 +136,9 @@ The modlist's name has been changed to **Aurbaesence! (OR-bes-ence)** As the lis
 - Pan's Nameless Hunters
 - Pan's Nameless Witches
 - Andrealphus' Papyrus Functions
-- AddItemMenu - Give Menu Item Directly
-- AddItemMenu - Remove on Leave AP Starting Room
+- Keyboard Keybinds TO UPLOAD AND DOWNLOAD!!!
+- Gamepad Plus Plus
+- Complete Controller Setuo
 
 ### Updated
 

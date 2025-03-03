@@ -13,4 +13,4 @@ Community Shaders offers an optional [NVIDIA DLSS Frame Generation Feature](http
 
 If you do not have an **NVIDIA 40 or 50 series card**, DO NOT use any of the above instructions!
 
-## [NEXT >> Gameplay Guide - Defining your Character](../../gameplay-guide/characterdefine)
+## [NEXT >> Controller Setup - Optional Feature ](../../mod-list-tweaks/controller)

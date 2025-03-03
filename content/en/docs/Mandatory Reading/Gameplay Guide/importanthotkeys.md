@@ -3,7 +3,12 @@ title: Important Hotkeys
 icon: fa-solid fa-keyboard
 weight: 4
 ---
-![full_layout_v3](../../../../keybinds/full_layout_v3.png)
+<div align=center>
+    <img width=90% src="../../../../keybinds/full_layout_v3.png"></img>
+    <img width=55% src="../../../../keybinds/full_layout_controller.png"></img>
+    <br>
+    <br>
+</div>
 
 Only newly added or changed vanilla hotkeys are listed here. If you do not see a keybind here, then it is as it is in vanilla. Let me know if you find this is not the case!
 
@@ -142,13 +147,16 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Sprint.
 - This can be changed in the Vanilla controls menu.
 
+- Hold **LSHIFT + V** while sneaking to slowly go prone.
+- Hold **LSHIFT + V** while prone to get up again.
+- This can be changed in the `TrueProneSystem.json` file in the **Sneak Behavior Extensions - True Prone System** mod.
+
 ### L-CONTROL
 
 - Vanilla Sneak
-- Hold CTRL while sneaking to slowly go prone.
 - CTRL + W while sneaking to jump into prone.
-- Hold CTRL while prone to get up again.
 - CTRL + A/D to roll left or right respectively.
+- This can be changed in the `TrueProneSystem.json` file in the **Sneak Behavior Extensions - True Prone System** mod.
 
 ### SPACE
 
