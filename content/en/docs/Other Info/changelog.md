@@ -35,6 +35,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Tree LOD Lighting (deprecated)
 - Base Coat (replaced with Vanilla Remastered)
 - QuickLoot EE (Replaced with QuickLoot IE)
+- Which Key (Replaced with Which Key NG)
 - Cathedral Weathers and Seasons
 - Cathedral Weathers and Seasons - Unofficial Update
 - Cathedral Weathers MCM
@@ -56,11 +57,12 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Quest Fixes
 - Dragonborn DLC Fixes
 - Aerin Stays in Riften
-- QuickLoot IE - A QuickLoot EE Fork
+- QuickLoot IE - A QuickLoot EE Fork (Fix [#43](https://github.com/zediious/tpfz-sprinkles/issues/43))
 - QuickLoot IE - Dear Diary Dark Mode Reskin
+- Which Key NG
 - The Dragonborn's Bestiary - DDDM Patch
 - The Dragonborn's Bestiary - Default Interface
-- Configurable Notification Messages - Separate New Game Speed
+- Configurable Notification Messages - Separate New Game Speed (Replaces original version)
 - Skyrim Character Sheet
 - Predictable Persuasion
 - NAT.ENB III - Natural and Atmospheric Tamriel
@@ -94,17 +96,18 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Thieve's Guild Requirements - Localized Guild Jobs Patch - TO UPLOAD AND DOWNLOAD
 - The Taste of Death - Quest Addon
 - Dealing with Backstories - Description Framework Addon - TO UPLOAD AND DOWNLOAD
-- Dealing with Backstories - Hand to Hand Patch
-- Dealing with Backstories - Experience and Sets of Skills CSF Patch
+- Dealing with Backstories - Hand to Hand Patch TO UPLOAD AND DOWNLOAD!!!
+- Dealing with Backstories - Experience and Sets of Skills CSF Patch TO UPLOAD AND DOWNLOAD!!!
 - Remote Interactions - Animated Inebration Patch - TO UPLOAD AND DOWNLOAD
+- Immersive Horses - Vanilla Start Fix TO UPLOAD AND DOWNLOAD!!!
 - Better Grabbing
 - Spellsiphon - Disable New Game Book - TO UPLOAD AND DOWNLOAD
 - Immersive Illusion Spells
-- Immersive Illusion Spells - Distribution
 - Alteration - Open Lock Spell
 - Alternate Perspective - Falkreath Favor Quest Failsafe - TO UPLOAD AND DOWNLOAD
 - Alternate Perspective - Random Equipment Roll
 - Alternate Perspective - Dealing with Backstories Addon - TO UPLOAD AND DOWNLOAD
+- Alternate Perspective - Immersive Spell Learning DESTified Addon TO UPLOAD AND DOWNLOAD!!!
 - Alternate Perspective - AYOPMQ and ZIA Patch - TO UPLOAD AND DOWNLOAD
 - DAc0da
 - DAc0da - English Translation
@@ -116,6 +119,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
 - The Breathing Abyss
+- Siege at Icemoth - Simonrim Consistency Patch
 - Final Farewell
 - Unmarked Locations Pack - All In One + Patch Hub
 - More to do in the Soul Cairn
@@ -126,18 +130,22 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Wandering Mercenary Armor + HIMBO Refit
 - Nirn Necessities - SMP Accessories
 - Dragons Use Thu'um + Patch Collection
-- Forgotten Vale Dragons - No Dragonborn Requirement
-- No Dragonborn Until Unbound
+- Forgotten Vale Dragons - No Dragonborn Requirement TO UPLOAD AND DOWNLOAD!!!
+- No Dragonborn Until Unbound TO UPLOAD AND DOWNLOAD!!!
 - Dynamic Collision Adjustment - True Prone System Patch
 - Exit Sneak On Sprint
 - Jump Slide Fix
 - SkyParkour - A SkyClimb Addon
 - Weapon Switch Animation Fix
+- Samurai - Dai Katana 2H Katana Animation (Converted to BFCO)
 - New Creature Animation - Dwarven Centurion
 - Fishermen Fish
+- Improved Barstool Exit Animation
 - Pan's Nameless Hunters
 - Pan's Nameless Witches
 - Andrealphus' Papyrus Functions
+- AddItemMenu - Give Menu Item Directly TO UPLOAD AND DOWNLOAD!!!
+- AddItemMenu - Remove on Leave AP Starting Room TO UPLOAD AND DOWNLOAD!!!
 - Keyboard Keybinds TO UPLOAD AND DOWNLOAD!!!
 - Gamepad Plus Plus
 - Complete Controller Setuo
@@ -159,7 +167,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - No Grass in Objects - 1.0.14 > 1.3
 - Assorted Mesh Fixes - 0.121 > 0.126
 - Inventory Interface Information Injector - 1.5.97 DLL - 1.1 > 1.1.0-SE.1
-- Better Third Person Selection - 0.7.1 > 0.8.0
+- Better Third Person Selection - 0.7.1 > 0.8.1
 - Local Map Upgrade - 2.1 > 3.1.0
 - The Dragonborn's Bestiary - 1.4 > 1.5.2
 - DynDOLOD Resources - Alpha-53.1 > Alpha-54
@@ -182,6 +190,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - PhotoMode - 1.7.1 > 1.8.0
 - The Heart of Dibella - Quest Expansion - 1.04 > 1.05
 - Remote Interactions - 1.04 > 1.05
+- Alternate Perspective Addon - I Used to Be a Dungeon Boss like You - 1.1.1 > 1.2.1
 - UNSLAAD - 3.0.2 > 3.0.3
 - UNSLAAD - English Voiced - 3.0.2 > 3.0.3
 - Land of Vominheim - 2.70 > 2.92
@@ -191,6 +200,9 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Siege at Icemoth - 1.3 > 1.3.4
 - Dragon War - A Dragon Overhaul - 3.0.6 > 4.1.5
 - Faster HDT-SMP - 2.0.2beta-1 > 2.5.1
+- BFCO - Attack Behavior Framework - 3.2.33 > 3.3.10
+- BFCO - Elden Rim Moveset Collection - 1.0.1 > 1.1.1
+- BFCO - Elden Rim Dual Wield Moveset Collection - 0.9 > 0.9-BFCO
 - New Creature Animation - Werewolf - 1.1 > 2.01
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
 - I Just Want to Sit Down and Read - 1.4 > 1.7
@@ -201,6 +213,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Automated Enchanted Variants - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Leveled List Additions (Weapons) - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Automated Enchanted Variant Leveled List Additions - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- MonsterPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch2 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
@@ -221,6 +234,8 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
   - Reiko Samurai Armor
   - Knight Armor
   - Dremora Armor
+- Fix a variety of quests from Capital Windhelm due a corrupt mod installation. (Fix [#131](https://github.com/zediious/tpfz-sprinkles/issues/131))
+- Corrected vanilla start issues due to horse speed changes from Immersive Horses.
 - Actually fixed Security XP gain from taking NFF and KWF follower items
 - Ensured all of M'aiq's lines do not start a conversation.
 - Corrected some marked-as-stolen items in Mirele Bismath
@@ -229,21 +244,26 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 
 ### Tweaks
 
+- Choice to enter Dealing with Backstories character building area will now appear when leaving the Alternate Perspective starting room. If using the vanilla start scenario, this will appear when you are about to leave Helgen Keep through the cave exit instead.
 - Completing your Dealing with Backstories character creation at older ages will now grant you accordingly higher levels (patched for Experience), perk points, and Sets of Skills perk points
 - Added descriptions to all of the choices in Dealing with Backstories that detail what each choice will do, using Description Framework.
-- Choice to enter Dealing with Backstories character building area will now appear when leaving the Alternate Perspective starting room.
 - Replaced all instances of Mysticism's tiered unlock spells with version from "Alteration - Open Lock Spell" in leveled lists, etc.
 - The Gray of Nocturnal quest start will not trigger until you have completed the Thieves Guild quest, "Darkness Returns".
 - Modified Prone/Lay Down hotkey to Left SHIFT + V from Left SHIFT only. Rolling and jumping to prone do not require V.
 - Entering prone will now modify your character's collision accordingly, so that you can now crawl into smaller gaps.
 - Prevent the player from leaving a sneaking state while they are prone. You must leave prone first to leave sneak.
+- Allow the Forgotten Vale Ice Dragons fight to begin before Unbound/Dragon Rising is completed. (Implement [#1](https://github.com/zediious/tpfz-sprinkles/issues/1))
 - Modified Configurable Notification Messages to fade notifications much faster at the beginning of a new game.
 - Player is now unable to learn Words of Power or absorb Dragon Souls until they have completed Unbound.
-- Allow the Forgotten Vale Ice Dragons fight to begin before Unbound/Dragon Rising is completed.
+- Vanilla-like body preset now used by default for male and female characters on a new game.
+- You can now learn spells instantly while in the Alterante Perspective starting room.
 - Disabled Spellsiphon book on new game. The book exists in the Archmage's quarters.
-- Corrected names of enchanted rings given by Dealing with Backstories.
+- Dealing with Backstories career item lists now use leveled lists for most items.
+- SkyClimb climbing now requires holding jump for at least 0.1 seconds.
 - Disabled Survival Mode prompt on entering worldspace in a new game.
 - Disabled Khajiit Will Follow quest and book on a new game.
+- Added unique animations for Nodachi/Dai Katana.
+- Reduced Nodachi/Dai Katana damage due to speed.
 
 </details>
 
