@@ -19,7 +19,9 @@ The modlist's name has been changed to **Aurbaesence! (OR-bes-ence)** As the lis
 
 The largest change, outside of the name, with this version is the change from ENB to Community Shaders in the main profile. All existing ENB presets still remain as optional mods, however Community Shaders has reached a point where I am entirely satisfied with with it's visuals, along with it's lesser performance hit.
 
-Controller Suppport has also been added, in the form of Complete Controller Setup! This optional suite of mods will allow you to use all important gameplay functions with the controller!
+Controller Suppport has also been added, in the form of Complete Controller Setup! This optional suite of mods will allow you to use all important gameplay functions with the controller! [Read the guide here to set up full controller support!](../../mandatory-reading/mod-list-tweaks/controller/)
+
+Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default option. This only works if you have an NVIDIA 40 or 50 series (4070, 5080, etc) graphics card, however you should absolutely enable this mod if you have one of those cards! [A guide to do so exists in the Mod List Tweaks section here!](../../mandatory-reading/mod-list-tweaks/nvidiadlss/)
 
 <details>
 
