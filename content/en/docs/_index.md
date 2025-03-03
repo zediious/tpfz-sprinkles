@@ -1,13 +1,21 @@
 ---
-title: Aurbaesence
+# title: Aurbaesence
 linkTitle: Aurbaesence
 hide_readingtime: true
 menu: {main: {weight: 20}}
 weight: 20
 ---
-A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
-
-Current version: v1.1 - **INSERT_DATE_HERE**
+<div align=center>
+    <img width=80% src="../../../banners/banner.png"></img>
+    <br>
+    <br>
+    <p>
+        <span style="font-size: 20px;">A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.</span>
+        <br>
+        <br>
+        Current version: v1.1 - <b>INSERT_DATE_HERE</b>
+    </p>
+</div>
 
 ## Preamble
 
