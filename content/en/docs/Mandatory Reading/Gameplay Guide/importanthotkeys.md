@@ -1,5 +1,5 @@
 ---
-title: Important Hotkeys
+title: KBM and Controller Bindings
 icon: fa-solid fa-keyboard
 weight: 4
 ---
@@ -10,13 +10,15 @@ weight: 4
     <br>
 </div>
 
-Only newly added or changed vanilla hotkeys are listed here. If you do not see a keybind here, then it is as it is in vanilla. Let me know if you find this is not the case!
+Above is a graphic for both Keyboard/Mouse and Controller bindings
+
+Only newly added or changed vanilla hotkeys are listed in the KBM graphic, the controller graphic should show all controls. If you do not see a binding here, then it is as it is in vanilla. Let me know if you find this is not the case!
 
 ## Regarding changing your keybinds
 
 If you want to change keybinds in game with your keyboard, you **must** unplug your controllers. Otherwise, you will be unable to do so.
 
-Listed alongside each keybind you will see where you can change that keybind.
+Below you will find each binding for Keyboard/Mouse. **Changing controller bindings is not as straightforward and not supported.** Listed alongside each keybind you will see where you can change that keybind.
 
 ## LamasTinyHUD
 
