@@ -236,6 +236,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
   - Dremora Armor
 - Fix a variety of quests from Capital Windhelm due a corrupt mod installation. (Fix [#131](https://github.com/zediious/tpfz-sprinkles/issues/131))
 - Corrected vanilla start issues due to horse speed changes from Immersive Horses.
+- Corrected TGR Barenziah stone location to COTN Winterhold's Inn location.
 - Actually fixed Security XP gain from taking NFF and KWF follower items
 - Ensured all of M'aiq's lines do not start a conversation.
 - Corrected some marked-as-stolen items in Mirele Bismath
