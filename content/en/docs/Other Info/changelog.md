@@ -90,6 +90,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Follower Dialogue Expansion - Aranea Ienith
 - Shouts of Stallholders
 - HAG - Occult Orphan Rock
+- Windswept Enchantment - Fortify Light Armor Replacer - TO UPLOAD AND DOWNLOAD
 - Wicked Wayward Pass - FuzzBeeds Minor Locations
 - Better Esbern Voice Consistency Fix
 - Localized Thieves Guild Jobs
