@@ -34,6 +34,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - Dynamic Cubemaps (deprecated)
 - Tree LOD Lighting (deprecated)
 - Base Coat (replaced with Vanilla Remastered)
+- Sound Hammering Sounds (Replaced with Hammering Animation and Sound Fixes)
 - QuickLoot EE (Replaced with QuickLoot IE)
 - Which Key (Replaced with Which Key NG)
 - Cathedral Weathers and Seasons
@@ -47,7 +48,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 
 ### Added
 
-- Vanilla Remastered - Every Single Texture Upscaled and Reworked
+- Vanilla Remastered - Every Single Texture Upscaled and Reworked + USSEP Patch
 - Screen Space Global Illumination
 - Terrain Shadows
 - Terrain Shadows - Mod Patches
@@ -56,6 +57,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - NVIDIA DLSS Frame Generation (Disabled by Default)
 - Quest Fixes
 - Dragonborn DLC Fixes
+- Hammering Animation and Sound Fixes
 - Aerin Stays in Riften
 - QuickLoot IE - A QuickLoot EE Fork (Fix [#43](https://github.com/zediious/tpfz-sprinkles/issues/43))
 - QuickLoot IE - Dear Diary Dark Mode Reskin
@@ -168,21 +170,25 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - No Grass in Objects - 1.0.14 > 1.3
 - Assorted Mesh Fixes - 0.121 > 0.126
 - Inventory Interface Information Injector - 1.5.97 DLL - 1.1 > 1.1.0-SE.1
-- Better Third Person Selection - 0.7.1 > 0.8.1
+- Descriptions for Various Mods - 2.5 > 2.6.1
+- Use or Take - 1.2 > 1.3
 - Local Map Upgrade - 2.1 > 3.1.0
 - The Dragonborn's Bestiary - 1.4 > 1.5.2
 - DynDOLOD Resources - Alpha-53.1 > Alpha-54
 - Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
 - Dwemer Water Wheels - 0.2.1 > 0.2.2
-- OBody NG - 4.2 > 4.3.6
+- OBody NG - 4.2 > 4.3.7
 - Beards of Power - 0.4.1 > 0.4.2
+- DVA - Dynamic Vampire Appearance - 1.2 > 1.3
 - Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key - 0.1.1 > 0.1.2
 - Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Animated Inebriation - 2.0.9 > 2.0.9B
 - Apocryphal Library - 1.1 > 1.2
 - Simplicity of Seeding - 0.5 > 0.6.3
 - Follower Dialogue Expansion - Brelyna Maryon - 2.2.1 > 2.3.4
-- Follower Dialogue Expansion - Jenassa - 3.0 > 
-- Follower Dialogue Expansion - Aela the Huntress - 3.0.2 > 4.0
+- Follower Dialogue Expansion - Jenassa - 3.0 > 4.0
+- Follower Dialogue Expansion - Aela the Huntress - 3.0.2 > 5.0
+- Follower Dialogue Expansion - Mjoll the Lioness - 1.2 > 1.3
 - Follower Dialogue Expansion - Lydia - 1.3.1 > 1.4
 - Follower Dialogue Expansion - Erik the Slayer - 2.0 > 2.0.1
 - Falmer Servant Lines Expansion - 1.0 > 1.01
@@ -191,6 +197,7 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - PhotoMode - 1.7.1 > 1.8.0
 - The Heart of Dibella - Quest Expansion - 1.04 > 1.05
 - Remote Interactions - 1.04 > 1.05
+- Take a Peek - New Stealth Mechanic - 1.22 > 1.3
 - Alternate Perspective Addon - I Used to Be a Dungeon Boss like You - 1.1.1 > 1.2.1
 - UNSLAAD - 3.0.2 > 3.0.3
 - UNSLAAD - English Voiced - 3.0.2 > 3.0.3
@@ -200,16 +207,22 @@ Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default o
 - The Thrassian Scare - 2.1.2 > 2.1.2.1
 - Siege at Icemoth - 1.3 > 1.3.4
 - Dragon War - A Dragon Overhaul - 3.0.6 > 4.1.5
+- Infinite Dragon Variants - 2.0.1 > 2.1.0
+- Nordic Winds - 1.2 > 1.21
 - Faster HDT-SMP - 2.0.2beta-1 > 2.5.1
+- Comprehensive First Person Animation Overhaul - 1.4-hotfix > 1.5.1
+- Weapon Styles - Draw Sheathe Animations for IED - 2.2 > 3.0.1
 - BFCO - Attack Behavior Framework - 3.2.33 > 3.3.10
 - BFCO - Elden Rim Moveset Collection - 1.0.1 > 1.1.1
 - BFCO - Elden Rim Dual Wield Moveset Collection - 0.9 > 0.9-BFCO
 - New Creature Animation - Werewolf - 1.1 > 2.01
+- EVG Conditional Idles Extended - 1.41 > 1.5
+- Modern Female Sitting Animations Overhaul - 1.9 > 2.0
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
 - I Just Want to Sit Down and Read - 1.4 > 1.7
-- Dylbills Papyrus Functions - 7.4 > 8.4
-- ENB Extender for Skyrim - 1.2.3 > 1.3
-- SkyPatcher - 3.3.2 > 3.7.0
+- Dylbills Papyrus Functions - 7.4 > 8.5
+- ENB Extender for Skyrim - 1.2.3 > 1.3.1
+- SkyPatcher - 3.3.2 > 3.7.2
 - Object Categorization Framework - 6.0.2 > 6.1.0
 - Automated Enchanted Variants - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
 - Leveled List Additions (Weapons) - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
