@@ -13,11 +13,15 @@ Follow these steps to switch from Keyboard and Mouse to Controller;
 
 2. **DISABLE** the *"Keyboard Keybinds"* mod, and **ENABLE** the *"Gamepad Plus Plus"* and *"Complete Controller Setup"* mods.
 
+3. Leave the MCM Recorder preset mods untouched.
+
 At this point, you should load the game, and load into your save. Then, follow the below instructions
 
 1. Open the pause menu, and navigate to Controls. Reset your controls to default (key/button to do so is shown at the bottom of the GUI)
 
 2. Open the MCM menu in the pause menu, and find the **"Gamepadd++"** MCM menu. Open the **Presets & Info** tab, and press *"Restore Default Settings"*
+
+3. Open the MCM menu named **MCM Recorder**, and click on the **"AurbaesenceController"** preset. Use the Run option, then close the MCM.
 
 Now, you are ready to use your controller!
 
@@ -28,6 +32,8 @@ If you wish to move back to the keyboard primarily, you must follow the below st
 1. In the left pane of Mod Organizer, scroll all the way to the bottom, and find the **"CONTROLLER SETUP (OPTIONAL)"** separator. You will find three mods in this separator.
 
 2. **ENABLE** the *"Keyboard Keybinds"* mod, and **DISABLE** the *"Gamepad Plus Plus"* and *"Complete Controller Setup"* mods.
+
+3. In game, open the MCM menu, then open the MCM menu named **MCM Recorder**, and click on the **"AurbaesenceKeyboard"** preset. Use the Run option, then close the MCM.
 
 This will return the keybinds to their original state.
 
