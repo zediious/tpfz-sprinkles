@@ -56,13 +56,20 @@ The new game experience has been improved, with many more avenues for equipping 
 - Terrain Shadows - Mod Patches
 - Cloud Shadows
 - Skylighting
-- NVIDIA DLSS Frame Generation (Disabled by Default)
+- Community Shaders - Frame Generation (Doodlum) (Disabled by Default)
+- ENB - Frame Generation (Doodlum) (Disabled by Default)
+- SSEDisplayTweaks INI - Frame Generation (Disabled by Default)
 - Quest Fixes
 - Dragonborn DLC Fixes
 - Hammering Animation and Sound Fixes
 - Aerin Stays in Riften
+- Tween Menu Overhaul
+- Tween Menu Overhaul - Untarnished UI Reskin (Close to DDDM)
 - QuickLoot IE - A QuickLoot EE Fork (Fix [#43](https://github.com/zediious/tpfz-sprinkles/issues/43))
 - QuickLoot IE - Dear Diary Dark Mode Reskin
+- Favorites Menu Effects Description
+- Relationship Change Notifications
+- Relationship Change Notifications - Rewrite
 - Which Key NG
 - The Dragonborn's Bestiary - DDDM Patch
 - The Dragonborn's Bestiary - Default Interface
@@ -92,6 +99,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Follower Dialogue Expansion - Borgakh the Steel Heart
 - Follower Dialogue Expansion - Roggi Knot-Beard
 - Follower Dialogue Expansion - Aranea Ienith
+- Follower Dialogue Expansion - Rayya
 - Shouts of Stallholders
 - HAG - Occult Orphan Rock
 - Windswept Enchantment - Fortify Light Armor Replacer - TO UPLOAD AND DOWNLOAD
@@ -103,12 +111,13 @@ The new game experience has been improved, with many more avenues for equipping 
 - Dealing with Backstories - Description Framework Addon - TO UPLOAD AND DOWNLOAD
 - Dealing with Backstories - Hand to Hand Patch TO UPLOAD AND DOWNLOAD!!!
 - Dealing with Backstories - Experience and Sets of Skills CSF Patch TO UPLOAD AND DOWNLOAD!!!
-- Remote Interactions - Animated Inebration Patch - TO UPLOAD AND DOWNLOAD
-- Immersive Horses - Vanilla Start Fix TO UPLOAD AND DOWNLOAD!!!
+- Remote Interactions - Animated Inebration Patch
+- Immersive Horses - Vanilla Start Fix
 - Better Grabbing
 - Spellsiphon - Disable New Game Book - TO UPLOAD AND DOWNLOAD
 - Immersive Illusion Spells
 - Alteration - Open Lock Spell
+- Alternate Perspective - Abandoned Prison Start Addon
 - Alternate Perspective - Falkreath Favor Quest Failsafe - TO UPLOAD AND DOWNLOAD
 - Alternate Perspective - Random Equipment Roll
 - Alternate Perspective - Dealing with Backstories Addon - TO UPLOAD AND DOWNLOAD
@@ -127,6 +136,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Siege at Icemoth - Simonrim Consistency Patch
 - Final Farewell
 - Unmarked Locations Pack - All In One + Patch Hub
+- Unmarked Locations Pack - Apocrypha
 - More to do in the Soul Cairn
 - Redeeming Fultheim - A Blades Quest Addon
 - Rest In Peace Katria
@@ -135,12 +145,15 @@ The new game experience has been improved, with many more avenues for equipping 
 - Wandering Mercenary Armor + HIMBO Refit
 - Nirn Necessities - SMP Accessories
 - Dragons Use Thu'um + Patch Collection
-- Forgotten Vale Dragons - No Dragonborn Requirement TO UPLOAD AND DOWNLOAD!!!
-- No Dragonborn Until Unbound TO UPLOAD AND DOWNLOAD!!!
+- Forgotten Vale Dragons - No Dragonborn Requirement
+- No Dragonborn Until Unbound
+- ShowRaceMenu Alternative
+- ShowRaceMenu Alternative - No Spell TO UPLOAD AND DOWNLOAD
 - Dynamic Collision Adjustment - True Prone System Patch
 - Exit Sneak On Sprint
 - Jump Slide Fix
 - SkyParkour - A SkyClimb Addon
+- Animation Motion Fix
 - Weapon Switch Animation Fix
 - Samurai - Dai Katana 2H Katana Animation (Converted to BFCO)
 - New Creature Animation - Dwarven Centurion
@@ -152,21 +165,24 @@ The new game experience has been improved, with many more avenues for equipping 
 - AddItemMenu - Give Menu Item Directly TO UPLOAD AND DOWNLOAD!!!
 - AddItemMenu - Remove on Leave AP Starting Room TO UPLOAD AND DOWNLOAD!!!
 - Keyboard Keybinds TO UPLOAD AND DOWNLOAD!!!
+- MCM Recorder - Keyboard Keybinds TO UPLOAD AND DOWNLOAD!!!
+- MCM Recorder - Controller Keybinds TO UPLOAD AND DOWNLOAD!!!
 - Gamepad Plus Plus
 - Complete Controller Setuo
 
 ### Updated
 
 - Mod Organizer - 2.5.0 > 2.5.2
-- Community Shaders - 0.8.7 > 1.1.15
+- Community Shaders - 0.8.7 > 1.2.0
 - Screen-Space Shadows - 1.2 > 1.2.1
-- Subsurface Scattering - 1.0.1 > 2.0
-- Wetness Effects - 1.0.2 > 2.0
+- Subsurface Scattering - 1.0.1 > 2.0.1
+- Water Effects (Renamed from Water Caustics) - 1.0 > 1.0.1
+- Wetness Effects - 1.0.2 > 2.0.1
 - Grass Lighting - 1.4.1 > 2.0
-- Grass Collision - 1.2 > 2.0
+- Grass Collision - 1.2 > 2.0.1
 - Light Limit Fix - 1.3 > 2.0.1
 - ENB Preset - Silent Horizons 2 - 1.7.1 > 1.7.2
-- DynDOLOD 3 Alpha - Alpha-182 > Alpha-187
+- DynDOLOD 3 Alpha - Alpha-182 > Alpha-190
 - Skyrim Particle Patch - 1.3.4 > 1.3.5
 - powerofthree's Tweaks - 1.12.2 > 1.13.1
 - No Grass in Objects - 1.0.14 > 1.3
@@ -176,7 +192,8 @@ The new game experience has been improved, with many more avenues for equipping 
 - Use or Take - 1.2 > 1.3
 - Local Map Upgrade - 2.1 > 3.1.0
 - The Dragonborn's Bestiary - 1.4 > 1.5.2
-- DynDOLOD Resources - Alpha-53.1 > Alpha-54
+- The Dragonborn's Bestiary - Zediious Addons - 0.1-pre1 > 1.1 TO UPLOAD AND DOWNLOAD
+- DynDOLOD Resources - Alpha-53.1 > Alpha-55
 - Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
 - Dwemer Water Wheels - 0.2.1 > 0.2.2
 - OBody NG - 4.2 > 4.3.7
@@ -187,6 +204,8 @@ The new game experience has been improved, with many more avenues for equipping 
 - Animated Inebriation - 2.0.9 > 2.0.9B
 - Apocryphal Library - 1.1 > 1.2
 - Simplicity of Seeding - 0.5 > 0.6.3
+- Crowded Streets - 1.0.3 > 1.1.1
+- Extended Bandit Dialogue -  1.0.1 > 1.0.2
 - Follower Dialogue Expansion - Brelyna Maryon - 2.2.1 > 2.3.4
 - Follower Dialogue Expansion - Jenassa - 3.0 > 4.0
 - Follower Dialogue Expansion - Aela the Huntress - 3.0.2 > 5.0
@@ -200,6 +219,8 @@ The new game experience has been improved, with many more avenues for equipping 
 - The Heart of Dibella - Quest Expansion - 1.04 > 1.05
 - Remote Interactions - 1.04 > 1.05
 - Take a Peek - New Stealth Mechanic - 1.22 > 1.3
+- Stress and Fear - A Dynamic Sanity System - 1.05 > 2.0
+- Alternate Perspective Addon - New Beginnings - 1.3.6 > 1.3.7
 - Alternate Perspective Addon - I Used to Be a Dungeon Boss like You - 1.1.1 > 1.2.1
 - UNSLAAD - 3.0.2 > 3.0.3
 - UNSLAAD - English Voiced - 3.0.2 > 3.0.3
@@ -207,7 +228,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - The Wheels of Lull - 5.1.13.3 > 5.2.1
 - Baba Yaga and the Labyrinth - 0.4.1 > 0.4.2
 - The Thrassian Scare - 2.1.2 > 2.1.2.1
-- Siege at Icemoth - 1.3 > 1.3.4
+- Siege at Icemoth - 1.3 > 1.3.8
 - Dragon War - A Dragon Overhaul - 3.0.6 > 4.1.5
 - Infinite Dragon Variants - 2.0.1 > 2.1.0
 - Nordic Winds - 1.2 > 1.21
@@ -218,11 +239,13 @@ The new game experience has been improved, with many more avenues for equipping 
 - BFCO - Elden Rim Moveset Collection - 1.0.1 > 1.1.1
 - BFCO - Elden Rim Dual Wield Moveset Collection - 0.9 > 0.9-BFCO
 - New Creature Animation - Werewolf - 1.1 > 2.01
-- EVG Conditional Idles Extended - 1.41 > 1.5
+- New Creature Animation - Falmer - 1.0 > 2.0
+- EVG Conditional Idles Extended - 1.41 > 1.6
 - Modern Female Sitting Animations Overhaul - 1.9 > 2.0
 - Dynamic Crafting Animations - 1.2.1 > 1.2.2
 - I Just Want to Sit Down and Read - 1.4 > 1.7
-- Dylbills Papyrus Functions - 7.4 > 8.5
+- powerofthree's Papyrus Extender - 5.9.0 > 5.10.0
+- Dylbills Papyrus Functions - 7.4 > 8.8
 - ENB Extender for Skyrim - 1.2.3 > 1.3.1
 - SkyPatcher - 3.3.2 > 3.7.2
 - Object Categorization Framework - 6.0.2 > 6.1.0
@@ -255,9 +278,10 @@ The new game experience has been improved, with many more avenues for equipping 
 - Corrected TGR Barenziah stone location to COTN Winterhold's Inn location.
 - Actually fixed Security XP gain from taking NFF and KWF follower items
 - Ensured all of M'aiq's lines do not start a conversation.
-- Corrected some marked-as-stolen items in Mirele Bismath
+- Fixed incorrect UV mapping on Iron Legion/Old Armor sets.
+- Corrected some marked-as-stolen items in Mirele Bismath.
 - Corrected workbench keyword on Pig Iron temper COBJs
-- Correctly aligned water trough at Markarth blacksmith
+- Correctly aligned water trough at Markarth blacksmith.
 
 ### Tweaks
 
@@ -279,6 +303,8 @@ The new game experience has been improved, with many more avenues for equipping 
 - SkyClimb climbing now requires holding jump for at least 0.1 seconds.
 - Disabled Survival Mode prompt on entering worldspace in a new game.
 - Disabled Khajiit Will Follow quest and book on a new game.
+- Remade Mihail Water/Swamp/Gravehag Bestiary images.
+- Adjusted Grass LOD brightness in the Ultra Profile.
 - Added unique animations for Nodachi/Dai Katana.
 - Reduced Nodachi/Dai Katana damage due to speed.
 
