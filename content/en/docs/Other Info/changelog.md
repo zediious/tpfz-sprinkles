@@ -132,6 +132,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Khajiit Will Follow - No Starting Quest or Book TO UPLOAD AND DOWNLOAD!!!
 - Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
+- Haunter of Skyggenborg
 - The Breathing Abyss
 - Siege at Icemoth - Simonrim Consistency Patch
 - Final Farewell
