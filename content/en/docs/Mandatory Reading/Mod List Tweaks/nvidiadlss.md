@@ -11,7 +11,7 @@ However, **using it REQUIRES that your graphics card supports DirectX 12/DX12, o
 
 2. In the filtered results near the top left, enable either the **"Community Shaders - Frame Generation (Doodlum)"** mod, OR the **"ENB- Frame Generation (Doodlum)"**. DO NOT enable both of them! By default, this mod list uses Community Shaders, so you should use the Community Shaders version unless you have specifically enabled ENB.
 
-3. You will see a few other mods with **"Frame Generation INI"** in their name among the filtered results. Enable the mod that corresponds to your monitor's refresh rate (60hz, 144hz). **ENSURE** that you enable one of these, and **DO NOT** enable more than one.
+3. You MUST also enable the  **"SSEDisplayTweaks INI - Frame Generation"** mod, located directly underneath the two Frame Generation mods. DO NOT skip this!
 
 If you do not have a graphics card that supports **DirectX12 / DX12**, DO NOT use any of the above instructions!
 
