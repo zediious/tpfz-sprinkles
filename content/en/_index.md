@@ -3,7 +3,10 @@ title: Aurbaesence
 ---
 {{< blocks/cover height="full" >}}
 <div class="card bg-dark p-3 border-5">
-  <p class="mb-5 mt-0 fs-1 text-white">Aurbaesence</p>
+  <!-- <p class="mb-5 mt-0 fs-1 text-white">Aurbaesence</p> -->
+  <div align=center>
+    <img width=50% src="/banners/banner.png"></img>
+  </div>
   <div class="row justify-content-center">
     <a class="btn btn-lg btn-secondary me-3 mb-4 col-6" href="./docs/">
       Read the Docs and Install! <i class="fas fa-arrow-alt-circle-right ms-2"></i>
