@@ -55,6 +55,8 @@ Skyrim is very heavy on processors, and also happens to not make use of all avai
 
 When this mod list was made, I had a GTX 980. In November 2023, I upgraded to a RTX 4070. The below section will start with my initial report on the performance with the 980. The "Ultra" preset did not exist while I had the 980. Afterwards, I will describe the performance with the 4070 across all profiles. Please use these as a guideline to see if you are able to run this mod list based on the information after the specification tables. I can make no guarantees, as certain hardware configurations may result in bottlenecks or other issues.
 
+Keep in mind, that you do have the option of using [Frame Generation Mods](../../mod-list-tweaks/nvidiadlss) with this modlist, which will increase your framerate a noticeable amount. Check this linked page for more information!
+
 <hr>
 
 <div align=center>
