@@ -21,7 +21,9 @@ The largest change, outside of the name, with this version is the change from EN
 
 Controller Suppport has also been added, in the form of Complete Controller Setup! This optional suite of mods will allow you to use all important gameplay functions with the controller! [Read the guide here to set up full controller support!](../../mandatory-reading/mod-list-tweaks/controller/)
 
-Community Shaders' NVIDIA DLSS addon is also included as a disabled-by-default option. This only works if you have an NVIDIA 40 or 50 series (4070, 5080, etc) graphics card, however you should absolutely enable this mod if you have one of those cards! [A guide to do so exists in the Mod List Tweaks section here!](../../mandatory-reading/mod-list-tweaks/nvidiadlss/)
+Community Shaders' and ENB Frame Generation addons have also been included as disabled-by-default mods. These will ONLY WORK if your graphics card support DirectX 12/DX12, however you should absolutely enable one of these mod's if you meet the requirements! [A guide to do so exists in the Mod List Tweaks section here!](../../mandatory-reading/mod-list-tweaks/nvidiadlss/)
+
+The new game experience has been improved, with many more avenues for equipping yourself in the starting room made available, as well as the ability to instantly learn spells in the starting room! Dealing with Backstories has also been integrated with a new game experience, such that you will automatically enter backstory creation after leaving the starting room, if you choose to do so.
 
 <details>
 
