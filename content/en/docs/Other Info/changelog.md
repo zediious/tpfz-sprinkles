@@ -261,6 +261,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Weapon and Armor Balance - 1.0-pre1 > 1.1
 - City Navmesh Patches - 1.0-pre1 > 1.1
 - Synthesis Output - 1.0-pre1 > 1.1
+- TexGen Output - 1.0pre > 1.1
 - DynDOLOD Output - Ultra - 1.0pre1 > 1.1
 - DynDOLOD Output - High - 1.0pre1 > 1.1
 - DynDOLOD Output - Low - 1.0pre1 > 1.1
