@@ -15,6 +15,8 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 ## v1.1 - **INSERT_DATE_HERE**
 
+This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them.
+
 The modlist's name has been changed to **Aurbaesence! (OR-bes-ence)** As the list evolves, it feels appropriate to give it it's own identity away from Phoenix's great work. Overall, this version represents a point in time, where I now feel this list has nearly, if not fully, reached it's original idea.
 
 The largest change with this version, outside of the name, is the change from ENB to Community Shaders in the main profile. All existing ENB presets still remain as optional mods, however Community Shaders has reached a point where I am entirely satisfied with with it's visuals, along with it's lesser performance hit.
