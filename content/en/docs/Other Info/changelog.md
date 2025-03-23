@@ -102,34 +102,34 @@ The new game experience has been improved, with many more avenues for equipping 
 - Follower Dialogue Expansion - Rayya
 - Shouts of Stallholders
 - HAG - Occult Orphan Rock
-- Windswept Enchantment - Fortify Light Armor Replacer - TO UPLOAD AND DOWNLOAD
+- Windswept Enchantment - Fortify Light Armor Replacer
 - Wicked Wayward Pass - FuzzBeeds Minor Locations
 - Better Esbern Voice Consistency Fix
 - Localized Thieves Guild Jobs
-- Thieve's Guild Requirements - Localized Guild Jobs Patch - TO UPLOAD AND DOWNLOAD
+- Thieve's Guild Requirements - Localized Guild Jobs Patch
 - The Taste of Death - Quest Addon
-- Dealing with Backstories - Description Framework Addon - TO UPLOAD AND DOWNLOAD
-- Dealing with Backstories - Hand to Hand Patch TO UPLOAD AND DOWNLOAD!!!
-- Dealing with Backstories - Experience and Sets of Skills CSF Patch TO UPLOAD AND DOWNLOAD!!!
+- Dealing with Backstories - Description Framework Addon
+- Dealing with Backstories - Hand to Hand Patch
+- Dealing with Backstories - Experience and Sets of Skills CSF Patch
 - Remote Interactions - Animated Inebration Patch
 - Immersive Horses - Vanilla Start Fix
 - Better Grabbing
-- Spellsiphon - Disable New Game Book - TO UPLOAD AND DOWNLOAD
+- Spellsiphon - Disable New Game Book
 - Immersive Illusion Spells
 - Alteration - Open Lock Spell
 - Alternate Perspective - Abandoned Prison Start Addon
-- Alternate Perspective - Falkreath Favor Quest Failsafe - TO UPLOAD AND DOWNLOAD
+- Alternate Perspective - Falkreath Favor Quest Failsafe
 - Alternate Perspective - Random Equipment Roll
-- Alternate Perspective - Dealing with Backstories Addon - TO UPLOAD AND DOWNLOAD
-- Alternate Perspective - Immersive Spell Learning DESTified Addon TO UPLOAD AND DOWNLOAD!!!
-- Alternate Perspective - AYOPMQ and ZIA Patch - TO UPLOAD AND DOWNLOAD
+- Alternate Perspective - Dealing with Backstories Addon
+- Alternate Perspective - Immersive Spell Learning DESTified Addon
+- Alternate Perspective - AYOPMQ and ZIA Patch
 - DAc0da
 - DAc0da - English Translation
 - DAc0da - Delayed Start
 - The Gray Cowl of Nocturnal - 10th Anniversary
 - The Gray Cowl of Nocturnal 10th Anniversary - Sa547's Flora Overhaul
 - Missives Worldspace Additions - Gray Cowl
-- Khajiit Will Follow - No Starting Quest or Book TO UPLOAD AND DOWNLOAD!!!
+- Khajiit Will Follow - No Starting Quest or Book
 - Sleepwalking into a Nightmare
 - Demon of Dream + Simonrim Patches
 - Haunter of Skyggenborg
@@ -149,7 +149,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Forgotten Vale Dragons - No Dragonborn Requirement
 - No Dragonborn Until Unbound
 - ShowRaceMenu Alternative
-- ShowRaceMenu Alternative - No Spell TO UPLOAD AND DOWNLOAD
+- ShowRaceMenu Alternative - No Spell
 - Dynamic Collision Adjustment - True Prone System Patch
 - Exit Sneak On Sprint
 - Jump Slide Fix
@@ -163,11 +163,11 @@ The new game experience has been improved, with many more avenues for equipping 
 - Pan's Nameless Hunters
 - Pan's Nameless Witches
 - Andrealphus' Papyrus Functions
-- AddItemMenu - Give Menu Item Directly TO UPLOAD AND DOWNLOAD!!!
-- AddItemMenu - Remove on Leave AP Starting Room TO UPLOAD AND DOWNLOAD!!!
-- Keyboard Keybinds TO UPLOAD AND DOWNLOAD!!!
-- MCM Recorder - Keyboard Keybinds TO UPLOAD AND DOWNLOAD!!!
-- MCM Recorder - Controller Keybinds TO UPLOAD AND DOWNLOAD!!!
+- AddItemMenu - Give Menu Item Directly
+- AddItemMenu - Remove on Leave AP Starting Room
+- Keyboard Keybinds
+- MCM Recorder - Keyboard Keybinds
+- MCM Recorder - Controller Keybinds
 - Gamepad Plus Plus
 - Complete Controller Setuo
 
@@ -193,7 +193,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Use or Take - 1.2 > 1.3
 - Local Map Upgrade - 2.1 > 3.1.0
 - The Dragonborn's Bestiary - 1.4 > 1.5.2
-- The Dragonborn's Bestiary - Zediious Addons - 0.1-pre1 > 1.1 TO UPLOAD AND DOWNLOAD
+- The Dragonborn's Bestiary - Zediious Addons - 0.1-pre1 > 1.1
 - DynDOLOD Resources - Alpha-53.1 > Alpha-55
 - Dirt and Blood - Dynamic Visual Effects - 2.35 > 2.37
 - Dwemer Water Wheels - 0.2.1 > 0.2.2
@@ -201,7 +201,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Beards of Power - 0.4.1 > 0.4.2
 - DVA - Dynamic Vampire Appearance - 1.2 > 1.3
 - Uncanny Luck - 100 Max Pickpocket Chance After Returning Skeleton Key - 0.1.1 > 0.1.2
-- Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Failed Pickpocket Gains XP Redux - NFF and KWF Patch - 1.0-pre1 > 1.0.1
 - Animated Inebriation - 2.0.9 > 2.0.9B
 - Apocryphal Library - 1.1 > 1.2
 - Simplicity of Seeding - 0.5 > 0.6.3
@@ -250,20 +250,23 @@ The new game experience has been improved, with many more avenues for equipping 
 - ENB Extender for Skyrim - 1.2.3 > 1.3.1
 - SkyPatcher - 3.3.2 > 3.7.2
 - Object Categorization Framework - 6.0.2 > 6.1.0
-- Automated Enchanted Variants - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- Leveled List Additions (Weapons) - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- Automated Enchanted Variant Leveled List Additions - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- MonsterPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- ZedPatch - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- ZedPatch2 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- ZedPatch3 - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- Weapon and Armor Balance - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- City Navmesh Patches - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- Synthesis Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- ALL DYNDOLOD PRESETS NEED RERAN AND UPLOADED!!!
-- Occlusion Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- BodySlide Output - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
-- Overwrite Misc - 1.0-pre1 > 1.0.1 TO UPLOAD AND DOWNLOAD
+- Automated Enchanted Variants - 1.0-pre1 > 1.1
+- Leveled List Additions (Armors) - 1.0-pre1 > 1.1
+- Leveled List Additions (Weapons) - 1.0-pre1 > 1.1
+- Automated Enchanted Variant Leveled List Additions - 1.0-pre1 > 1.1
+- MonsterPatch - 1.0-pre1 > 1.1
+- ZedPatch - 1.0-pre1 > 1.1
+- ZedPatch2 - 1.0-pre1 > 1.1
+- ZedPatch3 - 1.0-pre1 > 1.1
+- Weapon and Armor Balance - 1.0-pre1 > 1.1
+- City Navmesh Patches - 1.0-pre1 > 1.1
+- Synthesis Output - 1.0-pre1 > 1.1
+- DynDOLOD Output - Ultra - 1.0pre1 > 1.1
+- DynDOLOD Output - High - 1.0pre1 > 1.1
+- DynDOLOD Output - Low - 1.0pre1 > 1.1
+- Occlusion Output - 1.0-pre1 > 1.1
+- BodySlide Output - 1.0-pre1 > 1.1
+- Overwrite Misc - 1.0-pre1 > 1.1
 
 ### Fixes
 
