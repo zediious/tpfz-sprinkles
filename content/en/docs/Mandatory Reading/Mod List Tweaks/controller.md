@@ -21,6 +21,10 @@ At this point, you should load the game, and load into your save. Then, follow t
 
 2. Open the MCM menu named **MCM Recorder**, and click on the **"AurbaesenceController"** preset. Use the Run option, then close the MCM.
 
+3. Re-open the MCM, open the **Gamepad++** MCM menu. Navigate to **Presets & Info** > **Load Preset** > **Auebaesence**. After selecting **Aurbaesence**, close the MCM menu completely.
+
+4. Re-open the MCM menu, and open **Gamepad++** once again. Open the **Keys & Settings** page, press OK to the prompt, then close the MCM menu.
+
 Confirm that the the controller bindings are working as [listed on the bindings documentation](../../gameplay-guide/importanthotkeys). Now, you are ready to use your controller!
 
 ## Switching back to Keyboard/Mouse
