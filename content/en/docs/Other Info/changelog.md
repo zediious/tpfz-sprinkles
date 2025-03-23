@@ -87,6 +87,7 @@ The new game experience has been improved, with many more avenues for equipping 
 - Halffaces - Necromantic Altar
 - HFs - Aretino Family Heirloom Remodel
 - Master Thief Armor (Guildmaster Armor replacer)
+- Stealth Detection Fixes
 - Skyfall's Blue Palace Courtyard
 - JK's Nightingale Hall
 - Evolving Locations - Cliffside Retreat
