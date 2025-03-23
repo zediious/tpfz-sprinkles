@@ -9,8 +9,8 @@ weight: 20
     <img width=80% src="../../../banners/banner.png"></img>
     <br>
     <br>
-    <p>
-        <span style="font-size: 20px;">A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.</span>
+    <p style="font-size: 20px;">
+        A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
         <br>
         <br>
         Current version: v1.1 - <b>INSERT_DATE_HERE</b>
