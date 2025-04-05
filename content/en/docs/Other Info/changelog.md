@@ -13,7 +13,7 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
-## v1.1 - **INSERT_DATE_HERE**
+## v1.1 - **4/5/2025**
 
 This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them.
 

@@ -13,7 +13,7 @@ weight: 20
         A heavily curated Skyrim mod list, focused on elevating the game to a modern standard.
         <br>
         <br>
-        Current version: v1.1 - <b>INSERT_DATE_HERE</b>
+        Current version: v1.1 - <b>4/5/2025</b>
     </p>
 </div>
 
