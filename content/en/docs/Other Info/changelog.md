@@ -194,6 +194,7 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 - No Grass in Objects - 1.0.14 > 1.3
 - Assorted Mesh Fixes - 0.121 > 0.126
 - Inventory Interface Information Injector - 1.5.97 DLL - 1.1 > 1.1.0-SE.1
+- Kome's Inventory Tweaks - Zediious Patches - 1.0-pre1 > 1.1
 - Descriptions for Various Mods - 2.5 > 2.6.1
 - Use or Take - 1.2 > 1.3
 - Local Map Upgrade - 2.1 > 3.1.0
