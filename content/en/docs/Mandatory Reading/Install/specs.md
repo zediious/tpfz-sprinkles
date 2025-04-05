@@ -23,6 +23,8 @@ Below is a list of the differences between these three profiles
 
 </div>
 
+Keep in mind that **Community Shaders** does still enact a sizeable performance impact. You can safely disable all of the mods in the **COMMUNITY SHADERS** separator to further increase performance in the "Refined - Performance" Profile
+
 You can use either profile, and you can switch between them at any time. To do so, click the "Profile" dropdown menu at the top of the left pane in Mod Organizer 2, and select your desired profile. Note that any changes made in one profile will **not** reflect in the others.
 
 Note that you have multiple ENBs you can use as an option if you choose. These exist near the very top of the the left pane of Mod Organizer, alongside Community Shaders and it's addons. Ensure that you **disable** Community Shaders if you decide to do so.
