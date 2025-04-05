@@ -18,7 +18,9 @@ This version of .NET is required to launch the game via Mod Organizer. Make sure
 
 2. If you don't have Microsoft VC_Redist installed, you may see an error. You can download the latest versions here: [https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version). Note that this is separate from the .NET 5.0 runtime downloaded above.
 
-3. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
+3. If you have recently installed the **Windows 11 24h2 Feature Update**, you will likely NEED to repair or re-install the Microsoft VC_Redist linked above due to issues caused by this update.
+
+4. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
 
 ## Check your Overwrite Directory
 
