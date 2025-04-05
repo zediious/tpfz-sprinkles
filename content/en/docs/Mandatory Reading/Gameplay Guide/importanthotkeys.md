@@ -14,11 +14,13 @@ Above is a graphic for both Keyboard/Mouse and Controller bindings
 
 Only newly added or changed vanilla hotkeys are listed in the KBM graphic, the controller graphic should show all controls. If you do not see a binding here, then it is as it is in vanilla. Let me know if you find this is not the case!
 
+Below you will find each binding for Keyboard/Mouse only, **controller bindings are only listed in the above graphic.**
+
+Listed alongside each keybind you will see where you can change that keybind. **Changing controller bindings is not as straightforward and not supported.** 
+
 ## Regarding changing your keybinds
 
 If you want to change keybinds in game with your keyboard, you **must** unplug your controllers. Otherwise, you will be unable to do so.
-
-Below you will find each binding for Keyboard/Mouse. **Changing controller bindings is not as straightforward and not supported.** Listed alongside each keybind you will see where you can change that keybind.
 
 ## LamasTinyHUD
 
@@ -27,6 +29,8 @@ LamasTinyHUD is used to set up sequential equipment loadouts that allow you to i
 If you would like a video explanation, [here is one provided by the mod author](https://www.youtube.com/watch?v=zv6z4Qp17RY). It would be best to read the below before watching the video, to better understand what is going on.
 
 You can change the LamasTinyHUD keybinds from the mod's MCM.
+
+Keep in mind that by default, **you cannot use LamasTinyHUD with a controller**
 
 ### Adding and Removing items from your queues
 
@@ -64,6 +68,8 @@ HOLD K + Press 1, 2, F, or C while hovering over item/shout in inventory or magi
 Wheeler is a fantastic mod you can use to manage often accessed items in an incredibly fluid and easy way. The mod has rich functionality, packed into a short set of keybinds.
 
 You can change the keybinds for Wheeler from within the ["dMenu"](#home).
+
+With this modlist, **you can fully utilize Wheeler when using a controller!**
 
 For information on configurating the Wheel Menu, [read the mod page description here](https://www.nexusmods.com/skyrimspecialedition/mods/97345), or [watch this video by ARJARIM on it's use here!](https://www.youtube.com/watch?v=H0xYkTblJmE&)
 
