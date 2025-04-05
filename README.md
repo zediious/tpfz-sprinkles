@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/zediious/tpfz-sprinkles/main/static/banners/newbanner.webp"></img>
+<img src="https://raw.githubusercontent.com/zediious/tpfz-sprinkles/main/static/banners/banner.webp"></img>
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
