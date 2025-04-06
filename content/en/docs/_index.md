@@ -57,7 +57,7 @@ To seal it all off, this list is accompanied by a completely customized set of l
 
 ## Warnings/Disclaimers
 
-As of the latest version, the modlist requires ~406GB (~144GB of Downloads/~262GB of Mods) of drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+As of the latest version, the modlist requires ~470GB (~191GB of Downloads/~276GB of Mods) of drive space on top of the ~14GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. You are welcome and recommended to use a separate drive for the downloaded archives, saving some space on the SSD storing the actual installed mod list. You can also feel free to delete the downloaded archives after installation, but keep in mind that you will have to re-download all of them if you need to re-install the list. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
 
 Wabbajack does not require that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually.
 
