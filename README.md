@@ -1,10 +1,10 @@
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/zediious/tpfz-sprinkles/refs/heads/main/static/banners/banner.png"></img>
+<img src="https://raw.githubusercontent.com/zediious/aurbaesence/refs/heads/main/static/banners/banner.png"></img>
 
 ### [Discord](https://discord.gg/CvhTeavrcW)
 
-### [Read the documentation and install the mod list](https://zediious.github.io/tpfz-sprinkles/docs/)
+### [Read the documentation and install the mod list](https://aurbaesence.info/)
 
 </div>
 

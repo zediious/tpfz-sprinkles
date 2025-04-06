@@ -93,7 +93,7 @@ ONLY if you decide to [change the block key](../../mod-list-tweaks/powerattackbl
 
 ## Take Note of any Current Bugs
 
-Take a look at our full current issue tracker here; [https://github.com/zediious/tpfz-sprinkles/issues](https://github.com/zediious/tpfz-sprinkles/issues).
+Take a look at our full current issue tracker here; [https://github.com/zediious/aurbaesence/issues](https://github.com/zediious/aurbaesence/issues).
 
 Issues that are very frequent and/or effect the experience as a whole will be pinned at the top of the issue tracker. It will be valuable for you to check the others as well to confirm what you may need to look out for in the current version.
 

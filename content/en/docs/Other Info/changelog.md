@@ -69,7 +69,7 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 - Aerin Stays in Riften
 - Tween Menu Overhaul
 - Tween Menu Overhaul - Untarnished UI Reskin (Close to DDDM)
-- QuickLoot IE - A QuickLoot EE Fork (Fix [#43](https://github.com/zediious/tpfz-sprinkles/issues/43))
+- QuickLoot IE - A QuickLoot EE Fork (Fix [#43](https://github.com/zediious/aurbaesence/issues/43))
 - QuickLoot IE - Dear Diary Dark Mode Reskin
 - Favorites Menu Effects Description
 - Relationship Change Notifications
@@ -278,13 +278,13 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 ### Fixes
 
 - Ensure that Jarl of Falkreath dialogue after receiving letter will always be visible once receiving the letter unless you use the `coc` command to teleport to Falkreath after setting your level to 12+ in the starting room (don't do this).
-- Ensure At Your Own Pace Misc objectives are completed if using the Dragonborn > High Hrothgar Alternate Perspective start option on a new game (Fix [#16](https://github.com/zediious/tpfz-sprinkles/issues/16))
+- Ensure At Your Own Pace Misc objectives are completed if using the Dragonborn > High Hrothgar Alternate Perspective start option on a new game (Fix [#16](https://github.com/zediious/aurbaesence/issues/16))
 - Ensure that when using the above alternate start, the swapped Thane weapon from Zim's Immersive Artifacts is given properly.
 - Corrected environment mask incompatibility with Community Shaders on the following armor mods
   - Reiko Samurai Armor
   - Knight Armor
   - Dremora Armor
-- Fix a variety of quests from Capital Windhelm due a corrupt mod installation. (Fix [#131](https://github.com/zediious/tpfz-sprinkles/issues/131))
+- Fix a variety of quests from Capital Windhelm due a corrupt mod installation. (Fix [#131](https://github.com/zediious/aurbaesence/issues/131))
 - Corrected vanilla start issues due to horse speed changes from Immersive Horses.
 - Corrected TGR Barenziah stone location to COTN Winterhold's Inn location.
 - Actually fixed Security XP gain from taking NFF and KWF follower items
@@ -304,7 +304,7 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 - Modified Prone/Lay Down hotkey to Left SHIFT + V from Left SHIFT only. Rolling and jumping to prone do not require V.
 - Entering prone will now modify your character's collision accordingly, so that you can now crawl into smaller gaps.
 - Prevent the player from leaving a sneaking state while they are prone. You must leave prone first to leave sneak.
-- Allow the Forgotten Vale Ice Dragons fight to begin before Unbound/Dragon Rising is completed. (Implement [#1](https://github.com/zediious/tpfz-sprinkles/issues/1))
+- Allow the Forgotten Vale Ice Dragons fight to begin before Unbound/Dragon Rising is completed. (Implement [#1](https://github.com/zediious/aurbaesence/issues/1))
 - Modified Configurable Notification Messages to fade notifications much faster at the beginning of a new game.
 - Player is now unable to learn Words of Power or absorb Dragon Souls until they have completed Unbound.
 - Vanilla-like body preset now used by default for male and female characters on a new game.
@@ -546,7 +546,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - I Just Want to Sit Down and Read
 - First Person Interactions
 - Vanilla Eating Animation Fixes
-- Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/tpfz-sprinkles/issues/123))
+- Pride of Skyrim - Male Presets ([Implement #123](https://github.com/zediious/aurbaesence/issues/123))
 - High Poly Head - Vanilla Hair Remake Patch
 - Automated Enchanted Variants
 - Automated Enchanted Variant Leveled List Additions
@@ -741,10 +741,10 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 
 ### Fixes
 
-- Fix blurry character creation screen with delay added to racemenu appearing, such that the bright effect can finish applying. ([Fix #8](https://github.com/zediious/tpfz-sprinkles/issues/8))
-- Corrected navmesh for Jorrvaskr porch, and moved the table closer to building after previous fix. ([Fix #122](https://github.com/zediious/tpfz-sprinkles/issues/122))
-- Resolved crash when fast traveling while follower has "Shield of Valtheim" equipped via script edit ([Fix #91](https://github.com/zediious/tpfz-sprinkles/issues/91))
-- Removed Soul Trap effect from Molag Perk to prevent freeze and allow progression ([Partially fix #90](https://github.com/zediious/tpfz-sprinkles/issues/90))
+- Fix blurry character creation screen with delay added to racemenu appearing, such that the bright effect can finish applying. ([Fix #8](https://github.com/zediious/aurbaesence/issues/8))
+- Corrected navmesh for Jorrvaskr porch, and moved the table closer to building after previous fix. ([Fix #122](https://github.com/zediious/aurbaesence/issues/122))
+- Resolved crash when fast traveling while follower has "Shield of Valtheim" equipped via script edit ([Fix #91](https://github.com/zediious/aurbaesence/issues/91))
+- Removed Soul Trap effect from Molag Perk to prevent freeze and allow progression ([Partially fix #90](https://github.com/zediious/aurbaesence/issues/90))
 - Using Kome's Inventory Tweaks and KID, add proper icons and categories to Spell Tomes, ingredients, and misc items added by various mods.
 - Prevent Security XP when accessing any NFF/KWF follower containers (Clothing Satchel, Extra Storage, etc), appending previous fix with only one container.
 - Prevent conjured creatures from certain creature mods from giving loot when they die, as this provides infinite of that drop.
@@ -770,7 +770,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - BFCO special bow/crossbow power bash behaviors and jump attacks locked behind Archery "Ranger" perk.
 - Distribute enchanted variants for most mod-added equipment in SubListEnch lists, so that they will appear as dungeon loot, rewards for quests, etc.
 - Made many more vanilla and mod-added NPCs use OWL leveled lists for equipment rather than defined vanilla equipment
-- Gave wandering giants an aggro range, they will attack if you get too close like giants at camps, with a much smaller aggro range. ([Fix #124](https://github.com/zediious/tpfz-sprinkles/issues/124))
+- Gave wandering giants an aggro range, they will attack if you get too close like giants at camps, with a much smaller aggro range. ([Fix #124](https://github.com/zediious/aurbaesence/issues/124))
 - Unlock the door to Gloombound Mine in [Narzulbur](https://www.nexusmods.com/skyrimspecialedition/mods/88809). There is no way to unlock it via quest, and NPCs reference you bringing them ore from inside.
 - Disable fog effect when killing Foglings, and prevent their corpse from disappearing to allow looting the unique ingredient.
 - Made the Traveling Merchant standing outside Riften travel back and forth between Riften and Windhelm.
@@ -779,7 +779,7 @@ A wide variety of new mods have been added, such as EVG Clamber, First Person In
 - Changed A Matter of Time widget type, and moved below the compass
 - Lowered speed, raised scale, and raised maximum shown amount for top-left notification messages.
 - Disable Wildcat configuration power from appearing in powers menu on new game
-- Prevent NPCs in the Ratway from attacking the small Rats added by SkyTEST ([Fix #97](https://github.com/zediious/tpfz-sprinkles/issues/97))
+- Prevent NPCs in the Ratway from attacking the small Rats added by SkyTEST ([Fix #97](https://github.com/zediious/aurbaesence/issues/97))
 - Made Bone Colossus no longer have the Protected flag, so they can be killed by NPCs.
 - Reduce frequency of Animated Carriages spawning via Autorun commands
 - Added all mod-added alcohol to Animated Inebriation KID distribution
@@ -812,8 +812,8 @@ Thank you everyone who has reported bugs and made suggestions!
 
 ### Removed
 
-- Anglerfish - Fathom's Creature Series (https://github.com/zediious/tpfz-sprinkles/issues/108)
-- Forgotten Medieval Plate Armor (https://github.com/zediious/tpfz-sprinkles/issues/86)
+- Anglerfish - Fathom's Creature Series (https://github.com/zediious/aurbaesence/issues/108)
+- Forgotten Medieval Plate Armor (https://github.com/zediious/aurbaesence/issues/86)
 - Orcish Leather Armor
 - Orcish Scout Armor
 
@@ -833,14 +833,14 @@ Thank you everyone who has reported bugs and made suggestions!
 - Ivarstead Source
 - Stress and Fear - A Dynamic Sanity System
 - Take a Nap - Sleep on Chairs
-- Immersive Spell Learning - Exclusions (https://github.com/zediious/tpfz-sprinkles/issues/117)
+- Immersive Spell Learning - Exclusions (https://github.com/zediious/aurbaesence/issues/117)
 - Beyond Skyrim - Bruma - Unofficial Patch
 - Bruma Navmesh Fix
 - Gorm Armor + Xtudo Fixes
 - Crown Plate Set + Xtudo Fixes
 - Valhalla Combat - Backstab Bug Fix
-- Paulicus Poison Block Updated (https://github.com/zediious/tpfz-sprinkles/issues/93)
-- Endless Firewood - Chop Forever (https://github.com/zediious/tpfz-sprinkles/issues/106)
+- Paulicus Poison Block Updated (https://github.com/zediious/aurbaesence/issues/93)
+- Endless Firewood - Chop Forever (https://github.com/zediious/aurbaesence/issues/106)
 - Persistent Favorites
 - The Standing Sound Stones
 - Object Categorization Framework
@@ -929,11 +929,11 @@ Thank you everyone who has reported bugs and made suggestions!
 
 ### Fixes
 
-- Re-added XPMSE - Fixed Scripts, resolving a common re-load crash for many users (https://github.com/zediious/tpfz-sprinkles/issues/111)
-- Added a fix to stop Valhalla backstab functionality from misbehavin' (https://github.com/zediious/tpfz-sprinkles/issues/110)
-- Corrected table and fireplace clipping on Jorrvaskr porch (https://github.com/zediious/tpfz-sprinkles/issues/112)
-- Corrected clipping fishing supplies in Morthal, and changed navmesh to fit new positions (https://github.com/zediious/tpfz-sprinkles/issues/103)
-- Resolved Una NPC in Blue Palace from being bald when they are not meant to be (https://github.com/zediious/tpfz-sprinkles/issues/109)
+- Re-added XPMSE - Fixed Scripts, resolving a common re-load crash for many users (https://github.com/zediious/aurbaesence/issues/111)
+- Added a fix to stop Valhalla backstab functionality from misbehavin' (https://github.com/zediious/aurbaesence/issues/110)
+- Corrected table and fireplace clipping on Jorrvaskr porch (https://github.com/zediious/aurbaesence/issues/112)
+- Corrected clipping fishing supplies in Morthal, and changed navmesh to fit new positions (https://github.com/zediious/aurbaesence/issues/103)
+- Resolved Una NPC in Blue Palace from being bald when they are not meant to be (https://github.com/zediious/aurbaesence/issues/109)
 - Patched script to prevent taking items from NFF storage from giving "failed" pickpocket XP.
 - Resolved Honed Metal crash when crafting enchanted items twice with new DLL from mod author.
 - Prevent Young Man from appearing randomly and following you in the world, alongside Strange Man.
@@ -1509,13 +1509,13 @@ This update is *quite* large, and the above description does not cover everythin
 - Redoran Exile Armor
 - Redoran Exile Armor - HIMBO Refit
 - Genuinely Intelligent Soul Trap - ESL Script
-- Immersive Dawnguard Dayspring Pass (Fix https://github.com/zediious/tpfz-sprinkles/issues/75)
+- Immersive Dawnguard Dayspring Pass (Fix https://github.com/zediious/aurbaesence/issues/75)
 - The Warrior of Rivercrest
 - Fugitive of the Natural Order
 - Mihail Monsters and Animals - Crows (Replaced with Mihail Monsters and Animals - Crows and Ravens)
 - Forsworn Skinchangers (Added in Madmen - A Forsworn Overhaul)
 - Forsworn Gravesingers (Added in Madmen - A Forsworn Overhaul)
-- Rain Extinguishes Fires (fix https://github.com/zediious/tpfz-sprinkles/issues/33)
+- Rain Extinguishes Fires (fix https://github.com/zediious/aurbaesence/issues/33)
 - Aela Doesn't Approach If You Don't Help
 - Sales Overflow Solved (Replaced with Barter Limit Fix)
 - Use or Take
@@ -1675,7 +1675,7 @@ This update is *quite* large, and the above description does not cover everythin
 - Dealing with Backstories - Keep Items
 - Skyrim on Skooma
 - Remote Interactions
-- Immersive Spell Learning - DESTified (Implement https://github.com/zediious/tpfz-sprinkles/issues/61)
+- Immersive Spell Learning - DESTified (Implement https://github.com/zediious/aurbaesence/issues/61)
 - Legendary Skill Bonus
 - Fast Travel Cost
 - Sets of Skills - Custom Skill Framework Conversion
@@ -1774,7 +1774,7 @@ This update is *quite* large, and the above description does not cover everythin
 - DynDOLOD Output - Low
 - DynDOLOD Output - Medium
 - Occlusion Output
-- Sunhelm MCM Recorder (Implement https://github.com/zediious/tpfz-sprinkles/issues/70)
+- Sunhelm MCM Recorder (Implement https://github.com/zediious/aurbaesence/issues/70)
 - Hearthfire Extended - Cook Script Fix
 - Molag Bal's Inferno - Strange Man Fix
 - Obscure's College of Winterhold - Script Fix
@@ -1864,7 +1864,7 @@ This update is *quite* large, and the above description does not cover everythin
 - The Only Cure - Quest Expansion - 1.01 > 1.02
 - Headhunter - Bounties Redone - 1.43 > 1.50
 - More Thalmor Dossiers - 1.11 > 1.12b
-- Destination Weddings - 1.4.1 > 1.5 (fix https://github.com/zediious/tpfz-sprinkles/issues/72)
+- Destination Weddings - 1.4.1 > 1.5 (fix https://github.com/zediious/aurbaesence/issues/72)
 - Riften Docks Overhaul - 2.5.3 > 2.5.5
 - Skyrim Sewers - Radiant Quests Enabled - 1.0 > 1.1
 - Halted Stream Mine - 1.3.2 > 1.4
@@ -1989,10 +1989,10 @@ This update is *quite* large, and the above description does not cover everythin
 
 ### Fixes
 
-- Fixed CTD during Housecarl/Prisoner encounters from Immersive Encounters by updating the mod. (https://github.com/zediious/tpfz-sprinkles/issues/74)
-- Corrected Better SkyUI Config not being incorporated into Paper UI config (fix https://github.com/zediious/tpfz-sprinkles/issues/71)
-- Corrected position of SunHelm widgets when using them via MCM Recorder preset (fix https://github.com/zediious/tpfz-sprinkles/issues/70)
-- Implemented fix for read books/notes not sorting correctly and causing issues reading the right item (Fix https://github.com/zediious/tpfz-sprinkles/issues/48)
+- Fixed CTD during Housecarl/Prisoner encounters from Immersive Encounters by updating the mod. (https://github.com/zediious/aurbaesence/issues/74)
+- Corrected Better SkyUI Config not being incorporated into Paper UI config (fix https://github.com/zediious/aurbaesence/issues/71)
+- Corrected position of SunHelm widgets when using them via MCM Recorder preset (fix https://github.com/zediious/aurbaesence/issues/70)
+- Implemented fix for read books/notes not sorting correctly and causing issues reading the right item (Fix https://github.com/zediious/aurbaesence/issues/48)
 - Disabled barrel that was blocking the stairs in Half Moon Mill Inn
 - Corrected unbalanced damage values and crafting recipes for RFM. All RFM weapon damages and crafting requirements/materials are now in-line with the tier the weapon is placed in.
 - Added required items and conditions to many RFM COBJ's that were missing them.
@@ -2096,7 +2096,7 @@ If playing on an existing save, in order for MCM changes/fixes to apply, you nee
 
 ### Added
 
-- SunHelm Survival (disabled by default) (implement https://github.com/zediious/tpfz-sprinkles/issues/67)
+- SunHelm Survival (disabled by default) (implement https://github.com/zediious/aurbaesence/issues/67)
 - Campfire - Complete Camping System (disabled by default)
 - Survival Mode Patches - Campfire (disabled by default)
 - ZedPatch - Survival Mode (disabled by default)
@@ -2127,12 +2127,12 @@ If playing on an existing save, in order for MCM changes/fixes to apply, you nee
 
 ### Fixes
 
-- Fixed Alduin staying landed during intro sometimes (fix https://github.com/zediious/tpfz-sprinkles/issues/66)
-- Disabled Creature killmoves in Violens MCM to prevent invincibility (fix https://github.com/zediious/tpfz-sprinkles/issues/68)
-- Fixed navmesh crash near Shor's Stone due to bad conflict resolution (fix https://github.com/zediious/tpfz-sprinkles/issues/69)
-- Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter". (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
-- Removed duplicate Lockpick recipe (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
-- Fixed duplicate cross hair when using magic and weapon (fix part of https://github.com/zediious/tpfz-sprinkles/issues/63)
+- Fixed Alduin staying landed during intro sometimes (fix https://github.com/zediious/aurbaesence/issues/66)
+- Disabled Creature killmoves in Violens MCM to prevent invincibility (fix https://github.com/zediious/aurbaesence/issues/68)
+- Fixed navmesh crash near Shor's Stone due to bad conflict resolution (fix https://github.com/zediious/aurbaesence/issues/69)
+- Fixed Oxygen Meter not appearing by changing TrueHUD MCM, under "Player Widget", disabled "Display Enchantment Charge Meter". (fix part of https://github.com/zediious/aurbaesence/issues/63)
+- Removed duplicate Lockpick recipe (fix part of https://github.com/zediious/aurbaesence/issues/63)
+- Fixed duplicate cross hair when using magic and weapon (fix part of https://github.com/zediious/aurbaesence/issues/63)
 - Fixed duplicate stat bars in Dark Mode UI
 
 ### Tweaks
@@ -2163,7 +2163,7 @@ A lot of the fixes in this version were from those in the discord server, playin
 
 ### Removed
 
-- Alternate Perspective - LRS Hunter Start (fix https://github.com/zediious/tpfz-sprinkles/issues/51)
+- Alternate Perspective - LRS Hunter Start (fix https://github.com/zediious/aurbaesence/issues/51)
 - Alternate Perspective - Miner
 - s6o6t LORE - Oblivion gates
 - Emeri's High Poly Presets
@@ -2182,9 +2182,9 @@ A lot of the fixes in this version were from those in the discord server, playin
 
 ### Added
 
-- Dear Diary Dark Mode (implement https://github.com/zediious/tpfz-sprinkles/issues/41)
+- Dear Diary Dark Mode (implement https://github.com/zediious/aurbaesence/issues/41)
   - Paper Skin for Compass Navigation Overhaul (Dark Mode)
-- Added to fix https://github.com/zediious/tpfz-sprinkles/issues/53
+- Added to fix https://github.com/zediious/aurbaesence/issues/53
   - Fair Skin Complexion - Makeup Overhaul
   - Xara's Makeup and Warpaints
   - Female Makeup Suite
@@ -2198,14 +2198,14 @@ A lot of the fixes in this version were from those in the discord server, playin
 - Hvergelmir Brows for High Poly Head
 - Environs - The Greenwood Shack Alternate Perspective New Beginnings Patch
 - Enhanced WheelMenu Control
-- Idle Animations WheelMenu (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Simple Straw Hats (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Ave's Silver Sapphire Ring for Bruma (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Ave's Jade Sapphire Ring for Bruma (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Ave's Jade Ring for Bruma (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Last Vigil - Ebony Warrior Voice Rework (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Equus - Horse Sounds Redesigned (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
-- Eviscerate - Weapon Sounds Reworked (implement https://github.com/zediious/tpfz-sprinkles/issues/54)
+- Idle Animations WheelMenu (implement https://github.com/zediious/aurbaesence/issues/54)
+- Simple Straw Hats (implement https://github.com/zediious/aurbaesence/issues/54)
+- Ave's Silver Sapphire Ring for Bruma (implement https://github.com/zediious/aurbaesence/issues/54)
+- Ave's Jade Sapphire Ring for Bruma (implement https://github.com/zediious/aurbaesence/issues/54)
+- Ave's Jade Ring for Bruma (implement https://github.com/zediious/aurbaesence/issues/54)
+- Last Vigil - Ebony Warrior Voice Rework (implement https://github.com/zediious/aurbaesence/issues/54)
+- Equus - Horse Sounds Redesigned (implement https://github.com/zediious/aurbaesence/issues/54)
+- Eviscerate - Weapon Sounds Reworked (implement https://github.com/zediious/aurbaesence/issues/54)
 - Kalilies NPCs - Keep Your Skin
 - Praedy's Staves Patches
 - Hearthfires Extended and Creation Club Fishing Patch
@@ -2247,10 +2247,10 @@ A lot of the fixes in this version were from those in the discord server, playin
 
 ### Fixes
 
-- Fixed wolf/fox from T-posing and/or being invincible in certain situations (fix https://github.com/zediious/tpfz-sprinkles/issues/4)
-- Fixed many RaceMenu presets from having purple body meshes (fix https://github.com/zediious/tpfz-sprinkles/issues/53)
-- Fixed clipping of beards and hairs by using correct meshes (fix https://github.com/zediious/tpfz-sprinkles/issues/52)
-- Fixed certain bounty quests from being in-completeable (fix https://github.com/zediious/tpfz-sprinkles/issues/56)
+- Fixed wolf/fox from T-posing and/or being invincible in certain situations (fix https://github.com/zediious/aurbaesence/issues/4)
+- Fixed many RaceMenu presets from having purple body meshes (fix https://github.com/zediious/aurbaesence/issues/53)
+- Fixed clipping of beards and hairs by using correct meshes (fix https://github.com/zediious/aurbaesence/issues/52)
+- Fixed certain bounty quests from being in-completeable (fix https://github.com/zediious/aurbaesence/issues/56)
 - Removed incorrect/useless command from Autorun configuration
 - Fixed incorrect conflict resolution for House of Horrors Expansion mod, preventing broken dialogue with Vigilant Tyranus.
 - Fixed being unable to talk to Eola in The Taste of Death
@@ -2267,7 +2267,7 @@ A lot of the fixes in this version were from those in the discord server, playin
 - Placed faster unarmed moveset with more combo potential behind the first tier of the "Momentum" perk from the Hand to Hand tree, and raised unarmed damage from -50% to -20%
 - Raised damage of all katana/dai-katana/nodachi by 2
 - Lowered damage of all rapiers/pikes/spears/halberds by 3
-- High Poly Head face part will now be the default face part on character creation. The vanilla face part and select hairs/beards have been disabled. There are still a few hairs from other mods that clip on certain races. (fix https://github.com/zediious/tpfz-sprinkles/issues/52)
+- High Poly Head face part will now be the default face part on character creation. The vanilla face part and select hairs/beards have been disabled. There are still a few hairs from other mods that clip on certain races. (fix https://github.com/zediious/aurbaesence/issues/52)
 - Modified  One-hand Katana Animations to also work if you have a Spell or torch in your off hand, not just fists or shield.
 - Lots of consistency tweaks for added weapons and armor, to make their damage/crit, weight, value, keywords, and crafting recipes balanced and proper.
 
@@ -2385,13 +2385,13 @@ This version fixes a resurgence of the False Save Corruption bug introduced in 0
 
 ### Added
 
-- Adjustable Attribute Consumption SKSE (Horses still consume Stamina out of combat) (implement https://github.com/zediious/tpfz-sprinkles/issues/44)
+- Adjustable Attribute Consumption SKSE (Horses still consume Stamina out of combat) (implement https://github.com/zediious/aurbaesence/issues/44)
 
 ### Fixes
 
 - Fixed False Save Corruption bug resurfacing due to increased file handle since version 0.9.3.1
 - Fixed missing roads on world map since version 0.9.3.1
-- Changed BTPS MCM settings to fix item tooltips in 1st person (fix https://github.com/zediious/tpfz-sprinkles/issues/42)
+- Changed BTPS MCM settings to fix item tooltips in 1st person (fix https://github.com/zediious/aurbaesence/issues/42)
 
 </details>
 
@@ -2415,7 +2415,7 @@ This version has reduced the .wabbajack file size significantly! You will need t
 
 This version should be save-safe. None of the added or removed mods should have a *major* effect on the game. A few changes simply won't apply on existing saves at all, or will require a cell reset. Removed armors will disappear from your save. Make a backup of your saves before playing!
 
-A few new armors and weapons have been added to leveled lists, view [Added Equipment](https://zediious.github.io/tpfz-sprinkles/docs/other-info/addedequipment/) to see exact additions!
+A few new armors and weapons have been added to leveled lists, view [Added Equipment](https://aurbaesence.info/docs/other-info/addedequipment/) to see exact additions!
 
 <details>
 
@@ -2425,21 +2425,21 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 ### Removed
 
-- D-Armory (fix https://github.com/zediious/tpfz-sprinkles/issues/32)
-- Hunter Archer Armor (fix https://github.com/zediious/tpfz-sprinkles/issues/21)
-- No Follower Attack Collision (fix https://github.com/zediious/tpfz-sprinkles/issues/38)
+- D-Armory (fix https://github.com/zediious/aurbaesence/issues/32)
+- Hunter Archer Armor (fix https://github.com/zediious/aurbaesence/issues/21)
+- No Follower Attack Collision (fix https://github.com/zediious/aurbaesence/issues/38)
 - Old MCO-Elden Counter Patch
 - Simple Block Sparks
 
 ### Added
 
-- Survival Mode Control Panel (implement https://github.com/zediious/tpfz-sprinkles/issues/31)
-- Ominous ENB as an optional ENB preset (implement https://github.com/zediious/tpfz-sprinkles/issues/19)
-- Mfg Fix (fix https://github.com/zediious/tpfz-sprinkles/issues/26)
-- QuickLoot EE (implement https://github.com/zediious/tpfz-sprinkles/issues/37)
-- Better SkyUI Config (implement https://github.com/zediious/tpfz-sprinkles/issues/37)
-- Cyrodiilic Thief Set Female Version + CBBE Refity (fix https://github.com/zediious/tpfz-sprinkles/issues/39)
-- Skyrim Souls RE, with the following menus remaining paused (fix https://github.com/zediious/tpfz-sprinkles/issues/27)
+- Survival Mode Control Panel (implement https://github.com/zediious/aurbaesence/issues/31)
+- Ominous ENB as an optional ENB preset (implement https://github.com/zediious/aurbaesence/issues/19)
+- Mfg Fix (fix https://github.com/zediious/aurbaesence/issues/26)
+- QuickLoot EE (implement https://github.com/zediious/aurbaesence/issues/37)
+- Better SkyUI Config (implement https://github.com/zediious/aurbaesence/issues/37)
+- Cyrodiilic Thief Set Female Version + CBBE Refity (fix https://github.com/zediious/aurbaesence/issues/39)
+- Skyrim Souls RE, with the following menus remaining paused (fix https://github.com/zediious/aurbaesence/issues/27)
   - Console
   - Pause/Quest Journal
   - Level up/Skill Menu
@@ -2470,11 +2470,11 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 ### Fixes
 
-- Fixed texture path for Poison Rag item from Blowgun mod (fix https://github.com/zediious/tpfz-sprinkles/issues/22)
-- Patched missing cart/canopy and other carriage parts in Dawnstar (fix https://github.com/zediious/tpfz-sprinkles/issues/20)
-- Moved Sugarclaw from inside Mistwatch Tower Wall (fix https://github.com/zediious/tpfz-sprinkles/issues/30)
-- Disabled visible lighting plane objects in Nightgate Inn (fix https://github.com/zediious/tpfz-sprinkles/issues/35)
-- Removed MCM Recorder recording for Shadow of Skyrim. This must be manually enabled and configured. (fix https://github.com/zediious/tpfz-sprinkles/issues/25)
+- Fixed texture path for Poison Rag item from Blowgun mod (fix https://github.com/zediious/aurbaesence/issues/22)
+- Patched missing cart/canopy and other carriage parts in Dawnstar (fix https://github.com/zediious/aurbaesence/issues/20)
+- Moved Sugarclaw from inside Mistwatch Tower Wall (fix https://github.com/zediious/aurbaesence/issues/30)
+- Disabled visible lighting plane objects in Nightgate Inn (fix https://github.com/zediious/aurbaesence/issues/35)
+- Removed MCM Recorder recording for Shadow of Skyrim. This must be manually enabled and configured. (fix https://github.com/zediious/aurbaesence/issues/25)
 - Fixed Elden Counter not working at all due to old patch in use.
 - Fixed Valhalla Timed Block not working by correctly setting compatibility option in it's MCM.
 - Fixed True HUD extra meter not working correctly, as both POISE and Valhalla were trying to use it. Now only Valhalla will try to use it, and will work correctly.
@@ -2553,12 +2553,12 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 ### Removed
 
 - Sprint Swimming (has issues with movement mods in the list, will be revisited)
-- Movement Behavior Overhaul (fix https://github.com/zediious/tpfz-sprinkles/issues/11)
+- Movement Behavior Overhaul (fix https://github.com/zediious/aurbaesence/issues/11)
 - Rainbows
 
 ### Added
 
-- Blank CC Plugins (fix https://github.com/zediious/tpfz-sprinkles/issues/12)
+- Blank CC Plugins (fix https://github.com/zediious/aurbaesence/issues/12)
 - Conditional Armor Type Animations
 - Goetia Movement Animations
 - Rainbows Remade
@@ -2590,16 +2590,16 @@ A few new armors and weapons have been added to leveled lists, view [Added Equip
 
 ### Fixes
 
-- Using an added Blank CC Plugins mod, all non-default Creation Club content you have will be overridden with a blank plugin. This list is only built around the default 4 creations. (fix https://github.com/zediious/tpfz-sprinkles/issues/12)
-- Patched three floating lanterns in the Tamriel worldspace (fix https://github.com/zediious/tpfz-sprinkles/issues/13)
-- Fixed incorrect Wildcat MCM configuration (fix https://github.com/zediious/tpfz-sprinkles/issues/9)
-- Fix clipping of Alternate Perspective Hunter addon and Pilgrim Magnus Shrine (fix https://github.com/zediious/tpfz-sprinkles/issues/2)
-- Fixed incorrect perk formID in Telekinesis Wood Chopping animations. They will now properly play when you have the second level of the "Philosopher" Alteration perk. (fix part of https://github.com/zediious/tpfz-sprinkles/issues/10)
-- Removed custom movement animation-by armor type condition files, in favor of the actual Conditional Armor Type Animations mod. I honestly did not realize this mod existed, as I was using my own setup for some time. This one works a little bit better and also includes the Goetia movement animations. (fix part of https://github.com/zediious/tpfz-sprinkles/issues/10)
+- Using an added Blank CC Plugins mod, all non-default Creation Club content you have will be overridden with a blank plugin. This list is only built around the default 4 creations. (fix https://github.com/zediious/aurbaesence/issues/12)
+- Patched three floating lanterns in the Tamriel worldspace (fix https://github.com/zediious/aurbaesence/issues/13)
+- Fixed incorrect Wildcat MCM configuration (fix https://github.com/zediious/aurbaesence/issues/9)
+- Fix clipping of Alternate Perspective Hunter addon and Pilgrim Magnus Shrine (fix https://github.com/zediious/aurbaesence/issues/2)
+- Fixed incorrect perk formID in Telekinesis Wood Chopping animations. They will now properly play when you have the second level of the "Philosopher" Alteration perk. (fix part of https://github.com/zediious/aurbaesence/issues/10)
+- Removed custom movement animation-by armor type condition files, in favor of the actual Conditional Armor Type Animations mod. I honestly did not realize this mod existed, as I was using my own setup for some time. This one works a little bit better and also includes the Goetia movement animations. (fix part of https://github.com/zediious/aurbaesence/issues/10)
 
 ### Tweaks
 
-- Disabled four aggressive Thalmor that spawn near Kilkreath Ruins on the road from Immersive Patrols. (implement https://github.com/zediious/tpfz-sprinkles/issues/14)
+- Disabled four aggressive Thalmor that spawn near Kilkreath Ruins on the road from Immersive Patrols. (implement https://github.com/zediious/aurbaesence/issues/14)
 - Disabled base UNDERDOG sprinting animation
 - Modified conditions for athletic UNDERDOG sprint animation to not play for actors with heavy armor equipped. This animation will play if your current stamina is above 150, at a 0.7 randomness value.
 - Removed Actor Value checks from Goetia Animations conditions, so that they will play whenever armor is not worn, without the player or NPC requiring high Magicka and/or Magic skills.
@@ -2644,7 +2644,7 @@ On that note, this update is **NOT SAVE SAFE!** Due to the updating of certain m
 - Serenity
 - Tactical Valtheim
 - Skybound Underhang Camp
-- Skybound Underhang Camp Lawbringer Patch (fix https://github.com/zediious/tpfz-sprinkles/issues/6)
+- Skybound Underhang Camp Lawbringer Patch (fix https://github.com/zediious/aurbaesence/issues/6)
 - Animated Armory
 - DynDOLOD Output
 - ZedPatch 1
