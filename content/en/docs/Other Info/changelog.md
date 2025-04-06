@@ -174,7 +174,7 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 - MCM Recorder - Keyboard Keybinds
 - MCM Recorder - Controller Keybinds
 - Gamepad Plus Plus
-- Complete Controller Setuo
+- Complete Controller Setup
 
 ### Updated
 
