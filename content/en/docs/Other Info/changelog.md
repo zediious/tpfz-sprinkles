@@ -21,7 +21,7 @@ The modlist's name has been changed to **Aurbaesence! (OR-bes-ence)** As the lis
 
 The largest change with this version, outside of the name, is the change from ENB to Community Shaders in the main profile. All existing ENB presets still remain as optional mods, however Community Shaders has reached a point where I am entirely satisfied with with it's visuals, along with it's lesser performance hit.
 
-Full Controller Suppport has also been added, in the form of Complete Controller Setup! This optional suite of mods will allow you to use all important gameplay functions with the controller! [Read the guide here to set up full controller support!](../../mandatory-reading/mod-list-tweaks/controller/)
+Full Controller Support has also been added, in the form of Complete Controller Setup! This optional suite of mods will allow you to use all important gameplay functions with the controller! [Read the guide here to set up full controller support!](../../mandatory-reading/mod-list-tweaks/controller/)
 
 Community Shaders and ENB Frame Generation addons have also been included as disabled-by-default mods. These will ONLY WORK if your graphics card support DirectX 12/DX12, however you should absolutely enable one of these mods if you meet the requirements! [A guide to do so exists in the Mod List Tweaks section here!](../../mandatory-reading/mod-list-tweaks/nvidiadlss/)
 
@@ -116,7 +116,7 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 - Dealing with Backstories - Description Framework Addon
 - Dealing with Backstories - Hand to Hand Patch
 - Dealing with Backstories - Experience and Sets of Skills CSF Patch
-- Remote Interactions - Animated Inebration Patch
+- Remote Interactions - Animated Inebriation Patch
 - Immersive Horses - Vanilla Start Fix
 - Better Grabbing
 - Spellsiphon - Disable New Game Book
