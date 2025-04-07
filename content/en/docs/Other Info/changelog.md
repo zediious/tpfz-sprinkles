@@ -308,7 +308,7 @@ A large number of smaller tweaks, fixes, and additions regarding cohesiveness ha
 - Modified Configurable Notification Messages to fade notifications much faster at the beginning of a new game.
 - Player is now unable to learn Words of Power or absorb Dragon Souls until they have completed Unbound.
 - Vanilla-like body preset now used by default for male and female characters on a new game.
-- You can now learn spells instantly while in the Alterante Perspective starting room.
+- You can now learn spells instantly while in the Alternate Perspective starting room.
 - Disabled Spellsiphon book on new game. The book exists in the Archmage's quarters.
 - Dealing with Backstories career item lists now use leveled lists for most items.
 - SkyClimb climbing now requires holding jump for at least 0.1 seconds.
