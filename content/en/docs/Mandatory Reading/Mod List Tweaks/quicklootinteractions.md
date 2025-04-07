@@ -3,7 +3,7 @@ title: Immersive Interactions for Quick Loot
 weight: 4
 ---
 
-In this mod list, we use [Immersive Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/47670) to add unique animations for a huge variety of interactions within the game. We also use [Quick Loot EE](https://www.nexusmods.com/skyrimspecialedition/mods/69980), which allows you to loot containers, bodies, etc without opening the container menu. Due to this, Immersive Interaction's animations will not play when looting via Quick Loot.
+In this mod list, we use [Immersive Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/47670) to add unique animations for a huge variety of interactions within the game. We also use [Quick Loot IE](https://www.nexusmods.com/skyrimspecialedition/mods/120075), which allows you to loot containers, bodies, etc without opening the container menu. Due to this, Immersive Interaction's animations will not play when looting via Quick Loot.
 
 To remedy this, we use the mod ["Immersive Interactions for Quick Loot"](https://www.nexusmods.com/skyrimspecialedition/mods/96894). This solves the above problem, while allowing you to back out of the animation quickly by moving forward or looting the container completely.
 
