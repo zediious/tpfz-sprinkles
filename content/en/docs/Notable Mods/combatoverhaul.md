@@ -18,7 +18,7 @@ The mod also allows you to swim up and down with the L-ALT and L-CTRL keys respe
 
 Another feature of the mod is the Player Headtracking feature. Your character will automatically look in the direction you are facing with your camera (provided you're not looking behind your character, unless you're an owl?). If you are locked on to an NPC, your character will look at them instead. Nothing boosts the connection to your character more than seeing them look exactly where you are looking.
 
-Overall, this mod is probably one of the best mods ever made, and is a stable in any list intent on making third-person gameplay a blast.
+Overall, this mod is probably one of the best mods ever made, and is a staple in any list intent on making third-person gameplay a blast.
 
 ## [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
@@ -92,7 +92,7 @@ The downside to this mod, is that it does NOT work in first person at all. Sorry
 
 ## [No Saving in Combat](https://www.nexusmods.com/skyrimspecialedition/mods/29914)
 
-This mod is very simple. It prevents you from saving manually or with F5 while you are in a combat state. I have added this mod to this list mostly to curb my save-scumming behaviors. I believe that if you suffer from save-scumming as well, this mod can help you to. You can safely disable this mod BEFORE starting a playthrough, but it is NOT advisable to remove it during a playthrough. Do so at your own risk!
+This mod is very simple. It prevents you from saving manually or with F5 while you are in a combat state. I have added this mod to this list mostly to curb my save-scumming behaviors. I believe that if you suffer from save-scumming as well, this mod can help you too. You can safely disable this mod BEFORE starting a playthrough, but it is NOT advisable to remove it during a playthrough. Do so at your own risk!
 
 ## [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
 
@@ -138,7 +138,7 @@ This very simple mod allows us to cancel an attack by pressing the *R* key mid-s
 
 "Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear."
 
-Spellsiphon is, at it's core, a Spell mod. The spells it adds, however, act under an entirely different set of rules than other spells. You are able to cast these spells with no Magicka, instead taking "essence" from the Land, Dead, or Living to choose your element and further cast your spells. The mod also comes with a load of extra mechanics that complement this basic "Draw" and cast from elements. This mod contains far too much content to cover in a description. As such, the mod includes a rather in depth in-game tutorial that you can initiate at any time by reading the "Spellsiphon" book added to your inventory on a new game.
+Spellsiphon is, at it's core, a Spell mod. The spells it adds, however, act under an entirely different set of rules than other spells. You are able to cast these spells with no Magicka, instead taking "essence" from the Land, Dead, or Living to choose your element and further cast your spells. The mod also comes with a load of extra mechanics that complement this basic "Draw" and cast from elements. This mod contains far too much content to cover in a description. As such, the mod includes a rather in depth in-game tutorial. Unlocking this requires that you become the **Archmage of The College of Winterhold**. After this, you'll be able to find a book called **Spellsiphon** that will begin the tutorial, and teach you the spells.
 
 ## [Ghost Mechanics and Shaders Restored](https://www.nexusmods.com/skyrimspecialedition/mods/55976)
 
@@ -170,14 +170,6 @@ This very simple mod changes the Power Attack functionality to be used with your
 
 When you have a spell equipped in your non-weapon hand, you will still power attack by holding Left Mouse-Click, to allow you to still use both hands.
 
-## [Vanguard - Bash Behaviors Updated](https://www.nexusmods.com/skyrimspecialedition/mods/115030)
-
-"Changes how most of the Bashing work, NPC bashing have been completely overhauled to be more telegraphed instead of being too fast to give room to dodge or parry without the use of scripts...Players also get different types of bashing depending on equipped item, not just a visual change but the movement and the speed of the bash now varies to give variety on the approach of certain weapons"
-
-Completely overhauling the power bash, this mod introduces a set of unique behavioral animations that will replace the power bashing animations for all weapons and shields. These animations will have movement data, and behave much like a typical weapon attack. This not only increases variety in your own combat routine, it allows you to more easily avoid enemy bash attacks. In vanilla, these attacks are almost instant, and enemies do them all the time. Each bash animation is unique, with only a select few weapons sharing the same animation.
-
-This is an updated version of the original mod, with many fixes and improvements.
-
 ## [POISE - Stagger Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
 
 "A near complete gutting of the vanilla stagger system for something more inspired by traditional fighting games...Vanilla stagger mechanics are quite literally RNG based. Which makes sense when you consider that Bethesda's original idea for combat was a very fast paced, free-flowing, strafe based hack and slash. However, in 2022, everyone seems to have adopted more modern mechanics in the modding community, and fighting games like Street Fighter, Mortal Kombat, and even those terrible fucking Souls titles, have always meant alot to me."
@@ -202,13 +194,13 @@ Due to the way MCO and our other combat mods work, this vanilla issue is exacerb
 
 ## [zxlice's Ultimate Potion Animation](https://www.nexusmods.com/skyrimspecialedition/mods/45182)
 
-This mod adds an animation that plays whenever you drink a potion, very simply. This animation allows you to continue walking while you are drinking the potion, but you cannot run. This forces you to think about when you will drink potions in combat, as it will leave you vulnerable or a short time, without completely locking you in place.
+This mod adds an animation that plays whenever you drink a potion, very simply. This animation allows you to continue walking while you are drinking the potion, but you cannot run. This forces you to think about when you will drink potions in combat, as it will leave you vulnerable for a short time, without completely locking you in place.
 
 ## [Enemy Magelock - NPC Magic Casting Commitment](https://www.nexusmods.com/skyrimspecialedition/mods/49378)
 
 "A really simple mod to switch up combat rhythm especially for those who love enemy spawn mods and spell distributor mods, Enemy Magelock, Commits the NPC in place when they cast magic animations to avoid them cheesing at you by closing you down or running away when Casting, they are now fully committed to there cast to encourage skill based gameplay."
 
-This (potentially controversial) mod prevents NPCs from moving while they are charging up a spell. NPCs have a habit of charging into your face casting a concentration spell, which can end up being just plain annoying. You may find that enemy mages can stand still out of your sight, never letting loose their spell so they can search for you. If you find that this mod is not for you, it is possible to remove it by disabling the mod, running nemesis, and updating the Nemesis Engine/generating new animations. In the future, a more succinct guide will be provided to remove potentially unwanted mods such as this one.
+This (potentially controversial) mod prevents NPCs from moving while they are charging up a spell. NPCs have a habit of charging into your face casting a concentration spell, which can end up being just plain annoying. You may find that enemy mages can stand still out of your sight, never letting loose their spell so they can search for you.
 
 ## New Creature Animations
 

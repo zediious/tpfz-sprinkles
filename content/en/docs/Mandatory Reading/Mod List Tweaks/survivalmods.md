@@ -2,7 +2,7 @@
 title: Enabling Extra Survival Mods
 weight: 3
 ---
-Always remember that the list was *not* created around these, and they do not create my desired gameplay. They exist as an option so users that want that gameplay can still receive official support These mods are entirely optional, and are not how I personally prefer to play the list.
+Always remember that the list was *not* created around these, and they do not create my desired gameplay. They exist as an option so users that want that gameplay can still receive official support. These mods are entirely optional, and are not how I personally prefer to play the list.
 
 **If you make a support thread in Discord/post an issue on our tracker while using these Survival mods, please make note of that in the request :)**
 
@@ -10,9 +10,9 @@ Always remember that the list was *not* created around these, and they do not cr
 
 **Perform the following steps to enable the enhanced Survival mods that are offered as an option with this list.**
 
-**1.** Go to the **"SURVIVAL MODS (OPTIONAL)"** separator in the left pane of Mod Organizer, at priority *24*
+**1.** Go to the **"SURVIVAL MODS (OPTIONAL)"** separator in the left pane of Mod Organizer, near the top of the list.
 
-**2.** Enable ALL (no exceptions!) of the mods located under this separator. All of them will be disabled by default, and appear like the following;
+**2.** Enable ALL **(no exceptions!)** of the mods located under this separator. All of them will be disabled by default, and appear like the following;
 
 ![survivalmods_1](../../../../survivalmods/survivalmods_1.png)
 

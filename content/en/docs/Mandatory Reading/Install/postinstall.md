@@ -28,13 +28,13 @@ Occasionally, Wabbajack and/or Rootbuilder can place files that were installed b
 
 1. If you did not perform the steps [here](../clean), you MUST do so. If you are knowledgeable, you may be able to remove files from this directory that should not be there and then simply verify your game install. If you do not understand this, PLEASE follow the directions in the link above.
 
-2. In the left pane of Mod Organizer, scroll all the way to the bottom, where you will find an "Overwrite" mod. Double click this.
+2. In the left pane of Mod Organizer, scroll all the way to the bottom, where you will find an "Overwrite" mod. Double click this. Note that this is NOT the **Overwrite Misc** mod, you want to be opening the **Overwrite** option at the absolute bottom of the left pane.
 
 3. If you have not run the game yet, this mod/directory should be *completely* empty. If it is not, *double check* that you have performed Step 1. If you have, simply select all of the files inside of the Overwrite mod, right click them, and delete.
 
-If you are *sure* you have performed Step 1, then those file should not be in the Overwrite again. If you find this is not the case, reach out on our Discord.
+If you are *sure* you have performed Step 1, then those files should not be in the Overwrite again. If you find this is not the case, reach out on our Discord.
 
-The only files/directories that should be in the Overwrite mod after launching the game and playing are as follows;
+The only files/directories that should be in the Overwrite mod **after launching the game and playing** are as follows;
 
 - NetScriptFramework (if you experience a crash, logs go here)
 - KiLoader (If using ENB)

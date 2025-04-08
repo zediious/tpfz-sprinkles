@@ -72,13 +72,13 @@ Keep in mind, that you do have the option of using [Frame Generation Mods](../..
 
 </div>
 
-NOTE: The "Refined - Ultra" profile will NOT run well with a GPU equivelent to a GTX 980
+NOTE: The "Refined - Ultra" profile will NOT run well with a GPU equivalent to a GTX 980
 
 When running this mod list with the default "Refined" profile, my FPS is 60 in 99% of interior spaces, and will dip into ~30-40 in heavy outdoor areas (such as The Rift). When VRAM caps are reached, which occurs often with my hardware, I can experience large stutters momentarily that can bring me down to ~20 FPS.
 
-If you have worse specifications than the below or cannot deal with the performance described above, you can switch to the "Refined - Performance" profile within Mod Organizer 2, to use Community Shaders instead of ENB, and utilize a less intensive DynDOLOD preset.
+If you have worse specifications than the above or cannot deal with the performance described, you can switch to the "Refined - Performance" profile within Mod Organizer 2, utilizing a less intensive DynDOLOD preset. Further, disabling Community Shaders (ALL mods in the COMMUNITY SHADERS separator) will result in the highest performance gains possible.
 
-If I play the list with the "Refined - Performance" profile, nearly all performance issues described in this page are gone. What remains is large stutters momentarily that can bring me down to ~30 FPS, due to VRAM limits being reached. These usually only occur after a long play session, and go away for about 30 minutes at a time.
+If I play the list with the "Refined - Performance" profile, nearly all performance issues described in section are gone. What remains is large stutters momentarily that can bring me down to ~30 FPS, due to VRAM limits being reached. These usually only occur after a long play session, and go away for about 30 minutes at a time.
 
 I also recommend 6GB of VRAM, however as shown above it is possible to run this list with 4GB of VRAM. When doing so, you may be exposed to occasional VRAM related stuttering and FPS drops during extremely heavy moments, or rarely crashes. In my experience, I am able to play 3+ hour long sessions on this list with no crashes, only very rarely do these crashes occur. You will know it is a GPU related crash if your crash logs reference a `nvwgf2umx.dll` (with NVIDIA Graphics Cards).
 

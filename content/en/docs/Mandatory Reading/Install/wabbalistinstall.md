@@ -16,13 +16,13 @@ weight: 3
 
 ## Mod List Installation
 
-1. Open the Wabbajack.exe you placed in C:\Wabbajack, and wait for it to open. Click the left-most button in the main center area labeled **"Browse Mod Lists"**
+1. Open the Wabbajack.exe you placed in C:\Wabbajack, and wait for it to open. Click the **Browse lists** option in the left navigation bar.
 
-2. Check the **"Show Unofficial Lists"** checkbox at the top of the window. Then, search "Aurbaesence", or some amount of the modpack name, in the search box. Hover over the filtered **"Aurbaesence"** mod list, and click the Download button. After that has completed, click the Play button that has replaced the Download button.
+2. Check the **"Non-featured"** checkbox at the top-left of the window. Then, search "Aurbaesence", or some amount of the modpack name, in the search box just above the checkbox. Click on the filtered **"Aurbaesence"** mod list. When the modlist window opens, click the **Install** button at the bottom-left of the window.
 
 3. In the following window, set the Installation Location to C:\Aurbaesence (or wherever you created that directory). The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in. Seriously, this is VERY important. If you are at all confused by this, PLEASE reach out on our Discord!
 
-4. Click Run.
+4. Click **Install** at the bottom-right of the window.
 
 ### With Nexus Premium
 
@@ -34,7 +34,7 @@ weight: 3
 
 5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Put on some music or a TV show and make a day of it.
 
-Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit our Discord server for assistance. **Don’t forget to upload your log file!**  
+Once complete, Wabbajack will say “Installation complete!” at the top of the window, and provide you a button at the bottom-right to **Open File Explorer**. If it does not, visit our Discord server for assistance. **Don’t forget to provide your log file!**
 
 If Wabbajack fails to download a particular mod, it means that the mod has likely been removed from the Nexus for a moderation reason. This also means that an update to the mod list is imminent. Feel free to report the problematic mod on Discord, but **do not ask other people to share older files as this is a violation of the Nexus ToS.**
 

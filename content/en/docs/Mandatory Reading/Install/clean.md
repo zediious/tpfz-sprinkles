@@ -21,7 +21,7 @@ This list also requires you to install the Skyrim Special Edition Creation Kit f
 
 Your Skyrim should be updated to the latest version before installing the list, which the above process will ensure. This list runs on Skyrim 1.5.97, but expects your game installation to be updated to the latest version. Do NOT use any downgrade patchers.
 
-This will also ensure that your Skyrim game folder has been completely cleaned of any non-vanilla files, and does not have the additional Anniversary Edition changes. **This is very important!**
+This will also ensure that your Skyrim game folder has been completely cleaned of any non-vanilla files. **This is very important!**
 
 ### Installing the Creation Kit
 
