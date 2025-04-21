@@ -10,6 +10,14 @@ The way you will perform combat in this mod list is *drastically* different from
 
 The above linked page is *rather long*, and I would suggest you read it after finishing the Mandatory Reading section. You certainly do not have to read it word-for-word, I did my best to describe each mod in as much detail as possible. You will find some entries below related to combat regardless.
 
+## You cannot absorb Dragon Souls or learn Words of Power until the quest "Unbound" is completed
+
+If Helgen is never destroyed/Unbound is never completed, you will not learn Words of Power from Word Walls. You will still see some of the effects when getting near, but will not actually learn the word.
+
+Further, slain Dragons will not relinquish their soul to you until Unbound is completed/Helgen is destroyed. They will remain in the world, and can be absorbed when Unbound is completed.
+
+This serves as a roleplaying gameplay change, while also preventing Words of Power from filling your Shouts menu when you will never be able to use them.
+
 ## When you die, you will resurrect with de-buffs instead of reloading your last save
 
 This mod list uses the mod ["Soul Resurrection - Injury and Alternative Death System"](https://www.nexusmods.com/skyrimspecialedition/mods/128265). This adds a new mechanic on death, where you will be resurrected on the spot, with a set of de-buffs that represent how you were "injured".
