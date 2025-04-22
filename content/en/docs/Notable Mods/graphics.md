@@ -30,7 +30,7 @@ Iterations of NAT have been extremely popular over the years, and the third iter
 
 "This mod is an SKSE plugin remake of Minty's Lightning During Storms mod...It's scalable to allow up to 50 sheet lightnings and 50 fork lightnings per second. It can summon these lightnings on up to 31 cells distance radius. This results in a more natural storm weather experience"
 
-This mod causes lighting bolts and sheet lighting to strike during thunderstorms, as actual entities in the world. You can even take damage from the lightning if it so happens to strike near you! (this will not kill you). Overall, this mod enhances the atmosphere of stormy weather immensely, which is also expanded upon by the already-present [Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/24791) mod.
+This mod causes lighting bolts and sheet lighting to strike during thunderstorms, as actual entities in the world. You can even take damage from the lightning if it so happens to strike near you! (this will not kill you). Overall, this mod enhances the atmosphere of stormy weather immensely.
 
 ## Wonders of Weather Replacements
 
