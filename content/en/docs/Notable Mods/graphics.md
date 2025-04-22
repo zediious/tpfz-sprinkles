@@ -2,7 +2,7 @@
 title: Graphical Improvements
 weight: 1
 ---
-The bulk of the visual changes with this modlist come from Community Shaders. However, many other mods are used to imrpove them.
+The bulk of the visual changes with this modlist come from Community Shaders. However, many other mods are used to improve them.
 
 ENB exists as an option with this list, which can manually be enabled in place of Community Shaders. Silent Horizons 2 is available as a preset, along ith Ominous ENB and an edit of Serio's ENB from Phoenix. Community Shaders is in use by default all profiles.
 
@@ -98,4 +98,6 @@ This addon to Footprints utilizes Spell Perk Item Distributor to distribute the 
 
 "SKSE plugin that adds enb lights to (most)all particle based effect shaders. Supports effect shaders from all mods, no patches or conflict resolving needed."
 
-This mod adds light-emitting ENB visual upgrades to any effect shaders in the game. This allows things such as spells is in your hand to illuminate your surroundings. This mod is also used alongside a very wide variety of mods that adds similar ENB light to other things that would not have gotten them under this mod. Overall, these mods add a very large immersion boost to the game, allowing most things that should emit to light to do so.
+This mod adds light-emitting ENB visual upgrades to any effect shaders in the game. This allows things such as spells is in your hand to illuminate your surroundings. This mod is also used alongside a very wide variety of mods that adds similar ENB light to other things that would not have gotten them under this mod. These effects are also applied when using Community Shaders
+
+Overall, these mods add a very large immersion boost to the game, allowing most things that should emit to light to do so.
