@@ -52,29 +52,51 @@ This mod causes you to walk slower and slower, the deeper you get into water bef
 
 To put it simply, OWL will stop Skyrim from distributing very high-level loot to most enemies, even if you are a very high level yourself. This creates a much more believable world, where you will only rarely find very high value weapons. As part of the tweaks this mod list contains, we have added an IMMENSE amount of new weapons and armor to all the leveled lists in the game, so the "weaker" equipment you will find on most enemies will be of a very large variety!
 
-## Take a Peek - New Stealth Mechanic
+## [Molag's Will - Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58621)
 
-## Custom Skills - VIGILANT (Put in new content w/ VIGILANT)
+Molag's Will introduces a comprehensive skill tree for vampires, featuring 15 unique perks that become accessible as players embrace their vampiric nature. By feeding, aging, and defeating foes, vampires unlock powerful abilities, enhancing the vampire gameplay experience.
 
-## Different Casting Time (maybe belongs in combat)
+## [Custom Skills - VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/45026)
 
-## Molag's Will - Vampire Overhaul
+An add-on for the VIGILANT quest mod, this introduces a dedicated perk tree for the Vigilants of Stendarr faction. Players can acquire perks effective against undead, ghosts, vampires, and Daedra, enriching role-playing opportunities for those aligned against the aforementioned.
 
-## Dragon War
+## [Different Casting Time](https://www.nexusmods.com/skyrimspecialedition/mods/73514)
 
-## The Dragonborn's Bestiary
+This mod adjusts spellcasting speeds based on the player's proficiency in the respective magical school. Novice mages experience slower casting times, reflecting their inexperience, while seasoned mages benefit from quicker spell execution. This system adds depth to magical combat, rewarding players for developing their skills.
+
+## [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
+
+This overhaul enhances dragon encounters by improving their AI, introducing unpredictable combat behaviors, and adding new shouts. Dragons become more formidable and less predictable, providing a challenging and immersive experience for players.
+
+## [The Dragonborn's Bestiary](https://www.nexusmods.com/skyrimspecialedition/mods/123521)
+
+This mod adds a custom menu that allows players to collect information about the creatures they encounter, detailing their strengths and weaknesses. The base mod covers an immense amount of creatures, including those from the base game, Dawnguard, Dragonborn DLCs, and a variety of mods. Further, work has been done with this modlist to ensure all creatures one will encounter has a bestiary entry. This feature encourages exploration and provides valuable insights into Skyrim's diverse fauna.
 
 ## Dealing with Backstories
 
+Enhancing character creation, this mod enables players to define their character's backstory, including aspects like genetics, familial religious beliefs, childhood activities, and adolescent interests. Choices made will have tangible impacts on your character build. This mod has been heavily integrated into this modlist, with the backtory creation being initiated after leaving the Alternate Perspective starting room. This mod adds depth to role-playing by establishing a character's history and motivations, and allows you to further refine your character's build.
+
 ## Set of Skills - A Skyrim Class Mod
+
+Introducing 47 distinct classes without altering existing skill trees, this mod offers extensive compatibility and customization. You'll be able to choose a class that aligns with your envisioned playstyle, adding depth and replayability to character development. ​The skills from this mod have been added as four Custom Perk trees, accessible from the Tween menu.
 
 ## Immersive Spell Learning - DESTified
 
+This mod transforms spell acquisition by requiring players to study spell tomes over time, rather than instantly learning spells. This approach adds realism and immersion to the magical learning process, making spell mastery a more deliberate endeavor. ​
+
 ## Stress and Fear
+
+Implementing a dynamic sanity system, this mod causes characters to develop stress and fears based on combat experiences. These psychological effects influence gameplay, creating personalized narratives. It also introduces a level of realism to combat, as your character may become extremely hindered after an extremely stressful situation.
 
 ## EVG Traversal + SkyClimb
 
+SkyClimb (powered by EVG Traversal) allows players to perform actions like climbing ledges, scaling walls, and vaulting over obstacles. These additions enhance exploration and movement, making the environment more interactive and accessible.
+
 ## Realistic AI Detection
+
+## [Take a Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908)
+
+This mod introduces a unique stealth ability, allowing players to peer through keyholes to observe the area beyond doors without entering. NPCs may react to this behavior with specific dialogue, enhancing immersion. This feature helps you ensure you won't be walking into mayhem!
 
 ## Book of Shadows
 
