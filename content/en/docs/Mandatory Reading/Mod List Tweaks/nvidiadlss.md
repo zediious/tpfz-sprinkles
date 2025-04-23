@@ -1,6 +1,6 @@
 ---
 title: NVIDIA "DLSS" - Optional Feature
-weight: 5
+weight: 6
 ---
 
 This modlist offers an optional Frame Generation features for both Community Shaders and ENB, if you choose to use it. This can allow you to get quite a boosted framerate.

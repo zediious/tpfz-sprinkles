@@ -1,6 +1,6 @@
 ---
 title: Controller Setup - Optional Feature
-weight: 6
+weight: 7
 ---
 
 With this mod list, you are able to use a controller and access nearly all of the required keybinds through the use of a few optional mods. You shouldn't have any issues performing this process on existing saves.
