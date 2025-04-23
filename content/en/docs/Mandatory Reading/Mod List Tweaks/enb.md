@@ -15,11 +15,9 @@ If you do decide you wish to switch to ENB, this modlist does provide multiple o
 
 1. Scroll to the very top of the left pane of Mod Organizer, and select all of the mods within the **COMMUNITY SHADERS** separator.
 
-2. Click on the **Filter** search bar at the bottom-center of Mod Organizer, and search for **CS Particle Patch**. Disable this mod. DO NOT disable the "Skyrim Particle Patch" mod, this must always remain enabled.
+2. Scroll all the way to the bottom of Mod Organizer's left pane. Double click the **Overwrite** "mod" at the absolute bottom.
 
-3. Clear your search filter, and scroll all the way to the bottom of Mod Organizer's left pane. Double click the **Overwrite** "mod" at the absolute bottom.
-
-4. Highlight the **ShaderCache** directory, and delete it. Ensure that it is no longer in the list of files within Overwrite.
+3. Highlight the **ShaderCache** directory, and delete it. Ensure that it is no longer in the list of files within Overwrite.
 
 With the above steps, Community Shaders is disabled. To enable ENB, follow the below steps.
 
