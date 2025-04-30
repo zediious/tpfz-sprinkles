@@ -14,13 +14,13 @@ Always remember that the list was *not* created around these, and they do not cr
 
 **2.** Enable ALL **(no exceptions!)** of the mods located under this separator. All of them will be disabled by default, and appear like the following;
 
-![survivalmods_1](../../../../survivalmods/survivalmods_1.png)
+![survivalmods_1](../../../../../survivalmods/survivalmods_1.png)
 
 Read the notes by hovering over the Notepad on each mod, to see any extra information.
 
 **3.** Make sure the enabled plugins (all of them are below **Occlusion.esp**) follow the order in the following image. Campfire.esm will have automatically jumped to the top of the load order. You can leave it where it landed.
 
-![survivalmods_2](../../../../survivalmods/survivalmods_2.png)
+![survivalmods_2](../../../../../survivalmods/survivalmods_2.png)
 
 When you load a new game, the MCM for SunHelm will be automatically configured, and the mod enabled. However, the MCM for SunHelm will not update until you open the MCM menu at least once. After you have loaded into the game and your notification messages have ceased, open the Mod Configuration Menu, open the SunHelm MCM, and close it.
 
