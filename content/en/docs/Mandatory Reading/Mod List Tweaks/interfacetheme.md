@@ -34,4 +34,4 @@ Follow the below steps to disable the default Dark Mode UI and enable the Paper 
 
 Keep in mind that the main menu will always use the Paper version of the UI via the "Dear Diary Main Menu" mod. Do NOT disable this mod. You do not need to worry about the plugin load order for any of these mods.
 
-## [NEXT >> Enabling Extra Survival Mods](../survivalmods)
+## [NEXT >> Immersive Interactions for Quick Loot](../quicklootinteractions)

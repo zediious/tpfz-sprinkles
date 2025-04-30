@@ -1,6 +1,6 @@
 ---
-title: Switching to ENB
-weight: 5
+title: ENB
+weight: 2
 ---
 
 This modlist uses Community Shaders by default. This suite of mods provides an extremely modern look to the game, while delivering a smaller performance hit than ENB. Previously, this modlist used ENB as a default, however the switch was made to CS recently.
@@ -25,6 +25,10 @@ With the above steps, Community Shaders is disabled. To enable ENB, follow the b
 
 All of the mods in the **ENB (OPTIONAL)** separator have notes attached to them, which can be viewed by hovering over the notepad icon associated with that mod. These notes further reiterate what is on this page, but also contain more information. Be sure to read these!
 
+**NOTE:** In version 1.1 of the modlist, the **KiLoader for Skyrim** was not included in the compiled list in error. You will need to download this mod to the list. Use the below link to download the mod, and place it directly below the **ENBSeries Core** mod before continuing.
+
+[https://www.nexusmods.com/skyrimspecialedition/mods/99404?tab=files&file_id=491966](https://www.nexusmods.com/skyrimspecialedition/mods/99404?tab=files&file_id=491966)
+
 1. Scroll to very top of the left pane of Mod ORganizer, and expand the collapsed-by-default **ENB (OPTIONAL)** separator, underneath Community Shaders.
 
 2. Enable the **ENBSeries Core** mod. This must always be enabled when using ENB.
@@ -33,4 +37,4 @@ All of the mods in the **ENB (OPTIONAL)** separator have notes attached to them,
 
 The other two presets do not require anything except for **ENBSeries Core** to be enabled. Ensure that you only have one preset enabled at a time.
 
-## [NEXT >> NVIDIA "DLSS" - Optional Feature](../../mod-list-tweaks/nvidiadlss)
+## [NEXT >> Frame Generation - Optional Feature](../nvidiadlss)

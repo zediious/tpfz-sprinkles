@@ -1,6 +1,6 @@
 ---
-title: Controller Setup - Optional Feature
-weight: 7
+title: Controller Setup
+weight: 4
 ---
 
 With this mod list, you are able to use a controller and access nearly all of the required keybinds through the use of a few optional mods. You shouldn't have any issues performing this process on existing saves.
@@ -39,4 +39,4 @@ If you wish to move back to the keyboard primarily, you must follow the below st
 
 This will return the keybinds to their original state.
 
-## [NEXT >> Gameplay Guide - Defining your Character](../../gameplay-guide/characterdefine)
+## [NEXT >> Gameplay Guide - Defining your Character](../../../gameplay-guide/characterdefine)

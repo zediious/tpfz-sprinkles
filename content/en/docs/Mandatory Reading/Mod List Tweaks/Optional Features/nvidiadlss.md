@@ -1,6 +1,6 @@
 ---
-title: NVIDIA "DLSS" - Optional Feature
-weight: 6
+title: Frame Generation Mods
+weight: 3
 ---
 
 This modlist offers an optional Frame Generation features for both Community Shaders and ENB, if you choose to use it. This can allow you to get quite a boosted framerate.
@@ -15,4 +15,4 @@ However, **using it REQUIRES that your graphics card supports DirectX 12/DX12, o
 
 If you do not have a graphics card that supports **DirectX12 / DX12**, DO NOT use any of the above instructions!
 
-## [NEXT >> Controller Setup - Optional Feature ](../../mod-list-tweaks/controller)
+## [NEXT >> Controller Setup - Optional Feature ](../controller)
