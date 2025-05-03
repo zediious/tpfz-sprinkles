@@ -13,6 +13,55 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.1.1 - **5/2/2025**
+
+This version is **SAVE SAFE!** You should have no issues playing this version with saves created in version 1.1.
+
+This small update introduces Skyrim Motion Control once more! We have added and removed this mod twice previously due to very reproducible freezing while running, in combination with other mods in the list. Having tested with this mod for close to a month over many hours of gameplay, **I have found that these freezes no longer occur**. This mod makes you think about movement much more, and makes your character's movement speed much more grounded and natural. Many of the settings from this mod will be tweaked over time.
+
+We've also disabled Quick Loading with hotkey. Loading saves in game is **highly discouraged**, and this will prevent doing so on accident.
+
+This follows with a few fixes that need to be addressed quickly.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Removed
+
+- New Creature Animation - Dwarven Centurion (Hopefully temporary, part of fixing [#135](https://github.com/zediious/aurbaesence/issues/135))
+
+### Added
+
+- Quick Load Disabler
+- Capital Windhelm Expansion - Marketplace Tunnel Gap Fix
+- Skyrim Motion Control (S.M.C)
+
+### Updated
+
+- ZedPatch - Survival Mods - 1.0-pre1 > 1.1.1
+- Sunhelm MCM Recorder > Survival Mod MCM Recorder Presets - 1.0-pre1 > 1.1.1
+- Dylbills Papyrus Functions - 8.8 > 9.2
+- Overwrite Misc - 1.1 > 1.1.1
+- MCM Recorder - Controller Keybinds - 1.1 > 1.1.1
+
+### Fixes
+
+- Prevent freeze when encountering Amalgum during the Clockwork Questline (Fix [#135](https://github.com/zediious/aurbaesence/issues/135))
+- Changed Sunhelm MCM Recorder preset name to properly merge with changed Aurbaesence MCM Recorder preset.
+- Remove MCM changes in Animated Inebriation that do not exist/are incompatible with Sunhelm.
+- Corrected lean idle markers in Windhelm, to prevent NPCs leaning on air in a few places.
+- Corrected gaps in the tunnel leading to market in Windhelm.
+
+### Tweaks
+
+- Add a controller binding for switching shoulder view and quickly dismounting horses (Hold D-PAD Down)
+- Disable Relationship Change Notifications configuration power on a new game.
+
+</details>
+
 ## v1.1 - **4/5/2025**
 
 This version is **SAVE UN-SAFE!** You should not use existing saves with this version, or you risk causing issues with them.
