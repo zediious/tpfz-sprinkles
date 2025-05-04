@@ -99,6 +99,7 @@ Along with the above, this version introduces a few new mods, including new Alte
 - Fix Nodachi using dual-wield katana animations (Fix [#136](https://github.com/zediious/aurbaesence/issues/136))
 - Raise Man those Borders! border gate for Falkreath and The Rift, the allow passing with a horse.
 - Changed "Craft Item" button for controllers to "Press Left Stick", to prevent soft incompatibility with Menu Zoom.
+- Fixed Bedlam jobs occasionally selecting a specific building, preventing completion.
 - Corrected location from previous version of mod on specific cell records.
 - Fix the "My Guild Jobs Log" never updating when jobs were completed.
 
