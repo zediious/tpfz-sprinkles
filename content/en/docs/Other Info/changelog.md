@@ -1,6 +1,7 @@
 ---
 title: Changelog
 icon: fa-solid fa-scroll
+hide_readingtime: true
 weight: 1
 ---
 Changelogs of this fashion were not written before compiling to Wabbajack in early 2023. The modlist has undergone a very large number of changes over the years before the earliest changelog entries.
