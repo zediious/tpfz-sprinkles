@@ -13,6 +13,102 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.1.2 - **5/4/2024**
+
+This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1.
+
+This version comes with many mod updates, one of which is SkyParkour V2. This version no longer depends on SkyClimb, and allows for **mid-air ledge grabs!** The mod is also much more responsive than before, which is incredible given how well it worked previously.
+
+We are also re-introducing "New Creature Animation - Dwarven Centurion", as the 2.0 update for SCAR resolves freezing issues with the Clockwork Amalgam. **This fix extends to more animation related freezes and crashes that could have potentially been occurring.**
+
+Along with the above, this version introduces a few new mods, including new Alternate Start choices, as well as a few necessary fixes and tweaks.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Removed
+
+- SkyClimb (No longer a requirement for SkyParkour)
+
+### Added
+
+- Dragonactorscript Infinite Loop Fix
+- FYX - Alpha Blood Blending Bug - NG
+- Logical Rope Bridges - Suspension of Spans
+- Follower Dialogue Expansion - Sapphire
+- Triple Triad in Skyrim - Auto Give Game Board
+- Adventurer's Start - An Alternate Perspective Addon
+- Hircine Revoiced
+- Peryite Revoiced
+- Arch-Curate Vyrthur Revoiced
+- Lu'ah Al-Skaven Enhanced Voice
+- Sprint Stuttering Fix
+- Draw Fix - Move Equip Animation Fix
+- New Creature Animation - Dwarven Centurion (SCAR update fixes issue with Amalgum)
+
+### Updated
+
+- Community Shaders - 1.2 > 1.2.1
+- Screen Space Global Illumination - 3.0.4 > 3.0.5
+- Subsurface Scattering - 2.0.1 > 2.0.2
+- Skyrim Particle Patch - 1.3.5 > 1.3.8
+- Assorted Mesh Fixes - 0.126 > 0.127
+- Dialogue History - 2.0.1 > 2.1.2
+- Better Third Person Selection - 0.8.1 > 0.8.3
+- Subtitles - 0.6.1 > 0.6.2
+- NAT III - Community Shaders - 1.1.3 > 1.5
+- Whiterun Objects SMIMed - Dragonsreach Stairs - 0.3 > 0.4
+- Random Barrel Roll - Base Object Swapper - 0.1 > 0.1.1
+- Stealth Detection Fixes - 1.1 > 2.1
+- Simplicity of Seeding - 0.6.3 > 0.6.4
+- Appropriately Attired Housecarls - 1.1 > 2.0
+- Crowded Streets - 1.1.1 > 1.1.2
+- Follower Dialogue Expansion - Aela the Huntress - 5.0 > 6.0
+- Follower Dialogue Expansion - Erik the Slayer - 2.0.1 > 2.0.1.1
+- Thieves Guild Requirements - Localized Guild Jobs Patch - 1.1 > 1.1.2
+- College of Winterhold - Quest Expansion- 1.15 > 1.16
+- The Heart of Dibella - Quest Expansion - 1.05 > 1.07
+- Soul Resurrection - Injury and Alternative Death System - 1.1.3 > 1.1.4
+- Simply Order Summons > 0.12 > 0.12.1
+- PhotoMode - 1.8 > 1.9.1
+- The Breathing Abyss - 1.0.6 > 1.0.7
+- Calling the Watchmaker - Lovecraftian Inspired Quest - 1.0.2 > 1.0.3
+- Final Farewell - 1.0.3 > 1.0.4
+- No Dragonborn Until Unbound - 1.0 > 1.1
+- Potema Revoiced - 1.0 > 1.01
+- SkyParkour - A SkyClimb Addon - 1.4.3 > 2.0.3
+- New Creature Animation - Giant - 1.0 > 2.01
+- Fishermen Fish - 1.3 > 1.4
+- Immersive Fishing - 1.3 > 1.4.1
+- Andrealphus' Papyrus Functions - 1.4.4 > 1.5.2
+- SkyPatcher - 3.7.2 > 3.10.0
+- SCAR - Skyrim Combos AI Revolution - 1.0.6b > 2.01
+- ZedPatch - 1.1 > 1.1.2
+- ZedPatch2 - 1.1 > 1.1.2
+- ZedPatch3 - 1.1 > 1.1.2
+- Synthesis Output - 1.1 > 1.1.2
+- Occlusion Output - 1.1 > 1.1.2
+- Nemesis Output - 1.0-pre1 > 1.1.2
+- Overwrite Misc - 1.1.1 > 1.1.2
+
+### Fixes
+
+- Fix Nodachi using dual-wield katana animations (Fix [#136](https://github.com/zediious/aurbaesence/issues/136))
+- Raise Man those Borders! border gate for Falkreath and The Rift, the allow passing with a horse.
+- Changed "Craft Item" button for controllers to "Press Left Stick", to prevent soft incompatibility with Menu Zoom.
+- Corrected location from previous version of mod on specific cell records.
+- Fix the "My Guild Jobs Log" never updating when jobs were completed.
+
+### Tweaks
+
+- Triple Triad game board is now given automatically on a new game, can still be bought from General Stores.
+  - All picked up Triple Triad cards are placed in a virtual chest accessed by clicking this item in your inventory.
+
+</details>
+
 ## v1.1.1 - **5/2/2025**
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created in version 1.1.
