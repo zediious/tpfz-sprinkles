@@ -63,6 +63,8 @@ Wabbajack does not require that you have Nexus Premium to install the modlist, h
 
 When launching the game through Mod Organizer, **NEVER** click the "Unlock" button on the small window that Mod Organizer creates. This **WILL** cause issues! You will be reminded of this in the Post-Mod List Install section of the wiki.
 
+**DO NOT** load a save from the menu while in game, after you have already loaded into a save. This is **highly discouraged, and WILL cause issues!** Skyrim has an engine issue with not clearing game state fully on save loads, which can cause crashes, save corruption in certain instances, or benign issues. [Check this comment for a more in-depth breakdown](https://www.reddit.com/r/skyrimmods/comments/17h3h2o/comment/k6lnsew/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). This can lead to certain events not triggering properly a second time, if a quest ending is done twice, NPCs not being present, and a wide variety of issues from benign to game-breaking. We use a death alternative mod to get around this on death, **but you should never do so manually** without first **fully closing the game.**
+
 This list **requires** that you have the **latest** version of Skyrim installed on Steam. Do **NOT** use any downgrade patchers, Wabbajack will do this work for you.
 
 This list **does NOT support** any additional Creation Club content beyond the four defaults provided with the base game (Fishing, Saints and Seducers, Survival Mode, Rare Curios). Any additional content will be disabled with no action required on your part. To be clear, you CAN still install this mod list if you have the Anniversary content, but it will not be usable/will be disabled in the list's default state.
