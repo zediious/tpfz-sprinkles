@@ -169,9 +169,15 @@ When you Fast Travel, you will be charged Gold! The amount is dictated by how fa
 
 ## Climb any ledge that you could reasonably climb, or jump over any wall you could vault over
 
-When you walk up to a ledge that your character could reasonably climb, you will see a *glowing green orb* appear at the ledge. Press your Jump key (ALT by default), to initiate a climbing animation! This is very Assassins Creed-style, allowing to to scale just about anything! The same thing will occur when you walk up to a low wall/fence that your character could vault over.
+When you walk up to a ledge that your character could reasonably climb, you will see a *glowing white orb* appear at the ledge. Press your Jump key (ALT by default), to initiate a climbing animation! This is very Assassins Creed-style, allowing to to scale just about anything! The same thing will occur when you walk up to a low wall/fence that your character could vault over.
 
-Throughout the world, you may also find *glowing white orbs*. These are pre-placed traversal points, and can allow you to climb up a larger ledge, climb a ladder, or any number of things. Keep an eye out for them!
+If you keep holding JUMP, you'll enter "parkour" mode, where your character will continously climb or vault over any available objects in the camera direction.
+
+Throughout the world, you may also find *brighter glowing white orbs*. These are pre-placed traversal points, and can allow you to climb up a larger ledge, climb a ladder, or any number of things. Keep an eye out for them!
+
+## Grab a ledge mid-air
+
+If you hold JUMP while landing near a ledge, your character will grab the ledge mid-air, and pull themselves up!
 
 ## Crouching will adjust your collision
 
