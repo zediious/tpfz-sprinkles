@@ -14,6 +14,50 @@ Basic conflict resolution when adding a mod is generally not included here, ever
 
 To view the full patch notes for a version, click the **Detailed Changelog** option below the version notes.
 
+## v1.1.3 - **5/11/2025**
+
+This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1.
+
+<details>
+
+**<summary>Detailed Changelog</summary>**
+
+<br>
+
+### Added
+
+- Wheeler - CheckWheelerOpen Function
+- Miscellaneous Quests are Favors
+- Pieces of the Past Alternate Ending
+- Khajiit Will Follow - Makara Becomes Healthy
+- Before the End
+- DMCO Dodge Framework - Skyrim Souls and Wheeler Patch
+
+### Updated
+
+- RUGNAROK 2K - 1.1 > 1.1.1
+- Interesting NPCs - Quest Requirement Tweaks - 1.2.1 > 1.3
+- Khajiit will Follow - 4.7.1 > 4.7.3
+- ZedPatch - 1.1.2 > 1.1.3
+- ZedPatch2 - 1.1.2 > 1.1.3
+- Weapon and Armor Balance - 1.1 > 1.1.3
+- Synthesis Output - 1.1.2 > 1.1.3
+- Overwrite Misc - 1.1.2 > 1.1.3
+- MCM Recorder - Keyboard Keybinds - 1.1.2 > 1.1.3
+- MCM Recorder - Controller Keybinds - 1.1.2 > 1.1.3
+
+### Fixes
+
+- Corrected keybind conflict with Horse Whistle and Object Manipulation Overhaul, whistle changed to `? /`. Fixed for controller as well, however horse whistle is still double-tap DPAD DOWN.
+- Ma'Kara from Khajiit Will Follow will now stop grabbing her head in pain once her quest is completed.
+- Expand triggerbox around The Braidwood Inn for 3DNPC "A Rose Without Thorns" quest.
+- Corrected world hole on the north side of the Jarl's Palace in Falkreath. [Fix #137](https://github.com/zediious/aurbaesence/issues/137)
+- Preventing dodging in menus and Wheeler, was a problem while using a controller.
+- Removed lamp post in front of the door to Granite Hill
+- Corrected wrong name on a pair of gauntlets
+
+</details>
+
 ## v1.1.2 - **5/4/2025**
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1.

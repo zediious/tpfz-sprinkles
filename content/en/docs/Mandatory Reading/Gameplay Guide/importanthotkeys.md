@@ -258,6 +258,10 @@ Equip items to your right or left hand from the Wheel Menu with Left Click and R
 - Toggle trot/walk, changing the speed of the horse independently from CAPSLK
 - This can be changed in the Immersive Horses MCM
 
+### FORWARD SLASH / 
+
+- Whistle for your horse
+
 ## Misc
 
 ### PERIOD
