@@ -18,6 +18,10 @@ To view the full patch notes for a version, click the **Detailed Changelog** opt
 
 This version is **SAVE SAFE!** You should have no issues playing this version with saves created post version 1.1.
 
+This version's main addition is preventing dodging while you are in menus, including Wheeler's Wheel Menu. This was mainly an issue with controllers, however the fix also applies to keyboard.
+
+This version also introduces a few fixes to move things along, as well as some new additions in the quest department!
+
 <details>
 
 **<summary>Detailed Changelog</summary>**
